@@ -56,7 +56,7 @@ This example shows one correction.
   documents.
 
 **Correction specification:**
-* ``class`` - The type of the error, should be one of the classes defined in ``https://github.com/proycon/folia/blob/master/setdefinitions/spellingcorrection.foliaset.xml`` (use the IDs, not the labels!). These are case sensitive.
+* ``class`` - The type of the error; should be one of the classes defined in [our set definition](https://github.com/proycon/folia/blob/master/setdefinitions/spellingcorrection.foliaset.xml) (use the IDs, not the labels!). These are case sensitive.
 * ``span`` - A list of word IDs to which this correction applies.
 * ``text`` - The text of the correction, i.e. the new word(s). This text may be an empty string in case of a deletion
   (e.g. redundant word/punctuation), or may consist of multiple space separated words in case of a run-on
