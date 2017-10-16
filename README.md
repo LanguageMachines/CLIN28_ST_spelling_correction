@@ -1,14 +1,10 @@
-CLIN 2018 Shared Task: Spelling Correction
-=============================================
+# CLIN 2018 Shared Task: Spelling Correction
 
-Introduction
--------------
+## Introduction
 
 TODO: Add instructions
 
-
-Data format
----------------
+## Data format
 
 We deliver the trial set, the test set, and eventually the gold-standard reference in two formats: [FoLiA
 XML](https://proycon.github.io/folia) and a JSON format. This JSON representation is automatically derived from the
@@ -25,8 +21,7 @@ All data will be delivered to you in tokenised form. Tokenisation has been condu
 special facilities for merges, splits, insertions and deletions of tokens, as may naturally arise in spelling
 correction.
 
-JSON
-~~~~~~~
+### JSON
 
 Familiarity with JSON is assumed; we will merely state the specifics of our representation. At the root level, we have
 ``words`` and ``corrections``. Words contains a list of all words/tokens along with their ID and some other information.
@@ -72,8 +67,7 @@ This example shows one correction.
 
 Note that all JSON for this task should be UTF-8 encoded.
 
-FoLiA
-~~~~~~~
+### FoLiA
 
 The JSON option is the simpler and sufficient option for this task. But if you want to leverage the full
 information available in the input document, you can fall back to use the original FoLiA input.
