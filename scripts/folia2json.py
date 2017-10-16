@@ -22,9 +22,15 @@ def folia2json(doc, docorrections=True):
                 span = []
                 for newword in correction.original().select(folia.Word,ignore=False):
                     span.append(newword.id)
+                if not span:
+                    #we have an insertion
+                    previous = correction.previous(folia.Word).id
             else:
                 span = [correction.parent.id]
-            corrections.append({'class': correction.cls, 'span': [correction.parent.id],'text':correction.text() })
+            if span:
+                corrections.append({'class': correction.cls, 'span': [correction.parent.id],'text':correction.text() })
+            else:
+                corrections.append({'class': correction.cls, 'after': previous,'text':correction.text() })
     return {'words':words, 'corrections': corrections}
 
 def main():
