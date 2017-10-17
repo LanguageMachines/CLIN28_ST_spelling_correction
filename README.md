@@ -2,7 +2,15 @@
 
 ## Introduction
 
-TODO: Add instructions
+This repository harbors the scripts for handling the data that is part of the CLIN28 shared task on spelling correction. Automatic spell checking and correction has been subject of research for decades. Although state of the art spell checkers perform reasonably well for everyday-life applications, reaching high accuracy remains to be a challenging task. This shared task focuses on the detection and correction of spelling errors in Dutch Wikipedia texts. Wikipedia articles aim to be standard-Dutch texts, which may contain jargon. In particular, this task addresses the detection and correction of the following types of spelling errors:
+
+* non-word errors
+* real-word confusions
+* split and concatenation errors
+* missing words
+* redundant words
+* capitalization errors
+* archaic spelling
 
 ## Data format
 
