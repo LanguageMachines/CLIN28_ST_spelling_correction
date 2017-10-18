@@ -6,12 +6,12 @@ This repository harbors the scripts for handling the data that is part of the CL
 
 Automatic spell checking and correction has been subject of research for decades. Although state of the art spell checkers perform reasonably well for everyday-life applications, reaching high accuracy remains to be a challenging task. This shared task focuses on the detection and correction of spelling errors in Dutch Wikipedia texts. Wikipedia articles aim to be standard-Dutch texts, which may contain jargon. In particular, this task addresses the detection and correction of the following types of spelling errors:
 
-•	real-word confusions, word is confused with a near neighbor (confusion with non-native spelling, homophony, grammatical errors, et cetera):
- ◦	ik wordt → ik word
- ◦	stijl → steil
- ◦	hobbies → hobby’s
- ◦	me → mijn
- ◦	als → dan
+* real-word confusions, word is confused with a near neighbor (confusion with non-native spelling, homophony, grammatical errors, et cetera):
+ * ik wordt → ik word
+ * stijl → steil
+ * hobbies → hobby’s
+ * me → mijn
+ * als → dan
 •	split errors, compound words which are incorrectly separated:
  ◦	beleids medewerker → beleidsmedewerker
  ◦	lang durig → langdurig
