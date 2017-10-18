@@ -2,13 +2,51 @@
 
 ## Introduction
 
-This repository harbors the scripts for handling the data that is part of the CLIN28 shared task on spelling correction. 
+This repository harbors the scripts for handling the data that is part of the CLIN28 shared task on spelling correction.
 
 Automatic spell checking and correction has been subject of research for decades. Although state of the art spell checkers perform reasonably well for everyday-life applications, reaching high accuracy remains to be a challenging task. This shared task focuses on the detection and correction of spelling errors in Dutch Wikipedia texts. Wikipedia articles aim to be standard-Dutch texts, which may contain jargon. In particular, this task addresses the detection and correction of the types of spelling errors listed below:
 
+## Errors to detect and correct
+
+* **real-word confusions** (``confusion``), word is confused with a near neighbor (confusion with non-native spelling, homophony, grammatical errors, et cetera):
+  * ik wordt → ik word
+  * stijl → steil
+  * hobbies → hobby’s
+  * me → mijn
+  * als → dan
+* **split errors** (``spliterror``), compound words which are incorrectly separated:
+  * beleids medewerker → beleidsmedewerker
+  * lang durig → langdurig
+* **runon errors** (``runonerror``), incorrect concatenation of words:
+  * etcetera → et cetera
+  * zeidat → zei dat
+* **missing words** (``missingword``), sentence is ungrammatical due to missing elements:
+  * samen met vrouw die → samen met de vrouw die
+* **redundant words** (``redundantword``), sentence is ungrammatical due to redundant elements:
+  * door doordat → doordat
+* **missing punctuation** (``missingpunctuation``), missing diacritical symbols and hyphenation marks (other cases of missing punctuation are excluded from the task):
+  * een en ander → één en ander
+  * financiele → financiële
+  * autoongeluk → auto-ongeluk
+* **redundant punctuation** (``redundantpunctuation``), redundant diacritical symbols and hyphenation marks (other cases of redundant punctuation are excluded from the task):
+  * co-assistent → coassistent
+* **capitalisation errors** (``capitalizationerror``), incorrect use of capital letters:
+  * Joodse → joodse
+  * Minister van Onderwijs → minister van Onderwijs
+  * amstelveen → Amstelveen
+* **archaic spelling** (``archaic``), outdated spelling:
+  *	aktie → actie
+  * paardebloem → paardenbloem
+* **non-word errors** (``nonworderror``), words that do not exist in Dutch:
+  * voek → boek
+  * assrtief → assertief
+
+In parentheses are the class IDs for the error categories, this is how they should always be referred to in the data,
+this is in line with [this FoLiA Set Definition](https://github.com/proycon/folia/blob/master/setdefinitions/spellingcorrection.foliaset.xml).
+
 ## Data
 
-We initially deliver three annotated documents for validation purposes. A validation set consisting of 50 Wikipedia articles will follow before the end of October. The documents may contain zero, one, or more spelling errors. The validation set contains all of the spelling error categories listed below. In December, a full test set will be published in the same format. 
+We initially deliver three annotated documents for validation purposes. A validation set consisting of 50 Wikipedia articles will follow before the end of October. The documents may contain zero, one, or more spelling errors. The validation set contains all of the spelling error categories listed below. In December, a full test set will be published in the same format.
 
 ### Data format
 
@@ -88,9 +126,9 @@ The FoLiA documents may also act as a source for further linguistic enrichment u
 
 ## Evaluation
 
-Detection and correction of spelling errors in the (to be released) test documents are evaluated separately, in terms of precision, recall and F-score. The script for automatic evaluation of the submissions will be published as soon as possible in this repository. 
+Detection and correction of spelling errors in the (to be released) test documents are evaluated separately, in terms of precision, recall and F-score. The script for automatic evaluation of the submissions will be published as soon as possible in this repository.
 
-## Important dates 
+## Important dates
 
 * 31 October 2017: full validation data set and Valkuil demonstration online
 * 1 December: test data online
@@ -98,37 +136,3 @@ Detection and correction of spelling errors in the (to be released) test documen
 * 8 January 2018: feedback to submissions
 * 26 January 2018: presenting the results at the CLIN conference
 
-## Errors to detect and correct
-
-* ``real-word confusions``, word is confused with a near neighbor (confusion with non-native spelling, homophony, grammatical errors, et cetera):
-  * ik wordt → ik word
-  * stijl → steil
-  * hobbies → hobby’s 
-  * me → mijn
-  * als → dan
-* ``split errors``, compound words which are incorrectly separated:
-  * beleids medewerker → beleidsmedewerker
-  * lang durig → langdurig
-* ``runon errors``, incorrect concatenation of words:
-  * etcetera → et cetera
-  * zeidat → zei dat
-* ``missing words``, sentence is ungrammatical due to missing elements:
-  * samen met vrouw die → samen met de vrouw die
-* ``redundant words``, sentence is ungrammatical due to redundant elements: 
-  * door doordat → doordat
-* ``missing punctuation``, missing diacritical symbols and hyphenation marks (other cases of missing punctuation are excluded from the task):
-  * een en ander → één en ander
-  * financiele → financiële
-  * autoongeluk → auto-ongeluk
-* ``redundant punctuation``, redundant diacritical symbols and hyphenation marks (other cases of redundant punctuation are excluded from the task):
-  * co-assistent → coassistent
-* ``capitalisation errors``, incorrect use of capital letters:
-  * Joodse → joodse
-  * Minister van Onderwijs → minister van Onderwijs
-  * amstelveen → Amstelveen
-* ``archaic spelling``, outdated spelling:
-  *	aktie → actie
-  * paardebloem → paardenbloem
-* ``non-word errors``, words that do not exist in Dutch:
-  * voek → boek
-  * assrtief → assertief
