@@ -8,6 +8,8 @@ Automatic spell checking and correction has been subject of research for decades
 
 ## Data
 
+We initially deliver one annotated document for validation purposes. A validation set consisting of 50 Wikipedia articles will follow before the end of October. The documents may contain zero, one or more spelling errors. The validation set contains all of the spelling error categories listed below. In December, a full test set will be published in the same format. 
+
 ### Data format
 
 We deliver the trial set, the test set, and eventually the gold-standard reference in two formats: [FoLiA
