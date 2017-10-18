@@ -88,7 +88,7 @@ The FoLiA documents may also act as a source for further linguistic enrichment u
 
 ## Evaluation
 
-Detection and correction of spelling errors in the (to be released) test documents are evaluated separately, in terms of precision, recall and F-score. The script for automatic evaluation of the submissions will be published as soon as possible in this repository. The intended output format of the spelling correctors and the evaluation procedure will be demonstrated with the aid of Valkuil, a context-sensitive spelling corrector for Dutch. Valkuil will additionally function as a baseline to which we will compare the submissions.
+Detection and correction of spelling errors in the (to be released) test documents are evaluated separately, in terms of precision, recall and F-score. The script for automatic evaluation of the submissions will be published as soon as possible in this repository. 
 
 ## Important dates 
 
@@ -99,4 +99,53 @@ Detection and correction of spelling errors in the (to be released) test documen
 * 26 January 2018: presenting the results at the CLIN conference
 
 ## Errors to detect and correct
+
+* ''real-word confusions'', word is confused with a near neighbor (confusion with non-native spelling, homophony, grammatical errors, et cetera):
+  * ik wordt → ik word
+  * stijl → steil
+  * hobbies → hobby’s 
+  * me → mijn
+  * als → dan
+* ''split errors'', compound words which are incorrectly separated:
+  * beleids medewerker → beleidsmedewerker
+  * lang durig → langdurig
+* ''runon errors'', incorrect concatenation of words:
+  * etcetera → et cetera
+  * zeidat → zei dat
+* ''missing words'', sentence is ungrammatical due to missing elements:
+  * samen met vrouw die → samen met de vrouw die
+* ''redundant words'', sentence is ungrammatical due to redundant elements: 
+  * door doordat → doordat
+* ''missing punctuation'', missing diacritical symbols and hyphenation marks (other cases of missing punctuation are excluded from the task):
+  * een en ander → één en ander
+  * financiele → financiële
+  * autoongeluk → auto-ongeluk
+* ''redundant punctuation'', redundant diacritical symbols and hyphenation marks (other cases of redundant punctuation are excluded from the task):
+  * financiëel → financieel
+  * co-assistent → coassistent
+* ''capitalisation errors'', incorrect use of capital letters:
+  * Joodse → joodse
+  * Minister van Onderwijs → minister van Onderwijs
+  * amstelveen → Amstelveen
+* archaic spelling, outdated spelling:
+  *	aktie → actie
+  * paardebloem → paardenbloem
+* non-word errors, words that do not exist in Dutch:
+ * voek → boek
+ * assrtief → assertief
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  * test 3
 
