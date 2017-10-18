@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import sys
 import argparse
 import json
 from pynlpl.formats import folia
@@ -17,18 +18,19 @@ def folia2json(doc, docorrections=True):
         words.append({'id':word.id, 'text': word.text(correctionhandling=folia.CorrectionHandling.ORIGINAL), 'space': word.space, 'in':word.ancestor(folia.AbstractStructureElement).id})
     if docorrections:
         for correction in doc.select(folia.Correction):
-            structural =  not any( isinstance(ancestor, folia.Word) for ancestor in word.ancestors() ) #is the correction confined to a single word/token or is it structural?
+            structural =  not any( isinstance(ancestor, folia.Word) for ancestor in correction.ancestors() ) #is the correction confined to a single word/token or is it structural?
+            print("correction ", correction.id, "structural=", structural,file=sys.stderr)
             if structural:
                 span = []
-                for newword in correction.original().select(folia.Word,ignore=False):
-                    span.append(newword.id)
+                for origword in correction.original().select(folia.Word,ignore=False):
+                    span.append(origword.id)
                 if not span:
                     #we have an insertion
                     previous = correction.previous(folia.Word).id
             else:
                 span = [correction.parent.id]
             if span:
-                corrections.append({'class': correction.cls, 'span': [correction.parent.id],'text':correction.text() })
+                corrections.append({'class': correction.cls, 'span': span,'text':correction.text() })
             else:
                 corrections.append({'class': correction.cls, 'after': previous,'text':correction.text() })
     return {'words':words, 'corrections': corrections}
