@@ -100,36 +100,36 @@ Detection and correction of spelling errors in the (to be released) test documen
 
 ## Errors to detect and correct
 
-* ''real-word confusions'', word is confused with a near neighbor (confusion with non-native spelling, homophony, grammatical errors, et cetera):
+* ``real-word confusions``, word is confused with a near neighbor (confusion with non-native spelling, homophony, grammatical errors, et cetera):
   * ik wordt → ik word
   * stijl → steil
   * hobbies → hobby’s 
   * me → mijn
   * als → dan
-* ''split errors'', compound words which are incorrectly separated:
+* ``split errors``, compound words which are incorrectly separated:
   * beleids medewerker → beleidsmedewerker
   * lang durig → langdurig
-* ''runon errors'', incorrect concatenation of words:
+* ``runon errors``, incorrect concatenation of words:
   * etcetera → et cetera
   * zeidat → zei dat
-* ''missing words'', sentence is ungrammatical due to missing elements:
+* ``missing words``, sentence is ungrammatical due to missing elements:
   * samen met vrouw die → samen met de vrouw die
-* ''redundant words'', sentence is ungrammatical due to redundant elements: 
+* ``redundant words``, sentence is ungrammatical due to redundant elements: 
   * door doordat → doordat
-* ''missing punctuation'', missing diacritical symbols and hyphenation marks (other cases of missing punctuation are excluded from the task):
+* ``missing punctuation``, missing diacritical symbols and hyphenation marks (other cases of missing punctuation are excluded from the task):
   * een en ander → één en ander
   * financiele → financiële
   * autoongeluk → auto-ongeluk
-* ''redundant punctuation'', redundant diacritical symbols and hyphenation marks (other cases of redundant punctuation are excluded from the task):
+* ``redundant punctuation``, redundant diacritical symbols and hyphenation marks (other cases of redundant punctuation are excluded from the task):
   * financiëel → financieel
   * co-assistent → coassistent
-* ''capitalisation errors'', incorrect use of capital letters:
+* ``capitalisation errors``, incorrect use of capital letters:
   * Joodse → joodse
   * Minister van Onderwijs → minister van Onderwijs
   * amstelveen → Amstelveen
-* archaic spelling, outdated spelling:
+* ``archaic spelling``, outdated spelling:
   *	aktie → actie
   * paardebloem → paardenbloem
-* non-word errors, words that do not exist in Dutch:
- * voek → boek
- * assrtief → assertief
+* ``non-word errors``, words that do not exist in Dutch:
+  * voek → boek
+  * assrtief → assertief
