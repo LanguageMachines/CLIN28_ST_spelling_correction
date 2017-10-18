@@ -124,6 +124,12 @@ documented [here](http://pynlpl.readthedocs.io/en/latest/folia.html).
 The FoLiA documents may also act as a source for further linguistic enrichment using FoLiA-aware tools such as
 [frog](https://languagemachines.github.io/frog).
 
+#### Notes
+
+Some things to keep in mind:
+* A correction should span one or more words, span should be specified in the right order and may only be consecutive (use multiple corrections if cases of gaps).
+* A correction should span the minimum amount of words/tokens, do not include leading/trailing tokens that are not corrected; E.g for *een en ander* → *één en ander*, correct only *een* → *één*.
+
 ## Evaluation
 
 Detection and correction of spelling errors in the (to be released) test documents are evaluated separately, in terms of precision, recall and F-score. The script for automatic evaluation of the submissions will be published as soon as possible in this repository.
