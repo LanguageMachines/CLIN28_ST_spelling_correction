@@ -8,7 +8,7 @@ Automatic spell checking and correction has been subject of research for decades
 
 ## Data
 
-We initially deliver one annotated document for validation purposes. A validation set consisting of 50 Wikipedia articles will follow before the end of October. The documents may contain zero, one or more spelling errors. The validation set contains all of the spelling error categories listed below. In December, a full test set will be published in the same format. 
+We initially deliver three annotated documents for validation purposes. A validation set consisting of 50 Wikipedia articles will follow before the end of October. The documents may contain zero, one, or more spelling errors. The validation set contains all of the spelling error categories listed below. In December, a full test set will be published in the same format. 
 
 ### Data format
 
@@ -92,7 +92,7 @@ Detection and correction of spelling errors in the (to be released) test documen
 
 ## Important dates 
 
-* 31 October 2017: validation data set and Valkuil demonstration online
+* 31 October 2017: full validation data set and Valkuil demonstration online
 * 1 December: test data online
 * 22 December 2017: deadline for submission of source code and output
 * 8 January 2018: feedback to submissions
@@ -121,7 +121,6 @@ Detection and correction of spelling errors in the (to be released) test documen
   * financiele → financiële
   * autoongeluk → auto-ongeluk
 * ``redundant punctuation``, redundant diacritical symbols and hyphenation marks (other cases of redundant punctuation are excluded from the task):
-  * financiëel → financieel
   * co-assistent → coassistent
 * ``capitalisation errors``, incorrect use of capital letters:
   * Joodse → joodse
