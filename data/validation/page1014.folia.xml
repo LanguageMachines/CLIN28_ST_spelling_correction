@@ -7846,14 +7846,7 @@
           <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="spliterror" datetime="2017-10-10T17:38:11" xml:id="page1014.text.div.3.p.1.s.2.correction.1">
             <new>
               <w xml:id="corrected.5b3a3dee">
-                <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="spliterror" datetime="2017-10-10T17:38:23" xml:id="corrected.5b3a3dee.correction.1">
-                  <new>
-                    <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-10-10T17:38:23">tekort</t>
-                  </new>
-                  <original auth="no">
-                    <t>te</t>
-                  </original>
-                </correction>
+                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-10-10T17:38:23">tekort</t>
               </w>
             </new>
             <original auth="no">
