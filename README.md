@@ -85,3 +85,18 @@ documented [here](http://pynlpl.readthedocs.io/en/latest/folia.html).
 
 The FoLiA documents may also act as a source for further linguistic enrichment using FoLiA-aware tools such as
 [frog](https://languagemachines.github.io/frog).
+
+## Evaluation
+
+Detection and correction of spelling errors in the (to be released) test documents are evaluated separately, in terms of precision, recall and F-score. The script for automatic evaluation of the submissions will be published as soon as possible in this repository. The intended output format of the spelling correctors and the evaluation procedure will be demonstrated with the aid of Valkuil, a context-sensitive spelling corrector for Dutch. Valkuil will additionally function as a baseline to which we will compare the submissions.
+
+## Important dates 
+
+* 31 October 2017: validation data set and Valkuil demonstration online
+* 1 December: test data online
+* 22 December 2017: deadline for submission of source code and output
+* 8 January 2018: feedback to submissions
+* 26 January 2018: presenting the results at the CLIN conference
+
+## Errors to detect and correct
+
