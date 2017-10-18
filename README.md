@@ -133,19 +133,3 @@ Detection and correction of spelling errors in the (to be released) test documen
 * non-word errors, words that do not exist in Dutch:
  * voek → boek
  * assrtief → assertief
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  * test 3
-
