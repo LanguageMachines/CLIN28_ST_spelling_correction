@@ -2,15 +2,45 @@
 
 ## Introduction
 
-This repository harbors the scripts for handling the data that is part of the CLIN28 shared task on spelling correction. Automatic spell checking and correction has been subject of research for decades. Although state of the art spell checkers perform reasonably well for everyday-life applications, reaching high accuracy remains to be a challenging task. This shared task focuses on the detection and correction of spelling errors in Dutch Wikipedia texts. Wikipedia articles aim to be standard-Dutch texts, which may contain jargon. In particular, this task addresses the detection and correction of the following types of spelling errors:
+This repository harbors the scripts for handling the data that is part of the CLIN28 shared task on spelling correction. 
 
-* non-word errors
-* real-word confusions
-* split and concatenation errors
-* missing words
-* redundant words
-* capitalization errors
-* archaic spelling
+Automatic spell checking and correction has been subject of research for decades. Although state of the art spell checkers perform reasonably well for everyday-life applications, reaching high accuracy remains to be a challenging task. This shared task focuses on the detection and correction of spelling errors in Dutch Wikipedia texts. Wikipedia articles aim to be standard-Dutch texts, which may contain jargon. In particular, this task addresses the detection and correction of the following types of spelling errors:
+
+•	real-word confusions, word is confused with a near neighbor (confusion with non-native spelling, homophony, grammatical errors, et cetera):
+ ◦	ik wordt → ik word
+ ◦	stijl → steil
+ ◦	hobbies → hobby’s
+ ◦	me → mijn
+ ◦	als → dan
+•	split errors, compound words which are incorrectly separated:
+ ◦	beleids medewerker → beleidsmedewerker
+ ◦	lang durig → langdurig
+•	runon errors, incorrect concatenation of words:
+ ◦	etcetera → et cetera
+ ◦	zeidat → zei dat
+•	missing words, sentence is ungrammatical due to missing elements:
+ ◦	samen met vrouw die → samen met de vrouw die
+•	redundant words, sentence is ungrammatical due to redundant elements: 
+ ◦	door doordat → doordat
+•	missing punctuation, missing diacritical symbols and hyphenation marks (other cases of missing punctuation are excluded from the task):
+ ◦	een en ander → één en ander
+ ◦	financiele → financiële
+ ◦	autoongeluk → auto-ongeluk
+•	redundant punctuation, redundant diacritical symbols and hyphenation marks (other cases of redundant punctuation are excluded from the task):
+ ◦	financiëel → financieel
+ ◦	co-assistent → coassistent
+•	capitalisation errors, incorrect use of capital letters:
+ ◦	Joodse → joodse
+ ◦	Minister van Onderwijs → minister van Onderwijs
+ ◦	amstelveen → Amstelveen
+•	archaic spelling, outdated spelling:
+ ◦	aktie → actie
+ ◦	paardebloem → paardenbloem
+•	non-word errors, words that do not exist in Dutch:
+ ◦	voek → boek
+ ◦	assrtief → assertief
+
+
 
 ## Data format
 
