@@ -5,96 +5,66 @@
       <style-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/styles.foliaset.xml"/>
       <division-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/divisions.foliaset.xml"/>
       <token-annotation annotator="ucto" annotatortype="auto" datetime="2017-10-01T17:32:10" set="tokconfig-nld"/>
-      <observation-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml"/>
       <correction-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml"/>
     </annotations>
     <meta id="language">nld</meta>
   </metadata>
   <text xml:id="page1014.text">
-    <quote xml:id="page1014.text.quote.1">
-      <p xml:id="page1014.text.quote.1.p.1">
-        <s xml:id="page1014.text.quote.1.p.1.s.1">
-          <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.1">
-            <t>zie</t>
-          </w>
-          <w space="no" class="SYMBOL" xml:id="page1014.text.quote.1.p.1.s.1.w.2">
-            <t>`</t>
-          </w>
-          <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.3">
-            <t>God</t>
-          </w>
-          <w space="no" class="PUNCTUATION" xml:id="page1014.text.quote.1.p.1.s.1.w.4">
-            <t>(</t>
-          </w>
-          <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.5">
-            <t>de</t>
-          </w>
-          <w space="no" class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.6">
-            <t>schepper</t>
-          </w>
-          <w class="PUNCTUATION" xml:id="page1014.text.quote.1.p.1.s.1.w.7">
-            <t>)</t>
-          </w>
-          <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.8">
-            <t>&lt;God</t>
-          </w>
-          <w space="no" class="PUNCTUATION" xml:id="page1014.text.quote.1.p.1.s.1.w.9">
-            <t>(</t>
-          </w>
-          <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.10">
-            <t>de</t>
-          </w>
-          <w space="no" class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.11">
-            <t>schepper</t>
-          </w>
-          <w space="no" class="PUNCTUATION" xml:id="page1014.text.quote.1.p.1.s.1.w.12">
-            <t>)</t>
-          </w>
-          <w space="no" class="SYMBOL" xml:id="page1014.text.quote.1.p.1.s.1.w.13">
-            <t>&gt;</t>
-          </w>
-          <w space="no" class="SYMBOL" xml:id="page1014.text.quote.1.p.1.s.1.w.14">
-            <t>`</t>
-          </w>
-          <w class="PUNCTUATION-MULTI" xml:id="page1014.text.quote.1.p.1.s.1.w.15">
-            <t>__</t>
-          </w>
-          <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.16">
-            <t>voor</t>
-          </w>
-          <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.17">
-            <t>meer</t>
-          </w>
-          <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.18">
-            <t>specifieke</t>
-          </w>
-          <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.19">
-            <t>informatie</t>
-          </w>
-          <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.20">
-            <t>over</t>
-          </w>
-          <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.21">
-            <t>God</t>
-          </w>
-          <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.22">
-            <t>als</t>
-          </w>
-          <w space="no" class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.23">
-            <t>uniek</t>
-          </w>
-          <w class="PUNCTUATION" xml:id="page1014.text.quote.1.p.1.s.1.w.24">
-            <t>,</t>
-          </w>
-          <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.25">
-            <t>eeuwig</t>
-          </w>
-          <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.27">
-            <t>opperwezen</t>
-          </w>
-        </s>
-      </p>
-    </quote>
+    <p xml:id="page1014.text.quote.1.p.1">
+      <s xml:id="page1014.text.quote.1.p.1.s.1">
+        <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.1">
+          <t>Zie</t>
+        </w>
+        <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.3">
+          <t>God</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="page1014.text.quote.1.p.1.s.1.w.4">
+          <t>(</t>
+        </w>
+        <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.5">
+          <t>de</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.6">
+          <t>schepper</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1014.text.quote.1.p.1.s.1.w.7">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.16">
+          <t>voor</t>
+        </w>
+        <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.17">
+          <t>meer</t>
+        </w>
+        <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.18">
+          <t>specifieke</t>
+        </w>
+        <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.19">
+          <t>informatie</t>
+        </w>
+        <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.20">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.21">
+          <t>God</t>
+        </w>
+        <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.22">
+          <t>als</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.23">
+          <t>uniek</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1014.text.quote.1.p.1.s.1.w.24">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.25">
+          <t>eeuwig</t>
+        </w>
+        <w class="WORD" xml:id="page1014.text.quote.1.p.1.s.1.w.27">
+          <t>opperwezen</t>
+        </w>
+      </s>
+    </p>
     <p xml:id="page1014.text.p.1">
       <s xml:id="page1014.text.p.1.s.1">
         <w class="WORD" xml:id="page1014.text.p.1.s.1.w.1">
@@ -199,408 +169,6 @@
         <w class="PUNCTUATION" xml:id="page1014.text.p.1.s.1.w.37">
           <t>.</t>
         </w>
-        <observations>
-          <observation class="uncertain" xml:id="page1014.text.observation.6">
-            <wref t="opperwezen" id="page1014.text.p.1.s.1.w.16"/>
-            <wref t="," id="page1014.text.p.1.s.1.w.17"/>
-          </observation>
-          <observation class="uncertain" xml:id="page1014.text.observation.7">
-            <wref id="page1014.text.div.1.div.5.p.2.s.1.w.9" t="verschillende"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.1.w.10" t="hemels"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.1.w.11" t=","/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.1.w.12" t="waar"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.1.w.13" t="29"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.1.w.14" t="verschillende"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.1.w.15" t="soorten"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.1.w.16" t="goden"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.1.w.17" t="("/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.1.w.18" t="devas"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.1.w.19" t=")"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.1.w.20" t="verblijven"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.1.w.21" t="."/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.1" t="Wedergeboorte"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.2" t="in"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.3" t="een"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.4" t="hemel"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.5" t="wordt"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.6" t="beschouwd"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.7" t="als"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.8" t="een"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.9" t="gunstige"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.10" t="wedergeboorte"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.11" t="en"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.12" t="het"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.13" t="resultaat"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.14" t="van"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.15" t="het"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.16" t="gemaakt"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.17" t="hebben"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.18" t="van"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.19" t="goed"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.20" t="karma"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.2.w.21" t="."/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.3.w.1" t="Wezens"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.3.w.2" t="die"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.3.w.3" t="in"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.3.w.4" t="een"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.3.w.5" t="hemel"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.3.w.6" t="wedergeboren"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.3.w.7" t="worden"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.3.w.8" t=","/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.3.w.9" t="heten"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.3.w.10" t="goden"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.3.w.11" t="of"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.3.w.12" t="devas"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.3.w.13" t="."/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.1" t="Deze"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.2" t="devas"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.3" t="("/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.4" t="of"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.5" t="goden"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.6" t=")"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.7" t="lijden"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.8" t="een"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.9" t="gelukkig"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.10" t="en"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.11" t="comfortabel"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.12" t="leven"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.13" t=","/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.14" t="maar"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.15" t="worden"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.16" t="niet"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.17" t="als"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.18" t="de"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.19" t="ultieme"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.20" t="toevlucht"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.21" t="gezien"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.22" t=","/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.23" t="daar"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.24" t="devas"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.25" t="ook"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.26" t="sterven"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.27" t="en"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.28" t="wederom"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.29" t="geboren"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.30" t="worden"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.31" t="in"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.32" t="veelal"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.33" t="een"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.34" t="andere"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.35" t="conditie"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.36" t="("/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.37" t="mens"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.38" t=","/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.39" t="dier"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.40" t=","/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.41" t="geest"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.42" t=","/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.43" t="etcetera"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.44" t=")"/>
-            <wref id="page1014.text.div.1.div.5.p.2.s.4.w.45" t="."/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.1" t="Het"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.2" t="beschouwen"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.3" t="of"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.4" t="gedenken"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.5" t="van"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.6" t="de"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.7" t="goede"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.8" t="kwaliteiten"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.9" t="van"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.10" t="goden"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.11" t="of"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.12" t="devas"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.13" t="("/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.14" t="Pali"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.15" t=":"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.16" t="devanussati"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.17" t=")"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.18" t="is"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.19" t="één"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.20" t="van"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.21" t="de"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.22" t="aanbevolen"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.23" t="vormen"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.24" t="van"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.25" t="meditatie"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.26" t="in"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.27" t="het"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.28" t="boeddhisme"/>
-            <wref id="page1014.text.div.1.div.5.p.3.s.1.w.29" t="."/>
-            <wref id="page1014.text.div.2.head.1.s.1.w.1" t="Hoe"/>
-            <wref id="page1014.text.div.2.head.1.s.1.w.2" t="God"/>
-            <wref id="page1014.text.div.2.head.1.s.1.w.3" t="en"/>
-            <wref id="page1014.text.div.2.head.1.s.1.w.4" t="goden"/>
-            <wref id="page1014.text.div.2.head.1.s.1.w.5" t="met"/>
-            <wref id="page1014.text.div.2.head.1.s.1.w.6" t="mensen"/>
-            <wref id="page1014.text.div.2.head.1.s.1.w.7" t="zouden"/>
-            <wref id="page1014.text.div.2.head.1.s.1.w.8" t="communiceren"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.1" t="Veel"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.2" t="religies"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.3" t="leren"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.4" t="dat"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.5" t="God"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.6" t="zijn"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.7" t="wil"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.8" t="aan"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.9" t="de"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.10" t="mensen"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.11" t="kenbaar"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.12" t="kan"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.13" t="maken"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.14" t=";"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.15" t="in"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.16" t="het"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.17" t="judaïsme"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.18" t=","/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.19" t="het"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.20" t="christendom"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.21" t="en"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.22" t="de"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.23" t="islam"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.24" t="wordt"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.25" t="dit"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.26" t="proces"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.27" t="openbaring"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.28" t="genoemd"/>
-            <wref id="page1014.text.div.2.p.1.s.1.w.29" t="."/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.1" t="Sommige"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.2" t="religies"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.3" t="leren"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.4" t="dat"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.5" t="God"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.6" t="zijn"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.7" t="wil"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.8" t="alleen"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.9" t="openbaart"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.10" t="aan"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.11" t="bepaalde"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.12" t="personen"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.13" t="die"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.14" t="profeten"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.15" t="genoemd"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.16" t="worden"/>
-            <wref id="page1014.text.div.2.p.1.s.2.w.17" t="."/>
-            <wref id="page1014.text.div.2.p.1.s.3.w.1" t="Anderen"/>
-            <wref id="page1014.text.div.2.p.1.s.3.w.2" t="geloven"/>
-            <wref id="page1014.text.div.2.p.1.s.3.w.3" t="dat"/>
-            <wref id="page1014.text.div.2.p.1.s.3.w.4" t="openbaring"/>
-            <wref id="page1014.text.div.2.p.1.s.3.w.5" t="gekanaliseerd"/>
-            <wref id="page1014.text.div.2.p.1.s.3.w.6" t="wordt"/>
-            <wref id="page1014.text.div.2.p.1.s.3.w.7" t="door"/>
-          </observation>
-          <observation class="uncertain" xml:id="page1014.text.observation.8">
-            <wref id="page1014.text.div.2.p.5.s.5.w.9" t="in"/>
-            <wref id="page1014.text.div.2.p.5.s.5.w.10" t="wiccatradities"/>
-            <wref id="page1014.text.div.2.p.5.s.5.w.11" t="."/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.1" t="Ook"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.2" t="het"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.3" t="animisme"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.4" t=","/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.5" t="het"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.6" t="spiritisme"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.7" t=","/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.8" t="occultisme"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.9" t="en"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.10" t="verschillende"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.11" t="natuurgodsdiensten"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.12" t="zoals"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.13" t="winti"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.14" t="kennen"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.15" t="een"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.16" t="vorm"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.17" t="van"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.18" t="openbaringsgerichte"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.19" t="rituelen"/>
-            <wref id="page1014.text.div.2.p.5.s.6.w.20" t="."/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.1" t="De"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.2" t="persoon"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.3" t="of"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.4" t="personen"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.5" t="door"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.6" t="wie"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.7" t="een"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.8" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.9" t="goddelijke"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.10" t="boodschap"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.11" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.12" t="of"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.13" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.14" t="boodschap"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.15" t="van"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.16" t="de"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.17" t="geesten"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.18" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.19" t="aan"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.20" t="de"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.21" t="mensen"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.22" t="gegeven"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.23" t="wordt"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.24" t="heeft"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.25" t="binnen"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.26" t="elke"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.27" t="traditie"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.28" t="weer"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.29" t="een"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.30" t="andere"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.31" t="naam"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.32" t="("/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.33" t="medicijnman"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.34" t=","/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.35" t="peeai"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.36" t=","/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.37" t="medium"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.38" t=","/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.39" t="bonuman"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.40" t=","/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.41" t="enz."/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.42" t=")"/>
-            <wref id="page1014.text.div.2.p.5.s.7.w.43" t="."/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.1" t="Oude"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.2" t="animistische"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.3" t="tradities"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.4" t="die"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.5" t="door"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.6" t="veel"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.7" t="moslims"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.8" t="naast"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.9" t="de"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.10" t="islam"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.11" t="gepraktiseerd"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.12" t="worden"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.13" t="kennen"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.14" t="de"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.15" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.16" t="marabout"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.17" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.18" t=","/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.19" t="aan"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.20" t="wie"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.21" t="naast"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.22" t="genezende"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.23" t="krachten"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.24" t="vaak"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.25" t="ook"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.26" t="mediamieke"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.27" t="krachten"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.28" t="worden"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.29" t="toegeschreven"/>
-            <wref id="page1014.text.div.2.p.5.s.8.w.30" t="."/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.1" t="De"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.2" t="meeste"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.3" t="van"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.4" t="deze"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.5" t="tradities"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.6" t="vereren"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.7" t="naast"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.8" t="een"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.9" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.10" t="schepper-God"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.11" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.12" t="ook"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.13" t="allerlei"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.14" t="geesten"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.15" t="en"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.16" t="/"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.17" t="of"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.18" t="goden"/>
-            <wref id="page1014.text.div.2.p.5.s.9.w.19" t="."/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.1" t="In"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.2" t="het"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.3" t="hindoeïsme"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.4" t="wordt"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.5" t="de"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.6" t="communicatie"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.7" t="tussen"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.8" t="God"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.9" t="en"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.10" t="de"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.11" t="mens"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.12" t="meestal"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.13" t="meer"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.14" t="beschouwd"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.15" t="als"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.16" t="een"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.17" t="vorm"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.18" t="van"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.19" t="spirituele"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.20" t="realisatie"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.21" t="of"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.22" t="zelfverwerkelijking"/>
-            <wref id="page1014.text.div.2.p.6.s.1.w.23" t="."/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.1" t="De"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.2" t="mensen"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.3" t="die"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.4" t="dit"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.5" t="is"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.6" t="overkomen"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.7" t="of"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.8" t="die"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.9" t="dit"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.10" t="stadium"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.11" t="bereikt"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.12" t="hebben"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.13" t="worden"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.14" t="omschreven"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.15" t="als"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.16" t="rishis"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.17" t="of"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.18" t="wijzen"/>
-            <wref id="page1014.text.div.2.p.6.s.2.w.19" t="."/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.1" t="Het"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.2" t="hangt"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.3" t="van"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.4" t="de"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.5" t="stroming"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.6" t="af"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.7" t="of"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.8" t="de"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.9" t="woorden"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.10" t="van"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.11" t="deze"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.12" t="rishis"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.13" t="als"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.14" t="goddelijke"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.15" t="openbaringen"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.16" t=","/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.17" t="als"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.18" t="spirituele"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.19" t="wijsheden"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.20" t=","/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.21" t="dan"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.22" t="wel"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.23" t="als"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.24" t="beide"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.25" t="beschouwd"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.26" t="worden"/>
-            <wref id="page1014.text.div.2.p.6.s.3.w.27" t="."/>
-            <wref id="page1014.text.div.3.head.1.s.1.w.1" t="Wetenschap"/>
-            <wref id="page1014.text.div.3.head.1.s.1.w.2" t="en"/>
-            <wref id="page1014.text.div.3.head.1.s.1.w.3" t="God"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.1" t="In"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.2" t="het"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.3" t="algemeen"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.4" t="houdt"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.5" t="de"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.6" t="("/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.7" t="westerse"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.8" t=")"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.9" t="wetenschap"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.10" t="zich"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.11" t="alleen"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.12" t="bezig"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.13" t="met"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.14" t="meetbare"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.15" t="en"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.16" t="reproduceerbare"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.17" t="verschijnselen"/>
-            <wref id="page1014.text.div.3.p.1.s.1.w.18" t="."/>
-            <wref id="page1014.text.div.3.p.1.s.2.w.1" t="Bij"/>
-            <wref id="page1014.text.div.3.p.1.s.2.w.2" t="de"/>
-            <wref id="page1014.text.div.3.p.1.s.2.w.3" t="metafysica"/>
-            <wref id="page1014.text.div.3.p.1.s.2.w.4" t="schiet"/>
-            <wref id="page1014.text.div.3.p.1.s.2.w.5" t="de"/>
-          </observation>
-        </observations>
       </s>
       <s xml:id="page1014.text.p.1.s.2">
         <w class="WORD" xml:id="page1014.text.p.1.s.2.w.1">
@@ -3085,11 +2653,6 @@
               <w class="PUNCTUATION" xml:id="page1014.text.div.1.div.1.list.2.item.10.s.4.w.17">
                 <t>.</t>
               </w>
-              <observations>
-                <observation class="uncertain" xml:id="page1014.text.observation.5">
-                  <wref t="hindoe" id="page1014.text.div.1.div.1.list.2.item.10.s.4.w.4"/>
-                </observation>
-              </observations>
             </s>
           </item>
           <item xml:id="page1014.text.div.1.div.1.list.2.item.11">
@@ -3300,11 +2863,6 @@
               <w class="PUNCTUATION" xml:id="page1014.text.div.1.div.1.list.2.item.12.s.1.w.40">
                 <t>.</t>
               </w>
-              <observations>
-                <observation class="uncertain" xml:id="page1014.text.observation.9">
-                  <wref t="zin" id="page1014.text.div.1.div.1.list.2.item.12.s.1.w.30"/>
-                </observation>
-              </observations>
             </s>
             <s xml:id="page1014.text.div.1.div.1.list.2.item.12.s.2">
               <w class="WORD" xml:id="page1014.text.div.1.div.1.list.2.item.12.s.2.w.1">
@@ -3549,11 +3107,6 @@
               <w class="PUNCTUATION" xml:id="page1014.text.div.1.div.1.list.2.item.12.s.3.w.37">
                 <t>.</t>
               </w>
-              <observations>
-                <observation class="uncertain" xml:id="page1014.text.observation.4">
-                  <wref t="opperwezen" id="page1014.text.div.1.div.1.list.2.item.12.s.3.w.11"/>
-                </observation>
-              </observations>
             </s>
           </item>
         </list>
@@ -4345,30 +3898,6 @@
             <w class="PUNCTUATION" xml:id="page1014.text.div.1.div.2.p.5.s.1.w.10">
               <t>)</t>
             </w>
-            <w class="WORD" xml:id="page1014.text.div.1.div.2.p.5.s.1.w.11">
-              <t>&lt;God</t>
-            </w>
-            <w space="no" class="PUNCTUATION" xml:id="page1014.text.div.1.div.2.p.5.s.1.w.12">
-              <t>(</t>
-            </w>
-            <w class="WORD" xml:id="page1014.text.div.1.div.2.p.5.s.1.w.13">
-              <t>de</t>
-            </w>
-            <w space="no" class="WORD" xml:id="page1014.text.div.1.div.2.p.5.s.1.w.14">
-              <t>schepper</t>
-            </w>
-            <w space="no" class="PUNCTUATION" xml:id="page1014.text.div.1.div.2.p.5.s.1.w.15">
-              <t>)</t>
-            </w>
-            <w space="no" class="SYMBOL" xml:id="page1014.text.div.1.div.2.p.5.s.1.w.16">
-              <t>&gt;</t>
-            </w>
-            <w space="no" class="SYMBOL" xml:id="page1014.text.div.1.div.2.p.5.s.1.w.17">
-              <t>`</t>
-            </w>
-            <w class="PUNCTUATION-MULTI" xml:id="page1014.text.div.1.div.2.p.5.s.1.w.18">
-              <t>__</t>
-            </w>
           </s>
         </p>
       </div>
@@ -4938,39 +4467,6 @@
               <t>.</t>
             </w>
           </s>
-          <observations>
-            <observation class="uncertain" xml:id="page1014.text.observation.10">
-              <wref t="Vaticaan" id="page1014.text.div.1.div.4.p.1.s.1.w.14"/>
-              <wref t="of" id="page1014.text.div.1.div.4.p.1.s.1.w.15"/>
-              <wref t="de" id="page1014.text.div.1.div.4.p.1.s.1.w.16"/>
-              <wref t="paus" id="page1014.text.div.1.div.4.p.1.s.1.w.17"/>
-              <wref t="," id="page1014.text.div.1.div.4.p.1.s.1.w.18"/>
-              <wref t="en" id="page1014.text.div.1.div.4.p.1.s.1.w.19"/>
-              <wref t="de" id="page1014.text.div.1.div.4.p.1.s.1.w.20"/>
-              <wref t="leringen" id="page1014.text.div.1.div.4.p.1.s.1.w.21"/>
-              <wref t="zijn" id="page1014.text.div.1.div.4.p.1.s.1.w.22"/>
-              <wref t="er" id="page1014.text.div.1.div.4.p.1.s.1.w.23"/>
-              <wref t="daardoor" id="page1014.text.div.1.div.4.p.1.s.1.w.24"/>
-              <wref t="meer" id="page1014.text.div.1.div.4.p.1.s.1.w.25"/>
-              <wref t="divers" id="page1014.text.div.1.div.4.p.1.s.1.w.26"/>
-              <wref t="dan" id="page1014.text.div.1.div.4.p.1.s.1.w.27"/>
-              <wref t="in" id="page1014.text.div.1.div.4.p.1.s.1.w.28"/>
-              <wref t="het" id="page1014.text.div.1.div.4.p.1.s.1.w.29"/>
-              <wref t="christendom" id="page1014.text.div.1.div.4.p.1.s.1.w.30"/>
-              <wref t="." id="page1014.text.div.1.div.4.p.1.s.1.w.31"/>
-              <wref t="Stromingen" id="page1014.text.div.1.div.4.p.1.s.2.w.1"/>
-              <wref t="als" id="page1014.text.div.1.div.4.p.1.s.2.w.2"/>
-              <wref t="het" id="page1014.text.div.1.div.4.p.1.s.2.w.3"/>
-              <wref t="boeddhisme" id="page1014.text.div.1.div.4.p.1.s.2.w.4"/>
-              <wref t="en" id="page1014.text.div.1.div.4.p.1.s.2.w.5"/>
-              <wref t="het" id="page1014.text.div.1.div.4.p.1.s.2.w.6"/>
-              <wref t="jaïnisme" id="page1014.text.div.1.div.4.p.1.s.2.w.7"/>
-              <wref t="en" id="page1014.text.div.1.div.4.p.1.s.2.w.8"/>
-              <wref t="ook" id="page1014.text.div.1.div.4.p.1.s.2.w.9"/>
-              <wref t="andere" id="page1014.text.div.1.div.4.p.1.s.2.w.10"/>
-              <wref t="stomingen" id="page1014.text.div.1.div.4.p.1.s.2.w.11"/>
-            </observation>
-          </observations>
         </p>
         <p xml:id="page1014.text.div.1.div.4.p.2">
           <s xml:id="page1014.text.div.1.div.4.p.2.s.1">
@@ -5097,11 +4593,6 @@
             <w class="PUNCTUATION" xml:id="page1014.text.div.1.div.4.p.2.s.1.w.43">
               <t>.</t>
             </w>
-            <observations>
-              <observation class="uncertain" xml:id="page1014.text.observation.13">
-                <wref t="hindoes" id="page1014.text.div.1.div.4.p.2.s.1.w.4"/>
-              </observation>
-            </observations>
           </s>
           <s xml:id="page1014.text.div.1.div.4.p.2.s.2">
             <w class="WORD" xml:id="page1014.text.div.1.div.4.p.2.s.2.w.1">
@@ -5210,11 +4701,6 @@
             <w class="PUNCTUATION" xml:id="page1014.text.div.1.div.4.p.2.s.2.w.35">
               <t>.</t>
             </w>
-            <observations>
-              <observation class="uncertain" xml:id="page1014.text.observation.2">
-                <wref t="hindoes" id="page1014.text.div.1.div.4.p.2.s.2.w.4"/>
-              </observation>
-            </observations>
           </s>
           <s xml:id="page1014.text.div.1.div.4.p.2.s.3">
             <w space="no" class="PUNCTUATION" xml:id="page1014.text.div.1.div.4.p.2.s.3.w.1">
@@ -5777,11 +5263,6 @@
             <w class="PUNCTUATION" xml:id="page1014.text.div.1.div.5.p.1.s.4.w.22">
               <t>.</t>
             </w>
-            <observations>
-              <observation class="uncertain" xml:id="page1014.text.observation.1">
-                <wref t="langdurige" id="page1014.text.div.1.div.5.p.1.s.4.w.10"/>
-              </observation>
-            </observations>
           </s>
           <s xml:id="page1014.text.div.1.div.5.p.1.s.5">
             <w class="WORD" xml:id="page1014.text.div.1.div.5.p.1.s.5.w.1">
@@ -6673,373 +6154,6 @@
             <t>.</t>
           </w>
         </s>
-        <observations>
-          <observation class="uncertain" xml:id="page1014.text.observation.11">
-            <wref t="gesanctioneerde" id="page1014.text.div.2.p.1.s.3.w.12"/>
-            <wref t="instellingen" id="page1014.text.div.2.p.1.s.3.w.13"/>
-            <wref t="." id="page1014.text.div.2.p.1.s.3.w.14"/>
-            <wref t="Weer" id="page1014.text.div.2.p.1.s.4.w.1"/>
-            <wref t="andere" id="page1014.text.div.2.p.1.s.4.w.2"/>
-            <wref t="," id="page1014.text.div.2.p.1.s.4.w.3"/>
-            <wref t="vooral" id="page1014.text.div.2.p.1.s.4.w.4"/>
-            <wref t="sommige" id="page1014.text.div.2.p.1.s.4.w.5"/>
-            <wref t="meer" id="page1014.text.div.2.p.1.s.4.w.6"/>
-            <wref t="mystiek" id="page1014.text.div.2.p.1.s.4.w.7"/>
-          </observation>
-          <observation class="uncertain" xml:id="page1014.text.observation.12">
-            <wref t="religies" id="page1014.text.div.2.p.1.s.4.w.11"/>
-            <wref t="en" id="page1014.text.div.2.p.1.s.4.w.12"/>
-            <wref t="geloofsstromingen" id="page1014.text.div.2.p.1.s.4.w.13"/>
-            <wref t="," id="page1014.text.div.2.p.1.s.4.w.14"/>
-            <wref t="leren" id="page1014.text.div.2.p.1.s.4.w.15"/>
-            <wref t="dat" id="page1014.text.div.2.p.1.s.4.w.16"/>
-            <wref t="openbaring" id="page1014.text.div.2.p.1.s.4.w.17"/>
-            <wref t="in" id="page1014.text.div.2.p.1.s.4.w.18"/>
-            <wref t="principe" id="page1014.text.div.2.p.1.s.4.w.19"/>
-            <wref t="aan" id="page1014.text.div.2.p.1.s.4.w.20"/>
-            <wref t="alle" id="page1014.text.div.2.p.1.s.4.w.21"/>
-            <wref t="mensen" id="page1014.text.div.2.p.1.s.4.w.22"/>
-            <wref t="gegeven" id="page1014.text.div.2.p.1.s.4.w.23"/>
-            <wref t="kan" id="page1014.text.div.2.p.1.s.4.w.24"/>
-            <wref t="worden" id="page1014.text.div.2.p.1.s.4.w.25"/>
-            <wref t="," id="page1014.text.div.2.p.1.s.4.w.26"/>
-            <wref t="tijdens" id="page1014.text.div.2.p.1.s.4.w.27"/>
-            <wref t="bijvoorbeeld" id="page1014.text.div.2.p.1.s.4.w.28"/>
-            <wref t="gebed" id="page1014.text.div.2.p.1.s.4.w.29"/>
-            <wref t="," id="page1014.text.div.2.p.1.s.4.w.30"/>
-            <wref t="meditatie" id="page1014.text.div.2.p.1.s.4.w.31"/>
-            <wref t="of" id="page1014.text.div.2.p.1.s.4.w.32"/>
-            <wref t="aanbidding" id="page1014.text.div.2.p.1.s.4.w.33"/>
-            <wref t="van" id="page1014.text.div.2.p.1.s.4.w.34"/>
-            <wref t="God" id="page1014.text.div.2.p.1.s.4.w.35"/>
-            <wref t="." id="page1014.text.div.2.p.1.s.4.w.36"/>
-            <wref t="Openbaring" id="page1014.text.div.2.p.1.s.5.w.1"/>
-            <wref t="of" id="page1014.text.div.2.p.1.s.5.w.2"/>
-            <wref t="vermeende" id="page1014.text.div.2.p.1.s.5.w.3"/>
-            <wref t="openbaring" id="page1014.text.div.2.p.1.s.5.w.4"/>
-            <wref t="heeft" id="page1014.text.div.2.p.1.s.5.w.5"/>
-            <wref t="in" id="page1014.text.div.2.p.1.s.5.w.6"/>
-            <wref t="al" id="page1014.text.div.2.p.1.s.5.w.7"/>
-            <wref t="deze" id="page1014.text.div.2.p.1.s.5.w.8"/>
-            <wref t="tradities" id="page1014.text.div.2.p.1.s.5.w.9"/>
-            <wref t="en" id="page1014.text.div.2.p.1.s.5.w.10"/>
-            <wref t="overleveringen" id="page1014.text.div.2.p.1.s.5.w.11"/>
-            <wref t="verschillende" id="page1014.text.div.2.p.1.s.5.w.12"/>
-            <wref t="vormen" id="page1014.text.div.2.p.1.s.5.w.13"/>
-            <wref t="aangenomen" id="page1014.text.div.2.p.1.s.5.w.14"/>
-            <wref t="." id="page1014.text.div.2.p.1.s.5.w.15"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.1" t="Zo"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.2" t="kent"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.3" t="men"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.4" t="bijvoorbeeld"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.5" t="een"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.6" t="hoorbaar"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.7" t="gesproken"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.8" t="openbaring"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.9" t=","/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.10" t="een"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.11" t="inspiratie"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.12" t="van"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.13" t="gedachten"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.14" t="("/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.15" t="als"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.16" t="een"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.17" t="communicatie"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.18" t="van"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.19" t="de"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.20" t="geest"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.21" t="van"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.22" t="God"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.23" t="naar"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.24" t="de"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.25" t="menselijke"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.26" t="geest"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.27" t=")"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.28" t="en"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.29" t="handelingen"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.30" t="die"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.31" t="de"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.32" t="wil"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.33" t="van"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.34" t="God"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.35" t="zouden"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.36" t="openbaren"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.37" t=","/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.38" t="en"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.39" t="een"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.40" t="geschreven"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.41" t="openbaring"/>
-            <wref id="page1014.text.div.2.p.2.s.1.w.42" t="."/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.1" t="De"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.2" t="boeken"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.3" t="van"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.4" t="de"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.5" t="Tenach"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.6" t="worden"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.7" t="binnen"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.8" t="de"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.9" t="joodse"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.10" t="traditie"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.11" t="beschouwd"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.12" t="als"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.13" t="producten"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.14" t="van"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.15" t="goddelijke"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.16" t="openbaring"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.17" t="aan"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.18" t="en"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.19" t="via"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.20" t="diverse"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.21" t="joodse"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.22" t="individuen"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.23" t="uit"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.24" t="de"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.25" t="geschiedenis"/>
-            <wref id="page1014.text.div.2.p.2.s.2.w.26" t="."/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.1" t="Binnen"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.2" t="de"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.3" t="christelijke"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.4" t="traditie"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.5" t="wordt"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.6" t="dit"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.7" t="onderschreven"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.8" t=","/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.9" t="maar"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.10" t="daar"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.11" t="worden"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.12" t="tevens"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.13" t="de"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.14" t="boeken"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.15" t="van"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.16" t="het"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.17" t="Nieuwe"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.18" t="Testament"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.19" t="beschouwd"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.20" t="als"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.21" t="producten"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.22" t="van"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.23" t="goddelijke"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.24" t="openbaring"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.25" t="aan"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.26" t="en"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.27" t="via"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.28" t="een"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.29" t="groot"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.30" t="aantal"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.31" t="verschillende"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.32" t="mensen"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.33" t=","/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.34" t="eveneens"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.35" t="afkomstig"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.36" t="uit"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.37" t="het"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.38" t="jodendom"/>
-            <wref id="page1014.text.div.2.p.2.s.3.w.39" t="."/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.1" t="De"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.2" t="islam"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.3" t="leert"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.4" t="dat"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.5" t="zowel"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.6" t="de"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.7" t="Tenach"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.8" t="als"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.9" t="het"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.10" t="Nieuwe"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.11" t="Testament"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.12" t="bewust"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.13" t="gecorrumpeerd"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.14" t="en"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.15" t="vervalst"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.16" t="zijn"/>
-            <wref id="page1014.text.div.2.p.3.s.1.w.17" t="."/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.1" t="Moslims"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.2" t="houden"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.3" t="vast"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.4" t="aan"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.5" t="het"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.6" t="geloof"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.7" t="dat"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.8" t="de"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.9" t="koran"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.10" t="de"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.11" t="enige"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.12" t="betrouwbare"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.13" t="representatie"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.14" t="is"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.15" t="van"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.16" t="goddelijke"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.17" t="openbaring"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.18" t=","/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.19" t="die"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.20" t="exclusief"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.21" t="via"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.22" t="één"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.23" t="persoon"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.24" t=","/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.25" t="de"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.26" t="profeet"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.27" t="Mohammed"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.28" t=","/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.29" t="aan"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.30" t="de"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.31" t="mensen"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.32" t="gegeven"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.33" t="is"/>
-            <wref id="page1014.text.div.2.p.3.s.2.w.34" t="."/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.1" t="Over"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.2" t="hoe"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.3" t="openbaring"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.4" t="werkt"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.5" t="en"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.6" t="wat"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.7" t="iemand"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.8" t="precies"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.9" t="bedoelt"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.10" t="wanneer"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.11" t="hij"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.12" t="/"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.13" t="zij"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.14" t="zegt"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.15" t="dat"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.16" t="een"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.17" t="bepaald"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.18" t="boek"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.19" t="'"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.20" t="goddelijk"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.21" t="geïnspireerd"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.22" t="'"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.23" t="is"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.24" t=","/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.25" t="wordt"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.26" t="verschillend"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.27" t="gedacht"/>
-            <wref id="page1014.text.div.2.p.4.s.1.w.28" t="."/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.1" t="Neopaganisme"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.2" t="leert"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.3" t="dat"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.4" t="communicatie"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.5" t="van"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.6" t="de"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.7" t="goden"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.8" t="gewoonlijk"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.9" t="direct"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.10" t="en"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.11" t="ervaringsgericht"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.12" t="is"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.13" t=";"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.14" t="zij"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.15" t="kennen"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.16" t="niet"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.17" t="de"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.18" t="concepten"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.19" t="van"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.20" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.21" t="geschrift"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.22" t=","/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.23" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.24" t="profeet"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.25" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.26" t="of"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.27" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.28" t="openbaring"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.29" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.30" t="in"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.31" t="de"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.32" t="betekenis"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.33" t="die"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.34" t="de"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.35" t="drie"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.36" t="abrahamitische"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.37" t="godsdiensten"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.38" t="eraan"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.39" t="geven"/>
-            <wref id="page1014.text.div.2.p.5.s.1.w.40" t="."/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.1" t="Men"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.2" t="gelooft"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.3" t="dat"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.4" t="normaal"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.5" t="gesproken"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.6" t="een"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.7" t="goddelijke"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.8" t="boodschap"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.9" t="direct"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.10" t="doorgegeven"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.11" t="wordt"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.12" t="aan"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.13" t="de"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.14" t="persoon"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.15" t="of"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.16" t="de"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.17" t="personen"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.18" t="voor"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.19" t="wie"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.20" t="ze"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.21" t="bedoeld"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.22" t="is"/>
-            <wref id="page1014.text.div.2.p.5.s.2.w.23" t="."/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.1" t="In"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.2" t="sommige"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.3" t="tradities"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.4" t="wordt"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.5" t="een"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.6" t="zogenaamd"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.7" t="openbaringsritueel"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.8" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.9" t="drawing"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.10" t="down"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.11" t="the"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.12" t="moon"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.13" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.14" t="genoemd"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.15" t=","/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.16" t="wat"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.17" t="iets"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.18" t="als"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.19" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.20" t="het"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.21" t="oproepen"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.22" t="of"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.23" t="aantrekken"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.24" t="van"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.25" t="de"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.26" t="maan"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.27" t="'"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.28" t="betekent"/>
-            <wref id="page1014.text.div.2.p.5.s.3.w.29" t="."/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.1" t="Daarbij"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.2" t="roept"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.3" t="een"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.4" t="hogepriesteres"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.5" t="("/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.6" t="soms"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.7" t="een"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.8" t="hogepriester"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.9" t=")"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.10" t="de"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.11" t="godin"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.12" t="aan"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.13" t="en"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.14" t="geeft"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.15" t="de"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.16" t="naar"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.17" t="men"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.18" t="meent"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.19" t="goddelijk"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.20" t="geïnspireerde"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.21" t="woorden"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.22" t="door"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.23" t="aan"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.24" t="de"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.25" t="verzamelde"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.26" t="gelovigen"/>
-            <wref id="page1014.text.div.2.p.5.s.4.w.27" t="."/>
-            <wref id="page1014.text.div.2.p.5.s.5.w.1" t="Dit"/>
-            <wref id="page1014.text.div.2.p.5.s.5.w.2" t="ritueel"/>
-            <wref id="page1014.text.div.2.p.5.s.5.w.3" t="wordt"/>
-            <wref id="page1014.text.div.2.p.5.s.5.w.4" t="het"/>
-            <wref id="page1014.text.div.2.p.5.s.5.w.5" t="meest"/>
-          </observation>
-        </observations>
       </p>
       <p xml:id="page1014.text.div.2.p.2">
         <s xml:id="page1014.text.div.2.p.2.s.1">
@@ -8953,11 +8067,5 @@
         </s>
       </p>
     </div>
-    <observations>
-      <observation class="uncertain" xml:id="page1014.text.observation.3">
-        <wref t="opperwezen" id="page1014.text.quote.1.p.1.s.1.w.27"/>
-        <wref t="Met" id="page1014.text.p.1.s.1.w.1"/>
-      </observation>
-    </observations>
   </text>
 </FoLiA>

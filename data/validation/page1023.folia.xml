@@ -5,7 +5,6 @@
       <style-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/styles.foliaset.xml"/>
       <division-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/divisions.foliaset.xml"/>
       <token-annotation annotator="ucto" annotatortype="auto" datetime="2017-10-01T17:32:11" set="tokconfig-nld"/>
-      <observation-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml"/>
       <correction-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml"/>
     </annotations>
     <meta id="language">nld</meta>
@@ -1533,11 +1532,6 @@
           <w class="PUNCTUATION" xml:id="page1023.text.list.2.item.9.s.3.w.13">
             <t>.</t>
           </w>
-          <observations>
-            <observation class="uncertain" xml:id="page1023.text.observation.1">
-              <wref t="linken" id="page1023.text.list.2.item.9.s.3.w.3"/>
-            </observation>
-          </observations>
         </s>
       </item>
       <item xml:id="page1023.text.list.2.item.10">

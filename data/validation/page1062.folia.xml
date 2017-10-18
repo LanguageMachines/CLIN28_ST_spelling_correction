@@ -4,7 +4,6 @@
     <annotations>
       <style-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/styles.foliaset.xml"/>
       <token-annotation annotator="ucto" annotatortype="auto" datetime="2017-10-01T17:32:15" set="tokconfig-nld"/>
-      <observation-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml"/>
       <correction-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml"/>
     </annotations>
     <meta id="language">nld</meta>
@@ -273,41 +272,6 @@
         <w class="PUNCTUATION" xml:id="page1062.text.p.2.s.2.w.43">
           <t>.</t>
         </w>
-        <observations>
-          <observation class="uncertain" xml:id="page1062.text.observation.4">
-            <wref t="de" id="page1062.text.p.2.s.2.w.7"/>
-          </observation>
-          <observation class="uncertain" xml:id="page1062.text.observation.5">
-            <wref id="page1062.text.p.5.s.1.w.16" t="de"/>
-            <wref id="page1062.text.p.5.s.1.w.17" t="sherpa's"/>
-            <wref id="page1062.text.p.5.s.1.w.18" t=","/>
-            <wref id="page1062.text.p.5.s.1.w.19" t="tot"/>
-            <wref id="page1062.text.p.5.s.1.w.20" t="op"/>
-            <wref id="page1062.text.p.5.s.1.w.21" t="grote"/>
-            <wref id="page1062.text.p.5.s.1.w.22" t="hoogte"/>
-            <wref id="page1062.text.p.5.s.1.w.23" t="worden"/>
-            <wref id="page1062.text.p.5.s.1.w.24" t="begeleid"/>
-            <wref id="page1062.text.p.5.s.1.w.25" t="."/>
-            <wref id="page1062.text.p.6.s.1.w.1" t="De"/>
-            <wref id="page1062.text.p.6.s.1.w.2" t="Himalaya"/>
-            <wref id="page1062.text.p.6.s.1.w.3" t="is"/>
-            <wref id="page1062.text.p.6.s.1.w.4" t="een"/>
-            <wref id="page1062.text.p.6.s.1.w.5" t="geologisch"/>
-            <wref id="page1062.text.p.6.s.1.w.6" t="jong"/>
-            <wref id="page1062.text.p.6.s.1.w.7" t="gebergte"/>
-            <wref id="page1062.text.p.6.s.1.w.8" t=","/>
-            <wref id="page1062.text.p.6.s.1.w.9" t="het"/>
-            <wref id="page1062.text.p.6.s.1.w.10" t="is"/>
-            <wref id="page1062.text.p.6.s.1.w.11" t="ontstaan"/>
-            <wref id="page1062.text.p.6.s.1.w.12" t="tijdens"/>
-            <wref id="page1062.text.p.6.s.1.w.13" t="de"/>
-            <wref id="page1062.text.p.6.s.1.w.14" t="alpiene"/>
-            <wref id="page1062.text.p.6.s.1.w.15" t="orogenese"/>
-            <wref id="page1062.text.p.6.s.1.w.16" t="tijdens"/>
-            <wref id="page1062.text.p.6.s.1.w.17" t="het"/>
-            <wref id="page1062.text.p.6.s.1.w.18" t="tertiair"/>
-          </observation>
-        </observations>
       </s>
       <s xml:id="page1062.text.p.2.s.3">
         <w class="WORD" xml:id="page1062.text.p.2.s.3.w.1">
@@ -385,11 +349,6 @@
         <w class="PUNCTUATION" xml:id="page1062.text.p.2.s.4.w.11">
           <t>.</t>
         </w>
-        <observations>
-          <observation class="uncertain" xml:id="page1062.text.observation.2">
-            <wref t="ligt" id="page1062.text.p.2.s.4.w.4"/>
-          </observation>
-        </observations>
       </s>
     </p>
     <p xml:id="page1062.text.p.3">
@@ -655,12 +614,6 @@
         <w class="PUNCTUATION" xml:id="page1062.text.p.5.s.1.w.25">
           <t>.</t>
         </w>
-        <observations>
-          <observation class="uncertain" xml:id="page1062.text.observation.1">
-            <wref t="berggidsen" id="page1062.text.p.5.s.1.w.12"/>
-            <wref t="," id="page1062.text.p.5.s.1.w.13"/>
-          </observation>
-        </observations>
       </s>
     </p>
     <p xml:id="page1062.text.p.6">
@@ -788,11 +741,6 @@
         <w class="PUNCTUATION" xml:id="page1062.text.p.6.s.1.w.37">
           <t>.</t>
         </w>
-        <observations>
-          <observation class="uncertain" xml:id="page1062.text.observation.3">
-            <wref t="Euraziatische" id="page1062.text.p.6.s.1.w.33"/>
-          </observation>
-        </observations>
       </s>
     </p>
   </text>
