@@ -152,7 +152,7 @@ The evaluation script will be published as soon as possible in this repository.
 
 For this task we would like to encourage practice of good and sustainable academic software development. We therefore
 encourage participants to make their software for this task publicly available as open source. We will judge the
-software for this task using the CLARIAH Software Quality Survey and the highest scoring system (i.e. not necessarily
+software for this task using the [CLARIAH Software Quality Survey](http://softwarequality.clariah.nl/) and the highest scoring system (i.e. not necessarily
 the most performant system!) will be awarded an honourable mention.
 
 ## Important dates
