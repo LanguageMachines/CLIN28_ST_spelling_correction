@@ -148,6 +148,13 @@ The spelling corrector is not requested to predict the class of the spelling err
 
 The evaluation script will be published as soon as possible in this repository.
 
+## Good Software development
+
+For this task we would like to encourage practice of good and sustainable academic software development. We therefore
+encourage participants to make their software for this task publicly available as open source. We will judge the
+software for this task using the CLARIAH Software Quality Survey and the highest scoring system (i.e. not necessarily
+the most performant system!) will be awarded an honourable mention.
+
 ## Important dates
 
 * 31 October 2017: full validation data set online
