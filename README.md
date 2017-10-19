@@ -4,7 +4,13 @@
 
 This repository harbors the scripts for handling the data that is part of the CLIN28 shared task on spelling correction.
 
-Automatic spell checking and correction has been subject of research for decades. Although state of the art spell checkers perform reasonably well for everyday-life applications, reaching high accuracy remains to be a challenging task. This shared task focuses on the detection and correction of spelling errors in Dutch Wikipedia texts. Wikipedia articles aim to be standard-Dutch texts, which may contain jargon. In particular, this task addresses the detection and correction of the types of spelling errors listed below:
+Automatic spell checking and correction has been subject of research for decades. Although state of the art spell checkers perform reasonably well for everyday-life applications, reaching high accuracy remains to be a challenging task. This shared task focuses on the detection and correction of spelling errors in Dutch Wikipedia texts. Wikipedia articles aim to be standard-Dutch texts, which may contain jargon. In particular, this task addresses the detection and correction of the types of spelling errors listed in the next section.
+
+Note the following:
+* Submitted spelling correctors will be evaluated for detection and correction of these – and only these – types of errors.
+* The spelling errors do not have to be categorized into the categories that are listed below – only detected and corrected.
+* In case of officially accepted spelling variation or doubt about the correct spelling, all correct variants are accepted.
+* The corrections are evaluated in accordance with the Woordenlijst Nederlandse Taal (http://woordenlijst.org/) and the Leidraad (http://woordenlijst.org/leidraad).
 
 ## Errors to detect and correct
 
