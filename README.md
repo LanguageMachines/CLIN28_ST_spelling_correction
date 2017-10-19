@@ -104,10 +104,11 @@ This example shows one correction.
 * ``text`` - The text of the correction, i.e. the new word(s). This text may be an empty string in case of a deletion
   (e.g. redundant word/punctuation), or may consist of multiple space separated words in case of a run-on
   error (for example *naarhuis* -> *naar huis*).
-* ``after`` - Should be used instead of ``span`` in cases of an insertion (insertion of a new word/token where
+* ``after`` (instead of ``span``)  - Should be used instead of ``span`` in cases of an insertion (insertion of a new word/token where
   previously none existed). The value is a string and is the ID of the word **after which** the correction is to be
   inserted.
-* ``class`` - The type of the error; i.e. one of the classes defined in [our set definition](https://github.com/proycon/folia/blob/master/setdefinitions/spellingcorrection.foliaset.xml) (use the IDs, not the labels!). Your system does **not** need to output this, it merely serves as extra information in the gold standard.
+* ``confidence`` (optional) - A floating number between 0.0 and 1.0 indicating the confidence in this correction. (If not explicitly mentioned, 1.0 is assumed)
+* ``class`` (optional) - The type of the error; i.e. one of the classes defined in [our set definition](https://github.com/proycon/folia/blob/master/setdefinitions/spellingcorrection.foliaset.xml) (use the IDs, not the labels!). Your system does **not** need to output this, it merely serves as extra information in the gold standard.
 
 Note that all JSON for this task should be UTF-8 encoded.
 
