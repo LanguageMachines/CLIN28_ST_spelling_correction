@@ -100,7 +100,6 @@ This example shows one correction.
   documents.
 
 **Correction specification:**
-* ``class`` - The type of the error; should be one of the classes defined in [our set definition](https://github.com/proycon/folia/blob/master/setdefinitions/spellingcorrection.foliaset.xml) (use the IDs, not the labels!). These are case sensitive.
 * ``span`` - A list of word IDs to which this correction applies.
 * ``text`` - The text of the correction, i.e. the new word(s). This text may be an empty string in case of a deletion
   (e.g. redundant word/punctuation), or may consist of multiple space separated words in case of a run-on
@@ -108,6 +107,7 @@ This example shows one correction.
 * ``after`` - Should be used instead of ``span`` in cases of an insertion (insertion of a new word/token where
   previously none existed). The value is a string and is the ID of the word **after which** the correction is to be
   inserted.
+* ``class`` - The type of the error; i.e. one of the classes defined in [our set definition](https://github.com/proycon/folia/blob/master/setdefinitions/spellingcorrection.foliaset.xml) (use the IDs, not the labels!). Your system does **not** need to output this, it merely serves as extra information in the gold standard.
 
 Note that all JSON for this task should be UTF-8 encoded.
 
@@ -133,17 +133,17 @@ Some things to keep in mind:
 ## Evaluation
 
 Detection and correction of spelling errors in the (to be released) test documents are evaluated separately, in the following way:
-* Matching the detected errors to the marked errors in the gold standard annotation: 
+* Matching the detected errors to the marked errors in the gold standard annotation:
   * Precision will be measured as the proportion of correctly detected errors by the corrector in all test documents.
   * Recall will be measured as the proportion of the marked errors in the gold standard annotations of all test documents that were detected by the corrector.
   * The F-score is the harmonic mean of the precision and recall.
-  * The Precision, Recall and F-score of correctors that include a certainty with their corrections can be evaluated at different levels of strictness.  
+  * The Precision, Recall and F-score of correctors that include a certainty with their corrections can be evaluated at different levels of strictness.
 * Matching the proposed corrections of detected errors by the spelling corrector to the corrections made in the gold standard annotations:
   * Precision will be measured as the proportion of corrections in all test documents that match the correction in the gold standard annotations.
   * Recall will be measured as the proportion of marked errors in the gold standard annotations of all test documents that were corrected well by the spelling corrector.
   * The F-score is the harmonic mean of the precision and recall.
 
-The spelling corrector is not requested to predict the class of the spelling error. These classes are marked in order to describe the quality of submissions in more detail.  
+The spelling corrector is not requested to predict the class of the spelling error. These classes are marked in order to describe the quality of submissions in more detail.
 
 The evaluation script will be published as soon as possible in this repository.
 
