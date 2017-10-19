@@ -132,11 +132,16 @@ Some things to keep in mind:
 
 ## Evaluation
 
-Detection and correction of spelling errors in the (to be released) test documents are evaluated separately, in terms of precision, recall and F-score. The script for automatic evaluation of the submissions will be published as soon as possible in this repository.
+Detection and correction of spelling errors in the (to be released) test documents are evaluated separately, in the following way:
+* Matching the detected errors to the gold standard errors - Precision, Recall and F-score
+* Matching the corrections of detected errors to the gold standard corrections - Precision, Recall and F-score
+* The spelling corrector is not requested to predict the class of the spelling error. These classes are included to be able to describe the quality of submissions in more detail.  
+
+The evaluation script will be published as soon as possible in this repository.
 
 ## Important dates
 
-* 31 October 2017: full validation data set and Valkuil demonstration online
+* 31 October 2017: full validation data set online
 * 1 December: test data online
 * 22 December 2017: deadline for submission of source code and output
 * 8 January 2018: feedback to submissions
