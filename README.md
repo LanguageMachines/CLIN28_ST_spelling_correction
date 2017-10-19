@@ -143,7 +143,7 @@ Detection and correction of spelling errors in the (to be released) test documen
   * Recall will be measured as the proportion of marked errors in the gold standard annotations of all test documents that were corrected well by the spelling corrector.
   * The F-score is the harmonic mean of the precision and recall.
 
-The spelling corrector is not requested to predict the class of the spelling error. These classes are annotated in order to describe the quality of submissions in more detail.  
+The spelling corrector is not requested to predict the class of the spelling error. These classes are marked in order to describe the quality of submissions in more detail.  
 
 The evaluation script will be published as soon as possible in this repository.
 
