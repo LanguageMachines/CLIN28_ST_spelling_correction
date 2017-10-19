@@ -99,7 +99,7 @@ This example shows one correction.
 **Word Specification**:
 * ``text`` - The text of the word/token, a string
 * ``id`` - The ID of the word/token (string). This is used to refer back to the token. Note that although the ID often has implicit numbering indicating ordering, this is **NOT** guaranteed. The order of the words should be derived from the order they appear in the ``words`` list only. IDs are case sensitive!
-* ``space`` - A boolean indicating whether the word/token is followed by a space. This can be used to reconstructed the
+* ``space`` - A boolean indicating whether the word/token is followed by a space. This can be used to reconstruct the
   text prior to tokenisation.
 * ``in`` - This refers to the ID of the structural element in which the word occurs, almost always a sentence. Sentence
   breaks can be detected by changes in this value. For more structural information, you'll need the original FoLiA
@@ -121,7 +121,7 @@ Note that all JSON for this task should be UTF-8 encoded.
 #### FoLiA
 
 The JSON option is the simpler and sufficient option for this task. But if you want to leverage the full
-information available in the input document, you can fall back to use the original FoLiA input.
+information available in the input document, you can fall back on using the original FoLiA input.
 
 The FoLiA format is extensively documented; consult the [FoLiA website](https://proycon.github.io/folia), we
 particularly refer to section 2.10.8 on corrections. Python
@@ -134,7 +134,7 @@ The FoLiA documents may also act as a source for further linguistic enrichment u
 #### Notes
 
 Some things to keep in mind:
-* A correction should span one or more words, span should be specified in the right order and may only be consecutive (use multiple corrections if cases of gaps).
+* A correction should span one or more words, span should be specified in the right order and may only be consecutive (use multiple corrections in case of gaps).
 * A correction should span the minimum amount of words/tokens, do not include leading/trailing tokens that are not corrected; E.g for *een en ander* → *één en ander*, correct only *een* → *één*.
 
 ## Evaluation
