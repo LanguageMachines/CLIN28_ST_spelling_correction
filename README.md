@@ -152,6 +152,8 @@ Detection and correction of spelling errors in the (to be released) test documen
 
 The spelling corrector is not requested to predict the class of the spelling error. These classes are marked in order to describe the quality of submissions in more detail.
 
+To evaluate, run ``clin28-evaluate --ref reference.json --out youroutput.json``, see the next section.
+
 ## Tools and Installation
 
 We provide the following tools for validation, evaluation and conversion:
