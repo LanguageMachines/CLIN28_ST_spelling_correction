@@ -8,7 +8,7 @@ class ValidationError(Exception):
 
 class CLIN28JSON:
     def __init__(self, filename):
-        if os.path.exists(filename):
+        if not os.path.exists(filename):
             raise FileExistsError("File not found: " + filename)
 
         with open(filename,'r', encoding='utf-8') as f:
