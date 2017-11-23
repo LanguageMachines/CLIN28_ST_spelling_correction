@@ -39,7 +39,7 @@ def main():
         if found:
             truepos += 1
             if span:
-                print("[DETECTION MATCH] " + ";".join(refcorrection['span']) + ": " + " ".join([ refcorrection[wordid]['text'] for wordid in refcorrection['span'] ]) + " -> " + outcorrection['text'],file=sys.stderr)
+                print("[DETECTION MATCH] " + ";".join(refcorrection['span']) + ": " + " ".join([ refdata[wordid]['text'] for wordid in refcorrection['span'] ]) + " -> " + outcorrection['text'],file=sys.stderr)
             else:
                 print("[DETECTION MATCH] INSERTION AFTER " + refcorrection['after'] + ": " + outcorrection['text'],file=sys.stderr)
 
@@ -52,7 +52,7 @@ def main():
         else:
             falseneg += 1
             if span:
-                print("[DETECTION MISS] " + ";".join(refcorrection['span']) + ": " + " ".join([ refcorrection[wordid]['text'] for wordid in refcorrection['span'] ]) + " -> " + refcorrection['text'],file=sys.stderr)
+                print("[DETECTION MISS] " + ";".join(refcorrection['span']) + ": " + " ".join([ refdata[wordid]['text'] for wordid in refcorrection['span'] ]) + " -> " + refcorrection['text'],file=sys.stderr)
             else:
                 print("[DETECTION MISS] INSERTION AFTER " + refcorrection['after'] + ": " + refcorrection['text'],file=sys.stderr)
 
@@ -60,7 +60,7 @@ def main():
         if 'found' not in outcorrection:
             falsepos += 1
             if span:
-                print("[DETECTION WRONG] " + ";".join(outcorrection['span']) + ": " + " ".join([ outcorrection[wordid]['text'] for wordid in outcorrection['span'] ]) + " -> " + outcorrection['text'],file=sys.stderr)
+                print("[DETECTION WRONG] " + ";".join(outcorrection['span']) + ": " + " ".join([ outdata[wordid]['text'] for wordid in outcorrection['span'] ]) + " -> " + outcorrection['text'],file=sys.stderr)
             else:
                 print("[DETECTION WRONG] INSERTION AFTER " + outcorrection['after'] + ": " + outcorrection['text'],file=sys.stderr)
 
