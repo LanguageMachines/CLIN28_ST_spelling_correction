@@ -160,14 +160,14 @@ We provide the following tools for validation, evaluation and conversion:
  * ``clin28-evaluate`` - Implements the evaluation as specified above: evaluates a JSON output file against a JSON reference file
  * ``clin28-folia2json`` - Converts FoLiA XML to the JSON format for this task
 
-The tools written in Python (3.4 or above!) and available from the Python Package Index, download and install with a
+The tools are written in Python (3.4 or above!) and available from the Python Package Index, download and install with a
 simple:
 
     ``pip3 install clin28tools``
 
-For global installation, you can prepend ``sudo``, but we recommend using a Python virtual environment.
+For global installation, provided you have administrative rights, you can prepend ``sudo``, but we recommend using a Python virtual environment instead.
 
-Alternatively, you can install after cloning this git repository:
+Alternatively, you can install the tools after having cloned this git repository:
 
     ``python3 setup.py install``
 

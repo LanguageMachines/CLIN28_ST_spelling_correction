@@ -52,6 +52,13 @@ class CLIN28JSON:
             for key in correction:
                 if key not in ('text','span','after','confidence','class'):
                     print("WARNING: Unknown key '" + key + "' for correction " + repr(correction) + " will be ignored!",file=sys.stderr)
+                if key == 'confidence':
+                    try:
+                        correction['confidence'] = float(correction['confidence'])
+                    except:
+                        raise ValidationError("Invalid confidence value (" + str(correction['confidence']) + ") " + repr(correction))
+                    if correction['confidence'] < 0 or correction['confidence'] > 0:
+                        raise ValidationError("Confidence value out of bounds (" + str(correction['confidence']) + ") " + repr(correction))
 
     def words(self):
         for word in self.data['words']:
