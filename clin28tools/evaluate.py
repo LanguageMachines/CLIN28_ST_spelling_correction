@@ -45,14 +45,24 @@ def main():
 
             if refcorrection['text'] == outcorrection['text']: #case sensitive!
                 correct += 1
+                print("\t[CORRECT]",file=sys.stderr)
             else:
                 incorrect += 1
+                print("\t[INCORRECT] Should be: " + refcorrection['text'],file=sys.stderr)
         else:
             falseneg += 1
+            if span:
+                print("[DETECTION MISS] " + ";".join(refcorrection['span']) + ": " + " ".join([ refcorrection[wordid]['text'] for wordid in refcorrection['span'] ]) + " -> " + refcorrection['text'],file=sys.stderr)
+            else:
+                print("[DETECTION MISS] INSERTION AFTER " + refcorrection['after'] + ": " + refcorrection['text'],file=sys.stderr)
 
     for outcorrection in outdata.corrections():
         if 'found' not in outcorrection:
             falsepos += 1
+            if span:
+                print("[DETECTION WRONG] " + ";".join(outcorrection['span']) + ": " + " ".join([ outcorrection[wordid]['text'] for wordid in outcorrection['span'] ]) + " -> " + outcorrection['text'],file=sys.stderr)
+            else:
+                print("[DETECTION WRONG] INSERTION AFTER " + outcorrection['after'] + ": " + outcorrection['text'],file=sys.stderr)
 
 
     evaluation = {
