@@ -11,7 +11,7 @@ class CLIN28JSON:
         if not os.path.exists(filename):
             raise FileExistsError("File not found: " + filename)
 
-        with open(filename,'r', encoding='utf-8') as f:
+        with open(filename,'rb') as f:
             reader = codecs.getreader('utf-8')
             try:
                 self.data = json.load(reader(f))
@@ -28,7 +28,7 @@ class CLIN28JSON:
         if 'corrections' not in self.data:
             return ValidationError("No corrections found")
         for key in self.data:
-            if key not in ('text','corrections'):
+            if key not in ('words','corrections'):
                 print("WARNING: Unknown key '" + key + "' will be ignored!",file=sys.stderr)
         for word in self.words():
             if 'id' not in word or not word['id']:
