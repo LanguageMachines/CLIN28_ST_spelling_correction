@@ -152,7 +152,24 @@ Detection and correction of spelling errors in the (to be released) test documen
 
 The spelling corrector is not requested to predict the class of the spelling error. These classes are marked in order to describe the quality of submissions in more detail.
 
-The evaluation script will be published as soon as possible in this repository.
+## Tools and Installation
+
+We provide the following tools for validation, evaluation and conversion:
+
+ * ``clin28-validator`` - Validates whether the JSON is valid. (**Use this on your system output prior to submission!**)
+ * ``clin28-evaluate`` - Implements the evaluation as specified above: evaluates a JSON output file against a JSON reference file
+ * ``clin28-folia2json`` - Converts FoLiA XML to the JSON format for this task
+
+The tools written in Python (3.4 or above!) and available from the Python Package Index, download and install with a
+simple:
+
+    ``pip3 install clin28tools``
+
+For global installation, you can prepend ``sudo``, but we recommend using a Python virtual environment.
+
+Alternatively, you can install after cloning this git repository:
+
+    ``python3 setup.py install``
 
 ## Good Software development
 

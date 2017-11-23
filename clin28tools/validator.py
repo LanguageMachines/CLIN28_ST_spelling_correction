@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 
 import sys
-import os.path
 import argparse
-import json
-import codecs
 from clin28tools.format import CLIN28JSON
 
 def main():
