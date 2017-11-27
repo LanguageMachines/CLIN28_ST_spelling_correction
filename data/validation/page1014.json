@@ -2,7 +2,7 @@
     "words": [
         {
             "id": "page1014.text.quote.1.p.1.s.1.w.1",
-            "text": "Zie",
+            "text": "zie",
             "space": true,
             "in": "page1014.text.quote.1.p.1.s.1"
         },
@@ -6625,12 +6625,6 @@
             "in": "page1014.text.div.1.div.2.p.2.s.4"
         },
         {
-            "id": "page1014.text.div.1.div.2.p.2.s.4.w.9",
-            "text": "#",
-            "space": false,
-            "in": "page1014.text.div.1.div.2.p.2.s.4"
-        },
-        {
             "id": "page1014.text.div.1.div.2.p.2.s.4.w.10",
             "text": "Abrahamitisch-monotheïstische",
             "space": true,
@@ -7240,12 +7234,6 @@
             "id": "page1014.text.div.1.div.2.p.5.s.1.w.4",
             "text": "zie",
             "space": true,
-            "in": "page1014.text.div.1.div.2.p.5.s.1"
-        },
-        {
-            "id": "page1014.text.div.1.div.2.p.5.s.1.w.5",
-            "text": "`",
-            "space": false,
             "in": "page1014.text.div.1.div.2.p.5.s.1"
         },
         {
@@ -8740,24 +8728,6 @@
             "id": "page1014.text.div.1.div.4.p.2.s.3.w.10",
             "text": ")",
             "space": false,
-            "in": "page1014.text.div.1.div.4.p.2.s.3"
-        },
-        {
-            "id": "page1014.text.div.1.div.4.p.2.s.3.w.11",
-            "text": "#",
-            "space": false,
-            "in": "page1014.text.div.1.div.4.p.2.s.3"
-        },
-        {
-            "id": "page1014.text.div.1.div.4.p.2.s.3.w.12",
-            "text": "Schepper",
-            "space": true,
-            "in": "page1014.text.div.1.div.4.p.2.s.3"
-        },
-        {
-            "id": "page1014.text.div.1.div.4.p.2.s.3.w.13",
-            "text": "God",
-            "space": true,
             "in": "page1014.text.div.1.div.4.p.2.s.3"
         },
         {
@@ -14503,6 +14473,12 @@
             "in": "page1014.text.div.3.p.1.s.2"
         },
         {
+            "id": "page1014.text.div.3.p.1.s.2.w.8",
+            "text": "FOUTJE",
+            "space": true,
+            "in": "page1014.text.div.3.p.1.s.2"
+        },
+        {
             "id": "page1014.text.div.3.p.1.s.2.w.9",
             "text": "wetenschap",
             "space": true,
@@ -14907,14 +14883,14 @@
         {
             "class": "capitalizationerror",
             "span": [
-                "page1014.text.div.1.div.1.p.2.s.1.w.28"
+                "page1014.text.div.1.div.1.list.1.item.1.s.1.w.5"
             ],
-            "text": "god(en)"
+            "text": "goden"
         },
         {
             "class": "capitalizationerror",
             "span": [
-                "page1014.text.div.1.div.1.list.2.item.3.s.1.w.10"
+                "page1014.text.div.1.div.1.p.2.s.1.w.28"
             ],
             "text": "god(en)"
         },
@@ -14926,6 +14902,20 @@
             "text": "klassieke"
         },
         {
+            "class": "capitalizationerror",
+            "span": [
+                "page1014.text.div.1.div.1.list.2.item.10.s.2.w.2"
+            ],
+            "text": "kabbala"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1014.text.div.1.div.1.list.2.item.10.s.2.w.5"
+            ],
+            "text": "joodse"
+        },
+        {
             "class": "spliterror",
             "span": [
                 "page1014.text.div.1.div.1.list.2.item.10.s.4.w.4",
@@ -14934,11 +14924,32 @@
             "text": "hindoegodsdiensten"
         },
         {
+            "class": "confusion",
+            "span": [
+                "page1014.text.div.1.div.2.p.2.s.1.w.1"
+            ],
+            "text": "Volgens"
+        },
+        {
             "class": "redundantpunctuation",
             "span": [
                 "page1014.text.div.1.div.2.p.2.s.2.w.16"
             ],
             "text": "algoedheid"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1014.text.div.1.div.2.p.2.s.4.w.2"
+            ],
+            "text": "Zie"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1014.text.div.1.div.2.p.2.s.4.w.10"
+            ],
+            "text": "abrahamitisch-monotheïstische"
         },
         {
             "class": "capitalizationerror",
@@ -14997,7 +15008,7 @@
             "text": "paus"
         },
         {
-            "class": "redundantpunctuation",
+            "class": "missingpunctuation",
             "span": [
                 "page1014.text.div.1.div.4.p.1.s.2.w.7"
             ],
@@ -15061,13 +15072,6 @@
             "text": "geest"
         },
         {
-            "class": "confusion",
-            "span": [
-                "page1014.text.div.2.p.2.s.1.w.35"
-            ],
-            "text": "zouden"
-        },
-        {
             "class": "capitalizationerror",
             "span": [
                 "page1014.text.div.2.p.3.s.2.w.9"
@@ -15080,13 +15084,6 @@
                 "page1014.text.div.2.p.5.s.1.w.36"
             ],
             "text": "abrahamitische"
-        },
-        {
-            "class": "capitalizationerror",
-            "span": [
-                "page1014.text.div.2.p.5.s.3.w.9"
-            ],
-            "text": "drawing"
         },
         {
             "class": "nonworderror",
