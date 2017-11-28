@@ -741,14 +741,7 @@
                 <t>-</t>
               </w>
               <w xml:id="corrected.7846a620">
-                <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-11-27T12:31:52" xml:id="corrected.7846a620.correction.1">
-                  <new>
-                    <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-27T12:31:52">vooral</t>
-                  </new>
-                  <original auth="no">
-                    <t>meest</t>
-                  </original>
-                </correction>
+                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-27T12:31:52">vooral</t>
               </w>
             </new>
             <original auth="no">
