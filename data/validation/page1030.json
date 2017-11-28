@@ -1,0 +1,2983 @@
+{
+    "words": [
+        {
+            "id": "page1030.text.p.1.s.1.w.1",
+            "text": "HyperText",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.2",
+            "text": "Markup",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.3",
+            "text": "Language",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.4",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.5",
+            "text": "afgekort",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.6",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.7",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.8",
+            "text": "is",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.9",
+            "text": "een",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.10",
+            "text": "formele",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.11",
+            "text": "markup-taal",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.12",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.13",
+            "text": "gebaseerd",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.14",
+            "text": "op",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.15",
+            "text": "SGML",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.16",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.17",
+            "text": "voor",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.18",
+            "text": "het",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.19",
+            "text": "aangeven",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.20",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.21",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.22",
+            "text": "structuur",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.23",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.24",
+            "text": "een",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.25",
+            "text": "document",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.26",
+            "text": "met",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.27",
+            "text": "behulp",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.28",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.29",
+            "text": "elementen",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.30",
+            "text": "(",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.31",
+            "text": "tags",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.32",
+            "text": ")",
+            "space": false,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.1.w.33",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.p.1.s.2.w.1",
+            "text": "Zo",
+            "space": true,
+            "in": "page1030.text.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.p.1.s.2.w.2",
+            "text": "zijn",
+            "space": true,
+            "in": "page1030.text.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.p.1.s.2.w.3",
+            "text": "er",
+            "space": true,
+            "in": "page1030.text.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.p.1.s.2.w.4",
+            "text": "elementen",
+            "space": true,
+            "in": "page1030.text.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.p.1.s.2.w.5",
+            "text": "om",
+            "space": true,
+            "in": "page1030.text.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.p.1.s.2.w.6",
+            "text": "koppen",
+            "space": true,
+            "in": "page1030.text.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.p.1.s.2.w.18",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.p.1.s.2.w.19",
+            "text": "alinea's",
+            "space": true,
+            "in": "page1030.text.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.p.1.s.2.w.30",
+            "text": "nadruk",
+            "space": true,
+            "in": "page1030.text.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.p.1.s.2.w.41",
+            "text": "en",
+            "space": true,
+            "in": "page1030.text.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.p.1.s.2.w.42",
+            "text": "hyperlinks",
+            "space": true,
+            "in": "page1030.text.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.p.1.s.2.w.53",
+            "text": "aan",
+            "space": true,
+            "in": "page1030.text.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.p.1.s.2.w.54",
+            "text": "te",
+            "space": true,
+            "in": "page1030.text.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.p.1.s.2.w.55",
+            "text": "geven",
+            "space": false,
+            "in": "page1030.text.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.p.1.s.2.w.56",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.1",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.2",
+            "text": "kan",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.3",
+            "text": "dan",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.4",
+            "text": "ook",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.5",
+            "text": "als",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.6",
+            "text": "output",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.7",
+            "text": "gebruikt",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.8",
+            "text": "worden",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.9",
+            "text": "voor",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.10",
+            "text": "servside",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.11",
+            "text": "talen",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.12",
+            "text": "als",
+            "space": false,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.13",
+            "text": ":",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.14",
+            "text": "PHP",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.15",
+            "text": "en",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.16",
+            "text": "asp",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.1.s.4.w.17",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.1",
+            "text": "De",
+            "space": true,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.2",
+            "text": "'",
+            "space": true,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.3",
+            "text": "hypertext",
+            "space": true,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.4",
+            "text": "'",
+            "space": true,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.5",
+            "text": "in",
+            "space": true,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.6",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.7",
+            "text": "betekent",
+            "space": true,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.8",
+            "text": "dat",
+            "space": true,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.9",
+            "text": "behalve",
+            "space": true,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.10",
+            "text": "tekst",
+            "space": true,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.11",
+            "text": "ook",
+            "space": true,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.12",
+            "text": "hyperlinks",
+            "space": true,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.13",
+            "text": "gebruikt",
+            "space": true,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.14",
+            "text": "kunnen",
+            "space": true,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.15",
+            "text": "worden",
+            "space": false,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.1.w.16",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.1",
+            "text": "Hyperlinks",
+            "space": true,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.2",
+            "text": "zijn",
+            "space": true,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.3",
+            "text": "koppelingen",
+            "space": true,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.4",
+            "text": "tussen",
+            "space": true,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.5",
+            "text": "twee",
+            "space": true,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.6",
+            "text": "woorden",
+            "space": false,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.7",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.8",
+            "text": "frasen",
+            "space": true,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.9",
+            "text": "of",
+            "space": true,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.10",
+            "text": "documenten",
+            "space": false,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.11",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.12",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.13",
+            "text": "veelgebruikte",
+            "space": true,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.14",
+            "text": "links",
+            "space": true,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.15",
+            "text": "op",
+            "space": true,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.16",
+            "text": "het",
+            "space": true,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.17",
+            "text": "internet",
+            "space": false,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.2.s.2.w.18",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.p.2.s.2"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.1",
+            "text": "'",
+            "space": false,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.2",
+            "text": "Websurfers'",
+            "space": false,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.3",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.4",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.5",
+            "text": "gebruikers",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.6",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.7",
+            "text": "het",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.8",
+            "text": "World",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.9",
+            "text": "Wide",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.10",
+            "text": "Web",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.11",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.12",
+            "text": "gebruiken",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.13",
+            "text": "een",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.14",
+            "text": "webbrowser",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.15",
+            "text": "om",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.16",
+            "text": "HTML-documenten",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.17",
+            "text": "weer",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.18",
+            "text": "te",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.19",
+            "text": "geven",
+            "space": false,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.3.s.1.w.20",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.1",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.2",
+            "text": "werd",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.3",
+            "text": "in",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.4",
+            "text": "1991",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.5",
+            "text": "bedacht",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.6",
+            "text": "en",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.7",
+            "text": "ontwikkeld",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.8",
+            "text": "door",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.9",
+            "text": "Tim",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.10",
+            "text": "Berners-Lee",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.11",
+            "text": "om",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.12",
+            "text": "wetenschappelijke",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.13",
+            "text": "documenten",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.14",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.15",
+            "text": "het",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.16",
+            "text": "CERN",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.17",
+            "text": "in",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.18",
+            "text": "Genève",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.19",
+            "text": "gemakkelijker",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.20",
+            "text": "toegankelijk",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.21",
+            "text": "te",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.22",
+            "text": "maken",
+            "space": false,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.1.w.23",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.p.4.s.2.w.1",
+            "text": "Later",
+            "space": true,
+            "in": "page1030.text.p.4.s.2"
+        },
+        {
+            "id": "page1030.text.p.4.s.2.w.2",
+            "text": "werd",
+            "space": true,
+            "in": "page1030.text.p.4.s.2"
+        },
+        {
+            "id": "page1030.text.p.4.s.2.w.3",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.p.4.s.2"
+        },
+        {
+            "id": "page1030.text.p.4.s.2.w.4",
+            "text": "opnieuw",
+            "space": true,
+            "in": "page1030.text.p.4.s.2"
+        },
+        {
+            "id": "page1030.text.p.4.s.2.w.5",
+            "text": "geïmplementeerd",
+            "space": true,
+            "in": "page1030.text.p.4.s.2"
+        },
+        {
+            "id": "page1030.text.p.4.s.2.w.6",
+            "text": "als",
+            "space": true,
+            "in": "page1030.text.p.4.s.2"
+        },
+        {
+            "id": "page1030.text.p.4.s.2.w.7",
+            "text": "een",
+            "space": true,
+            "in": "page1030.text.p.4.s.2"
+        },
+        {
+            "id": "page1030.text.p.4.s.2.w.8",
+            "text": "SGML",
+            "space": true,
+            "in": "page1030.text.p.4.s.2"
+        },
+        {
+            "id": "page1030.text.p.4.s.2.w.9",
+            "text": "-toepassing",
+            "space": false,
+            "in": "page1030.text.p.4.s.2"
+        },
+        {
+            "id": "page1030.text.p.4.s.2.w.10",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.p.4.s.2"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.1",
+            "text": "Het",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.2",
+            "text": "World",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.3",
+            "text": "Wide",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.4",
+            "text": "Web",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.5",
+            "text": "Consortium",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.6",
+            "text": "(",
+            "space": false,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.7",
+            "text": "W",
+            "space": false,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.8",
+            "text": "3C",
+            "space": false,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.9",
+            "text": ")",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.10",
+            "text": "is",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.11",
+            "text": "een",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.12",
+            "text": "organisatie",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.13",
+            "text": "die",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.14",
+            "text": "probeert",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.15",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.16",
+            "text": "kwaliteit",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.17",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.18",
+            "text": "webstandaards",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.19",
+            "text": "te",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.20",
+            "text": "bewaken",
+            "space": false,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.21",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.22",
+            "text": "onder",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.23",
+            "text": "andere",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.24",
+            "text": "door",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.25",
+            "text": "die",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.26",
+            "text": "standaards",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.27",
+            "text": "zelf",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.28",
+            "text": "te",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.29",
+            "text": "ontwikkelen",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.30",
+            "text": "en",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.31",
+            "text": "voor",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.32",
+            "text": "te",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.33",
+            "text": "stellen",
+            "space": false,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.5.s.1.w.34",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.p.5.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.1",
+            "text": "Fabrikanten",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.2",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.3",
+            "text": "webbrowsers",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.4",
+            "text": "hebben",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.5",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.6",
+            "text": "afgelopen",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.7",
+            "text": "jaren",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.8",
+            "text": "zelf",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.9",
+            "text": "uitbreidingen",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.10",
+            "text": "voor",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.11",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.12",
+            "text": "ontwikkeld",
+            "space": false,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.13",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.14",
+            "text": "waardoor",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.15",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.16",
+            "text": "onterechte",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.17",
+            "text": "indruk",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.18",
+            "text": "onder",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.19",
+            "text": "HTML-auteurs",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.20",
+            "text": "(",
+            "space": false,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.21",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.22",
+            "text": "makers",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.23",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.24",
+            "text": "webpagina",
+            "space": false,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.25",
+            "text": "'s",
+            "space": false,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.26",
+            "text": ")",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.27",
+            "text": "is",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.28",
+            "text": "ontstaan",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.29",
+            "text": "dat",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.30",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.31",
+            "text": "een",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.32",
+            "text": "lay-outtaal",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.33",
+            "text": "of",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.34",
+            "text": "typesettingtaal",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.35",
+            "text": "is",
+            "space": false,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.1.w.36",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.p.6.s.1"
+        },
+        {
+            "id": "page1030.text.p.6.s.2.w.1",
+            "text": "Ook",
+            "space": true,
+            "in": "page1030.text.p.6.s.2"
+        },
+        {
+            "id": "page1030.text.p.6.s.2.w.2",
+            "text": "wordt",
+            "space": true,
+            "in": "page1030.text.p.6.s.2"
+        },
+        {
+            "id": "page1030.text.p.6.s.2.w.3",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.p.6.s.2"
+        },
+        {
+            "id": "page1030.text.p.6.s.2.w.4",
+            "text": "ten",
+            "space": true,
+            "in": "page1030.text.p.6.s.2"
+        },
+        {
+            "id": "page1030.text.p.6.s.2.w.5",
+            "text": "onrechte",
+            "space": true,
+            "in": "page1030.text.p.6.s.2"
+        },
+        {
+            "id": "page1030.text.p.6.s.2.w.6",
+            "text": "wel",
+            "space": true,
+            "in": "page1030.text.p.6.s.2"
+        },
+        {
+            "id": "page1030.text.p.6.s.2.w.7",
+            "text": "een",
+            "space": true,
+            "in": "page1030.text.p.6.s.2"
+        },
+        {
+            "id": "page1030.text.p.6.s.2.w.8",
+            "text": "programmeertaal",
+            "space": true,
+            "in": "page1030.text.p.6.s.2"
+        },
+        {
+            "id": "page1030.text.p.6.s.2.w.9",
+            "text": "genoemd",
+            "space": false,
+            "in": "page1030.text.p.6.s.2"
+        },
+        {
+            "id": "page1030.text.p.6.s.2.w.10",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.p.6.s.2"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.1",
+            "text": "De",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.2",
+            "text": "indruk",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.3",
+            "text": "dat",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.4",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.5",
+            "text": "een",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.7",
+            "text": "programeertaal",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.9",
+            "text": "is",
+            "space": false,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.10",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.11",
+            "text": "komt",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.12",
+            "text": "waarschijnlijk",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.13",
+            "text": "doordat",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.14",
+            "text": "in",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.15",
+            "text": "een",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.16",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.17",
+            "text": "pagina",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.18",
+            "text": "wel",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.19",
+            "text": "programma's",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.20",
+            "text": "kunnen",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.21",
+            "text": "worden",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.22",
+            "text": "opgenomen",
+            "space": false,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.3.w.23",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.p.6.s.3"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.1",
+            "text": "Enerzijds",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.2",
+            "text": "in",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.3",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.4",
+            "text": "vorm",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.5",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.6",
+            "text": "objecten",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.8",
+            "text": "(",
+            "space": false,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.9",
+            "text": "Bijvoorbeeld",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.11",
+            "text": "flash-files",
+            "space": false,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.12",
+            "text": ")",
+            "space": false,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.13",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.14",
+            "text": "anderzijds",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.15",
+            "text": "in",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.16",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.17",
+            "text": "vorm",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.18",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.19",
+            "text": "een",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.20",
+            "text": "scripttaal",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.4.w.21",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.p.6.s.4"
+        },
+        {
+            "id": "page1030.text.p.6.s.5.w.1",
+            "text": "Het",
+            "space": true,
+            "in": "page1030.text.p.6.s.5"
+        },
+        {
+            "id": "page1030.text.p.6.s.5.w.2",
+            "text": "zijn",
+            "space": true,
+            "in": "page1030.text.p.6.s.5"
+        },
+        {
+            "id": "page1030.text.p.6.s.5.w.3",
+            "text": "echter",
+            "space": true,
+            "in": "page1030.text.p.6.s.5"
+        },
+        {
+            "id": "page1030.text.p.6.s.5.w.4",
+            "text": "geen",
+            "space": true,
+            "in": "page1030.text.p.6.s.5"
+        },
+        {
+            "id": "page1030.text.p.6.s.5.w.5",
+            "text": "onderdelen",
+            "space": true,
+            "in": "page1030.text.p.6.s.5"
+        },
+        {
+            "id": "page1030.text.p.6.s.5.w.6",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.p.6.s.5"
+        },
+        {
+            "id": "page1030.text.p.6.s.5.w.7",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.p.6.s.5"
+        },
+        {
+            "id": "page1030.text.p.6.s.5.w.8",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.p.6.s.5"
+        },
+        {
+            "id": "page1030.text.p.6.s.5.w.9",
+            "text": "op",
+            "space": true,
+            "in": "page1030.text.p.6.s.5"
+        },
+        {
+            "id": "page1030.text.p.6.s.5.w.10",
+            "text": "zich",
+            "space": false,
+            "in": "page1030.text.p.6.s.5"
+        },
+        {
+            "id": "page1030.text.p.6.s.5.w.11",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.p.6.s.5"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.1",
+            "text": "Het",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.2",
+            "text": "W",
+            "space": false,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.3",
+            "text": "3C",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.4",
+            "text": "probeert",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.5",
+            "text": "deze",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.6",
+            "text": "ontwikkeling",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.7",
+            "text": "tegen",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.8",
+            "text": "te",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.9",
+            "text": "gaan",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.10",
+            "text": "door",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.11",
+            "text": "zelf",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.12",
+            "text": "met",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.13",
+            "text": "een",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.14",
+            "text": "lay-outtaal",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.15",
+            "text": "te",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.16",
+            "text": "komen",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.17",
+            "text": "die",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.18",
+            "text": "gebruikt",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.19",
+            "text": "wordt",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.20",
+            "text": "een",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.21",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.22",
+            "text": "exacte",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.23",
+            "text": "weergave",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.24",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.25",
+            "text": "HTML-elementen",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.26",
+            "text": "mee",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.27",
+            "text": "vast",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.28",
+            "text": "te",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.29",
+            "text": "leggen",
+            "space": false,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.30",
+            "text": ":",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.31",
+            "text": "Cascading",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.32",
+            "text": "Style",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.33",
+            "text": "Sheets",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.34",
+            "text": "(",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.35",
+            "text": "CSS",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.36",
+            "text": ")",
+            "space": false,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.7.s.1.w.37",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.p.7.s.1"
+        },
+        {
+            "id": "page1030.text.p.8.s.1.w.1",
+            "text": "Voorbeeld",
+            "space": true,
+            "in": "page1030.text.p.8.s.1"
+        },
+        {
+            "id": "page1030.text.p.8.s.1.w.2",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.p.8.s.1"
+        },
+        {
+            "id": "page1030.text.p.8.s.1.w.3",
+            "text": "HTML",
+            "space": false,
+            "in": "page1030.text.p.8.s.1"
+        },
+        {
+            "id": "page1030.text.p.8.s.1.w.4",
+            "text": ":",
+            "space": true,
+            "in": "page1030.text.p.8.s.1"
+        },
+        {
+            "id": "page1030.text.div.1.head.1.s.1.w.1",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.div.1.head.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.1.div.1.head.1.s.1.w.1",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.div.1.div.1.head.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.1.div.1.head.1.s.1.w.2",
+            "text": "4",
+            "space": true,
+            "in": "page1030.text.div.1.div.1.head.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.1.div.1.p.1.s.1.w.1",
+            "text": "De",
+            "space": true,
+            "in": "page1030.text.div.1.div.1.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.1.div.1.p.1.s.1.w.2",
+            "text": "laatste",
+            "space": true,
+            "in": "page1030.text.div.1.div.1.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.1.div.1.p.1.s.1.w.3",
+            "text": "versie",
+            "space": true,
+            "in": "page1030.text.div.1.div.1.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.1.div.1.p.1.s.1.w.4",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.div.1.div.1.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.1.div.1.p.1.s.1.w.5",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.div.1.div.1.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.1.div.1.p.1.s.1.w.6",
+            "text": "is",
+            "space": true,
+            "in": "page1030.text.div.1.div.1.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.1.div.1.p.1.s.1.w.7",
+            "text": "4",
+            "space": true,
+            "in": "page1030.text.div.1.div.1.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.head.1.s.1.w.1",
+            "text": "XHTML",
+            "space": true,
+            "in": "page1030.text.div.2.head.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.1",
+            "text": "XHTML",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.2",
+            "text": "(",
+            "space": false,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.3",
+            "text": "Extensible",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.4",
+            "text": "HyperText",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.5",
+            "text": "Markup",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.6",
+            "text": "Language",
+            "space": false,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.7",
+            "text": ")",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.8",
+            "text": "is",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.9",
+            "text": "een",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.10",
+            "text": "vervolgversie",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.11",
+            "text": "op",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.12",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.13",
+            "text": "die",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.14",
+            "text": "voldoet",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.15",
+            "text": "aan",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.16",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.17",
+            "text": "XML",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.18",
+            "text": "specificatie",
+            "space": false,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.1.w.19",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.1",
+            "text": "Belangrijkste",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.2",
+            "text": "verschillen",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.3",
+            "text": "met",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.4",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.5",
+            "text": "oudere",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.6",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.7",
+            "text": "zijn",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.8",
+            "text": "dat",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.9",
+            "text": "elke",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.10",
+            "text": "tag",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.11",
+            "text": "die",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.12",
+            "text": "wordt",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.13",
+            "text": "geopend",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.14",
+            "text": "in",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.15",
+            "text": "XHTML",
+            "space": false,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.16",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.17",
+            "text": "ook",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.18",
+            "text": "moet",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.19",
+            "text": "worden",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.20",
+            "text": "afgesloten",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.21",
+            "text": "en",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.22",
+            "text": "dat",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.23",
+            "text": "alle",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.24",
+            "text": "tags",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.25",
+            "text": "in",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.26",
+            "text": "kleine",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.27",
+            "text": "letters",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.28",
+            "text": "worden",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.29",
+            "text": "geschreven",
+            "space": false,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.30",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.31",
+            "text": "en",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.32",
+            "text": "dat",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.33",
+            "text": "alle",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.34",
+            "text": "mogelijke",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.35",
+            "text": "layout",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.36",
+            "text": "elementen",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.37",
+            "text": "en",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.38",
+            "text": "attributen",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.39",
+            "text": "zijn",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.40",
+            "text": "verwijderd",
+            "space": false,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.2.w.41",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.2"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.3.w.1",
+            "text": "XHTML",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.3"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.3.w.2",
+            "text": "is",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.3"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.3.w.3",
+            "text": "vooral",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.3"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.3.w.4",
+            "text": "een",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.3"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.3.w.5",
+            "text": "strengere",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.3"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.3.w.6",
+            "text": "en",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.3"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.3.w.7",
+            "text": "schonere",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.3"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.3.w.8",
+            "text": "versie",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.3"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.3.w.9",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.3"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.3.w.10",
+            "text": "HTML",
+            "space": false,
+            "in": "page1030.text.div.2.p.1.s.3"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.3.w.11",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.3"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.1",
+            "text": "Alle",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.2",
+            "text": "moderne",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.3",
+            "text": "browsers",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.4",
+            "text": "voorzien",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.5",
+            "text": "in",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.6",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.7",
+            "text": "weergave",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.8",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.9",
+            "text": "XHTML",
+            "space": false,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.10",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.11",
+            "text": "maar",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.12",
+            "text": "ook",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.13",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.14",
+            "text": "oudere",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.15",
+            "text": "browsers",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.16",
+            "text": "kunnen",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.17",
+            "text": "vaak",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.18",
+            "text": "het",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.19",
+            "text": "nieuwere",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.20",
+            "text": "formaat",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.21",
+            "text": "nog",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.22",
+            "text": "prima",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.23",
+            "text": "weergeven",
+            "space": false,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.1.s.4.w.24",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.div.2.p.1.s.4"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.1",
+            "text": "Een",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.2",
+            "text": "volgende",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.3",
+            "text": "versie",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.4",
+            "text": "XHTML",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.5",
+            "text": "2.0",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.6",
+            "text": "is",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.7",
+            "text": "in",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.8",
+            "text": "voorbereiding",
+            "space": false,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.9",
+            "text": ",",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.10",
+            "text": "deze",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.11",
+            "text": "versie",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.12",
+            "text": "is",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.13",
+            "text": "echter",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.14",
+            "text": "controversieel",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.15",
+            "text": "omdat",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.16",
+            "text": "het",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.17",
+            "text": "niet",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.18",
+            "text": "compatible",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.19",
+            "text": "zal",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.20",
+            "text": "zijn",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.21",
+            "text": "met",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.22",
+            "text": "de",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.23",
+            "text": "voorgaande",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.24",
+            "text": "versies",
+            "space": false,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.2.s.1.w.25",
+            "text": ".",
+            "space": true,
+            "in": "page1030.text.div.2.p.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.3.s.1.w.1",
+            "text": "Zie",
+            "space": true,
+            "in": "page1030.text.div.2.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.3.s.1.w.2",
+            "text": "ook",
+            "space": false,
+            "in": "page1030.text.div.2.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.3.s.1.w.3",
+            "text": ":",
+            "space": true,
+            "in": "page1030.text.div.2.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.3.s.1.w.4",
+            "text": "RGB",
+            "space": true,
+            "in": "page1030.text.div.2.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.3.s.1.w.5",
+            "text": "kleursysteem",
+            "space": true,
+            "in": "page1030.text.div.2.p.3.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.4.s.1.w.1",
+            "text": "DHTML",
+            "space": true,
+            "in": "page1030.text.div.2.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.4.s.1.w.2",
+            "text": "DHTML",
+            "space": true,
+            "in": "page1030.text.div.2.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.4.s.1.w.3",
+            "text": "(",
+            "space": false,
+            "in": "page1030.text.div.2.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.4.s.1.w.4",
+            "text": "Dynamic",
+            "space": true,
+            "in": "page1030.text.div.2.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.4.s.1.w.5",
+            "text": "HyperText",
+            "space": true,
+            "in": "page1030.text.div.2.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.4.s.1.w.6",
+            "text": "Markup",
+            "space": true,
+            "in": "page1030.text.div.2.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.4.s.1.w.7",
+            "text": "Language",
+            "space": false,
+            "in": "page1030.text.div.2.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.p.4.s.1.w.8",
+            "text": ")",
+            "space": true,
+            "in": "page1030.text.div.2.p.4.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.head.1.s.1.w.1",
+            "text": "Externe",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.head.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.head.1.s.1.w.2",
+            "text": "Links",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.head.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.1.head.1.s.1.w.1",
+            "text": "Nederlandstalig",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.1.head.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.1.list.1.item.1.s.1.w.1",
+            "text": "http://www.weblessen.nl/",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.1.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.1.list.1.item.2.s.1.w.1",
+            "text": "http://www.handleidinghtml.nl",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.1.list.1.item.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.1.list.1.item.3.s.1.w.1",
+            "text": "http://www.dto.tudelft.nl/mirhtml/",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.1.list.1.item.3.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.1.list.1.item.4.s.1.w.1",
+            "text": "http://home.concepts-ict.nl/",
+            "space": false,
+            "in": "page1030.text.div.2.div.1.div.1.list.1.item.4.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.1.list.1.item.4.s.1.w.2",
+            "text": "~",
+            "space": false,
+            "in": "page1030.text.div.2.div.1.div.1.list.1.item.4.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.1.list.1.item.4.s.1.w.3",
+            "text": "michael1",
+            "space": false,
+            "in": "page1030.text.div.2.div.1.div.1.list.1.item.4.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.1.list.1.item.4.s.1.w.4",
+            "text": "/",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.1.list.1.item.4.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.1.list.1.item.5.s.1.w.1",
+            "text": "http://html.op-het.net/",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.1.list.1.item.5.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.2.head.1.s.1.w.1",
+            "text": "Engels",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.2.head.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.2.list.1.item.1.s.1.w.1",
+            "text": "http://www.w3.org/MarkUp/",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.2.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.2.list.1.item.1.s.1.w.2",
+            "text": "over",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.2.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.2.list.1.item.1.s.1.w.3",
+            "text": "HTML",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.2.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.2.list.1.item.1.s.1.w.4",
+            "text": "van",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.2.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.2.list.1.item.1.s.1.w.5",
+            "text": "W",
+            "space": false,
+            "in": "page1030.text.div.2.div.1.div.2.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.2.list.1.item.1.s.1.w.6",
+            "text": "3C",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.2.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.2.list.1.item.2.s.1.w.1",
+            "text": "http://archive.ncsa.uiuc.edu/General/Internet/WWW/HTMLPrimerAll.html",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.2.list.1.item.2.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.2.list.1.item.3.s.1.w.1",
+            "text": "http://webstandards.org",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.2.list.1.item.3.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.2.list.1.item.3.s.1.w.2",
+            "text": "Web",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.2.list.1.item.3.s.1"
+        },
+        {
+            "id": "page1030.text.div.2.div.1.div.2.list.1.item.3.s.1.w.3",
+            "text": "Standards",
+            "space": true,
+            "in": "page1030.text.div.2.div.1.div.2.list.1.item.3.s.1"
+        }
+    ],
+    "corrections": [
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1030.text.p.6.s.4.w.9"
+            ],
+            "text": "bijvoorbeeld"
+        },
+        {
+            "class": "spliterror",
+            "span": [
+                "page1030.text.div.2.p.1.s.2.w.35",
+                "page1030.text.div.2.p.1.s.2.w.36"
+            ],
+            "text": "lay-out-elementen"
+        },
+        {
+            "class": "confusion",
+            "span": [
+                "page1030.text.div.2.p.2.s.1.w.18"
+            ],
+            "text": "compatibel"
+        },
+        {
+            "class": "spliterror",
+            "span": [
+                "page1030.text.div.2.p.3.s.1.w.4",
+                "page1030.text.div.2.p.3.s.1.w.5"
+            ],
+            "text": "RGB-kleursysteem"
+        },
+        {
+            "class": "redundantword",
+            "span": [
+                "page1030.text.div.2.p.4.s.1.w.1"
+            ],
+            "text": ""
+        }
+    ]
+}
