@@ -22,8 +22,11 @@ def folia2json(doc, docorrections=True):
             print("correction ", correction.id, "structural=", structural,file=sys.stderr)
             if structural:
                 span = []
-                for origword in correction.original().select(folia.Word,ignore=False):
-                    span.append(origword.id)
+                try:
+                    for origword in correction.original().select(folia.Word,ignore=False):
+                        span.append(origword.id)
+                except folia.NoSuchAnnotation:
+                    pass
                 if not span:
                     #we have an insertion
                     previous = correction.previous(folia.Word).id
