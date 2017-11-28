@@ -32,10 +32,15 @@ def folia2json(doc, docorrections=True):
                     previous = correction.previous(folia.Word).id
             else:
                 span = [correction.parent.id]
+            try:
+                text = correction.text()
+            except folia.NoSuchText:
+                #deletion
+                text = ""
             if span:
-                corrections.append({'class': correction.cls, 'span': span,'text':correction.text() })
+                corrections.append({'class': correction.cls, 'span': span,'text':text })
             else:
-                corrections.append({'class': correction.cls, 'after': previous,'text':correction.text() })
+                corrections.append({'class': correction.cls, 'after': previous,'text':text })
     return {'words':words, 'corrections': corrections}
 
 def main():
