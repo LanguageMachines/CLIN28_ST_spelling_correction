@@ -4523,6 +4523,9 @@
                 <w xml:id="corrected.cbeeabc2">
                   <t>des</t>
                 </w>
+                <w annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T16:35:13" xml:id="page1310.w.4e4991b461b68d085216351ca545961c">
+                  <t>tijds</t>
+                </w>
               </new>
               <original auth="no">
                 <w class="WORD" xml:id="page1310.text.div.1.div.2.p.4.s.3.w.23">
@@ -4532,13 +4535,6 @@
                   <t>tijd</t>
                 </w>
               </original>
-            </correction>
-            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-11-29T16:35:13" xml:id="page1310.text.div.1.div.2.p.4.s.3.correction.2">
-              <new>
-                <w annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T16:35:13" xml:id="page1310.w.4e4991b461b68d085216351ca545961c">
-                  <t>tijds</t>
-                </w>
-              </new>
             </correction>
             <w class="WORD" xml:id="page1310.text.div.1.div.2.p.4.s.3.w.25">
               <t>hebben</t>
