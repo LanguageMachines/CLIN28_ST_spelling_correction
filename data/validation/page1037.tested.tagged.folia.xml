@@ -355,14 +355,7 @@
           <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="spliterror" datetime="2017-11-29T15:10:37" xml:id="page1037.text.list.1.item.2.s.1.correction.1">
             <new>
               <w xml:id="corrected.f0db32ac">
-                <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="spliterror" datetime="2017-11-29T15:10:47" xml:id="corrected.f0db32ac.correction.1">
-                  <new>
-                    <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:10:47">3D-figuren</t>
-                  </new>
-                  <original auth="no">
-                    <t>3D figuren</t>
-                  </original>
-                </correction>
+                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:10:47">3D-figuren</t>
               </w>
             </new>
             <original auth="no">
