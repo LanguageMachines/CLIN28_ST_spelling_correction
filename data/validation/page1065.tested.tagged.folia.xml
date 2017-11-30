@@ -1410,18 +1410,6 @@
           <w class="WORD" xml:id="page1065.text.div.3.p.1.s.4.w.13">
             <t>hij</t>
           </w>
-          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="missingword" datetime="2017-11-29T15:39:48" xml:id="page1065.text.div.3.p.1.s.4.correction.3">
-            <new/>
-            <original auth="no">
-              <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="missingword" datetime="2017-11-29T15:39:03" xml:id="page1065.text.div.3.p.1.s.4.correction.1">
-                <new>
-                  <w annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:39:03" xml:id="page1065.w.4578b031a026fbfc25d833940c8bbd86">
-                    <t>kon hij</t>
-                  </w>
-                </new>
-              </correction>
-            </original>
-          </correction>
           <w class="WORD" xml:id="page1065.text.div.3.p.1.s.4.w.14">
             <t>zich</t>
           </w>
