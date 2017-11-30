@@ -1,0 +1,725 @@
+{
+    "words": [
+        {
+            "id": "page1299.text.p.1.s.1.w.1",
+            "text": "**",
+            "space": true,
+            "in": "page1299.text.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.p.1.s.1.w.2",
+            "text": "kan",
+            "space": true,
+            "in": "page1299.text.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.p.1.s.1.w.3",
+            "text": "betrekking",
+            "space": true,
+            "in": "page1299.text.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.p.1.s.1.w.4",
+            "text": "hebben",
+            "space": true,
+            "in": "page1299.text.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.p.1.s.1.w.5",
+            "text": "op",
+            "space": false,
+            "in": "page1299.text.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.p.1.s.1.w.6",
+            "text": ":",
+            "space": true,
+            "in": "page1299.text.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.p.3.s.1.w.1",
+            "text": "Geografie",
+            "space": false,
+            "in": "page1299.text.p.3.s.1"
+        },
+        {
+            "id": "page1299.text.p.3.s.1.w.2",
+            "text": ":",
+            "space": true,
+            "in": "page1299.text.p.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.p.1.s.1.w.1",
+            "text": "Java",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.p.1.s.1.w.2",
+            "text": "(",
+            "space": false,
+            "in": "page1299.text.list.1.item.1.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.p.1.s.1.w.3",
+            "text": "eiland",
+            "space": false,
+            "in": "page1299.text.list.1.item.1.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.p.1.s.1.w.4",
+            "text": ")",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.p.1.s.1.w.5",
+            "text": ",",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.p.1.s.1.w.6",
+            "text": "het",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.p.1.s.1.w.7",
+            "text": "hoofdeiland",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.p.1.s.1.w.8",
+            "text": "in",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.p.1.s.1.w.9",
+            "text": "de",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.p.1.s.1.w.10",
+            "text": "Republiek",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.p.1.s.1.w.11",
+            "text": "Indonesië",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.1.s.1.w.1",
+            "text": "Java-koffie",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.1.s.1.w.2",
+            "text": ",",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.1.s.1.w.3",
+            "text": "koffie",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.1.s.1.w.4",
+            "text": "afkomstig",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.1.s.1.w.5",
+            "text": "van",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.1.s.1.w.6",
+            "text": "het",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.1.s.1.w.7",
+            "text": "Indonesische",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.1.s.1.w.8",
+            "text": "eiland",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.1.s.1.w.9",
+            "text": "Java",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.2.s.1.w.1",
+            "text": "Javaans",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.2.s.1.w.2",
+            "text": ",",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.2.s.1.w.3",
+            "text": "de",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.2.s.1.w.4",
+            "text": "taal",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.2.s.1.w.5",
+            "text": "die",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.2.s.1.w.6",
+            "text": "gesproken",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.2.s.1.w.7",
+            "text": "wordt",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.2.s.1.w.8",
+            "text": "op",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.2.s.1.w.9",
+            "text": "het",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.2.s.1.w.10",
+            "text": "eiland",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.1.item.1.list.1.item.2.s.1.w.11",
+            "text": "Java",
+            "space": true,
+            "in": "page1299.text.list.1.item.1.list.1.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.p.4.s.1.w.1",
+            "text": "Informatica",
+            "space": false,
+            "in": "page1299.text.p.4.s.1"
+        },
+        {
+            "id": "page1299.text.p.4.s.1.w.2",
+            "text": ":",
+            "space": true,
+            "in": "page1299.text.p.4.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.1.s.1.w.1",
+            "text": "Java",
+            "space": true,
+            "in": "page1299.text.list.2.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.1.s.1.w.2",
+            "text": "(",
+            "space": false,
+            "in": "page1299.text.list.2.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.1.s.1.w.3",
+            "text": "programmeertaal",
+            "space": false,
+            "in": "page1299.text.list.2.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.1.s.1.w.4",
+            "text": ")",
+            "space": true,
+            "in": "page1299.text.list.2.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.1.s.1.w.5",
+            "text": ",",
+            "space": true,
+            "in": "page1299.text.list.2.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.1.s.1.w.6",
+            "text": "object-georiënteerde",
+            "space": true,
+            "in": "page1299.text.list.2.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.1.s.1.w.7",
+            "text": "programmeertaal",
+            "space": true,
+            "in": "page1299.text.list.2.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.2.s.1.w.1",
+            "text": "JavaScript",
+            "space": true,
+            "in": "page1299.text.list.2.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.2.s.1.w.2",
+            "text": ",",
+            "space": true,
+            "in": "page1299.text.list.2.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.2.s.1.w.3",
+            "text": "scripttaal",
+            "space": true,
+            "in": "page1299.text.list.2.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.2.s.1.w.4",
+            "text": "met",
+            "space": true,
+            "in": "page1299.text.list.2.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.2.s.1.w.5",
+            "text": "object-georiënteerde",
+            "space": true,
+            "in": "page1299.text.list.2.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.2.s.1.w.6",
+            "text": "mogelijkheden",
+            "space": true,
+            "in": "page1299.text.list.2.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.3.s.1.w.1",
+            "text": "Java",
+            "space": true,
+            "in": "page1299.text.list.2.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.3.s.1.w.2",
+            "text": "Virtual",
+            "space": true,
+            "in": "page1299.text.list.2.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.3.s.1.w.3",
+            "text": "Machine",
+            "space": true,
+            "in": "page1299.text.list.2.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.3.s.1.w.4",
+            "text": ",",
+            "space": true,
+            "in": "page1299.text.list.2.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.3.s.1.w.5",
+            "text": "een",
+            "space": true,
+            "in": "page1299.text.list.2.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.3.s.1.w.6",
+            "text": "platform",
+            "space": true,
+            "in": "page1299.text.list.2.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.3.s.1.w.7",
+            "text": "voor",
+            "space": true,
+            "in": "page1299.text.list.2.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.3.s.1.w.8",
+            "text": "het",
+            "space": true,
+            "in": "page1299.text.list.2.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.3.s.1.w.9",
+            "text": "uitvoeren",
+            "space": true,
+            "in": "page1299.text.list.2.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.3.s.1.w.10",
+            "text": "van",
+            "space": true,
+            "in": "page1299.text.list.2.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.3.s.1.w.11",
+            "text": "Java-programma's",
+            "space": true,
+            "in": "page1299.text.list.2.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.p.1.s.1.w.1",
+            "text": "Java",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.p.1.s.1.w.2",
+            "text": "API",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.p.1.s.1.w.3",
+            "text": ",",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.p.1.s.1.w.4",
+            "text": "een",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.p.1.s.1.w.5",
+            "text": "API",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.p.1.s.1.w.6",
+            "text": "voor",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.p.1.s.1.w.7",
+            "text": "de",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.p.1.s.1.w.8",
+            "text": "object-georiënteerde",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.p.1.s.1.w.9",
+            "text": "programmeertaal",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.p.1.s.1.w.10",
+            "text": "Java",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.p.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.list.1.item.1.s.1.w.1",
+            "text": "JavaMail",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.list.1.item.1.s.1.w.2",
+            "text": ",",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.list.1.item.1.s.1.w.3",
+            "text": "Java",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.list.1.item.1.s.1.w.4",
+            "text": "API",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.list.1.item.1.s.1.w.6",
+            "text": "dat",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.list.1.item.1.s.1.w.8",
+            "text": "het",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.list.1.item.1.s.1.w.9",
+            "text": "verzenden",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.list.1.item.1.s.1.w.10",
+            "text": "en",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.list.1.item.1.s.1.w.11",
+            "text": "het",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.list.1.item.1.s.1.w.12",
+            "text": "ontvangen",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.list.1.item.1.s.1.w.13",
+            "text": "van",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.list.1.item.1.s.1.w.15",
+            "text": "email",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.2.item.4.list.1.item.1.s.1.w.16",
+            "text": "ondersteunt",
+            "space": true,
+            "in": "page1299.text.list.2.item.4.list.1.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.p.5.s.1.w.1",
+            "text": "Maar",
+            "space": true,
+            "in": "page1299.text.p.5.s.1"
+        },
+        {
+            "id": "page1299.text.p.5.s.1.w.3",
+            "text": "ook",
+            "space": false,
+            "in": "page1299.text.p.5.s.1"
+        },
+        {
+            "id": "page1299.text.p.5.s.1.w.4",
+            "text": ":",
+            "space": true,
+            "in": "page1299.text.p.5.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.1.s.1.w.1",
+            "text": "Jawa",
+            "space": true,
+            "in": "page1299.text.list.3.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.1.s.1.w.2",
+            "text": ",",
+            "space": true,
+            "in": "page1299.text.list.3.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.1.s.1.w.3",
+            "text": "een",
+            "space": true,
+            "in": "page1299.text.list.3.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.1.s.1.w.4",
+            "text": "Tsjechisch",
+            "space": true,
+            "in": "page1299.text.list.3.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.1.s.1.w.5",
+            "text": "motorfietsmerk",
+            "space": true,
+            "in": "page1299.text.list.3.item.1.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.2.s.1.w.1",
+            "text": "Java",
+            "space": true,
+            "in": "page1299.text.list.3.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.2.s.1.w.2",
+            "text": "(",
+            "space": false,
+            "in": "page1299.text.list.3.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.2.s.1.w.3",
+            "text": "schip",
+            "space": false,
+            "in": "page1299.text.list.3.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.2.s.1.w.4",
+            "text": ")",
+            "space": true,
+            "in": "page1299.text.list.3.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.2.s.1.w.5",
+            "text": ",",
+            "space": true,
+            "in": "page1299.text.list.3.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.2.s.1.w.6",
+            "text": "Nederlands",
+            "space": true,
+            "in": "page1299.text.list.3.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.2.s.1.w.7",
+            "text": "kruiser",
+            "space": true,
+            "in": "page1299.text.list.3.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.2.s.1.w.8",
+            "text": "uit",
+            "space": true,
+            "in": "page1299.text.list.3.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.2.s.1.w.9",
+            "text": "de",
+            "space": true,
+            "in": "page1299.text.list.3.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.2.s.1.w.10",
+            "text": "Tweede",
+            "space": true,
+            "in": "page1299.text.list.3.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.2.s.1.w.11",
+            "text": "Wereldoorlog",
+            "space": true,
+            "in": "page1299.text.list.3.item.2.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.3.s.1.w.1",
+            "text": "Java",
+            "space": true,
+            "in": "page1299.text.list.3.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.3.s.1.w.2",
+            "text": "(",
+            "space": false,
+            "in": "page1299.text.list.3.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.3.s.1.w.3",
+            "text": "spel",
+            "space": false,
+            "in": "page1299.text.list.3.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.3.s.1.w.4",
+            "text": ")",
+            "space": true,
+            "in": "page1299.text.list.3.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.3.s.1.w.5",
+            "text": ",",
+            "space": true,
+            "in": "page1299.text.list.3.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.3.s.1.w.6",
+            "text": "een",
+            "space": true,
+            "in": "page1299.text.list.3.item.3.s.1"
+        },
+        {
+            "id": "page1299.text.list.3.item.3.s.1.w.7",
+            "text": "bordspel",
+            "space": true,
+            "in": "page1299.text.list.3.item.3.s.1"
+        }
+    ],
+    "corrections": [
+        {
+            "class": "redundantpunctuation",
+            "span": [
+                "page1299.text.list.2.item.1.s.1.w.6"
+            ],
+            "text": "objectgeoriënteerde"
+        },
+        {
+            "class": "redundantpunctuation",
+            "span": [
+                "page1299.text.list.2.item.2.s.1.w.5"
+            ],
+            "text": "objectgeoriënteerde"
+        },
+        {
+            "class": "redundantpunctuation",
+            "span": [
+                "page1299.text.list.2.item.4.p.1.s.1.w.8"
+            ],
+            "text": "objectgeoriënteerde"
+        },
+        {
+            "class": "confusion",
+            "span": [
+                "page1299.text.list.2.item.4.list.1.item.1.s.1.w.6"
+            ],
+            "text": "die"
+        },
+        {
+            "class": "missingpunctuation",
+            "span": [
+                "page1299.text.list.2.item.4.list.1.item.1.s.1.w.15"
+            ],
+            "text": "e-mail"
+        }
+    ]
+}
