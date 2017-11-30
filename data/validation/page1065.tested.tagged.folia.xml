@@ -3518,16 +3518,10 @@
           <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="missingword" datetime="2017-11-29T15:45:37" xml:id="page1065.text.div.4.p.3.s.7.correction.1">
             <new>
               <w annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:45:37" xml:id="page1065.w.598e8f32329f46904873d537bd573d82">
-                <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="missingword" datetime="2017-11-29T15:45:44" xml:id="page1065.w.598e8f32329f46904873d537bd573d82.correction.1">
-                  <new>
-                    <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:45:44">is</t>
-                  </new>
-                  <original auth="no">
-                    <t>is</t>
-                  </original>
-                </correction>
+                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:45:44">is</t>
               </w>
             </new>
+            <original auth="no" />
           </correction>
           <w class="PUNCTUATION" xml:id="page1065.text.div.4.p.3.s.7.w.34">
             <t>.</t>
