@@ -1,0 +1,799 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" version="1.5.1" xml:id="page1037" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <style-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/styles.foliaset.xml"/>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2017-10-01T17:32:13" set="tokconfig-nld"/>
+      <observation-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml"/>
+      <correction-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml"/>
+    </annotations>
+    <meta id="language">nld</meta>
+  </metadata>
+  <text xml:id="page1037.text">
+    <p xml:id="page1037.text.p.1">
+      <s xml:id="page1037.text.p.1.s.1">
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.1">
+          <t>Onder</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.2">
+          <t>het</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.3">
+          <t>Engelse</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.4">
+          <t>woord</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.5">
+          <t>hobby</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.6">
+          <t>wordt</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.7">
+          <t>een</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.8">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.9">
+          <t>het</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.10">
+          <t>algemeen</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.11">
+          <t>ontspannende</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.12">
+          <t>activiteit</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.13">
+          <t>verstaan</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.14">
+          <t>die</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.15">
+          <t>men</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.16">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.17">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.18">
+          <t>vrije</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.19">
+          <t>tijd</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.20">
+          <t>uitoefent</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.21">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.22">
+          <t>die</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.23">
+          <t>men</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.1.w.24">
+          <t>graag</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1037.text.p.1.s.1.w.25">
+          <t>doet</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1037.text.p.1.s.1.w.26">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1037.text.p.1.s.2">
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.1">
+          <t>Sommige</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.2">
+          <t>mensen</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.3">
+          <t>verkeren</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.4">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.5">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.6">
+          <t>fortuinlijke</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.7">
+          <t>positie</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.8">
+          <t>dat</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.9">
+          <t>zij</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="page1037.text.p.1.s.2.w.10">
+          <t>'</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.11">
+          <t>van</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.12">
+          <t>hun</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.13">
+          <t>hobby</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.14">
+          <t>hun</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.15">
+          <t>werk</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.16">
+          <t>hebben</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.1.s.2.w.17">
+          <t>kunnen</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1037.text.p.1.s.2.w.18">
+          <t>maken</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="page1037.text.p.1.s.2.w.19">
+          <t>'</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1037.text.p.1.s.2.w.20">
+          <t>.</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="page1037.text.p.2">
+      <s xml:id="page1037.text.p.2.s.1">
+        <w class="WORD" xml:id="page1037.text.p.2.s.1.w.1">
+          <t>Men</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.2.s.1.w.2">
+          <t>kan</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.2.s.1.w.3">
+          <t>verschillende</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.2.s.1.w.4">
+          <t>soorten</t>
+        </w>
+        <w class="WORD" xml:id="page1037.text.p.2.s.1.w.6">
+          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-11-29T15:08:43" xml:id="page1037.text.p.2.s.1.w.6.correction.1">
+            <new>
+              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:08:43">hobby's</t>
+            </new>
+            <original auth="no">
+              <t>hobbies</t>
+            </original>
+          </correction>
+        </w>
+        <w space="no" class="WORD" xml:id="page1037.text.p.2.s.1.w.8">
+          <t>onderscheiden</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1037.text.p.2.s.1.w.9">
+          <t>:</t>
+        </w>
+      </s>
+    </p>
+    <list xml:id="page1037.text.list.1">
+      <item xml:id="page1037.text.list.1.item.1">
+        <s xml:id="page1037.text.list.1.item.1.s.1">
+          <w class="WORD" xml:id="page1037.text.list.1.item.1.s.1.w.1">
+            <t>Sportieve</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.1.s.1.w.3">
+            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-11-29T15:09:02" xml:id="page1037.text.list.1.item.1.s.1.w.3.correction.1">
+              <new>
+                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:09:02">hobby's</t>
+              </new>
+              <original auth="no">
+                <t>hobbies</t>
+              </original>
+            </correction>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.1.s.1.w.4">
+            <t>:</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.1.s.1.w.6">
+            <t>allerlei</t>
+          </w>
+          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="spliterror" datetime="2017-11-29T15:09:29" xml:id="page1037.text.list.1.item.1.s.1.correction.1">
+            <new>
+              <w xml:id="corrected.1a4b4a6d">
+                <t>vrijetijdssporten</t>
+              </w>
+            </new>
+            <original auth="no">
+              <w class="WORD-COMPOUND" xml:id="page1037.text.list.1.item.1.s.1.w.7">
+                <t>vrije-tijds</t>
+              </w>
+              <w class="WORD" xml:id="page1037.text.list.1.item.1.s.1.w.8">
+                <t>sporten</t>
+              </w>
+            </original>
+          </correction>
+          <w class="WORD" xml:id="page1037.text.list.1.item.1.s.1.w.9">
+            <t>zoals</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.1.s.1.w.10">
+            <t>wandelen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.1.s.1.w.11">
+            <t>,</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.1.s.1.w.12">
+            <t>fietsen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.1.s.1.w.13">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.1.s.1.w.14">
+            <t>roeien</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.1.s.1.w.15">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.1.s.1.w.16">
+            <t>zwemmen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.1.s.1.w.17">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.1.s.1.w.18">
+            <t>trimmen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.1.s.1.w.19">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.1.s.1.w.20">
+            <t>tennissen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.1.s.1.w.21">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.1.s.1.w.22">
+            <t>aerobics</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.1.s.1.w.23">
+            <t>en</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.1.s.1.w.24">
+            <t>dergelijke</t>
+          </w>
+        </s>
+      </item>
+      <item xml:id="page1037.text.list.1.item.2">
+        <s xml:id="page1037.text.list.1.item.2.s.1">
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.1">
+            <t>Kunstzinnige</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.3">
+            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-11-29T15:09:46" xml:id="page1037.text.list.1.item.2.s.1.w.3.correction.1">
+              <new>
+                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:09:46">hobby's</t>
+              </new>
+              <original auth="no">
+                <t>hobbies</t>
+              </original>
+            </correction>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.4">
+            <t>:</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.6">
+            <t>tekenen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.7">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.8">
+            <t>schilderen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.9">
+            <t>,</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.10">
+            <t>klussen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.11">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.12">
+            <t>quilten</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.13">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.14">
+            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="capitalizationerror" datetime="2017-11-29T15:10:04" xml:id="page1037.text.list.1.item.2.s.1.w.14.correction.1">
+              <new>
+                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:10:04">origami</t>
+              </new>
+              <original auth="no">
+                <t>Origami</t>
+              </original>
+            </correction>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.15">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.16">
+            <t>figuurknippen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.17">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.18">
+            <t>figuurzagen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.19">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.20">
+            <t>pottenbakken</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.21">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.22">
+            <t>boetseren</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.23">
+            <t>,</t>
+          </w>
+          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="spliterror" datetime="2017-11-29T15:10:37" xml:id="page1037.text.list.1.item.2.s.1.correction.1">
+            <new>
+              <w xml:id="corrected.f0db32ac">
+                <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="spliterror" datetime="2017-11-29T15:10:47" xml:id="corrected.f0db32ac.correction.1">
+                  <new>
+                    <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:10:47">3D-figuren</t>
+                  </new>
+                  <original auth="no">
+                    <t>3D figuren</t>
+                  </original>
+                </correction>
+              </w>
+            </new>
+            <original auth="no">
+              <w class="WORD-COMPOUND" xml:id="page1037.text.list.1.item.2.s.1.w.24">
+                <t>3-D</t>
+              </w>
+              <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.25">
+                <t>figuren</t>
+              </w>
+            </original>
+          </correction>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.26">
+            <t>maken</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.27">
+            <t>,</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.28">
+            <t>musiceren</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.29">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.30">
+            <t>zingen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.31">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.32">
+            <t>textiele</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.33">
+            <t>werkvormen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.34">
+            <t>,</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.35">
+            <t>borduren</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.36">
+            <t>,</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.37">
+            <t>naaien</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.38">
+            <t>,</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.39">
+            <t>breien</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.40">
+            <t>,</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.41">
+            <t>haken</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.42">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.43">
+            <t>bierbrouwen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.44">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.45">
+            <t>zijdeschilderen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.46">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.2.s.1.w.47">
+            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-11-29T15:11:11" xml:id="page1037.text.list.1.item.2.s.1.w.47.correction.1">
+              <new>
+                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:11:11">batikken</t>
+              </new>
+              <original auth="no">
+                <t>batiken</t>
+              </original>
+            </correction>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.48">
+            <t>,</t>
+          </w>
+          <w space="no" class="WORD-COMPOUND" xml:id="page1037.text.list.1.item.2.s.1.w.49">
+            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="redundantpunctuation" datetime="2017-11-29T15:11:36" xml:id="page1037.text.list.1.item.2.s.1.w.49.correction.1">
+              <new>
+                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:11:36">motoronderhoud</t>
+              </new>
+              <original auth="no">
+                <t>motor-onderhoud</t>
+              </original>
+            </correction>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.2.s.1.w.50">
+            <t>,</t>
+          </w>
+        </s>
+      </item>
+      <item xml:id="page1037.text.list.1.item.3">
+        <s xml:id="page1037.text.list.1.item.3.s.1">
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.1">
+            <t>Recreatieve</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.3">
+            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-11-29T15:11:51" xml:id="page1037.text.list.1.item.3.s.1.w.3.correction.1">
+              <new>
+                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:11:51">hobby's</t>
+              </new>
+              <original auth="no">
+                <t>hobbies</t>
+              </original>
+            </correction>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.4">
+            <t>:</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.6">
+            <t>tuinieren</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.7">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.8">
+            <t>televisie</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.9">
+            <t>kijken</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.10">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.11">
+            <t>muziek</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.12">
+            <t>beluisteren</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.13">
+            <t>,</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.14">
+            <t>converseren</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.15">
+            <t>,</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.16">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.17">
+            <t>koken</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.18">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.19">
+            <t>motorrijden</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.20">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.21">
+            <t>vliegeren</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.22">
+            <t>,</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.23">
+            <t>modelvliegtuigen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.24">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.25">
+            <t>puzzelen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.26">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.27">
+            <t>dammen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.28">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.29">
+            <t>schaken</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.30">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.31">
+            <t>zweefvliegen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.32">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.33">
+            <t>natuurvorsing</t>
+          </w>
+          <w space="no" class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.34">
+            <t>(</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.35">
+            <t>bijvoorbeeld</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.36">
+            <t>vlinders</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.37">
+            <t>of</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.38">
+            <t>vogels</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.39">
+            <t>kijken</t>
+          </w>
+          <w space="no" class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.40">
+            <t>)</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.41">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.42">
+            <t>computerspellen</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.43">
+            <t>spelen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.44">
+            <t>,</t>
+          </w>
+          <w space="no" class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.45">
+            <t>"</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.46">
+            <t>chatten</t>
+          </w>
+          <w space="no" class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.47">
+            <t>"</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.48">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.3.s.1.w.50">
+            <t>geofictie</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.3.s.1.w.51">
+            <t>,</t>
+          </w>
+        </s>
+      </item>
+      <item xml:id="page1037.text.list.1.item.4">
+        <p xml:id="page1037.text.list.1.item.4.p.1">
+          <s xml:id="page1037.text.list.1.item.4.p.1.s.1">
+            <w class="WORD" xml:id="page1037.text.list.1.item.4.p.1.s.1.w.1">
+              <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-11-29T15:12:12" xml:id="page1037.text.list.1.item.4.p.1.s.1.w.1.correction.1">
+                <new>
+                  <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:12:12">Verzamelhobby's</t>
+                </new>
+                <original auth="no">
+                  <t>Verzamelhobbies</t>
+                </original>
+              </correction>
+            </w>
+            <w class="WORD" xml:id="page1037.text.list.1.item.4.p.1.s.1.w.3">
+              <t>verzamelen</t>
+            </w>
+            <w class="WORD" xml:id="page1037.text.list.1.item.4.p.1.s.1.w.4">
+              <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="capitalizationerror" datetime="2017-11-29T15:12:26" xml:id="page1037.text.list.1.item.4.p.1.s.1.w.4.correction.1">
+                <new>
+                  <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:12:26">filatelie</t>
+                </new>
+                <original auth="no">
+                  <t>Filatelie</t>
+                </original>
+              </correction>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.4.p.1.s.1.w.5">
+              <t>,</t>
+            </w>
+            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="spliterror" datetime="2017-11-29T15:13:06" xml:id="page1037.text.list.1.item.4.p.1.s.1.correction.1">
+              <new>
+                <w xml:id="corrected.d0408d9e">
+                  <t>modeltreinverzamelen</t>
+                </w>
+              </new>
+              <original auth="no">
+                <w class="WORD" xml:id="page1037.text.list.1.item.4.p.1.s.1.w.6">
+                  <t>Modeltrein</t>
+                </w>
+                <w class="WORD" xml:id="page1037.text.list.1.item.4.p.1.s.1.w.7">
+                  <t>verzamelen</t>
+                </w>
+              </original>
+            </correction>
+            <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.4.p.1.s.1.w.8">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1037.text.list.1.item.4.p.1.s.1.w.10">
+              <t>numismatiek</t>
+            </w>
+          </s>
+        </p>
+        <list xml:id="page1037.text.list.1.item.4.list.1">
+          <item xml:id="page1037.text.list.1.item.4.list.1.item.1">
+            <s xml:id="page1037.text.list.1.item.4.list.1.item.1.s.1">
+              <w class="WORD" xml:id="page1037.text.list.1.item.4.list.1.item.1.s.1.w.1">
+                <t>Kaartspelen</t>
+              </w>
+            </s>
+          </item>
+        </list>
+      </item>
+      <item xml:id="page1037.text.list.1.item.5">
+        <s xml:id="page1037.text.list.1.item.5.s.1">
+          <w class="WORD" xml:id="page1037.text.list.1.item.5.s.1.w.1">
+            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-11-29T15:13:26" xml:id="page1037.text.list.1.item.5.s.1.w.1.correction.1">
+              <new>
+                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:13:26">Uitgaanshobby's</t>
+              </new>
+              <original auth="no">
+                <t>Uitgaanshobbies</t>
+              </original>
+            </correction>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.5.s.1.w.2">
+            <t>:</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.5.s.1.w.4">
+            <t>winkelen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.5.s.1.w.5">
+            <t>,</t>
+          </w>
+          <w space="no" class="PUNCTUATION" xml:id="page1037.text.list.1.item.5.s.1.w.6">
+            <t>'</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.5.s.1.w.7">
+            <t>stappen</t>
+          </w>
+          <w space="no" class="PUNCTUATION" xml:id="page1037.text.list.1.item.5.s.1.w.8">
+            <t>'</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.5.s.1.w.9">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.5.s.1.w.10">
+            <t>dansen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.5.s.1.w.11">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.5.s.1.w.12">
+            <t>theaterbezoek</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.5.s.1.w.13">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.5.s.1.w.14">
+            <t>concertbezoek</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.5.s.1.w.15">
+            <t>,</t>
+          </w>
+        </s>
+      </item>
+      <item xml:id="page1037.text.list.1.item.6">
+        <s xml:id="page1037.text.list.1.item.6.s.1">
+          <w class="WORD" xml:id="page1037.text.list.1.item.6.s.1.w.1">
+            <t>Educatieve</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.6.s.1.w.3">
+            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-11-29T15:13:43" xml:id="page1037.text.list.1.item.6.s.1.w.3.correction.1">
+              <new>
+                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:13:43">hobby's</t>
+              </new>
+              <original auth="no">
+                <t>hobbies</t>
+              </original>
+            </correction>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.6.s.1.w.4">
+            <t>:</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.6.s.1.w.6">
+            <t>lezen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.6.s.1.w.7">
+            <t>,</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.6.s.1.w.8">
+            <t>studeren</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.6.s.1.w.9">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.6.s.1.w.10">
+            <t>cursus</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1037.text.list.1.item.6.s.1.w.11">
+            <t>volgen</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.6.s.1.w.12">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.6.s.1.w.13">
+            <t>museum</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.6.s.1.w.14">
+            <t>-</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.6.s.1.w.15">
+            <t>en</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.6.s.1.w.16">
+            <t>galeriebezoek</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1037.text.list.1.item.6.s.1.w.17">
+            <t>,</t>
+          </w>
+          <w class="WORD" xml:id="page1037.text.list.1.item.6.s.1.w.18">
+            <t>internetten</t>
+          </w>
+        </s>
+      </item>
+    </list>
+  </text>
+</FoLiA>

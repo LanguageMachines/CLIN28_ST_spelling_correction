@@ -1,0 +1,2485 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" version="1.5.1" xml:id="page1041" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <style-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/styles.foliaset.xml"/>
+      <division-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/divisions.foliaset.xml"/>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2017-10-01T17:32:13" set="tokconfig-nld"/>
+      <observation-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml"/>
+      <correction-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml"/>
+    </annotations>
+    <meta id="language">nld</meta>
+  </metadata>
+  <text xml:id="page1041.text">
+    <p xml:id="page1041.text.p.1">
+      <s xml:id="page1041.text.p.1.s.1">
+        <w class="WORD" xml:id="page1041.text.p.1.s.1.w.1">
+          <t>Haarlem</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.1.w.2">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.1.w.3">
+          <t>een</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.1.w.4">
+          <t>stad</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.1.w.5">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.1.w.6">
+          <t>het</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.1.w.7">
+          <t>Kennemerland</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.1.w.8">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.1.w.9">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.1.w.10">
+          <t>hoofdstad</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.1.w.11">
+          <t>van</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.1.w.12">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.1.w.13">
+          <t>provincie</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="page1041.text.p.1.s.1.w.14">
+          <t>Noord-Holland</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.1.s.1.w.15">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.1.s.2">
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.1">
+          <t>De</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.2">
+          <t>stad</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.3">
+          <t>ligt</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.4">
+          <t>aan</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.5">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.6">
+          <t>rivier</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.7">
+          <t>het</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.8">
+          <t>Spaarne</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.1.s.2.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.10">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.11">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.12">
+          <t>stad</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.13">
+          <t>heeft</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.14">
+          <t>dan</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.15">
+          <t>ook</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.16">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.17">
+          <t>bijnaam</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.1.s.2.w.18">
+          <t>Spaarnestad</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.1.s.2.w.19">
+          <t>.</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="page1041.text.p.2">
+      <s xml:id="page1041.text.p.2.s.1">
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.1">
+          <t>De</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.2">
+          <t>gemeente</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.3">
+          <t>Haarlem</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.4">
+          <t>grenst</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.5">
+          <t>aan</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.6">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.7">
+          <t>gemeenten</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.8">
+          <t>Haarlemmermeer</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.2.s.1.w.9">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.10">
+          <t>Heemstede</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.2.s.1.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.12">
+          <t>Bloemendaal</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.2.s.1.w.13">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.14">
+          <t>Velsen</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.15">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.16">
+          <t>Haarlemmerliede</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.17">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.18">
+          <t>Spaarnwoude</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.19">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.20">
+          <t>telt</t>
+        </w>
+        <w class="NUMBER" xml:id="page1041.text.p.2.s.1.w.21">
+          <t>147.519</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.1.w.22">
+          <t>inwoners</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="page1041.text.p.2.s.1.w.23">
+          <t>(</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="page1041.text.p.2.s.1.w.24">
+          <t>2003</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.2.s.1.w.25">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.2.s.1.w.26">
+          <t>CBS</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="page1041.text.p.2.s.1.w.27">
+          <t>)</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.2.s.1.w.28">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.2.s.2">
+        <w class="WORD" xml:id="page1041.text.p.2.s.2.w.1">
+          <t>Het</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.2.w.2">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.2.w.3">
+          <t>sinds</t>
+        </w>
+        <w class="NUMBER" xml:id="page1041.text.p.2.s.2.w.4">
+          <t>1853</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.2.w.5">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.2.w.6">
+          <t>zetel</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.2.w.7">
+          <t>van</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.2.w.8">
+          <t>het</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="page1041.text.p.2.s.2.w.9">
+          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="capitalizationerror" datetime="2017-11-29T15:17:47" xml:id="page1041.text.p.2.s.2.w.9.correction.1">
+            <new>
+              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:17:47">rooms-katholieke</t>
+            </new>
+            <original auth="no">
+              <t>Rooms-Katholieke</t>
+            </original>
+          </correction>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.2.s.2.w.10">
+          <t>bisdom</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.2.s.2.w.11">
+          <t>Haarlem</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.2.s.2.w.12">
+          <t>.</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="page1041.text.p.3">
+      <s xml:id="page1041.text.p.3.s.1">
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.1">
+          <t>Haarlem</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.2">
+          <t>ontstond</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.3">
+          <t>als</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.4">
+          <t>geestnederzetting</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.5">
+          <t>aan</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.6">
+          <t>het</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.7">
+          <t>Spaarne</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.8">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.9">
+          <t>ontwikkelde</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.10">
+          <t>zich</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.11">
+          <t>op</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.12">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.13">
+          <t>verbindingsweg</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.14">
+          <t>van</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.15">
+          <t>zuid</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.16">
+          <t>naar</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.1.w.17">
+          <t>noord</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.3.s.1.w.18">
+          <t>voorspoedig</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.3.s.1.w.19">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.3.s.2">
+        <w class="WORD" xml:id="page1041.text.p.3.s.2.w.1">
+          <t>Het</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.2.w.2">
+          <t>werd</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.2.w.3">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.2.w.4">
+          <t>zetel</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.2.w.5">
+          <t>van</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.2.w.6">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.2.w.7">
+          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="capitalizationerror" datetime="2017-11-29T15:19:07" xml:id="page1041.text.p.3.s.2.w.7.correction.1">
+            <new>
+              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:19:07">graaf</t>
+            </new>
+            <original auth="no">
+              <t>Graaf</t>
+            </original>
+          </correction>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.2.w.8">
+          <t>van</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.2.w.9">
+          <t>Holland</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.3.s.2.w.10">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.3.s.3">
+        <w class="WORD" xml:id="page1041.text.p.3.s.3.w.1">
+          <t>Graaf</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.3.w.2">
+          <t>Willem</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.3.w.3">
+          <t>II</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.3.w.4">
+          <t>verleende</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.3.w.5">
+          <t>Haarlem</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.3.w.6">
+          <t>in</t>
+        </w>
+        <w class="NUMBER" xml:id="page1041.text.p.3.s.3.w.7">
+          <t>1245</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.3.w.8">
+          <t>stadsrechten</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.3.s.3.w.9">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.3.s.4">
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.1">
+          <t>Haarlemse</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.2">
+          <t>ridders</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.3">
+          <t>hadden</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.4">
+          <t>zich</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.5">
+          <t>eerder</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.6">
+          <t>die</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.3.s.4.w.7">
+          <t>eeuw</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.3.s.4.w.8">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.9">
+          <t>in</t>
+        </w>
+        <w class="NUMBER" xml:id="page1041.text.p.3.s.4.w.10">
+          <t>1219</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.3.s.4.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.12">
+          <t>onder</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.13">
+          <t>graaf</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.14">
+          <t>Willem</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.15">
+          <t>I</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.16">
+          <t>onderscheiden</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.17">
+          <t>door</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.18">
+          <t>tijdens</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.19">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.20">
+          <t>vijfde</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.21">
+          <t>kruistocht</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.22">
+          <t>Damiate</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.23">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.4.w.24">
+          <t>te</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.3.s.4.w.25">
+          <t>nemen</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.3.s.4.w.26">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.3.s.5">
+        <w class="WORD" xml:id="page1041.text.p.3.s.5.w.1">
+          <t>Als</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.5.w.2">
+          <t>beloning</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.5.w.3">
+          <t>mocht</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.5.w.4">
+          <t>Haarlem</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.5.w.5">
+          <t>sindsdien</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.5.w.6">
+          <t>zwaard</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.5.w.7">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.5.w.8">
+          <t>kruis</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.5.w.9">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.5.w.10">
+          <t>zijn</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.5.w.11">
+          <t>wapen</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.3.s.5.w.12">
+          <t>voeren</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.3.s.5.w.13">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.3.s.6">
+        <w class="WORD" xml:id="page1041.text.p.3.s.6.w.1">
+          <t>Damiate</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.6.w.2">
+          <t>heet</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.6.w.3">
+          <t>tegenwoordig</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.6.w.4">
+          <t>Dumyat</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.6.w.5">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.6.w.6">
+          <t>ligt</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.6.w.7">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.3.s.6.w.8">
+          <t>Egypte</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.3.s.6.w.9">
+          <t>.</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="page1041.text.p.4">
+      <s xml:id="page1041.text.p.4.s.1">
+        <w class="WORD" xml:id="page1041.text.p.4.s.1.w.1">
+          <t>In</t>
+        </w>
+        <w class="NUMBER" xml:id="page1041.text.p.4.s.1.w.2">
+          <t>1429</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.1.w.3">
+          <t>kreeg</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.1.w.4">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.1.w.5">
+          <t>stad</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.1.w.6">
+          <t>het</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.4.s.1.w.7">
+          <t>tolrecht</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.4.s.1.w.8">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.4.s.2">
+        <w class="WORD" xml:id="page1041.text.p.4.s.2.w.1">
+          <t>Het</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="page1041.text.p.4.s.2.w.2">
+          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="redundantpunctuation" datetime="2017-11-29T15:22:12" xml:id="page1041.text.p.4.s.2.w.2.correction.1">
+            <new>
+              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:22:12">laatmiddeleeuwse</t>
+            </new>
+            <original auth="no">
+              <t>laat-middeleeuwse</t>
+            </original>
+          </correction>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.2.w.3">
+          <t>Haarlem</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.2.w.4">
+          <t>kende</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.4.s.2.w.5">
+          <t>textielnijverheid</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.4.s.2.w.6">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.2.w.7">
+          <t>scheepsbouw</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.2.w.8">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.2.w.9">
+          <t>veel</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.4.s.2.w.10">
+          <t>bierbrouwerijen</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.4.s.2.w.11">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.4.s.3">
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.1">
+          <t>Aan</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.2">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.3">
+          <t>welvaart</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.4">
+          <t>kwam</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.5">
+          <t>een</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.6">
+          <t>einde</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.7">
+          <t>door</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.8">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.9">
+          <t>Hoekse</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.10">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.11">
+          <t>Kabeljauwse</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.12">
+          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="capitalizationerror" datetime="2017-11-29T15:22:46" xml:id="page1041.text.p.4.s.3.w.12.correction.1">
+            <new>
+              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:22:46">twisten</t>
+            </new>
+            <original auth="no">
+              <t>Twisten</t>
+            </original>
+          </correction>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.4.s.3.w.13">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.14">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.15">
+          <t>Opstand</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.16">
+          <t>van</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.17">
+          <t>het</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.18">
+          <t>Kaas-</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.19">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.20">
+          <t>Broodvolk</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.21">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.22">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.23">
+          <t>Tachtigjarige</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.3.w.24">
+          <t>Oorlog</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.4.s.3.w.25">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.4.s.4">
+        <w class="WORD" xml:id="page1041.text.p.4.s.4.w.1">
+          <t>In</t>
+        </w>
+        <w class="NUMBER" xml:id="page1041.text.p.4.s.4.w.2">
+          <t>1573</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.4.w.3">
+          <t>viel</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.4.w.4">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.4.w.5">
+          <t>vesting</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.4.w.6">
+          <t>na</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.4.w.7">
+          <t>een</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.4.w.8">
+          <t>maandenlange</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.4.w.9">
+          <t>Spaanse</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.4.w.10">
+          <t>belegering</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.4.w.11">
+          <t>door</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="page1041.text.p.4.s.4.w.12">
+          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="capitalizationerror" datetime="2017-11-29T15:23:04" xml:id="page1041.text.p.4.s.4.w.12.correction.1">
+            <new>
+              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:23:04">Don</t>
+            </new>
+            <original auth="no">
+              <t>don</t>
+            </original>
+          </correction>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.4.w.13">
+          <t>Frederik</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.4.w.14">
+          <t>van</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.4.w.15">
+          <t>Toledo</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.4.s.4.w.16">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.4.s.5">
+        <w class="WORD" xml:id="page1041.text.p.4.s.5.w.1">
+          <t>In</t>
+        </w>
+        <w class="NUMBER" xml:id="page1041.text.p.4.s.5.w.2">
+          <t>1577</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.5.w.4">
+          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-11-29T15:23:17" xml:id="page1041.text.p.4.s.5.w.4.correction.1">
+            <new>
+              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:23:17">vertrokken</t>
+            </new>
+            <original auth="no">
+              <t>vetrokken</t>
+            </original>
+          </correction>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.5.w.6">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.5.w.8">
+          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-11-29T15:23:25" xml:id="page1041.text.p.4.s.5.w.8.correction.1">
+            <new>
+              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:23:25">Spanjaarden</t>
+            </new>
+            <original auth="no">
+              <t>Spaanjaarden</t>
+            </original>
+          </correction>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.5.w.10">
+          <t>na</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.5.w.11">
+          <t>het</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.5.w.12">
+          <t>Akkoord</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.5.w.13">
+          <t>van</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.5.w.14">
+          <t>Veere</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.4.s.5.w.15">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.5.w.16">
+          <t>waarin</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.5.w.17">
+          <t>protestanten</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.5.w.18">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.5.w.19">
+          <t>katholieken</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.5.w.20">
+          <t>gelijke</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.5.w.21">
+          <t>rechten</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.4.s.5.w.22">
+          <t>kregen</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.4.s.5.w.23">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.4.s.6">
+        <w class="WORD" xml:id="page1041.text.p.4.s.6.w.1">
+          <t>Vlaamse</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.6.w.2">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.6.w.3">
+          <t>Franse</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.6.w.4">
+          <t>immigranten</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.6.w.6">
+          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-11-29T15:23:44" xml:id="page1041.text.p.4.s.6.w.6.correction.1">
+            <new>
+              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:23:44">bezorgden</t>
+            </new>
+            <original auth="no">
+              <t>bezorgen</t>
+            </original>
+          </correction>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.6.w.8">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.6.w.9">
+          <t>stad</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.6.w.10">
+          <t>een</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.6.w.11">
+          <t>nieuwe</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.4.s.6.w.12">
+          <t>bloeiperiode</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="page1041.text.p.4.s.6.w.13">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.4.s.6.w.14">
+          <t>linnennijverheid</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="page1041.text.p.4.s.6.w.15">
+          <t>)</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.4.s.6.w.16">
+          <t>.</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="page1041.text.p.5">
+      <s xml:id="page1041.text.p.5.s.1">
+        <w class="WORD" xml:id="page1041.text.p.5.s.1.w.1">
+          <t>In</t>
+        </w>
+        <w class="NUMBER" xml:id="page1041.text.p.5.s.1.w.2">
+          <t>1658</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.1.w.3">
+          <t>stichtte</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.1.w.4">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.1.w.5">
+          <t>Hollander</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.1.w.6">
+          <t>Peter</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.1.w.7">
+          <t>Stuyvesant</t>
+        </w>
+        <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="spliterror" datetime="2017-11-29T15:24:33" xml:id="page1041.text.p.5.s.1.correction.1">
+          <new>
+            <w xml:id="corrected.dcec8f4b">
+              <t>Nieuw-Haarlem</t>
+            </w>
+          </new>
+          <original auth="no">
+            <w class="WORD" xml:id="page1041.text.p.5.s.1.w.8">
+              <t>Nieuw</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.p.5.s.1.w.9">
+              <t>Haarlem</t>
+            </w>
+          </original>
+        </correction>
+        <w class="WORD" xml:id="page1041.text.p.5.s.1.w.10">
+          <t>aan</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.1.w.11">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.1.w.12">
+          <t>oostkust</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.1.w.13">
+          <t>van</t>
+        </w>
+        <w space="no" class="WORD-COMPOUND" xml:id="page1041.text.p.5.s.1.w.14">
+          <t>Noord-Amerika</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.5.s.1.w.15">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.5.s.2">
+        <w class="WORD" xml:id="page1041.text.p.5.s.2.w.1">
+          <t>Later</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.2.w.2">
+          <t>ging</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.2.w.3">
+          <t>dit</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.2.w.4">
+          <t>als</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.2.w.5">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.2.w.6">
+          <t>wijk</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.2.w.7">
+          <t>Harlem</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.2.w.8">
+          <t>deel</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.2.w.9">
+          <t>uitmaken</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.2.w.10">
+          <t>van</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.2.w.11">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.2.w.12">
+          <t>stad</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.2.w.13">
+          <t>New</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.5.s.2.w.14">
+          <t>York</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.5.s.2.w.15">
+          <t>.</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="page1041.text.p.6">
+      <s xml:id="page1041.text.p.6.s.1">
+        <w class="WORD" xml:id="page1041.text.p.6.s.1.w.1">
+          <t>In</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.1.w.2">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.1.w.3">
+          <t>negentiende</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.1.w.4">
+          <t>eeuw</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.1.w.5">
+          <t>werden</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.1.w.6">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.1.w.7">
+          <t>vestingwerken</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.1.w.8">
+          <t>gesloopt</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.1.w.9">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.1.w.10">
+          <t>vervangen</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.1.w.11">
+          <t>door</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.1.w.12">
+          <t>plantsoenen</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.6.s.1.w.13">
+          <t>(</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.1.w.14">
+          <t>Zocher</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="page1041.text.p.6.s.1.w.15">
+          <t>)</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.6.s.1.w.16">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.6.s.2">
+        <w class="WORD" xml:id="page1041.text.p.6.s.2.w.1">
+          <t>In</t>
+        </w>
+        <w class="NUMBER" xml:id="page1041.text.p.6.s.2.w.2">
+          <t>1839</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.2.w.3">
+          <t>reed</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.2.w.4">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.2.w.5">
+          <t>eerste</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.2.w.6">
+          <t>Nederlandse</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.2.w.7">
+          <t>trein</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.2.w.8">
+          <t>tussen</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.2.w.9">
+          <t>Haarlem</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.2.w.10">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.6.s.2.w.11">
+          <t>Amsterdam</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.6.s.2.w.12">
+          <t>.</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="page1041.text.p.7">
+      <s xml:id="page1041.text.p.7.s.1">
+        <w class="WORD" xml:id="page1041.text.p.7.s.1.w.1">
+          <t>In</t>
+        </w>
+        <w class="NUMBER" xml:id="page1041.text.p.7.s.1.w.2">
+          <t>1927</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.7.s.1.w.3">
+          <t>werd</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.7.s.1.w.4">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.7.s.1.w.5">
+          <t>gemeente</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.7.s.1.w.6">
+          <t>Schoten</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.7.s.1.w.7">
+          <t>deel</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.7.s.1.w.8">
+          <t>van</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.7.s.1.w.9">
+          <t>Haarlem</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.7.s.1.w.10">
+          <t>.</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="page1041.text.p.8">
+      <s xml:id="page1041.text.p.8.s.1">
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.1">
+          <t>Na</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.2">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.3">
+          <t>uitvinding</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.4">
+          <t>van</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.5">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.6">
+          <t>boekdrukkunst</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.8.s.1.w.7">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.8">
+          <t>die</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.9">
+          <t>vroeger</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.10">
+          <t>aan</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.11">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.12">
+          <t>Haarlemmer</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.13">
+          <t>Laurens</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.14">
+          <t>Janszoon</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.15">
+          <t>Coster</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.16">
+          <t>werd</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.8.s.1.w.17">
+          <t>toegeschreven</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.8.s.1.w.18">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.19">
+          <t>kreeg</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.20">
+          <t>Haarlem</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.21">
+          <t>een</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.22">
+          <t>blijvende</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.23">
+          <t>reputatie</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.24">
+          <t>als</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.1.w.26">
+          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-11-29T15:25:04" xml:id="page1041.text.p.8.s.1.w.26.correction.1">
+            <new>
+              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:25:04">drukkersstad</t>
+            </new>
+            <original auth="no">
+              <t>drukkerstad</t>
+            </original>
+          </correction>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.8.s.1.w.28">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.8.s.2">
+        <w class="WORD" xml:id="page1041.text.p.8.s.2.w.1">
+          <t>Later</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.2.w.2">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.2.w.3">
+          <t>daar</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.2.w.4">
+          <t>een</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.2.w.5">
+          <t>reputatie</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.2.w.6">
+          <t>als</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.2.w.7">
+          <t>schrijversstad</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.8.s.2.w.8">
+          <t>bijgekomen</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.8.s.2.w.9">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.2.w.10">
+          <t>veel</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.2.w.11">
+          <t>bekende</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.2.w.12">
+          <t>schrijvers</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.2.w.13">
+          <t>zijn</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.2.w.14">
+          <t>er</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.8.s.2.w.15">
+          <t>geboren</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.8.s.2.w.16">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.2.w.17">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.8.s.2.w.18">
+          <t>werkten</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.8.s.2.w.19">
+          <t>er</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.8.s.2.w.20">
+          <t>.</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="page1041.text.p.9">
+      <s xml:id="page1041.text.p.9.s.1">
+        <w class="WORD" xml:id="page1041.text.p.9.s.1.w.1">
+          <t>De</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.9.s.1.w.2">
+          <t>Haarlemse</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.9.s.1.w.3">
+          <t>krant</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.9.s.1.w.4">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.9.s.1.w.5">
+          <t>Haarlems</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.9.s.1.w.6">
+          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="capitalizationerror" datetime="2017-11-29T15:25:18" xml:id="page1041.text.p.9.s.1.w.6.correction.1">
+            <new>
+              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:25:18">Dagblad</t>
+            </new>
+            <original auth="no">
+              <t>dagblad</t>
+            </original>
+          </correction>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.9.s.1.w.7">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.9.s.1.w.8">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.9.s.1.w.9">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.9.s.1.w.10">
+          <t>oudste</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.9.s.1.w.11">
+          <t>nog</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.9.s.1.w.12">
+          <t>bestaande</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.9.s.1.w.13">
+          <t>krant</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.9.s.1.w.14">
+          <t>ter</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.9.s.1.w.15">
+          <t>wereld</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.9.s.1.w.17">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.9.s.2">
+        <w space="no" class="PUNCTUATION" xml:id="page1041.text.p.9.s.2.w.2">
+          <t>(</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.9.s.2.w.3">
+          <t>uit</t>
+        </w>
+        <w class="NUMBER" xml:id="page1041.text.p.9.s.2.w.5">
+          <t>1656</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.9.s.2.w.6">
+          <t>)</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="page1041.text.p.10">
+      <s xml:id="page1041.text.p.10.s.1">
+        <w class="WORD" xml:id="page1041.text.p.10.s.1.w.1">
+          <t>De</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.1.w.3">
+          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-11-29T15:25:34" xml:id="page1041.text.p.10.s.1.w.3.correction.1">
+            <new>
+              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:25:34">bijnaam</t>
+            </new>
+            <original auth="no">
+              <t>bijaam</t>
+            </original>
+          </correction>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.1.w.4">
+          <t>van</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.1.w.5">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.1.w.6">
+          <t>Haarlemmers</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.1.w.7">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.1.w.9">
+          <t>muggen</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.10.s.1.w.11">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.10.s.2">
+        <w class="WORD" xml:id="page1041.text.p.10.s.2.w.1">
+          <t>Deze</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.2.w.2">
+          <t>zou</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.2.w.3">
+          <t>te</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.2.w.4">
+          <t>danken</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.2.w.5">
+          <t>zijn</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.2.w.6">
+          <t>aan</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.2.w.7">
+          <t>het</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.2.w.8">
+          <t>nabije</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.2.w.9">
+          <t>Haarlemmermeer</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.10.s.2.w.10">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.2.w.11">
+          <t>vroeger</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.10.s.2.w.12">
+          <t>water</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.10.s.2.w.13">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.2.w.14">
+          <t>maar</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.2.w.15">
+          <t>nu</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.10.s.2.w.16">
+          <t>stedelijk</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.10.s.2.w.17">
+          <t>overloopgebied</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.10.s.2.w.18">
+          <t>.</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="page1041.text.p.11">
+      <s xml:id="page1041.text.p.11.s.1">
+        <w class="WORD" xml:id="page1041.text.p.11.s.1.w.1">
+          <t>Er</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.1.w.2">
+          <t>bestaat</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.1.w.3">
+          <t>een</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.1.w.4">
+          <t>jumelage</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.1.w.5">
+          <t>met</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.1.w.6">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.1.w.7">
+          <t>Duitse</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.1.w.8">
+          <t>stad</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.1.w.9">
+          <t>Osnabrück</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.1.w.10">
+          <t>en</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.1.w.11">
+          <t>met</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.1.w.12">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.1.w.13">
+          <t>Franse</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.1.w.14">
+          <t>stad</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.1.w.15">
+          <t>Angers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.11.s.1.w.16">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="page1041.text.p.11.s.2">
+        <w class="WORD" xml:id="page1041.text.p.11.s.2.w.1">
+          <t>Er</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.2.w.2">
+          <t>bestaat</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.2.w.3">
+          <t>een</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.2.w.4">
+          <t>stedenband</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.2.w.5">
+          <t>met</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.2.w.6">
+          <t>de</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.2.w.7">
+          <t>stad</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.2.w.8">
+          <t>Mutare</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.2.w.9">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.11.s.2.w.10">
+          <t>Zimbabwe</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.11.s.2.w.11">
+          <t>.</t>
+        </w>
+      </s>
+    </p>
+    <br xml:id="page1041.br.08d220e470bc4b5ab17ec3deac5e63d0"/>
+    <p xml:id="page1041.text.p.12">
+      <s xml:id="page1041.text.p.12.s.1">
+        <w class="WORD" xml:id="page1041.text.p.12.s.1.w.1">
+          <t>Bekende</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.12.s.1.w.2">
+          <t>bouwwerken</t>
+        </w>
+        <w class="WORD" xml:id="page1041.text.p.12.s.1.w.3">
+          <t>en</t>
+        </w>
+        <w space="no" class="WORD" xml:id="page1041.text.p.12.s.1.w.4">
+          <t>locaties</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="page1041.text.p.12.s.1.w.5">
+          <t>:</t>
+        </w>
+      </s>
+    </p>
+    <list xml:id="page1041.text.list.1">
+      <item xml:id="page1041.text.list.1.item.1">
+        <s xml:id="page1041.text.list.1.item.1.s.1">
+          <w class="WORD" xml:id="page1041.text.list.1.item.1.s.1.w.1">
+            <t>De</t>
+          </w>
+          <w class="WORD" xml:id="page1041.text.list.1.item.1.s.1.w.2">
+            <t>Grote</t>
+          </w>
+          <w class="WORD" xml:id="page1041.text.list.1.item.1.s.1.w.3">
+            <t>of</t>
+          </w>
+          <w class="WORD-COMPOUND" xml:id="page1041.text.list.1.item.1.s.1.w.4">
+            <t>Sint-Bavokerk</t>
+          </w>
+        </s>
+      </item>
+      <item xml:id="page1041.text.list.1.item.2">
+        <s xml:id="page1041.text.list.1.item.2.s.1">
+          <w class="WORD" xml:id="page1041.text.list.1.item.2.s.1.w.1">
+            <t>De</t>
+          </w>
+          <w class="WORD" xml:id="page1041.text.list.1.item.2.s.1.w.2">
+            <t>Grote</t>
+          </w>
+          <w class="WORD" xml:id="page1041.text.list.1.item.2.s.1.w.3">
+            <t>Markt</t>
+          </w>
+        </s>
+      </item>
+      <item xml:id="page1041.text.list.1.item.3">
+        <s xml:id="page1041.text.list.1.item.3.s.1">
+          <w class="WORD" xml:id="page1041.text.list.1.item.3.s.1.w.1">
+            <t>De</t>
+          </w>
+          <w class="WORD" xml:id="page1041.text.list.1.item.3.s.1.w.2">
+            <t>Amsterdamse</t>
+          </w>
+          <w class="WORD" xml:id="page1041.text.list.1.item.3.s.1.w.3">
+            <t>Poort</t>
+          </w>
+        </s>
+      </item>
+      <item xml:id="page1041.text.list.1.item.4">
+        <s xml:id="page1041.text.list.1.item.4.s.1">
+          <w class="WORD" xml:id="page1041.text.list.1.item.4.s.1.w.1">
+            <t>Het</t>
+          </w>
+          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="runonerror" datetime="2017-11-29T15:25:51" xml:id="page1041.text.list.1.item.4.s.1.correction.1">
+            <new>
+              <w xml:id="corrected.d050acdf">
+                <t>Teylers</t>
+              </w>
+              <w xml:id="corrected.7cedf879">
+                <t>museum</t>
+              </w>
+            </new>
+            <original auth="no">
+              <w class="WORD" xml:id="page1041.text.list.1.item.4.s.1.w.2">
+                <t>Teylersmuseum</t>
+              </w>
+            </original>
+          </correction>
+          <w space="no" class="PUNCTUATION" xml:id="page1041.text.list.1.item.4.s.1.w.3">
+            <t>(</t>
+          </w>
+          <w class="WORD" xml:id="page1041.text.list.1.item.4.s.1.w.4">
+            <t>het</t>
+          </w>
+          <w class="WORD" xml:id="page1041.text.list.1.item.4.s.1.w.5">
+            <t>oudste</t>
+          </w>
+          <w class="WORD" xml:id="page1041.text.list.1.item.4.s.1.w.6">
+            <t>museum</t>
+          </w>
+          <w class="WORD" xml:id="page1041.text.list.1.item.4.s.1.w.7">
+            <t>van</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1041.text.list.1.item.4.s.1.w.8">
+            <t>Nederland</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1041.text.list.1.item.4.s.1.w.9">
+            <t>)</t>
+          </w>
+        </s>
+      </item>
+    </list>
+    <br xml:id="page1041.br.dfda951b22a1cd8e359ede434c668baf"/>
+    <div class="section" xml:id="page1041.text.div.1">
+      <head xml:id="page1041.text.div.1.head.1">
+        <s xml:id="page1041.text.div.1.head.1.s.1">
+          <w class="WORD" xml:id="page1041.text.div.1.head.1.s.1.w.1">
+            <t>Beroemde</t>
+          </w>
+          <w space="no" class="WORD" xml:id="page1041.text.div.1.head.1.s.1.w.2">
+            <t>Haarlemmers</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1041.text.div.1.head.1.s.1.w.3">
+            <t>:</t>
+          </w>
+        </s>
+      </head>
+      <list xml:id="page1041.text.div.1.list.1">
+        <item xml:id="page1041.text.div.1.list.1.item.1">
+          <s xml:id="page1041.text.div.1.list.1.item.1.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.1.s.1.w.1">
+              <t>Jurriaan</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.1.s.1.w.2">
+              <t>Andriessen</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.1.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.1.s.1.w.4">
+              <t>componist</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.2">
+          <s xml:id="page1041.text.div.1.list.1.item.2.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.2.s.1.w.1">
+              <t>Nicolaas</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.2.s.1.w.2">
+              <t>Beets</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.2.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.2.s.1.w.4">
+              <t>schrijver</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.3">
+          <s xml:id="page1041.text.div.1.list.1.item.3.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.3.s.1.w.1">
+              <t>Vera</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.3.s.1.w.2">
+              <t>Beths</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.3.s.1.w.3">
+              <t>violist</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.4">
+          <s xml:id="page1041.text.div.1.list.1.item.4.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.4.s.1.w.1">
+              <t>Godfried</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.4.s.1.w.2">
+              <t>Bomans</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.4.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.4.s.1.w.4">
+              <t>schrijver</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.4.s.1.w.5">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.4.s.1.w.6">
+              <t>geboren</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.4.s.1.w.7">
+              <t>in</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.4.s.1.w.8">
+              <t>Den</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.4.s.1.w.9">
+              <t>Haag</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.4.s.1.w.10">
+              <t>!</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.5">
+          <s xml:id="page1041.text.div.1.list.1.item.5.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.5.s.1.w.1">
+              <t>Adriaen</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.5.s.1.w.2">
+              <t>Brouwer</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.5.s.1.w.3">
+              <t>schilder</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.6">
+          <s xml:id="page1041.text.div.1.list.1.item.6.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.6.s.1.w.1">
+              <t>Jacob</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.6.s.1.w.2">
+              <t>van</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.6.s.1.w.3">
+              <t>Campen</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.6.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.6.s.1.w.5">
+              <t>bouwmeester</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.7">
+          <s xml:id="page1041.text.div.1.list.1.item.7.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.7.s.1.w.1">
+              <t>Job</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.7.s.1.w.2">
+              <t>Cohen</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.8">
+          <s xml:id="page1041.text.div.1.list.1.item.8.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.8.s.1.w.1">
+              <t>Laurens</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.8.s.1.w.2">
+              <t>Janszoon</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.8.s.1.w.3">
+              <t>Coster</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.8.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.8.s.1.w.5">
+              <t>boekdrukker</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.9">
+          <s xml:id="page1041.text.div.1.list.1.item.9.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.9.s.1.w.1">
+              <t>Alphons</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.9.s.1.w.2">
+              <t>Freymuth</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.9.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.9.s.1.w.4">
+              <t>schilder</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.10">
+          <s xml:id="page1041.text.div.1.list.1.item.10.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.10.s.1.w.1">
+              <t>Ruud</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.10.s.1.w.2">
+              <t>Geels</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.10.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.10.s.1.w.4">
+              <t>voetballer</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.11">
+          <s xml:id="page1041.text.div.1.list.1.item.11.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.11.s.1.w.1">
+              <t>Yvonne</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.11.s.1.w.2">
+              <t>van</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.11.s.1.w.3">
+              <t>Gennip</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.11.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.11.s.1.w.5">
+              <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-11-29T15:26:06" xml:id="page1041.text.div.1.list.1.item.11.s.1.w.5.correction.1">
+                <new>
+                  <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:26:06">schaatsster</t>
+                </new>
+                <original auth="no">
+                  <t>schaatster</t>
+                </original>
+              </correction>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.12">
+          <s xml:id="page1041.text.div.1.list.1.item.12.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.12.s.1.w.1">
+              <t>Jan</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.12.s.1.w.2">
+              <t>de</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.12.s.1.w.3">
+              <t>Hartog</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.12.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.12.s.1.w.5">
+              <t>schrijver</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.13">
+          <s xml:id="page1041.text.div.1.list.1.item.13.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.13.s.1.w.1">
+              <t>Kenau</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.13.s.1.w.2">
+              <t>Simonsdochter</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.13.s.1.w.3">
+              <t>Hasselaer</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.13.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.13.s.1.w.5">
+              <t>vrijheidsstrijder</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.14">
+          <s xml:id="page1041.text.div.1.list.1.item.14.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.14.s.1.w.1">
+              <t>Willem</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.14.s.1.w.2">
+              <t>Claeszoon</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.14.s.1.w.3">
+              <t>Heda</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.14.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.14.s.1.w.5">
+              <t>schilder</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.15">
+          <s xml:id="page1041.text.div.1.list.1.item.15.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.15.s.1.w.1">
+              <t>Maarten</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.15.s.1.w.2">
+              <t>van</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.15.s.1.w.3">
+              <t>Heemskerck</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.15.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.15.s.1.w.5">
+              <t>schilder</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.16">
+          <s xml:id="page1041.text.div.1.list.1.item.16.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.16.s.1.w.1">
+              <t>Piet</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.16.s.1.w.2">
+              <t>Ketting</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.16.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.16.s.1.w.4">
+              <t>componist</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.17">
+          <s xml:id="page1041.text.div.1.list.1.item.17.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.17.s.1.w.1">
+              <t>Sigrid</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.17.s.1.w.2">
+              <t>Koetse</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.17.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.17.s.1.w.4">
+              <t>toneelspeelster</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.17.s.1.w.5">
+              <t>/</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.17.s.1.w.6">
+              <t>actrice</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.18">
+          <s xml:id="page1041.text.div.1.list.1.item.18.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.18.s.1.w.1">
+              <t>Jan</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.18.s.1.w.2">
+              <t>Adam</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.18.s.1.w.3">
+              <t>Kruseman</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.18.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.18.s.1.w.5">
+              <t>schilder</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.19">
+          <s xml:id="page1041.text.div.1.list.1.item.19.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.19.s.1.w.1">
+              <t>Judith</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.19.s.1.w.2">
+              <t>Leyster</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.19.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.19.s.1.w.4">
+              <t>schilder</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.20">
+          <s xml:id="page1041.text.div.1.list.1.item.20.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.20.s.1.w.1">
+              <t>Jacobus</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.20.s.1.w.2">
+              <t>van</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.20.s.1.w.3">
+              <t>Looy</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.20.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.20.s.1.w.5">
+              <t>schrijver</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.21">
+          <s xml:id="page1041.text.div.1.list.1.item.21.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.21.s.1.w.1">
+              <t>Maurits</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.21.s.1.w.2">
+              <t>Mok</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.21.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.21.s.1.w.4">
+              <t>dichter</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.22">
+          <s xml:id="page1041.text.div.1.list.1.item.22.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.22.s.1.w.1">
+              <t>Jan</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.22.s.1.w.2">
+              <t>Mul</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.22.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.22.s.1.w.4">
+              <t>componist</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.23">
+          <s xml:id="page1041.text.div.1.list.1.item.23.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.23.s.1.w.1">
+              <t>Harry</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.23.s.1.w.2">
+              <t>Mulisch</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.23.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.23.s.1.w.7">
+              <t>schrijver</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.24">
+          <s xml:id="page1041.text.div.1.list.1.item.24.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.24.s.1.w.2">
+              <t>Felix</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.24.s.1.w.3">
+              <t>de</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.24.s.1.w.4">
+              <t>Nobel</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.24.s.1.w.6">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.24.s.1.w.8">
+              <t>pianist</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.25">
+          <s xml:id="page1041.text.div.1.list.1.item.25.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.25.s.1.w.1">
+              <t>Tom</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.25.s.1.w.2">
+              <t>Okker</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.25.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.25.s.1.w.4">
+              <t>tennisspeler</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.26">
+          <s xml:id="page1041.text.div.1.list.1.item.26.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.26.s.1.w.1">
+              <t>Adriaen</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.26.s.1.w.2">
+              <t>van</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.26.s.1.w.3">
+              <t>Ostade</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.26.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.26.s.1.w.5">
+              <t>schilder</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.27">
+          <s xml:id="page1041.text.div.1.list.1.item.27.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.27.s.1.w.1">
+              <t>Bram</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.27.s.1.w.2">
+              <t>Peper</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.27.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.27.s.1.w.4">
+              <t>politicus</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.28">
+          <s xml:id="page1041.text.div.1.list.1.item.28.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.28.s.1.w.1">
+              <t>Alexander</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.28.s.1.w.2">
+              <t>Pola</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.28.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.28.s.1.w.4">
+              <t>schrijver</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.29">
+          <s xml:id="page1041.text.div.1.list.1.item.29.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.29.s.1.w.1">
+              <t>Pieter</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.29.s.1.w.2">
+              <t>Post</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.29.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.29.s.1.w.4">
+              <t>architect</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.30">
+          <s xml:id="page1041.text.div.1.list.1.item.30.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.30.s.1.w.1">
+              <t>Hendrik</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.30.s.1.w.2">
+              <t>Gerritszoon</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.30.s.1.w.3">
+              <t>Pot</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.30.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.30.s.1.w.5">
+              <t>schilder</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.31">
+          <s xml:id="page1041.text.div.1.list.1.item.31.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.31.s.1.w.1">
+              <t>Sonja</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.31.s.1.w.2">
+              <t>Prins</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.31.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.31.s.1.w.6">
+              <t>schrijfster</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.32">
+          <s xml:id="page1041.text.div.1.list.1.item.32.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.32.s.1.w.1">
+              <t>Coba</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.32.s.1.w.2">
+              <t>Ritsema</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.32.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.32.s.1.w.4">
+              <t>schilderes</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.33">
+          <s xml:id="page1041.text.div.1.list.1.item.33.s.1">
+            <w space="no" class="WORD" xml:id="page1041.text.div.1.list.1.item.33.s.1.w.1">
+              <t>Röell</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.33.s.1.w.2">
+              <t>,</t>
+            </w>
+            <w space="no" class="ABBREVIATION-KNOWN" xml:id="page1041.text.div.1.list.1.item.33.s.1.w.3">
+              <t>Jhr.</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.33.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.33.s.1.w.5">
+              <t>staatsman</t>
+            </w>
+            <w space="no" class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.33.s.1.w.6">
+              <t>(</t>
+            </w>
+            <w space="no" class="WORD" xml:id="page1041.text.div.1.list.1.item.33.s.1.w.7">
+              <t>naam</t>
+            </w>
+            <w space="no" class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.33.s.1.w.8">
+              <t>?</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.33.s.1.w.9">
+              <t>)</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.34">
+          <s xml:id="page1041.text.div.1.list.1.item.34.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.34.s.1.w.1">
+              <t>Jacob</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.34.s.1.w.2">
+              <t>van</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.34.s.1.w.3">
+              <t>Ruysdael</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.34.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.34.s.1.w.6">
+              <t>schilder</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.35">
+          <s xml:id="page1041.text.div.1.list.1.item.35.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.35.s.1.w.2">
+              <t>Pieter</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.35.s.1.w.3">
+              <t>Janszoon</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.35.s.1.w.4">
+              <t>Saenredam</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.35.s.1.w.5">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.35.s.1.w.6">
+              <t>schilder</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.36">
+          <s xml:id="page1041.text.div.1.list.1.item.36.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.36.s.1.w.1">
+              <t>Hannie</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.36.s.1.w.2">
+              <t>Schaft</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.36.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.36.s.1.w.4">
+              <t>verzetsstrijder</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.37">
+          <s xml:id="page1041.text.div.1.list.1.item.37.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.37.s.1.w.1">
+              <t>Theo</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.37.s.1.w.2">
+              <t>Sontrop</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.37.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.37.s.1.w.4">
+              <t>dichter</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.38">
+          <s xml:id="page1041.text.div.1.list.1.item.38.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.38.s.1.w.1">
+              <t>Jan</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.38.s.1.w.2">
+              <t>Steen</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.38.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.38.s.1.w.4">
+              <t>schilder</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.39">
+          <s xml:id="page1041.text.div.1.list.1.item.39.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.39.s.1.w.1">
+              <t>Hendrik</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.39.s.1.w.2">
+              <t>van</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.39.s.1.w.3">
+              <t>Teylingen</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.39.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.39.s.1.w.5">
+              <t>schrijver</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.40">
+          <s xml:id="page1041.text.div.1.list.1.item.40.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.40.s.1.w.1">
+              <t>Kees</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.40.s.1.w.2">
+              <t>Verkade</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.40.s.1.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.40.s.1.w.5">
+              <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-11-29T15:26:25" xml:id="page1041.text.div.1.list.1.item.40.s.1.w.5.correction.1">
+                <new>
+                  <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:26:25">beeldhouwer</t>
+                </new>
+                <original auth="no">
+                  <t>beelhouwer</t>
+                </original>
+              </correction>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.41">
+          <s xml:id="page1041.text.div.1.list.1.item.41.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.41.s.1.w.2">
+              <t>Cornelis</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.41.s.1.w.3">
+              <t>Visscher</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.41.s.1.w.4">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.41.s.1.w.5">
+              <t>graveur</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.42">
+          <s xml:id="page1041.text.div.1.list.1.item.42.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.42.s.1.w.1">
+              <t>Willem</t>
+            </w>
+            <w class="INITIAL" xml:id="page1041.text.div.1.list.1.item.42.s.1.w.2">
+              <t>A.</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.42.s.1.w.3">
+              <t>Visser</t>
+            </w>
+            <w class="WORD-TOKEN" xml:id="page1041.text.div.1.list.1.item.42.s.1.w.4">
+              <t>'t</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.42.s.1.w.5">
+              <t>Hooft</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.42.s.1.w.6">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.42.s.1.w.8">
+              <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-11-29T15:26:36" xml:id="page1041.text.div.1.list.1.item.42.s.1.w.8.correction.1">
+                <new>
+                  <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T15:26:36">protestantse</t>
+                </new>
+                <original auth="no">
+                  <t>protestante</t>
+                </original>
+              </correction>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.42.s.1.w.10">
+              <t>leider</t>
+            </w>
+          </s>
+        </item>
+        <item xml:id="page1041.text.div.1.list.1.item.43">
+          <s xml:id="page1041.text.div.1.list.1.item.43.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.43.s.1.w.1">
+              <t>Zwaardemaker</t>
+            </w>
+            <w space="no" class="WORD" xml:id="page1041.text.div.1.list.1.item.43.s.1.w.2">
+              <t>Czn</t>
+            </w>
+            <w space="no" class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.43.s.1.w.3">
+              <t>.</t>
+            </w>
+          </s>
+          <s xml:id="page1041.text.div.1.list.1.item.43.s.2">
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.43.s.2.w.1">
+              <t>,</t>
+            </w>
+            <w space="no" class="WORD" xml:id="page1041.text.div.1.list.1.item.43.s.2.w.2">
+              <t>Hendrik</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.43.s.2.w.3">
+              <t>,</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.list.1.item.43.s.2.w.4">
+              <t>fysioloog</t>
+            </w>
+            <w space="no" class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.43.s.2.w.5">
+              <t>(</t>
+            </w>
+            <w space="no" class="WORD" xml:id="page1041.text.div.1.list.1.item.43.s.2.w.6">
+              <t>naam</t>
+            </w>
+            <w space="no" class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.43.s.2.w.7">
+              <t>?</t>
+            </w>
+            <w class="PUNCTUATION" xml:id="page1041.text.div.1.list.1.item.43.s.2.w.8">
+              <t>)</t>
+            </w>
+          </s>
+        </item>
+      </list>
+      <p xml:id="page1041.text.div.1.p.1">
+        <s xml:id="page1041.text.div.1.p.1.s.1">
+          <w space="no" class="WORD" xml:id="page1041.text.div.1.p.1.s.1.w.1">
+            <t>Telefoon</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1041.text.div.1.p.1.s.1.w.2">
+            <t>:</t>
+          </w>
+          <w class="WORD" xml:id="page1041.text.div.1.p.1.s.1.w.3">
+            <t>netnummer</t>
+          </w>
+          <w class="NUMBER" xml:id="page1041.text.div.1.p.1.s.1.w.4">
+            <t>023</t>
+          </w>
+          <w class="PUNCTUATION" xml:id="page1041.text.div.1.p.1.s.1.w.5">
+            <t>.</t>
+          </w>
+        </s>
+      </p>
+      <div class="section" xml:id="page1041.text.div.1.div.1">
+        <head xml:id="page1041.text.div.1.div.1.head.1">
+          <s xml:id="page1041.text.div.1.div.1.head.1.s.1">
+            <w class="WORD" xml:id="page1041.text.div.1.div.1.head.1.s.1.w.1">
+              <t>Externe</t>
+            </w>
+            <w class="WORD" xml:id="page1041.text.div.1.div.1.head.1.s.1.w.2">
+              <t>link</t>
+            </w>
+          </s>
+        </head>
+        <list xml:id="page1041.text.div.1.div.1.list.1">
+          <item xml:id="page1041.text.div.1.div.1.list.1.item.1">
+            <s xml:id="page1041.text.div.1.div.1.list.1.item.1.s.1">
+              <w class="WORD" xml:id="page1041.text.div.1.div.1.list.1.item.1.s.1.w.1">
+                <t>website</t>
+              </w>
+              <w class="WORD" xml:id="page1041.text.div.1.div.1.list.1.item.1.s.1.w.2">
+                <t>gemeente</t>
+              </w>
+            </s>
+          </item>
+        </list>
+      </div>
+    </div>
+  </text>
+</FoLiA>
