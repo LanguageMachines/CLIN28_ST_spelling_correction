@@ -8760,16 +8760,7 @@
             </w>
             <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="spliterror" datetime="2017-11-29T16:40:06" xml:id="page1310.text.div.5.div.1.p.1.s.6.correction.1">
               <new>
-                <w xml:id="corrected.bcb3a7cc">
-                  <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="spliterror" datetime="2017-11-29T16:50:05" xml:id="corrected.bcb3a7cc.correction.1">
-                    <new>
-                      <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T16:50:05">motetuitvoering</t>
-                    </new>
-                    <original auth="no">
-                      <t>motet-uitvoering</t>
-                    </original>
-                  </correction>
-                </w>
+                  <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-11-29T16:50:05">motetuitvoering</t>
               </new>
               <original auth="no">
                 <w class="WORD" xml:id="page1310.text.div.5.div.1.p.1.s.6.w.12">
@@ -10243,7 +10234,6 @@
               <new>
                 <w xml:id="corrected.bfe881d5">
                   <t>twintigste-eeuwse</t>
-                  <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="spliterror" datetime="2017-11-29T16:41:54" xml:id="page1310.correction.79105bd567a3e38edf5d883ea7437b3a"/>
                 </w>
               </new>
               <original auth="no">
