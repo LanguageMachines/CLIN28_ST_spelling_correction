@@ -4,7 +4,6 @@
       <style-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/styles.foliaset.xml" />
       <token-annotation annotator="ucto" annotatortype="auto" datetime="2017-10-01T18:47:52" set="tokconfig-nld" />
       <observation-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml" />
-      <correction-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml" />
     </annotations>
     <meta id="language">nld</meta>
   </metadata>

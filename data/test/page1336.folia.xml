@@ -4,8 +4,6 @@
       <style-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/styles.foliaset.xml" />
       <division-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/divisions.foliaset.xml" />
       <token-annotation annotator="ucto" annotatortype="auto" datetime="2017-10-01T17:33:02" set="tokconfig-nld" />
-      <observation-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml" />
-      <correction-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml" />
     </annotations>
     <meta id="language">nld</meta>
   </metadata>
@@ -40,14 +38,7 @@
           <t>tot</t>
         </w>
         <w class="NUMBER" xml:id="page1336.text.p.1.s.1.w.10">
-          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-12-04T11:15:08" xml:id="page1336.text.p.1.s.1.w.10.correction.1">
-            <new>
-              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:15:08">twaalf</t>
-            </new>
-            <original auth="no">
-              <t>12</t>
-            </original>
-          </correction>
+          <t>12</t>
         </w>
         <w class="WORD" space="no" xml:id="page1336.text.p.1.s.1.w.11">
           <t>jaar</t>
@@ -68,27 +59,13 @@
           <t>vanaf</t>
         </w>
         <w class="NUMBER" xml:id="page1336.text.p.1.s.1.w.17">
-          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-12-04T11:15:17" xml:id="page1336.text.p.1.s.1.w.17.correction.1">
-            <new>
-              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:15:17">twaalf</t>
-            </new>
-            <original auth="no">
-              <t>12</t>
-            </original>
-          </correction>
+          <t>12</t>
         </w>
         <w class="WORD" xml:id="page1336.text.p.1.s.1.w.18">
           <t>tot</t>
         </w>
         <w class="NUMBER" space="no" xml:id="page1336.text.p.1.s.1.w.19">
-          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-12-04T11:15:26" xml:id="page1336.text.p.1.s.1.w.19.correction.1">
-            <new>
-              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:15:26">achttien</t>
-            </new>
-            <original auth="no">
-              <t>18</t>
-            </original>
-          </correction>
+          <t>18</t>
         </w>
         <w class="PUNCTUATION" xml:id="page1336.text.p.1.s.1.w.20">
           <t>)</t>
@@ -259,14 +236,7 @@
             <t>en</t>
           </w>
           <w class="WORD" xml:id="page1336.text.div.1.p.1.s.1.w.3">
-            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="capitalizationerror" datetime="2017-12-04T11:16:22" xml:id="page1336.text.div.1.p.1.s.1.w.3.correction.1">
-              <new>
-                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:16:22">jeugdliteratuur</t>
-              </new>
-              <original auth="no">
-                <t>Jeugdliteratuur</t>
-              </original>
-            </correction>
+            <t>Jeugdliteratuur</t>
           </w>
           <w class="WORD" xml:id="page1336.text.div.1.p.1.s.1.w.4">
             <t>worden</t>
@@ -305,27 +275,13 @@
             <t>van</t>
           </w>
           <w class="NUMBER" xml:id="page1336.text.div.1.p.1.s.1.w.16">
-            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-12-04T11:15:42" xml:id="page1336.text.div.1.p.1.s.1.w.16.correction.1">
-              <new>
-                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:15:42">nul</t>
-              </new>
-              <original auth="no">
-                <t>0</t>
-              </original>
-            </correction>
+            <t>0</t>
           </w>
           <w class="WORD" xml:id="page1336.text.div.1.p.1.s.1.w.17">
             <t>tot</t>
           </w>
           <w class="NUMBER" space="no" xml:id="page1336.text.div.1.p.1.s.1.w.18">
-            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-12-04T11:15:50" xml:id="page1336.text.div.1.p.1.s.1.w.18.correction.1">
-              <new>
-                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:15:50">achttien</t>
-              </new>
-              <original auth="no">
-                <t>18</t>
-              </original>
-            </correction>
+            <t>18</t>
           </w>
           <w class="PUNCTUATION" xml:id="page1336.text.div.1.p.1.s.1.w.19">
             <t>)</t>
@@ -340,14 +296,7 @@
             <t>psychologische</t>
           </w>
           <w class="WORD" xml:id="page1336.text.div.1.p.1.s.1.w.23">
-            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="redundantpunctuation" datetime="2017-12-04T11:17:37" xml:id="page1336.text.div.1.p.1.s.1.w.23.correction.1">
-              <new>
-                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:17:37">en</t>
-              </new>
-              <original auth="no">
-                <t>-en</t>
-              </original>
-            </correction>
+            <t>-en</t>
           </w>
           <w class="WORD" xml:id="page1336.text.div.1.p.1.s.1.w.24">
             <t>taalontwikkeling</t>
@@ -1187,24 +1136,10 @@
             <t>met</t>
           </w>
           <w class="WORD" xml:id="page1336.text.div.3.p.2.s.4.w.20">
-            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-12-04T11:20:07" xml:id="page1336.text.div.3.p.2.s.4.w.20.correction.1">
-              <new>
-                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:20:07">Pluk</t>
-              </new>
-              <original auth="no">
-                <t>Put</t>
-              </original>
-            </correction>
+            <t>Put</t>
           </w>
           <w class="WORD" xml:id="page1336.text.div.3.p.2.s.4.w.21">
-            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-12-04T11:20:15" xml:id="page1336.text.div.3.p.2.s.4.w.21.correction.1">
-              <new>
-                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:20:15">van</t>
-              </new>
-              <original auth="no">
-                <t>en</t>
-              </original>
-            </correction>
+            <t>en</t>
           </w>
           <w class="WORD" xml:id="page1336.text.div.3.p.2.s.4.w.22">
             <t>de</t>
@@ -2097,14 +2032,7 @@
                 <t>vanaf</t>
               </w>
               <w class="NUMBER" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.w.9">
-                <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-12-04T11:20:36" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.w.9.correction.1">
-                  <new>
-                    <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:20:36">twee</t>
-                  </new>
-                  <original auth="no">
-                    <t>2</t>
-                  </original>
-                </correction>
+                <t>2</t>
               </w>
               <w class="WORD" space="no" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.w.10">
                 <t>jaar</t>
@@ -2121,21 +2049,12 @@
               <w class="WORD" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.w.14">
                 <t>De</t>
               </w>
-              <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="redundantpunctuation" datetime="2017-12-04T11:21:14" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.correction.1">
-                <new>
-                  <w xml:id="corrected.129f7b76">
-                    <t>Kockeres</t>
-                  </w>
-                </new>
-                <original auth="no">
-                  <w class="WORD" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.w.15">
-                    <t>Kockere</t>
-                  </w>
-                  <w class="WORD-TOKEN" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.w.16">
-                    <t>'s</t>
-                  </w>
-                </original>
-              </correction>
+              <w class="WORD" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.w.15">
+                <t>Kockere</t>
+              </w>
+              <w class="WORD-TOKEN" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.w.16">
+                <t>'s</t>
+              </w>
               <w class="WORD" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.w.17">
                 <t>Een</t>
               </w>
@@ -2154,21 +2073,12 @@
               <w class="ABBREVIATION" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.w.22">
                 <t>A.M.G.</t>
               </w>
-              <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="redundantpunctuation" datetime="2017-12-04T11:21:38" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.correction.2">
-                <new>
-                  <w xml:id="corrected.a4c9b41c">
-                    <t>Schmidts</t>
-                  </w>
-                </new>
-                <original auth="no">
-                  <w class="WORD" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.w.23">
-                    <t>Schmidt</t>
-                  </w>
-                  <w class="WORD-TOKEN" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.w.24">
-                    <t>'s</t>
-                  </w>
-                </original>
-              </correction>
+              <w class="WORD" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.w.23">
+                <t>Schmidt</t>
+              </w>
+              <w class="WORD-TOKEN" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.w.24">
+                <t>'s</t>
+              </w>
               <w class="WORD" xml:id="page1336.text.div.3.div.1.div.2.p.1.s.5.w.25">
                 <t>Ik</t>
               </w>
@@ -2222,14 +2132,7 @@
                 <t>Vanaf</t>
               </w>
               <w class="NUMBER" xml:id="page1336.text.div.3.div.1.div.3.p.1.s.1.w.2">
-                <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-12-04T11:22:00" xml:id="page1336.text.div.3.div.1.div.3.p.1.s.1.w.2.correction.1">
-                  <new>
-                    <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:22:00">zes</t>
-                  </new>
-                  <original auth="no">
-                    <t>6</t>
-                  </original>
-                </correction>
+                <t>6</t>
               </w>
               <w class="WORD" xml:id="page1336.text.div.3.div.1.div.3.p.1.s.1.w.3">
                 <t>maanden</t>

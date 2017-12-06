@@ -3,8 +3,6 @@
     <annotations>
       <style-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/styles.foliaset.xml" />
       <token-annotation annotator="ucto" annotatortype="auto" datetime="2017-10-01T17:33:01" set="tokconfig-nld" />
-      <observation-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml" />
-      <correction-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml" />
     </annotations>
     <meta id="language">nld</meta>
   </metadata>
@@ -452,14 +450,7 @@
           <t>4</t>
         </w>
         <w class="WORD" xml:id="page1326.text.p.4.s.1.w.7">
-          <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-12-04T11:09:37" xml:id="page1326.text.p.4.s.1.w.7.correction.1">
-            <new>
-              <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:09:37">oktober</t>
-            </new>
-            <original auth="no">
-              <t>october</t>
-            </original>
-          </correction>
+          <t>october</t>
         </w>
         <w class="NUMBER" space="no" xml:id="page1326.text.p.4.s.1.w.9">
           <t>1814</t>

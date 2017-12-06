@@ -5,8 +5,6 @@
       <division-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/divisions.foliaset.xml" />
       <note-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/notes.foliaset.xml" />
       <token-annotation annotator="ucto" annotatortype="auto" datetime="2017-10-01T17:33:00" set="tokconfig-nld" />
-      <observation-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml" />
-      <correction-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml" />
     </annotations>
     <meta id="language">nld</meta>
   </metadata>
@@ -117,27 +115,6 @@
         <w class="WORD" xml:id="page1320.text.p.1.s.2.w.12">
           <t>het</t>
         </w>
-        <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="capitalizationerror" datetime="2017-12-04T11:04:42" xml:id="page1320.text.p.1.s.2.correction.1">
-          <new>
-            <w xml:id="corrected.826e3de5">
-              <t>JSF-project</t>
-            </w>
-          </new>
-          <original auth="no">
-            <w class="WORD" xml:id="page1320.text.p.1.s.2.w.13">
-              <t>Joint</t>
-            </w>
-            <w class="WORD" xml:id="page1320.text.p.1.s.2.w.14">
-              <t>Strike</t>
-            </w>
-            <w class="WORD" xml:id="page1320.text.p.1.s.2.w.15">
-              <t>Fighter</t>
-            </w>
-            <w class="WORD" xml:id="page1320.text.p.1.s.2.w.16">
-              <t>-project</t>
-            </w>
-          </original>
-        </correction>
         <w class="WORD" xml:id="page1320.text.p.1.s.2.w.17">
           <t>deelnam</t>
         </w>
@@ -1207,14 +1184,7 @@
             <t>totaal</t>
           </w>
           <w class="NUMBER" xml:id="page1320.text.div.2.p.1.s.3.w.5">
-            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-12-04T11:05:13" xml:id="page1320.text.div.2.p.1.s.3.w.5.correction.1">
-              <new>
-                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:05:13">zes</t>
-              </new>
-              <original auth="no">
-                <t>6</t>
-              </original>
-            </correction>
+            <t>6</t>
           </w>
           <w class="WORD" space="no" xml:id="page1320.text.div.2.p.1.s.3.w.6">
             <t>keuzemogelijkheden</t>
@@ -1223,14 +1193,7 @@
             <t>:</t>
           </w>
           <w class="NUMBER" xml:id="page1320.text.div.2.p.1.s.3.w.8">
-            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-12-04T11:05:26" xml:id="page1320.text.div.2.p.1.s.3.w.8.correction.1">
-              <new>
-                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:05:26">drie</t>
-              </new>
-              <original auth="no">
-                <t>3</t>
-              </original>
-            </correction>
+            <t>3</t>
           </w>
           <w class="WORD" xml:id="page1320.text.div.2.p.1.s.3.w.9">
             <t>Europese</t>
@@ -1320,14 +1283,7 @@
             <t>en</t>
           </w>
           <w class="NUMBER" xml:id="page1320.text.div.2.p.1.s.3.w.38">
-            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-12-04T11:05:34" xml:id="page1320.text.div.2.p.1.s.3.w.38.correction.1">
-              <new>
-                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:05:34">drie</t>
-              </new>
-              <original auth="no">
-                <t>3</t>
-              </original>
-            </correction>
+            <t>3</t>
           </w>
           <w class="WORD" xml:id="page1320.text.div.2.p.1.s.3.w.39">
             <t>Amerikaanse</t>
@@ -1834,14 +1790,7 @@
             <t>een</t>
           </w>
           <w class="WORD" xml:id="page1320.text.div.2.p.3.s.3.w.8">
-            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-12-04T11:07:44" xml:id="page1320.text.div.2.p.3.s.3.w.8.correction.1">
-              <new>
-                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:07:44">definitief</t>
-              </new>
-              <original auth="no">
-                <t>defintief</t>
-              </original>
-            </correction>
+            <t>defintief</t>
           </w>
           <w class="WORD" xml:id="page1320.text.div.2.p.3.s.3.w.10">
             <t>besluit</t>
@@ -3198,14 +3147,7 @@
             <t>andere</t>
           </w>
           <w class="WORD" xml:id="page1320.text.div.3.p.3.s.1.w.19">
-            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-12-04T11:08:02" xml:id="page1320.text.div.3.p.3.s.1.w.19.correction.1">
-              <new>
-                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:08:02">kandidaten</t>
-              </new>
-              <original auth="no">
-                <t>kanidaten</t>
-              </original>
-            </correction>
+            <t>kanidaten</t>
           </w>
           <w class="WORD" xml:id="page1320.text.div.3.p.3.s.1.w.20">
             <t>voor</t>
@@ -3240,14 +3182,7 @@
             <t>De</t>
           </w>
           <w class="WORD" xml:id="page1320.text.div.3.p.3.s.2.w.3">
-            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="nonworderror" datetime="2017-12-04T11:07:23" xml:id="page1320.text.div.3.p.3.s.2.w.3.correction.1">
-              <new>
-                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:07:23">kandidaten</t>
-              </new>
-              <original auth="no">
-                <t>kanidaten</t>
-              </original>
-            </correction>
+            <t>kanidaten</t>
           </w>
           <w class="WORD" xml:id="page1320.text.div.3.p.3.s.2.w.5">
             <t>zijn</t>
@@ -3423,14 +3358,7 @@
             <t>eens</t>
           </w>
           <w class="NUMBER" xml:id="page1320.text.div.3.p.5.s.1.w.10">
-            <correction annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" class="confusion" datetime="2017-12-04T11:08:53" xml:id="page1320.text.div.3.p.5.s.1.w.10.correction.1">
-              <new>
-                <t annotator="m.t.beeksma@let.ru.nl" annotatortype="manual" datetime="2017-12-04T11:08:53">veertien</t>
-              </new>
-              <original auth="no">
-                <t>14</t>
-              </original>
-            </correction>
+            <t>14</t>
           </w>
           <w class="WORD" xml:id="page1320.text.div.3.p.5.s.1.w.11">
             <t>maanden</t>
