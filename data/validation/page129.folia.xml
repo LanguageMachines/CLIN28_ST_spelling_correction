@@ -5,7 +5,6 @@
       <style-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/styles.foliaset.xml"/>
       <division-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/divisions.foliaset.xml"/>
       <token-annotation annotator="ucto" annotatortype="auto" datetime="2017-10-01T18:47:53" set="tokconfig-nld"/>
-      <observation-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml"/>
       <correction-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/spellingcorrection.foliaset.xml"/>
     </annotations>
     <meta id="language">nld</meta>
@@ -600,57 +599,6 @@
         <w class="PUNCTUATION" xml:id="page129.text.p.4.s.1.w.21">
           <t>.</t>
         </w>
-        <observations>
-          <observation class="uncertain" xml:id="page129.text.observation.1">
-            <wref id="page129.text.p.4.s.1.w.7" t="Unix"/>
-            <wref id="page129.text.p.4.s.1.w.8" t="-variant"/>
-          </observation>
-          <observation class="uncertain" xml:id="page129.text.observation.2">
-            <wref id="page129.text.p.4.s.1.w.11" t="geleverd"/>
-            <wref id="page129.text.p.4.s.1.w.12" t=","/>
-          </observation>
-          <observation class="uncertain" xml:id="page129.text.observation.3">
-            <wref id="page129.text.p.4.s.1.w.15" t="inclusief"/>
-          </observation>
-          <observation class="uncertain" xml:id="page129.text.observation.4">
-            <wref id="page129.text.p.4.s.1.w.18" t="alle"/>
-            <wref id="page129.text.p.4.s.1.w.19" t="Linux"/>
-            <wref id="page129.text.p.4.s.1.w.20" t="besturingssystemen"/>
-            <wref id="page129.text.p.4.s.1.w.21" t="."/>
-            <wref id="page129.text.p.4.s.2.w.1" t="Ook"/>
-            <wref id="page129.text.p.4.s.2.w.2" t="op"/>
-            <wref id="page129.text.p.4.s.2.w.3" t="het"/>
-            <wref id="page129.text.p.4.s.2.w.4" t="Windows"/>
-            <wref id="page129.text.p.4.s.2.w.5" t="platform"/>
-            <wref id="page129.text.p.4.s.2.w.6" t="zijn"/>
-            <wref id="page129.text.p.4.s.2.w.7" t="AWK-varianten"/>
-            <wref id="page129.text.p.4.s.2.w.8" t="beschikbaar"/>
-            <wref id="page129.text.p.4.s.2.w.9" t="."/>
-            <wref id="page129.text.p.4.s.3.w.1" t="AWK"/>
-            <wref id="page129.text.p.4.s.3.w.2" t="wordt"/>
-            <wref id="page129.text.p.4.s.3.w.3" t="nog"/>
-            <wref id="page129.text.p.4.s.3.w.4" t="steeds"/>
-            <wref id="page129.text.p.4.s.3.w.5" t="door"/>
-            <wref id="page129.text.p.4.s.3.w.6" t="veel"/>
-            <wref id="page129.text.p.4.s.3.w.7" t="computerspecialisten"/>
-            <wref id="page129.text.p.4.s.3.w.8" t="gebruikt"/>
-            <wref id="page129.text.p.4.s.3.w.9" t="om"/>
-            <wref id="page129.text.p.4.s.3.w.10" t="snel"/>
-            <wref id="page129.text.p.4.s.3.w.11" t=","/>
-            <wref id="page129.text.p.4.s.3.w.12" t="kleine"/>
-            <wref id="page129.text.p.4.s.3.w.13" t="programma's"/>
-            <wref id="page129.text.p.4.s.3.w.14" t="te"/>
-            <wref id="page129.text.p.4.s.3.w.15" t="schrijven"/>
-            <wref id="page129.text.p.4.s.3.w.16" t="voor"/>
-            <wref id="page129.text.p.4.s.3.w.17" t="specifieke"/>
-            <wref id="page129.text.p.4.s.3.w.18" t="tekstgerelateerde"/>
-          </observation>
-          <observation class="uncertain" xml:id="page129.text.observation.5">
-            <wref id="page129.text.div.1.p.1.s.1.w.22" t="}"/>
-            <wref id="page129.text.div.2.head.1.s.1.w.1" t="literatuur"/>
-            <wref id="page129.text.div.2.list.1.item.1.s.1.w.1" t="Alfred"/>
-          </observation>
-        </observations>
       </s>
       <s xml:id="page129.text.p.4.s.2">
         <w class="WORD" xml:id="page129.text.p.4.s.2.w.1">
@@ -1078,13 +1026,6 @@
             <w class="WORD" xml:id="page129.text.div.3.list.1.item.1.s.1.w.18">
               <t>Kernighan</t>
             </w>
-            <observations>
-              <observation class="uncertain" xml:id="page129.text.observation.6">
-                <wref id="page129.text.div.3.list.1.item.1.s.1.w.10" t="AWK"/>
-                <wref id="page129.text.div.3.list.1.item.1.s.1.w.11" t="&quot;"/>
-                <wref id="page129.text.div.3.list.1.item.1.s.1.w.12" t=","/>
-              </observation>
-            </observations>
           </s>
         </item>
       </list>
