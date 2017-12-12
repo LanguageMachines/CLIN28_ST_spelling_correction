@@ -182,8 +182,7 @@ the most performant system!) will be awarded an honourable mention.
 
 ## Important dates
 
-* 31 October 2017: full validation data set online
-* 1 December: test data online
-* 22 December 2017: deadline for submission of source code and output
-* 8 January 2018: feedback to submissions
+* 4 December 2017: test data online
+* 12 January 2017: deadline for submission of source code and output
+* 19 January 2018: feedback to submissions
 * 26 January 2018: presenting the results at the CLIN conference
