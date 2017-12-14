@@ -11,7 +11,7 @@ def read(fname):
 
 setup(
     name = "clin28tools",
-    version = "0.1.1",
+    version = "0.1.2",
     author = "Maarten van Gompel, Merijn Beeksma, Florian Kunneman",
     author_email = "proycon@anaproy.nl",
     description = ("Scripts for the CLIN28 Shared Task on spelling correction"),
