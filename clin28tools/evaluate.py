@@ -60,7 +60,7 @@ def main():
         if 'found' not in outcorrection:
             falsepos += 1
             if 'span' in outcorrection:
-                print("[DETECTION WRONG] " + ";".join(outcorrection['span']) + ": " + " ".join([ outdata[wordid]['text'] for wordid in outcorrection['span'] ]) + " -> " + outcorrection['text'],file=sys.stderr)
+                print("[DETECTION WRONG] " + ";".join(outcorrection['span']) + ": " + " ".join([ refdata[wordid]['text'] for wordid in outcorrection['span'] ]) + " -> " + outcorrection['text'],file=sys.stderr)
             else:
                 print("[DETECTION WRONG] INSERTION AFTER " + outcorrection['after'] + ": " + outcorrection['text'],file=sys.stderr)
 
