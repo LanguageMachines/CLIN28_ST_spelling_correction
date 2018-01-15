@@ -70,14 +70,14 @@ def main():
             'truepos': truepos,
             'falsepos': falsepos,
             'falseneg': falseneg,
-            'precision': truepos / (truepos + falsepos),
-            'recall': truepos / (truepos + falseneg),
+            'precision': truepos / (truepos + falsepos) if truepos + falsepos else 0.0,
+            'recall': truepos / (truepos + falseneg) if truepos+falseneg else 0.0,
         },
         'correction': {
             'correct': correct,
             'incorrect': incorrect,
-            'precision': correct / (truepos + falsepos),
-            'recall': correct / (truepos + falseneg),
+            'precision': correct / (truepos + falsepos) if truepos+falsepos else 0.0,
+            'recall': correct / (truepos + falseneg) if truepos+falseneg else 0.0,
         },
     }
     if evaluation['detection']['precision'] + evaluation['detection']['recall'] > 0:
