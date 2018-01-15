@@ -15,8 +15,8 @@ class CLIN28JSON:
             reader = codecs.getreader('utf-8')
             try:
                 self.data = json.load(reader(f))
-            except:
-                raise ValidationError("File is not valid JSON!")
+            except Exception as e:
+                raise ValidationError("File is not valid JSON! " + str(e))
 
         self.index = {}
         self.validate()
