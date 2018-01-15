@@ -11,12 +11,15 @@ def main():
 
     valid = True
     for filename in args.files:
+        thisvalid = True
         try:
             data = CLIN28JSON(filename) #validation is implied
         except Exception as e:
             print("INVALID! <- " + filename + ": ", str(e),file=sys.stderr)
             valid = False
-        print("valid <- " + filename,file=sys.stderr)
+            thisvalid = False
+        if thisvalid:
+            print("valid <- " + filename,file=sys.stderr)
     sys.exit(0 if valid else 1)
 
 if __name__ == '__main__':
