@@ -57,7 +57,7 @@ class CLIN28JSON:
                         correction['confidence'] = float(correction['confidence'])
                     except:
                         raise ValidationError("Invalid confidence value (" + str(correction['confidence']) + ") " + repr(correction))
-                    if correction['confidence'] < 0 or correction['confidence'] > 0:
+                    if correction['confidence'] < 0 or correction['confidence'] > 1:
                         raise ValidationError("Confidence value out of bounds (" + str(correction['confidence']) + ") " + repr(correction))
 
     def words(self):
