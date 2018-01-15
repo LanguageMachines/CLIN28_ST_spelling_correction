@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for d in */; do
+for d in ?/; do
     for f in $d/*.json; do
         nr=$(basename $d)
         filename=$(basename $f)
