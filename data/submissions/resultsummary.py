@@ -28,6 +28,7 @@ for d in glob.glob(os.path.join("evaluation","*")):
             correct[candidate] += data['correction']['correct']
             incorrect[candidate] += data['correction']['incorrect']
 
+results = []
 for candidate in sorted(candidates):
     evaluation = {
         'candidate': candidate,
@@ -50,7 +51,9 @@ for candidate in sorted(candidates):
         evaluation['detection']['f1score'] = 2 * ((evaluation['detection']['precision'] * evaluation['detection']['recall']) / (evaluation['detection']['precision'] + evaluation['detection']['recall']))
     if evaluation['correction']['precision'] + evaluation['correction']['recall'] > 0:
         evaluation['correction']['f1score'] = 2 * ((evaluation['correction']['precision'] * evaluation['correction']['recall']) / (evaluation['correction']['precision'] + evaluation['correction']['recall']))
-    print(json.dumps(evaluation, indent=4))
+    results.append(evaluation)
+
+print(json.dumps(results, indent=4))
 
 
 
