@@ -7,7 +7,7 @@ class ValidationError(Exception):
     pass
 
 class CLIN28JSON:
-    def __init__(self, filename):
+    def __init__(self, filename, validation=True):
         if not os.path.exists(filename):
             raise FileExistsError("File not found: " + filename)
 
@@ -19,7 +19,8 @@ class CLIN28JSON:
                 raise ValidationError("File is not valid JSON! " + str(e))
 
         self.index = {}
-        self.validate()
+        if validation:
+            self.validate()
 
     def validate(self):
         self.index = {}

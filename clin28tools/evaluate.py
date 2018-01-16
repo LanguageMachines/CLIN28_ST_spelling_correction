@@ -3,7 +3,7 @@
 import sys
 import argparse
 import json
-from clin28tools.format import CLIN28JSON
+from clin28tools.format import CLIN28JSON, ValidationError
 
 
 def main():
@@ -13,7 +13,11 @@ def main():
     args = parser.parse_args()
 
     refdata = CLIN28JSON(args.ref)
-    outdata = CLIN28JSON(args.out)
+    try:
+        outdata = CLIN28JSON(args.out)
+    except ValidationError:
+        print("Attempting to load " + args.out + " in spite of validation error",file=sys.stderr)
+        outdata = CLIN28JSON(args.out, validation=False)
 
 
     #detection
