@@ -10,7 +10,9 @@ def main():
     parser = argparse.ArgumentParser(description="CLIN 28 Evaluation script", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('--ref', type=str,help="Reference output (JSON)", action='store',required=True)
     parser.add_argument('--out', type=str,help="System output to evaluate (JSON)", action='store',required=True)
-    parser.add_argument('--noconfidence', type=str,help="Do not do take into account confidence scores (no weighting)", action='store_true',required=True)
+    parser.add_argument('--noconfidence', help="Do not do take into account confidence scores (no weighting)", action='store_true', default=False)
+    parser.add_argument('--withnumbers', help="Do not skip corrections on numbers", action='store_true', default=False)
+    parser.add_argument('--ignoreclasses', type=str,help="Correction classes to ignore (comma-separated list)", action='store', default=False)
     args = parser.parse_args()
 
     refdata = CLIN28JSON(args.ref)
@@ -31,6 +33,13 @@ def main():
 
     for refcorrection in refdata.corrections():
         found = False
+        if  not args.withnumbers and (refcorrection['text'].isdigit() or ('span' in refcorrection and " ".join([ refdata[wordid]['text'] for wordid in refcorrection['span'] ]).isdigit())):
+            skip = True
+        elif args.ignoreclasses and refcorrection['class'] in args.ignoreclasses.split(','):
+            skip = True
+        else:
+            skip = False
+
         for outcorrection in outdata.corrections():
             if 'span' in refcorrection and 'span' in outcorrection:
                 if refcorrection['span'] == outcorrection['span']:
@@ -43,25 +52,29 @@ def main():
                     confidence = outcorrection['confidence'] if 'confidence' in outcorrection and not args.noconfidence else 1.0
                     span = False
             if found: break #no need to look further
-        if found:
-            truepos += confidence
-            if span:
-                print("[DETECTION MATCH] " + ";".join(refcorrection['span']) + ": " + " ".join([ refdata[wordid]['text'] for wordid in refcorrection['span'] ]) + " -> " + outcorrection['text'],file=sys.stderr)
-            else:
-                print("[DETECTION MATCH] INSERTION AFTER " + refcorrection['after'] + ": " + outcorrection['text'],file=sys.stderr)
 
-            if refcorrection['text'] == outcorrection['text']: #case sensitive!
-                correct += confidence
-                print("\t[CORRECT]",file=sys.stderr)
+        if not skip:
+            if found:
+                truepos += confidence
+                if span:
+                    print("[DETECTION MATCH] " + ";".join(refcorrection['span']) + ": " + " ".join([ refdata[wordid]['text'] for wordid in refcorrection['span'] ]) + " -> " + outcorrection['text'],file=sys.stderr)
+                else:
+                    print("[DETECTION MATCH] INSERTION AFTER " + refcorrection['after'] + ": " + outcorrection['text'],file=sys.stderr)
+
+                if refcorrection['text'] == outcorrection['text']: #case sensitive!
+                    correct += confidence
+                    print("\t[CORRECT]",file=sys.stderr)
+                else:
+                    incorrect += confidence
+                    print("\t[INCORRECT] Should be: " + refcorrection['text'],file=sys.stderr)
             else:
-                incorrect += confidence
-                print("\t[INCORRECT] Should be: " + refcorrection['text'],file=sys.stderr)
-        else:
-            falseneg += 1
-            if 'span' in refcorrection:
-                print("[DETECTION MISS] " + ";".join(refcorrection['span']) + ": " + " ".join([ refdata[wordid]['text'] for wordid in refcorrection['span'] ]) + " -> " + refcorrection['text'],file=sys.stderr)
-            else:
-                print("[DETECTION MISS] INSERTION AFTER " + refcorrection['after'] + ": " + refcorrection['text'],file=sys.stderr)
+                falseneg += 1
+                if 'span' in refcorrection:
+                    print("[DETECTION MISS] " + ";".join(refcorrection['span']) + ": " + " ".join([ refdata[wordid]['text'] for wordid in refcorrection['span'] ]) + " -> " + refcorrection['text'],file=sys.stderr)
+                else:
+                    print("[DETECTION MISS] INSERTION AFTER " + refcorrection['after'] + ": " + refcorrection['text'],file=sys.stderr)
+        elif found: #skip and found
+            print("[SKIPPED] " + ";".join(refcorrection['span']) + ": " + " ".join([ refdata[wordid]['text'] for wordid in refcorrection['span'] ]),file=sys.stderr)
 
     for outcorrection in outdata.corrections():
         if 'found' not in outcorrection:
