@@ -50,7 +50,7 @@ for candidate in sorted(candidates):
         evaluation['detection']['f1score'] = 2 * ((evaluation['detection']['precision'] * evaluation['detection']['recall']) / (evaluation['detection']['precision'] + evaluation['detection']['recall']))
     if evaluation['correction']['precision'] + evaluation['correction']['recall'] > 0:
         evaluation['correction']['f1score'] = 2 * ((evaluation['correction']['precision'] * evaluation['correction']['recall']) / (evaluation['correction']['precision'] + evaluation['correction']['recall']))
-    print(json.dumps(evaluation, indent=4),file=sys.stderr)
+    print(json.dumps(evaluation, indent=4))
 
 
 

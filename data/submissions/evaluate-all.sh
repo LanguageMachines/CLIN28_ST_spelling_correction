@@ -21,5 +21,5 @@ for f in ../goldstandard/*.json; do
 done
 
 echo "Computing result summary...">&2
-python3 resultsummary.py
+python3 resultsummary.py | tee results.json
 
