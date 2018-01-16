@@ -139,9 +139,10 @@ Some things to keep in mind:
 
 ## Evaluation
 
-Detection and correction of spelling errors in the (to be released) test documents are evaluated separately, in the following way:
+Detection and correction of spelling errors in the test documents are evaluated separately, in the following way:
 * Matching the detected errors to the marked errors in the gold standard annotation:
   * Precision will be measured as the proportion of correctly detected errors by the corrector in all test documents.
+    (i.e. irregardless of the actual correction)
   * Recall will be measured as the proportion of the marked errors in the gold standard annotations of all test documents that were detected by the corrector.
   * The F-score is the harmonic mean of the Precision and Recall.
   * The Precision, Recall and F-score of correctors that include a certainty with their corrections can be evaluated at different levels of strictness.
