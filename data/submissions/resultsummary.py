@@ -41,6 +41,7 @@ for candidate in sorted(candidates):
         'correction': {
             'correct': correct[candidate],
             'incorrect': incorrect[candidate],
+            'accuracy': correct[candidate] / (correct[candidate] + incorrect[candidate]) if correct[candidate]+incorrect[candidate] else 0.0,
             'precision': correct[candidate] / (truepos[candidate] + falsepos[candidate]) if truepos[candidate]+falsepos[candidate] else 0.0,
             'recall': correct[candidate] / (truepos[candidate] + falseneg[candidate]) if truepos[candidate]+falseneg[candidate] else 0.0,
         },
