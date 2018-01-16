@@ -9,3 +9,5 @@ for d in ?/; do
     done
 done
 
+python3 resultsummary.py
+
