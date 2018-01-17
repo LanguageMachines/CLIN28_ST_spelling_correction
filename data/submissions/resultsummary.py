@@ -6,13 +6,14 @@ import json
 import sys
 from collections import defaultdict
 
-truepos = defaultdict(int)
-falsepos = defaultdict(int)
-falseneg = defaultdict(int)
-correct = defaultdict(int)
-incorrect = defaultdict(int)
 
 candidates = []
+
+truepos = {}
+falsepos = {}
+falseneg = {}
+correct = {}
+incorrect = {}
 
 for d in glob.glob(os.path.join("evaluation","*")):
     if os.path.isdir(d):
@@ -22,38 +23,50 @@ for d in glob.glob(os.path.join("evaluation","*")):
             print("Loading " + evalfile,file=sys.stderr)
             with open(evalfile,'r',encoding='utf-8') as f:
                 data = json.load(f)
-            truepos[candidate] += data['detection']['truepos']
-            falsepos[candidate] += data['detection']['falsepos']
-            falseneg[candidate] += data['detection']['falseneg']
-            correct[candidate] += data['correction']['correct']
-            incorrect[candidate] += data['correction']['incorrect']
+            for corclass in data.keys():
+                print(" - " + corclass,file=sys.stderr)
+                if corclass not in truepos: truepos[corclass] = defaultdict(float)
+                if corclass not in falsepos: falsepos[corclass] = defaultdict(float)
+                if corclass not in falseneg: falseneg[corclass] = defaultdict(float)
+                if corclass not in correct: correct[corclass] = defaultdict(float)
+                if corclass not in incorrect: incorrect[corclass] = defaultdict(float)
+                truepos[corclass][candidate] += data[corclass]['detection']['truepos']
+                falseneg[corclass][candidate] += data[corclass]['detection']['falseneg']
+                correct[corclass][candidate] += data[corclass]['correction']['correct']
+                incorrect[corclass][candidate] += data[corclass]['correction']['incorrect']
+                if corclass == 'all':
+                    falsepos[corclass][candidate] += data[corclass]['detection']['falsepos']
 
-results = []
 for candidate in sorted(candidates):
-    evaluation = {
-        'candidate': candidate,
-        'detection': {
-            'truepos': truepos[candidate],
-            'falsepos': falsepos[candidate],
-            'falseneg': falseneg[candidate],
-            'precision': truepos[candidate] / (truepos[candidate] + falsepos[candidate]) if truepos[candidate] + falsepos[candidate] else 0.0,
-            'recall': truepos[candidate] / (truepos[candidate] + falseneg[candidate]) if truepos[candidate]+falseneg[candidate] else 0.0,
-        },
-        'correction': {
-            'correct': correct[candidate],
-            'incorrect': incorrect[candidate],
-            'accuracy': correct[candidate] / (correct[candidate] + incorrect[candidate]) if correct[candidate]+incorrect[candidate] else 0.0,
-            'precision': correct[candidate] / (truepos[candidate] + falsepos[candidate]) if truepos[candidate]+falsepos[candidate] else 0.0,
-            'recall': correct[candidate] / (truepos[candidate] + falseneg[candidate]) if truepos[candidate]+falseneg[candidate] else 0.0,
-        },
-    }
-    if evaluation['detection']['precision'] + evaluation['detection']['recall'] > 0:
-        evaluation['detection']['f1score'] = 2 * ((evaluation['detection']['precision'] * evaluation['detection']['recall']) / (evaluation['detection']['precision'] + evaluation['detection']['recall']))
-    if evaluation['correction']['precision'] + evaluation['correction']['recall'] > 0:
-        evaluation['correction']['f1score'] = 2 * ((evaluation['correction']['precision'] * evaluation['correction']['recall']) / (evaluation['correction']['precision'] + evaluation['correction']['recall']))
-    results.append(evaluation)
+    evaluation = {}
+    for corclass in sorted(truepos):
+        if candidate in truepos[corclass]:
+            evaluation[corclass] = {
+                'detection': {
+                    'truepos': truepos[corclass][candidate],
+                    'falseneg': falseneg[corclass][candidate],
+                    'recall': truepos[corclass][candidate] / (truepos[corclass][candidate] + falseneg[corclass][candidate]) if truepos[corclass][candidate]+falseneg[corclass][candidate] else 0.0
+                },
+                'correction': {
+                    'correct': correct[corclass][candidate],
+                    'incorrect': incorrect[corclass][candidate],
+                    'accuracy': correct[corclass][candidate] / (correct[corclass][candidate] + incorrect[corclass][candidate]) if correct[corclass][candidate]+incorrect[corclass][candidate] else 0.0
+                },
+                'both': {
+                    'recall': correct[corclass][candidate] / (truepos[corclass][candidate] + falseneg[corclass][candidate]) if truepos[corclass][candidate]+falseneg[corclass][candidate] else 0.0
+                }
+            }
+            if corclass == 'all':
+                evaluation[corclass]['detection']['falsepos'] = falsepos[corclass][candidate]
+                evaluation[corclass]['detection']['precision'] =  truepos[corclass][candidate] / (truepos[corclass][candidate] + falsepos[corclass][candidate]) if truepos[corclass][candidate] + falsepos[corclass][candidate] else 0.0
+                evaluation[corclass]['both']['precision'] =  correct[corclass][candidate] / (truepos[corclass][candidate] + falsepos[corclass][candidate]) if truepos[corclass][candidate] + falsepos[corclass][candidate] else 0.0
+                if evaluation[corclass]['detection']['precision'] + evaluation[corclass]['detection']['recall'] > 0:
+                    evaluation[corclass]['detection']['f1score'] = 2 * ((evaluation[corclass]['detection']['precision'] * evaluation[corclass]['detection']['recall']) / (evaluation[corclass]['detection']['precision'] + evaluation[corclass]['detection']['recall']))
+                if evaluation[corclass]['both']['precision'] + evaluation[corclass]['both']['recall'] > 0:
+                    evaluation[corclass]['both']['f1score'] = 2 * ((evaluation[corclass]['both']['precision'] * evaluation[corclass]['both']['recall']) / (evaluation[corclass]['both']['precision'] + evaluation[corclass]['both']['recall']))
 
-print(json.dumps(results, indent=4))
+    with open("results." + str(candidate) + ".json",'w',encoding='utf-8') as f:
+        print(json.dumps(evaluation, indent=4), file=f)
 
 
 
