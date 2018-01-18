@@ -10,8 +10,8 @@
         },
         "correction": {
             "correct": 1.0,
-            "incorrect": 1.5,
-            "accuracy": 0.4
+            "incorrect": 2.0,
+            "accuracy": 0.3333333333333333
         },
         "both": {
             "recall": 0.14285714285714285,
@@ -42,8 +42,8 @@
         },
         "correction": {
             "correct": 1.0,
-            "incorrect": 1.5,
-            "accuracy": 0.4
+            "incorrect": 2.0,
+            "accuracy": 0.3333333333333333
         },
         "both": {
             "recall": 0.16666666666666666

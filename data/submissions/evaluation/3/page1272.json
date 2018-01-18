@@ -9,14 +9,14 @@
             "f1score": 0.04915912031047865
         },
         "correction": {
-            "correct": 17.0,
+            "correct": 18.0,
             "incorrect": 1.0,
-            "accuracy": 0.9444444444444444
+            "accuracy": 0.9473684210526315
         },
         "both": {
-            "recall": 0.38636363636363635,
-            "precision": 0.023319615912208505,
-            "f1score": 0.04398447606727038
+            "recall": 0.4090909090909091,
+            "precision": 0.024691358024691357,
+            "f1score": 0.04657179818887452
         }
     },
     "capitalizationerror": {
@@ -131,12 +131,12 @@
             "recall": 0.8
         },
         "correction": {
-            "correct": 7.0,
+            "correct": 8.0,
             "incorrect": 0.0,
             "accuracy": 1.0
         },
         "both": {
-            "recall": 0.7
+            "recall": 0.8
         }
     }
 }

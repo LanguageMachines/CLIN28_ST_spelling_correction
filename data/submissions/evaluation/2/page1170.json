@@ -10,7 +10,7 @@
         },
         "correction": {
             "correct": 0.0,
-            "incorrect": 0.9423,
+            "incorrect": 1.0,
             "accuracy": 0.0
         },
         "both": {
@@ -86,7 +86,7 @@
         },
         "correction": {
             "correct": 0.0,
-            "incorrect": 0.9423,
+            "incorrect": 1.0,
             "accuracy": 0.0
         },
         "both": {
