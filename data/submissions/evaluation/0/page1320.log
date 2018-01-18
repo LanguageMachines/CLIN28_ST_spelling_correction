@@ -1,0 +1,11 @@
+[DETECTION MISS] page1320.text.p.1.s.2.w.13;page1320.text.p.1.s.2.w.14;page1320.text.p.1.s.2.w.15;page1320.text.p.1.s.2.w.16: Joint Strike Fighter -project -> JSF-project
+[DETECTION MATCH] page1320.text.div.2.p.3.s.3.w.8: defintief -> definitief
+	[CORRECT]
+[DETECTION MATCH] page1320.text.div.3.p.3.s.1.w.19: kanidaten -> kandidaten
+	[CORRECT]
+[DETECTION MATCH] page1320.text.div.3.p.3.s.2.w.3: kanidaten -> kandidaten
+	[CORRECT]
+[DETECTION WRONG] page1320.text.div.2.p.1.s.1.w.11;page1320.text.div.2.p.1.s.1.w.12: F-16 's -> F-16's
+[DETECTION WRONG] page1320.text.div.2.p.2.s.3.w.12: hun -> zij
+[DETECTION WRONG] page1320.text.div.3.p.3.s.1.w.26;page1320.text.div.3.p.3.s.1.w.27: F-16 's -> F-16's
+[DETECTION WRONG] page1320.text.div.3.p.6.s.1.w.14: het -> de

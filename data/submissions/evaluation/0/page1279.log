@@ -1,0 +1,23 @@
+[DETECTION MISS] page1279.text.p.1.s.1.w.5: Zon -> zon
+[DETECTION MISS] page1279.text.div.2.p.1.s.2.w.15: vloeibaar -> vloeibare
+[DETECTION MISS] page1279.text.div.2.p.1.s.2.w.16: moleculair -> moleculaire
+[DETECTION MISS] page1279.text.div.2.p.2.s.1.w.7: Zon -> zon
+[DETECTION MISS] page1279.text.div.2.p.2.s.2.w.7;page1279.text.div.2.p.2.s.2.w.8: twee maal -> tweemaal
+[DETECTION MISS] page1279.text.div.2.p.2.s.2.w.12: dan -> als
+[DETECTION MATCH] page1279.text.div.2.p.2.s.4.w.22: het -> de
+	[INCORRECT] Should be: met
+[DETECTION MISS] page1279.text.div.2.p.3.s.2.w.10: dan -> als
+[DETECTION MISS] page1279.text.div.3.p.1.s.3.w.11: Aarde -> aarde
+[DETECTION MISS] page1279.text.div.3.p.1.s.5.w.23: gedraagd -> gedraagt
+[DETECTION MISS] INSERTION AFTER page1279.text.div.3.div.1.p.1.s.2.w.11: jaar
+[DETECTION MISS] page1279.text.div.3.div.1.p.1.s.4.w.9: velk -> vlek
+[DETECTION MATCH] page1279.text.div.3.div.2.p.1.s.2.w.7: botingen -> botsingen
+	[CORRECT]
+[DETECTION MISS] page1279.text.div.4.p.2.s.3.w.15: jupiter -> Jupiter
+[DETECTION MISS] page1279.text.div.5.p.1.s.1.w.3: Aarde -> aarde
+[DETECTION MISS] page1279.text.div.5.div.3.p.1.s.1.w.9;page1279.text.div.5.div.3.p.1.s.1.w.10: Galileo ruimtesonde -> Galileo-ruimtesonde
+[DETECTION MISS] page1279.text.div.5.div.4.p.1.s.1.w.6;page1279.text.div.5.div.4.p.1.s.1.w.7: Cassini-Huygens ruimtesonde -> Cassini-Huygens-ruimtesosnde
+[DETECTION MISS] page1279.text.div.5.div.4.p.1.s.1.w.13: Aarde -> aarde
+[DETECTION WRONG] page1279.text.div.2.p.1.s.1.w.15;page1279.text.div.2.p.1.s.1.w.16: uit gekristalliseerd -> uitgekristalliseerd
+[DETECTION WRONG] page1279.text.div.3.p.1.s.5.w.11: afmosfeer -> atmosfeer
+[DETECTION WRONG] page1279.text.div.4.p.2.s.1.w.12;page1279.text.div.4.p.2.s.1.w.13: stof- en -> stof-en

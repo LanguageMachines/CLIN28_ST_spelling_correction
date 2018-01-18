@@ -1,0 +1,9 @@
+[DETECTION MISS] page1337.text.div.1.p.1.s.1.w.3: Jeugdliteratuur -> jeugdliteratuur
+[DETECTION MISS] page1337.text.div.1.p.1.s.1.w.23: -en -> en
+[DETECTION MISS] page1337.text.div.3.div.1.div.4.p.3.s.1.w.31: Kockere's -> Kockeres
+[DETECTION MISS] page1337.text.div.3.div.1.div.6.p.3.s.2.w.5: Vrancken's -> Vranckens
+[DETECTION MISS] page1337.text.div.3.div.1.div.6.p.4.s.2.w.4;page1337.text.div.3.div.1.div.6.p.4.s.2.w.5: Wille 's -> Willes
+[DETECTION MISS] page1337.text.div.3.div.1.div.6.p.4.s.2.w.12;page1337.text.div.3.div.1.div.6.p.4.s.2.w.13: Grossman 's -> Grossmans
+[DETECTION MATCH] page1337.text.div.3.div.1.div.7.p.1.s.2.w.24;page1337.text.div.3.div.1.div.7.p.1.s.2.w.25: Wang 's -> Wang's
+	[INCORRECT] Should be: Wangs
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.5.w.23;page1337.text.div.3.div.1.div.2.p.1.s.5.w.24: Schmidt 's -> Schmidt's

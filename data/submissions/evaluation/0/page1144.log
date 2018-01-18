@@ -1,0 +1,35 @@
+[DETECTION MATCH] page1144.text.div.1.p.2.s.1.w.16;page1144.text.div.1.p.2.s.1.w.17: helium kernen -> heliumkernen
+	[CORRECT]
+[DETECTION MATCH] page1144.text.div.2.p.1.s.1.w.9: balonnen -> ballonnen
+	[CORRECT]
+[DETECTION MATCH] page1144.text.div.2.p.1.s.2.w.3: balonnen -> ballonnen
+	[CORRECT]
+[DETECTION MISS] page1144.text.div.2.p.1.s.4.w.25;page1144.text.div.2.p.1.s.4.w.26: zo zeer -> zozeer
+[DETECTION MISS] page1144.text.div.2.p.6.s.1.w.9: kernfusiereaktie -> kernfusiereactie
+[DETECTION MATCH] page1144.text.div.3.p.3.s.2.w.10;page1144.text.div.3.p.3.s.2.w.11: M Pa -> MPa
+	[CORRECT]
+[DETECTION MATCH] page1144.text.div.3.p.4.s.1.w.8;page1144.text.div.3.p.4.s.1.w.9: M Pa -> MPa
+	[CORRECT]
+[DETECTION MATCH] page1144.text.div.3.p.4.s.3.w.13;page1144.text.div.3.p.4.s.3.w.14: M Pa -> MPa
+	[CORRECT]
+[DETECTION MATCH] page1144.text.div.3.p.4.s.3.w.24;page1144.text.div.3.p.4.s.3.w.25: G Pa -> GPa
+	[CORRECT]
+[DETECTION MISS] page1144.text.div.4.p.1.s.2.w.9: and -> en
+[DETECTION MISS] page1144.text.div.4.p.1.s.2.w.20: and -> en
+[DETECTION MISS] page1144.text.div.4.p.2.s.3.w.21: energieproduktie -> energieproductie
+[DETECTION MISS] page1144.text.div.5.p.1.s.1.w.3;page1144.text.div.5.p.1.s.1.w.4: He isotoop -> He-isotoop
+[DETECTION MATCH] page1144.text.div.5.p.3.s.1.w.10;page1144.text.div.5.p.3.s.1.w.11: kwantum mechanisch -> kwantummechanisch
+	[CORRECT]
+[DETECTION MISS] page1144.text.div.5.p.4.s.1.w.4;page1144.text.div.5.p.4.s.1.w.5: He isotoop -> He-isotoop
+[DETECTION MISS] page1144.text.div.5.p.4.s.3.w.3;page1144.text.div.5.p.4.s.3.w.4: He atomen -> He-atomen
+[DETECTION MISS] page1144.text.div.5.p.4.s.3.w.10;page1144.text.div.5.p.4.s.3.w.11: He atomen -> He-atomen
+[DETECTION MISS] page1144.text.div.6.p.1.s.1.w.4;page1144.text.div.6.p.1.s.1.w.5: helium isotoop -> heliumisotoop
+[DETECTION MATCH] page1144.text.div.6.p.1.s.2.w.4: ongebuikelijk -> ongebruikelijk
+	[CORRECT]
+[DETECTION MISS] page1144.text.div.6.p.2.s.1.w.10;page1144.text.div.6.p.2.s.1.w.11: He kern -> He-kern
+[DETECTION MISS] page1144.text.div.6.p.2.s.1.w.16: alfa-verval -> alfaverval
+[DETECTION MISS] page1144.text.div.6.p.2.s.2.w.1;page1144.text.div.6.p.2.s.2.w.2: Helium kernen -> Heliumkernen
+[DETECTION MISS] page1144.text.div.6.p.3.s.1.w.3: Oerknaltheorie -> oerknaltheorie
+[DETECTION MISS] page1144.text.div.6.p.3.s.1.w.17: Oerknal -> oerknal
+[DETECTION WRONG] page1144.text.div.2.p.1.s.4.w.30: de -> het
+[DETECTION WRONG] page1144.text.div.3.p.4.s.4.w.6;page1144.text.div.3.p.4.s.4.w.7: K ook -> Kook

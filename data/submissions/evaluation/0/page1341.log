@@ -1,0 +1,8 @@
+[DETECTION MISS] page1341.text.div.1.p.1.s.1.w.3: werden -> werd
+[DETECTION MISS] page1341.text.div.1.p.1.s.3.w.11;page1341.text.div.1.p.1.s.3.w.12: Louis-de-Grand lyceum -> Louis-de-Grandlyceum
+[DETECTION MISS] page1341.text.div.1.p.1.s.4.w.8: Ecole -> École
+[DETECTION MISS] page1341.text.div.1.p.1.s.7.w.11: franse -> Franse
+[DETECTION MATCH] page1341.text.div.1.p.1.s.11.w.9: ideëen -> ideeën
+	[CORRECT]
+[DETECTION WRONG] page1341.text.div.1.p.1.s.4.w.7: het -> de
+[DETECTION WRONG] page1341.text.div.1.p.1.s.7.w.7: het -> de

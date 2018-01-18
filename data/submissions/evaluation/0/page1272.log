@@ -1,0 +1,46 @@
+[DETECTION MISS] page1272.text.p.1.s.1.w.21: Duits -> Duitse
+[DETECTION MISS] page1272.text.p.2.s.1.w.20;page1272.text.p.2.s.1.w.22: science fiction -> sciencefiction
+[DETECTION MISS] page1272.text.p.2.s.2.w.10;page1272.text.p.2.s.2.w.11: er van -> ervan
+[DETECTION MISS] page1272.text.div.1.div.1.p.1.s.7.w.15;page1272.text.div.1.div.1.p.1.s.7.w.16: Copernicus ' -> Copernicus'
+[DETECTION MATCH] page1272.text.div.1.div.2.p.1.s.2.w.2: schoolwas -> school was
+	[CORRECT]
+[DETECTION MISS] page1272.text.div.1.div.2.p.1.s.3.w.11;page1272.text.div.1.div.2.p.1.s.3.w.12: Copernicus ' -> Copernicus'
+[DETECTION MISS] page1272.text.div.1.div.2.p.1.s.9.w.11: Kosmos -> kosmos
+[DETECTION MISS] page1272.text.div.1.div.2.p.1.s.13.w.4: trouwfe -> trouwde
+[DETECTION MISS] page1272.text.div.1.div.3.p.3.s.1.w.4: Kepler’s -> Keplers
+[DETECTION MISS] page1272.text.div.1.div.3.p.3.s.2.w.1: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.1.div.3.p.3.s.9.w.6: avantgarde -> avant-garde
+[DETECTION MISS] page1272.text.div.1.div.3.p.4.s.1.w.11: Astrologen -> astrologen
+[DETECTION MISS] page1272.text.div.1.div.3.p.4.s.1.w.14;page1272.text.div.1.div.3.p.4.s.1.w.16: Ram-Leeuw Boogschutter -> Ram-Leeuw-Boogschutter
+[DETECTION MISS] page1272.text.div.1.div.3.p.4.s.5.w.13: aardachtige -> aardachtigen
+[DETECTION MISS] INSERTION AFTER page1272.text.div.1.div.3.p.5.s.1.w.6: in
+[DETECTION MISS] page1272.text.div.1.div.3.p.5.s.2.w.8: latijns -> Latijns
+[DETECTION MISS] page1272.text.div.1.div.3.p.5.s.4.w.12;page1272.text.div.1.div.3.p.5.s.4.w.13: daar boven -> daarboven
+[DETECTION MISS] page1272.text.div.1.div.3.p.5.s.5.w.19;page1272.text.div.1.div.3.p.5.s.5.w.20: plaats vindt -> plaatsvindt
+[DETECTION MISS] page1272.text.div.1.div.3.p.7.s.1.w.5: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.1.div.3.p.7.s.4.w.9: Galilei -> Galileï
+[DETECTION MISS] page1272.text.div.1.div.3.p.7.s.5.w.16: Galilei's -> Galileï's
+[DETECTION MISS] page1272.text.div.1.div.3.p.7.s.7.w.15: Galilei -> Galileï
+[DETECTION MISS] page1272.text.div.1.div.4.p.1.s.4.w.11: jong -> jonge
+[DETECTION MISS] page1272.text.div.1.div.4.p.1.s.5.w.1: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.1.div.4.p.1.s.5.w.13: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.1.div.4.p.1.s.7.w.18: gedachtenwereld -> gedachtewereld
+[DETECTION MISS] page1272.text.div.1.div.4.p.1.s.8.w.8: wet -> wet.
+[DETECTION MISS] page1272.text.div.1.div.5.p.1.s.3.w.20: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.1.div.5.p.1.s.7.w.8;page1272.text.div.1.div.5.p.1.s.7.w.9: jaren lang -> jarenlang
+[DETECTION MISS] INSERTION AFTER page1272.text.div.1.div.5.p.1.s.7.w.9: voort
+[DETECTION MISS] page1272.text.div.1.div.6.p.1.s.1.w.6: dertigjarige -> Dertigjarige
+[DETECTION MISS] page1272.text.div.1.div.6.p.1.s.1.w.7: oorlog -> Oorlog
+[DETECTION MISS] page1272.text.div.1.div.7.p.1.s.1.w.10: asroloog -> astroloog
+[DETECTION MATCH] page1272.text.div.1.div.7.p.1.s.4.w.19: dejaren -> de jaren
+	[CORRECT]
+[DETECTION MISS] page1272.text.div.1.div.8.p.1.s.4.w.3: dertigjarige -> Dertigjarige
+[DETECTION MISS] page1272.text.div.1.div.8.p.1.s.4.w.4: oorlog -> Oorlog
+[DETECTION MISS] page1272.text.div.1.div.9.p.1.s.3.w.5: Kepler's -> Keplers
+[DETECTION MISS] INSERTION AFTER page1272.text.div.1.div.9.p.1.s.4.w.33: de
+[DETECTION MISS] page1272.text.div.1.div.9.p.1.s.4.w.36: Hoe -> hoe
+[DETECTION MISS] page1272.text.div.1.div.9.p.1.s.5.w.6;page1272.text.div.1.div.9.p.1.s.5.w.7: er uitzien -> eruitzien
+[DETECTION MISS] page1272.text.div.1.div.9.p.1.s.6.w.7;page1272.text.div.1.div.9.p.1.s.6.w.8: science sprookje -> science-sprookje
+[DETECTION MISS] page1272.text.div.1.div.9.p.1.s.6.w.22: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.2.p.4.s.1.w.5: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.2.p.5.s.1.w.6: Kepler's -> Keplers

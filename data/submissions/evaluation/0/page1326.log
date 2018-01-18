@@ -1,0 +1,4 @@
+[DETECTION MATCH] page1326.text.p.4.s.1.w.7: october -> oktober
+	[CORRECT]
+[DETECTION WRONG] page1326.text.p.1.s.1.w.19: de -> het
+[DETECTION WRONG] page1326.text.p.2.s.2.w.12;page1326.text.p.2.s.2.w.13: modestijl en -> modestijlen

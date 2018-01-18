@@ -1,0 +1,29 @@
+[DETECTION MISS] page1170.text.div.1.p.1.s.1.w.2;page1170.text.div.1.p.1.s.1.w.3: Internet Protocol -> internetprotocol
+[DETECTION MISS] page1170.text.div.1.p.1.s.1.w.28: Internet -> internet
+[DETECTION MISS] page1170.text.div.1.p.2.s.1.w.13;page1170.text.div.1.p.2.s.1.w.14: Internet protocol -> internetprotocol
+[DETECTION MISS] page1170.text.div.1.p.4.s.1.w.2;page1170.text.div.1.p.4.s.1.w.3: Internet Protocol -> internetprotocol
+[DETECTION MISS] page1170.text.div.2.p.1.s.1.w.2;page1170.text.div.2.p.1.s.1.w.3: IPv4 adres -> IPv4-adres
+[DETECTION MISS] page1170.text.div.2.p.1.s.1.w.13;page1170.text.div.2.p.1.s.1.w.14;page1170.text.div.2.p.1.s.1.w.15: 8 bit getallen -> 8-bitgetallen
+[DETECTION MATCH] page1170.text.div.2.p.1.s.2.w.9;page1170.text.div.2.p.1.s.2.w.10: netwerk nummer -> netwerknummer
+	[CORRECT]
+[DETECTION MISS] page1170.text.div.2.p.1.s.2.w.18;page1170.text.div.2.p.1.s.2.w.19: host nummer -> hostnummer
+[DETECTION MATCH] page1170.text.div.2.p.1.s.3.w.9;page1170.text.div.2.p.1.s.3.w.10: netwerk nummer -> netwerknummer
+	[CORRECT]
+[DETECTION MISS] page1170.text.div.2.p.1.s.3.w.17;page1170.text.div.2.p.1.s.3.w.18: host nummer -> hostnummer
+[DETECTION MATCH] page1170.text.div.2.p.1.s.4.w.7: hezelfde -> hetzelfde
+	[CORRECT]
+[DETECTION MISS] page1170.text.div.3.p.2.s.1.w.3: Headers -> headers
+[DETECTION MISS] page1170.text.div.3.list.1.item.3.p.1.s.3.w.10: Qos -> QoS
+[DETECTION MISS] page1170.text.div.3.list.1.item.3.list.1.item.2.s.1.w.4: Kosten -> kosten
+[DETECTION MISS] page1170.text.div.3.list.1.item.3.list.1.item.3.s.1.w.3: Betrouwbaarheid -> betrouwbaarheid
+[DETECTION MISS] page1170.text.div.3.list.1.item.3.list.1.item.4.s.1.w.3: Doorvoersnelheid -> doorvoersnelheid
+[DETECTION MISS] page1170.text.div.3.list.1.item.3.list.1.item.5.s.1.w.3: Wachttijd -> wachttijd
+[DETECTION MISS] page1170.text.div.3.list.1.item.3.list.1.item.6.s.1.w.3: Beveiliging -> beveiliging
+[DETECTION MISS] page1170.text.div.3.list.1.item.5.s.2.w.7: pakketen -> pakketten
+[DETECTION MISS] page1170.text.div.3.list.1.item.9.s.1.w.10: wat -> dat
+[DETECTION MISS] page1170.text.div.3.list.1.item.10.s.2.w.4: pakketen -> pakketten
+[DETECTION MISS] page1170.text.div.4.p.1.s.1.w.16: bestemmings-adressen -> bestemmingsadressen
+[DETECTION MISS] page1170.text.div.4.p.1.s.3.w.29;page1170.text.div.4.p.1.s.3.w.30;page1170.text.div.4.p.1.s.3.w.31;page1170.text.div.4.p.1.s.3.w.32: 255 tot de 4e -> 255^4e
+[DETECTION WRONG] page1170.text.div.2.p.1.s.2.w.17: het -> de
+[DETECTION WRONG] page1170.text.div.2.p.1.s.3.w.16: het -> de
+[DETECTION WRONG] page1170.text.div.4.p.1.s.5.w.7: addressen -> adressen

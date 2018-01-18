@@ -1,0 +1,28 @@
+[DETECTION MISS] page1160.text.p.2.s.1.w.2: Internet -> internet
+[DETECTION MISS] page1160.text.p.2.s.2.w.5: Internet -> internet
+[DETECTION MISS] page1160.text.p.2.s.3.w.4: Internet -> internet
+[DETECTION MISS] page1160.text.p.2.s.4.w.3: Internet -> internet
+[DETECTION MISS] page1160.text.p.2.s.5.w.2: de -> De
+[DETECTION MISS] page1160.text.p.2.s.5.w.5: Internet -> internet
+[DETECTION MISS] page1160.text.div.1.p.2.s.3.w.24: Internet -> internet
+[DETECTION MATCH] page1160.text.div.1.p.3.s.4.w.8: webpaginas -> webpagina's
+	[CORRECT]
+[DETECTION MISS] page1160.text.div.1.p.3.s.5.w.5;page1160.text.div.1.p.3.s.5.w.7: Mosaic webbrowser -> Mosaic-webbrowser
+[DETECTION MISS] page1160.text.div.1.p.3.s.5.w.22: Internet -> internet
+[DETECTION MISS] page1160.text.div.1.p.3.s.6.w.5: Internet -> internet
+[DETECTION MISS] page1160.text.div.2.head.1.s.1.w.3: Internet -> internet
+[DETECTION MISS] page1160.text.div.2.p.1.s.1.w.11: Internet -> internet
+[DETECTION MISS] page1160.text.div.2.p.1.s.1.w.16: Internet -> internet
+[DETECTION MISS] page1160.text.div.2.p.2.s.1.w.13: Internet -> internet
+[DETECTION MISS] page1160.text.div.2.p.2.s.2.w.4;page1160.text.div.2.p.2.s.2.w.5;page1160.text.div.2.p.2.s.2.w.6;page1160.text.div.2.p.2.s.2.w.8: TCP / IP communicatie -> TCP/IP-communicatie
+[DETECTION MISS] page1160.text.div.2.p.3.s.4.w.15;page1160.text.div.2.p.3.s.4.w.17: Internet standaard -> internetstandaard
+[DETECTION MISS] page1160.text.div.2.p.4.s.1.w.6: Internet -> internet
+[DETECTION MISS] page1160.text.div.2.p.5.s.3.w.9;page1160.text.div.2.p.5.s.3.w.11: mailing lijsten -> mailinglijsten
+[DETECTION MISS] page1160.text.div.2.p.5.s.4.w.1: e-mail -> E-mail
+[DETECTION MISS] page1160.text.div.2.p.5.s.4.w.12: protocolen -> protocollen
+[DETECTION MISS] page1160.text.div.2.p.5.s.4.w.22: netwerk-protocolen -> netwerkprotocollen
+[DETECTION MISS] page1160.text.div.3.head.1.s.1.w.5: Internet -> internet
+[DETECTION MISS] page1160.text.div.4.head.1.s.1.w.4: Internet -> internet
+[DETECTION MISS] page1160.text.div.4.p.2.s.2.w.8: Internet -> internet
+[DETECTION MISS] page1160.text.div.4.p.2.s.3.w.7: zijn -> is
+[DETECTION MISS] page1160.text.div.5.div.3.list.2.item.1.s.1.w.1: e-mail -> E-mail

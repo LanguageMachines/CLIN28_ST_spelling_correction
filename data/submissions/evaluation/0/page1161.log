@@ -1,0 +1,9 @@
+[DETECTION MISS] page1161.text.p.2.s.5.w.8;page1161.text.p.2.s.5.w.9: Inter connected -> Interconnected
+[DETECTION MATCH] page1161.text.p.2.s.5.w.10;page1161.text.p.2.s.5.w.11: Net works -> Networks
+	[CORRECT]
+[DETECTION MISS] page1161.text.p.3.s.2.w.9: usenet -> Usenet
+[DETECTION MISS] page1161.text.div.1.p.2.s.2.w.15: packet-switching -> packet switching
+[DETECTION MISS] page1161.text.div.1.p.3.s.5.w.5;page1161.text.div.1.p.3.s.5.w.6: Mosaic -webbrowser -> Mosaic-webbrowser
+[DETECTION MISS] page1161.text.div.2.p.6.s.2.w.5: messenger -> Messenger
+[DETECTION MISS] page1161.text.div.3.list.1.item.4.s.2.w.7: zijn -> is
+[DETECTION WRONG] page1161.text.div.1.p.3.s.4.w.7;page1161.text.div.1.p.3.s.4.w.8: webpagina 's -> webpagina's

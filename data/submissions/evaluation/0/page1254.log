@@ -1,0 +1,48 @@
+[DETECTION MISS] page1254.text.p.4.s.1.w.6;page1254.text.p.4.s.1.w.7: jazz band -> jazzband
+[DETECTION MATCH] page1254.text.p.4.s.1.w.11: instumenten -> instrumenten
+	[CORRECT]
+[DETECTION MISS] page1254.text.p.4.s.2.w.8;page1254.text.p.4.s.2.w.9: standaard bezetting -> standaardbezetting
+[DETECTION MISS] page1254.text.p.4.s.2.w.13;page1254.text.p.4.s.2.w.14;page1254.text.p.4.s.2.w.15;page1254.text.p.4.s.2.w.16: oude stijl jazz band -> oude-stijl-jazzband
+[DETECTION MATCH] page1254.text.p.7.s.1.w.35;page1254.text.p.7.s.1.w.36: in middels -> inmiddels
+	[CORRECT]
+[DETECTION MATCH] page1254.text.p.8.s.2.w.3;page1254.text.p.8.s.2.w.4: jazz stijlen -> jazzstijlen
+	[CORRECT]
+[DETECTION MISS] page1254.text.p.8.s.5.w.15: 10-20 -> tien tot twintig
+[DETECTION MISS] page1254.text.p.8.s.6.w.11: was -> waren
+[DETECTION MATCH] page1254.text.p.8.s.6.w.47;page1254.text.p.8.s.6.w.48: swing periode -> swingperiode
+	[CORRECT]
+[DETECTION MISS] page1254.text.p.10.s.1.w.5: tweede -> Tweede
+[DETECTION MISS] page1254.text.p.10.s.1.w.6: wereldoorlog -> Wereldoorlog
+[DETECTION MISS] page1254.text.p.13.s.1.w.20;page1254.text.p.13.s.1.w.21: Frisco jazz -> Frisco-jazz
+[DETECTION MISS] page1254.text.p.13.s.2.w.21: banjoist-zanger -> banjoïst-zanger
+[DETECTION MISS] page1254.text.p.15.s.1.w.7: opging -> op ging
+[DETECTION MISS] page1254.text.p.15.s.1.w.18: Bebop -> bebop
+[DETECTION MISS] page1254.text.p.15.s.3.w.4: Bebop -> bebop
+[DETECTION MISS] page1254.text.p.16.s.1.w.10: Bebop -> bebop
+[DETECTION MISS] page1254.text.p.16.s.1.w.13: Cool -> cool
+[DETECTION MISS] page1254.text.p.16.s.1.w.14: Jazz -> jazz
+[DETECTION MISS] page1254.text.p.19.s.2.w.3;page1254.text.p.19.s.2.w.4: er naar -> ernaar
+[DETECTION MISS] page1254.text.div.1.quote.1.p.1.s.1.w.3: Contrabas -> contrabas
+[DETECTION MISS] page1254.text.div.1.quote.1.p.1.s.1.w.5: Cornet -> cornet
+[DETECTION MISS] page1254.text.div.1.quote.1.p.1.s.1.w.7: Drumstel -> drumstel
+[DETECTION MISS] page1254.text.div.1.quote.1.p.1.s.1.w.9: Elektrische -> eektrische
+[DETECTION MISS] page1254.text.div.1.quote.1.p.1.s.1.w.12: Klarinet -> klarinet
+[DETECTION MISS] page1254.text.div.1.quote.1.p.1.s.1.w.14: Piano -> piano
+[DETECTION MISS] page1254.text.div.1.quote.1.p.1.s.1.w.16: Saxofoon -> saxofoon
+[DETECTION MISS] page1254.text.div.1.quote.1.p.1.s.1.w.18: Trombone -> trombone
+[DETECTION MISS] page1254.text.div.1.quote.1.p.1.s.1.w.20: Trompet -> trompet
+[DETECTION MISS] page1254.text.div.1.quote.1.p.1.s.1.w.22: Hammondorgel -> hammondorgel
+[DETECTION MISS] page1254.text.div.1.quote.1.p.1.s.1.w.24: Viool -> viool
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.4: Bebop -> bebop
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.6: Cool -> cool
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.7: Jazz -> jazz
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.11: Free -> free
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.12: Jazz -> jazz
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.14: Fusion -> fusion
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.16: Hard -> hard
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.17: Bop -> bop
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.20: Jazz -> jazz
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.22: Swing -> swing
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.24: Zigeunerjazz -> zigeunerjazz
+[DETECTION MISS] page1254.text.div.4.head.1.s.1.w.3: zangers -> -zangers
+[DETECTION WRONG] page1254.text.p.16.s.3.w.11: de -> het

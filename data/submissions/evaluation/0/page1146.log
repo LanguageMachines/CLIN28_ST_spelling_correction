@@ -1,0 +1,16 @@
+[DETECTION MISS] page1146.text.div.2.p.2.s.6.w.8: geubliceerd -> gepubliceerd
+[DETECTION MISS] page1146.text.div.2.p.2.s.7.w.15: toeepast -> toegepast
+[DETECTION MATCH] page1146.text.div.3.p.3.s.2.w.10;page1146.text.div.3.p.3.s.2.w.11: M Pa -> MPa
+	[CORRECT]
+[DETECTION MATCH] page1146.text.div.3.p.4.s.1.w.8;page1146.text.div.3.p.4.s.1.w.9: M Pa -> MPa
+	[CORRECT]
+[DETECTION MATCH] page1146.text.div.3.p.4.s.3.w.13;page1146.text.div.3.p.4.s.3.w.14: M Pa -> MPa
+	[CORRECT]
+[DETECTION MATCH] page1146.text.div.3.p.4.s.3.w.24;page1146.text.div.3.p.4.s.3.w.25: G Pa -> GPa
+	[CORRECT]
+[DETECTION MISS] page1146.text.div.5.p.1.s.1.w.3;page1146.text.div.5.p.1.s.1.w.4: He isotoop -> He-isotoop
+[DETECTION MISS] page1146.text.div.5.p.2.s.1.w.20;page1146.text.div.5.p.2.s.1.w.21: lambda punt -> lambdapunt
+[DETECTION MISS] page1146.text.div.5.p.4.s.1.w.4;page1146.text.div.5.p.4.s.1.w.5: He isotoop -> He-isotoop
+[DETECTION MISS] page1146.text.div.6.p.3.s.1.w.3: Oerknaltheorie -> oerknaltheorie
+[DETECTION MISS] page1146.text.div.6.p.3.s.1.w.17: Oerknal -> oerknal
+[DETECTION WRONG] page1146.text.div.3.p.4.s.4.w.6;page1146.text.div.3.p.4.s.4.w.7: K ook -> Kook

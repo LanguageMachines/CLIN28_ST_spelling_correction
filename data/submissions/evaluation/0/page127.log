@@ -1,0 +1,17 @@
+[DETECTION MISS] page127.text.div.2.div.1.p.1.s.2.w.11: europa -> Europa
+[DETECTION MISS] page127.text.div.2.div.2.p.2.s.3.w.11: berbertaal -> Berbertaal
+[DETECTION MISS] page127.text.div.2.div.3.p.2.s.2.w.5: anno -> anno
+[DETECTION MISS] page127.text.div.4.p.1.s.1.w.17;page127.text.div.4.p.1.s.1.w.18: Sahara - -> Sahara-
+[DETECTION MISS] page127.text.div.4.list.1.item.4.s.1.w.2;page127.text.div.4.list.1.item.4.s.1.w.3: Sahara Atlasgebergte -> Sahara-Atlasgebergte
+[DETECTION MISS] page127.text.div.4.p.5.s.1.w.5;page127.text.div.4.p.5.s.1.w.6: dun bevolkte -> dunbevolkte
+[DETECTION MISS] page127.text.div.4.p.5.s.2.w.1: in -> In
+[DETECTION MISS] page127.text.div.4.div.2.p.1.s.1.w.9: Middellandse-Zeegebied -> Middellandse Zeegebied
+[DETECTION MISS] page127.text.div.7.p.1.s.1.w.21: tot -> aan
+[DETECTION MISS] page127.text.div.8.p.8.s.2.w.27: indirectgekozen -> indirect gekozen
+[DETECTION MISS] page127.text.div.9.p.1.s.1.w.4: Subtropisch -> subtropisch
+[DETECTION MISS] page127.text.div.9.p.2.s.1.w.6: Hoge -> hoge
+[DETECTION MISS] page127.text.div.9.p.2.s.1.w.7: Plateaus -> plateaus
+[DETECTION WRONG] page127.text.div.2.div.2.list.1.item.2.s.1.w.5;page127.text.div.2.div.2.list.1.item.2.s.1.w.6: Kabyl e -> Kabyle
+[DETECTION WRONG] page127.text.div.3.list.1.item.41.s.1.w.2: Tamanghasset -> Tamanrasset
+[DETECTION WRONG] page127.text.div.4.list.1.item.4.s.1.w.1: het -> de
+[DETECTION WRONG] page127.text.div.8.p.4.s.1.w.9: het -> de

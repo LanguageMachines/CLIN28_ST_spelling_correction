@@ -1,0 +1,25 @@
+[DETECTION MATCH] page1147.text.div.1.p.2.s.1.w.8: eiggennaam -> eigennaam
+	[CORRECT]
+[DETECTION MISS] page1147.text.div.1.p.3.s.1.w.21: Christelijke -> christelijke
+[DETECTION MISS] page1147.text.div.1.p.5.s.3.w.15;page1147.text.div.1.p.5.s.3.w.16: Groot Khan -> grootkan
+[DETECTION MATCH] page1147.text.div.1.p.8.s.4.w.4: machtstrijd -> machtsstrijd
+	[CORRECT]
+[DETECTION MISS] page1147.text.div.1.p.8.s.4.w.12: contra-revolutionairen -> contrarevolutionairen
+[DETECTION MISS] page1147.text.div.1.p.11.s.1.w.12: Volksrepubliek -> volksrepubliek
+[DETECTION MISS] page1147.text.div.2.div.2.head.1.s.1.w.2: Partijen -> partijen
+[DETECTION MISS] page1147.text.div.2.div.2.list.1.item.2.s.1.w.2;page1147.text.div.2.div.2.list.1.item.2.s.1.w.3: Burger Unie -> Burgerunie
+[DETECTION MISS] page1147.text.div.3.p.1.s.1.w.11: meerendeel -> merendeel
+[DETECTION MISS] page1147.text.div.3.p.1.s.2.w.13: Zigeuners -> zigeuners
+[DETECTION MISS] page1147.text.div.4.p.1.s.1.w.14;page1147.text.div.4.p.1.s.1.w.15;page1147.text.div.4.p.1.s.1.w.16: vrije markt economie -> vrijemarkteconomie
+[DETECTION MISS] page1147.text.div.4.p.1.s.2.w.5: landbouw-arealen -> landbouwarealen
+[DETECTION MISS] page1147.text.div.4.p.1.s.3.w.3: dientensector -> dienstensector
+[DETECTION MATCH] page1147.text.div.4.p.1.s.4.w.16: reëele -> reële
+	[CORRECT]
+[DETECTION MISS] page1147.text.div.5.p.1.s.1.w.23: noord-oosten -> noordoosten
+[DETECTION MISS] page1147.text.div.5.p.2.s.1.w.6: tweeen -> tweeën
+[DETECTION MISS] page1147.text.div.6.list.1.item.12.s.1.w.4: opera-componist -> operacomponist
+[DETECTION WRONG] page1147.text.div.1.p.4.s.2.w.5: het -> de
+[DETECTION WRONG] page1147.text.div.4.div.1.list.1.item.2.s.1.w.5;page1147.text.div.4.div.1.list.1.item.2.s.1.w.6: -1.9 % -> -1.9%
+[DETECTION WRONG] page1147.text.div.5.p.1.s.1.w.20: karpaten -> Karpaten
+[DETECTION WRONG] page1147.text.div.5.p.2.s.2.w.9: Dráva -> Drava
+[DETECTION WRONG] page1147.text.div.6.list.1.item.32.s.1.w.1: Ernő -> Erno

@@ -1,0 +1,38 @@
+[DETECTION MISS] page1275.text.p.1.s.1.w.21: Duits -> Duitse
+[DETECTION MISS] page1275.text.div.1.div.1.p.1.s.7.w.15;page1275.text.div.1.div.1.p.1.s.7.w.16: Copernicus ' -> Copernicus'
+[DETECTION MISS] page1275.text.div.1.div.2.p.1.s.4.w.2: Kepler's -> Keplers
+[DETECTION MISS] page1275.text.div.1.div.3.p.1.s.3.w.17: Kepler’s -> Keplers
+[DETECTION MATCH] page1275.text.div.1.div.4.p.2.s.1.w.3: publicert -> publiceert
+	[CORRECT]
+[DETECTION MISS] page1275.text.div.1.div.4.p.2.s.2.w.22: Brahe's -> Brahes
+[DETECTION MISS] page1275.text.div.1.div.4.p.3.s.3.w.19: Galilei -> Galileï
+[DETECTION MISS] page1275.text.div.1.div.4.p.5.s.3.w.9: Galilei -> Galileï
+[DETECTION MISS] page1275.text.div.1.div.4.div.2.p.1.s.1.w.4: Kepler's -> Keplers
+[DETECTION MISS] page1275.text.div.1.div.4.div.2.p.2.s.1.w.9: Galilei -> Galileï
+[DETECTION MISS] page1275.text.div.1.div.4.div.2.p.2.s.2.w.16: Galilei's -> Galileï's
+[DETECTION MISS] page1275.text.div.1.div.4.div.2.p.2.s.4.w.15: Galilei -> Galileï
+[DETECTION MISS] page1275.text.div.1.div.5.p.1.s.5.w.2: Kepler's -> Keplers
+[DETECTION MISS] page1275.text.div.1.div.5.p.3.s.5.w.15: god's -> gods
+[DETECTION MISS] page1275.text.div.1.div.6.p.1.s.7.w.8;page1275.text.div.1.div.6.p.1.s.7.w.9: jaren lang -> jarenlang
+[DETECTION MISS] INSERTION AFTER page1275.text.div.1.div.6.p.1.s.7.w.9: voort
+[DETECTION MISS] page1275.text.div.1.div.7.p.1.s.1.w.6: dertigjarige -> Dertigjarige
+[DETECTION MISS] page1275.text.div.1.div.7.p.1.s.1.w.7: oorlog -> Oorlog
+[DETECTION MISS] page1275.text.div.1.div.9.p.1.s.4.w.3: dertigjarige -> Dertigjarige
+[DETECTION MISS] page1275.text.div.1.div.9.p.1.s.4.w.4: oorlog -> Oorlog
+[DETECTION MISS] INSERTION AFTER page1275.text.div.1.div.10.p.1.s.4.w.30: de
+[DETECTION MISS] page1275.text.div.1.div.10.p.1.s.5.w.6;page1275.text.div.1.div.10.p.1.s.5.w.7: er uitzien -> eruitzien
+[DETECTION MISS] page1275.text.div.1.div.10.p.1.s.6.w.6;page1275.text.div.1.div.10.p.1.s.6.w.7: science sprookje -> science-sprookje
+[DETECTION MISS] page1275.text.div.1.div.10.p.1.s.6.w.21: Kepler's -> Keplers
+[DETECTION MISS] page1275.text.div.2.p.2.s.2.w.5: aan -> in
+[DETECTION MISS] page1275.text.div.2.p.2.s.2.w.9: aan -> in
+[DETECTION MISS] INSERTION AFTER page1275.text.div.2.p.2.s.2.w.13: en
+[DETECTION MISS] page1275.text.div.2.p.2.s.3.w.6: aan -> in
+[DETECTION MISS] page1275.text.div.2.p.4.s.2.w.26: eborene -> geborene
+[DETECTION MATCH] page1275.text.div.2.p.6.s.3.w.28;page1275.text.div.2.p.6.s.3.w.29: astrologie boeken -> astrologieboeken
+	[CORRECT]
+[DETECTION MISS] page1275.text.div.3.list.2.item.3.s.1.w.5: Kepler's -> Keplers
+[DETECTION MISS] page1275.text.div.3.list.2.item.4.s.1.w.4: Kepler's -> Keplers
+[DETECTION MISS] page1275.text.div.3.list.2.item.5.s.1.w.6: Kepler's -> Keplers
+[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.10.w.3: hoofdartkel -> hoofdartikel
+[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.4: relieuze -> religieuze
+[DETECTION WRONG] page1275.text.div.2.p.6.s.2.w.57;page1275.text.div.2.p.6.s.2.w.58: richting wijzend -> richtingwijzend

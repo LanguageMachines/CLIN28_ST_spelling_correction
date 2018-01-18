@@ -1,0 +1,9 @@
+[DETECTION MISS] page1253.text.p.3.s.1.w.5;page1253.text.p.3.s.1.w.7: te vergeefs -> tevergeefs
+[DETECTION MISS] page1253.text.p.3.s.2.w.14: ondragelijk -> ondraaglijk
+[DETECTION MISS] INSERTION AFTER page1253.text.p.4.s.2.w.3: tijdens
+[DETECTION MISS] INSERTION AFTER page1253.text.p.4.s.2.w.5: in
+[DETECTION MISS] page1253.text.p.5.s.1.w.2: dan -> toen
+[DETECTION MISS] page1253.text.p.6.s.1.w.8: Bulgaars -> Bulgaarse
+[DETECTION MISS] INSERTION AFTER page1253.text.p.6.s.3.w.17: in
+[DETECTION WRONG] page1253.text.p.1.s.1.w.21;page1253.text.p.1.s.1.w.22: - 1195 -> -1195
+[DETECTION WRONG] page1253.text.div.1.list.2.item.1.s.1.w.5;page1253.text.div.1.list.2.item.1.s.1.w.6: - 1259 -> -1259

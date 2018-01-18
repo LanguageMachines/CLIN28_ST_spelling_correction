@@ -1,0 +1,14 @@
+[DETECTION MISS] page1354.text.p.1.s.5.w.5: predikaat -> predicaat
+[DETECTION MISS] page1354.text.p.1.s.5.w.7: Koninklijke -> koninklijke
+[DETECTION MISS] page1354.text.div.1.p.1.s.4.w.10: predikaat -> predicaat
+[DETECTION MISS] page1354.text.div.1.p.2.s.5.w.21: handicap-sectie -> handicapsectie
+[DETECTION MISS] page1354.text.div.1.p.6.s.1.w.10: Jumbojet -> jumbojet
+[DETECTION MISS] page1354.text.div.1.p.6.s.2.w.22: Jumbojet -> jumbojet
+[DETECTION MISS] page1354.text.div.1.div.3.p.1.s.4.w.6: predikaat -> predicaat
+[DETECTION MATCH] page1354.text.div.2.div.1.p.1.s.2.w.23: transantlantische -> transatlantische
+	[CORRECT]
+[DETECTION MISS] page1354.text.div.2.div.2.p.1.s.1.w.8: Boeings -> Boeing
+[DETECTION MISS] page1354.text.div.2.div.2.p.3.s.1.w.1: laatst -> Laatst
+[DETECTION MISS] page1354.text.div.2.div.2.p.3.s.1.w.11: boeings -> Boeing
+[DETECTION WRONG] page1354.text.div.1.p.6.s.2.w.27;page1354.text.div.1.p.6.s.2.w.28: Am -toestel -> Am-toestel
+[DETECTION WRONG] page1354.text.div.2.div.2.p.3.s.1.w.8: laatse -> laatste

@@ -1,0 +1,22 @@
+[DETECTION MISS] page1269.text.div.2.p.2.s.2.w.16: duin-en -> duin- en
+[DETECTION MATCH] page1269.text.div.3.p.6.s.1.w.30: enigzins -> enigszins
+	[CORRECT]
+[DETECTION MISS] page1269.text.div.4.p.1.s.2.w.56: hemelvaart -> Hemelvaart
+[DETECTION MISS] page1269.text.div.5.head.1.s.1.w.1: Ensor's -> Ensors
+[DETECTION MISS] page1269.text.div.5.p.3.s.2.w.67: pompueze -> pompeuze
+[DETECTION MISS] INSERTION AFTER page1269.text.div.5.p.4.s.4.w.9: in
+[DETECTION MATCH] page1269.text.div.5.p.5.s.1.w.15: enschreef -> en schreef
+	[CORRECT]
+[DETECTION MISS] page1269.text.div.6.p.1.s.4.w.8: bekritisseerd -> bekritiseerd
+[DETECTION MISS] page1269.text.div.6.p.5.s.1.w.20: verwachtye -> verwachte
+[DETECTION MISS] page1269.text.div.11.p.2.s.2.w.16: duin-en -> duin- en
+[DETECTION WRONG] page1269.text.div.2.p.1.s.1.w.9: het -> de
+[DETECTION WRONG] page1269.text.div.4.p.1.s.2.w.47;page1269.text.div.4.p.1.s.2.w.48: pijnigen de -> pijnigende
+[DETECTION WRONG] page1269.text.div.6.p.5.s.1.w.7: het -> de
+[DETECTION WRONG] page1269.text.div.7.p.2.s.3.w.28;page1269.text.div.7.p.2.s.3.w.29: pijnigen de -> pijnigende
+[DETECTION WRONG] page1269.text.div.11.p.1.s.1.w.9: het -> de
+[DETECTION WRONG] page1269.text.div.12.p.6.s.1.w.30: enigzins -> enigszins
+[DETECTION WRONG] page1269.text.div.13.p.1.s.2.w.47;page1269.text.div.13.p.1.s.2.w.48: pijnigen de -> pijnigende
+[DETECTION WRONG] page1269.text.div.14.p.5.s.1.w.15: enschreef -> en schreef
+[DETECTION WRONG] page1269.text.div.15.p.5.s.1.w.7: het -> de
+[DETECTION WRONG] page1269.text.div.16.p.2.s.3.w.28;page1269.text.div.16.p.2.s.3.w.29: pijnigen de -> pijnigende

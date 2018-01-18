@@ -1,0 +1,112 @@
+{
+    "all": {
+        "detection": {
+            "truepos": 2.0,
+            "falseneg": 31.0,
+            "recall": 0.06060606060606061,
+            "falsepos": 3.0,
+            "precision": 0.4,
+            "f1score": 0.10526315789473685
+        },
+        "correction": {
+            "correct": 2.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 0.06060606060606061,
+            "precision": 0.4,
+            "f1score": 0.10526315789473685
+        }
+    },
+    "capitalizationerror": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 4.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "confusion": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 4.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "missingword": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 3.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "nonworderror": {
+        "detection": {
+            "truepos": 1.0,
+            "falseneg": 6.0,
+            "recall": 0.14285714285714285
+        },
+        "correction": {
+            "correct": 1.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 0.14285714285714285
+        }
+    },
+    "redundantpunctuation": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 9.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "spliterror": {
+        "detection": {
+            "truepos": 1.0,
+            "falseneg": 5.0,
+            "recall": 0.16666666666666666
+        },
+        "correction": {
+            "correct": 1.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 0.16666666666666666
+        }
+    }
+}
