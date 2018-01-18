@@ -18,10 +18,10 @@ def main():
 
     refdata = CLIN28JSON(args.ref)
     try:
-        outdata = CLIN28JSON(args.out)
+        outdata = CLIN28JSON(args.out, words=refdata['words'])
     except ValidationError:
         print("Attempting to load " + args.out + " in spite of validation error",file=sys.stderr)
-        outdata = CLIN28JSON(args.out, validation=False)
+        outdata = CLIN28JSON(args.out, validation=False, words=refdata['words'])
 
 
     #detection
@@ -87,6 +87,9 @@ def main():
 
     for outcorrection in outdata.corrections():
         if 'found' not in outcorrection:
+            if  not args.withnumbers and (outcorrection['text'].isdigit() or ('span' in outcorrection and " ".join([ refdata[wordid]['text'] for wordid in outcorrection['span'] ]).isdigit())):
+                print("[DETECTION SKIPPED] " + outcorrection['text'],file=sys.stderr)
+                continue
             confidence = outcorrection['confidence'] if 'confidence' in outcorrection and not args.noconfidence else 1.0
             falsepos += 1
             if 'span' in outcorrection:
