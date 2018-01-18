@@ -1,0 +1,170 @@
+[DETECTION MISS] page1254.text.p.4.s.1.w.6;page1254.text.p.4.s.1.w.7: jazz band -> jazzband
+[DETECTION MATCH] page1254.text.p.4.s.1.w.11: instumenten -> instrumenten
+	[CORRECT]
+[DETECTION MISS] page1254.text.p.4.s.2.w.8;page1254.text.p.4.s.2.w.9: standaard bezetting -> standaardbezetting
+[DETECTION MISS] page1254.text.p.4.s.2.w.13;page1254.text.p.4.s.2.w.14;page1254.text.p.4.s.2.w.15;page1254.text.p.4.s.2.w.16: oude stijl jazz band -> oude-stijl-jazzband
+[DETECTION MISS] page1254.text.p.7.s.1.w.35;page1254.text.p.7.s.1.w.36: in middels -> inmiddels
+[DETECTION MISS] page1254.text.p.8.s.2.w.3;page1254.text.p.8.s.2.w.4: jazz stijlen -> jazzstijlen
+[DETECTION MISS] page1254.text.p.8.s.5.w.15: 10-20 -> tien tot twintig
+[DETECTION MISS] page1254.text.p.8.s.6.w.11: was -> waren
+[DETECTION MISS] page1254.text.p.8.s.6.w.47;page1254.text.p.8.s.6.w.48: swing periode -> swingperiode
+[DETECTION MISS] page1254.text.p.10.s.1.w.5: tweede -> Tweede
+[DETECTION MISS] page1254.text.p.10.s.1.w.6: wereldoorlog -> Wereldoorlog
+[DETECTION MISS] page1254.text.p.13.s.1.w.20;page1254.text.p.13.s.1.w.21: Frisco jazz -> Frisco-jazz
+[DETECTION MISS] page1254.text.p.13.s.2.w.21: banjoist-zanger -> banjoïst-zanger
+[DETECTION MISS] page1254.text.p.15.s.1.w.7: opging -> op ging
+[DETECTION MATCH] page1254.text.p.15.s.1.w.18: Bebop -> bebop
+	[CORRECT]
+[DETECTION MATCH] page1254.text.p.15.s.3.w.4: Bebop -> bebop
+	[CORRECT]
+[DETECTION MATCH] page1254.text.p.16.s.1.w.10: Bebop -> bebop
+	[CORRECT]
+[DETECTION MISS] page1254.text.p.16.s.1.w.13: Cool -> cool
+[DETECTION MISS] page1254.text.p.16.s.1.w.14: Jazz -> jazz
+[DETECTION MISS] page1254.text.p.19.s.2.w.3;page1254.text.p.19.s.2.w.4: er naar -> ernaar
+[DETECTION MATCH] page1254.text.div.1.quote.1.p.1.s.1.w.3: Contrabas -> contrabas
+	[CORRECT]
+[DETECTION MISS] page1254.text.div.1.quote.1.p.1.s.1.w.5: Cornet -> cornet
+[DETECTION MATCH] page1254.text.div.1.quote.1.p.1.s.1.w.7: Drumstel -> drumstel
+	[CORRECT]
+[DETECTION MATCH] page1254.text.div.1.quote.1.p.1.s.1.w.9: Elektrische -> elektrische
+	[INCORRECT] Should be: eektrische
+[DETECTION MATCH] page1254.text.div.1.quote.1.p.1.s.1.w.12: Klarinet -> klarinet
+	[CORRECT]
+[DETECTION MATCH] page1254.text.div.1.quote.1.p.1.s.1.w.14: Piano -> piano
+	[CORRECT]
+[DETECTION MATCH] page1254.text.div.1.quote.1.p.1.s.1.w.16: Saxofoon -> saxofoon
+	[CORRECT]
+[DETECTION MATCH] page1254.text.div.1.quote.1.p.1.s.1.w.18: Trombone -> trombone
+	[CORRECT]
+[DETECTION MATCH] page1254.text.div.1.quote.1.p.1.s.1.w.20: Trompet -> trompet
+	[CORRECT]
+[DETECTION MATCH] page1254.text.div.1.quote.1.p.1.s.1.w.22: Hammondorgel -> hammondorgel
+	[CORRECT]
+[DETECTION MATCH] page1254.text.div.1.quote.1.p.1.s.1.w.24: Viool -> viool
+	[CORRECT]
+[DETECTION MATCH] page1254.text.div.3.quote.1.p.1.s.1.w.4: Bebop -> bebop
+	[CORRECT]
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.6: Cool -> cool
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.7: Jazz -> jazz
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.11: Free -> free
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.12: Jazz -> jazz
+[DETECTION MATCH] page1254.text.div.3.quote.1.p.1.s.1.w.14: Fusion -> fusion
+	[CORRECT]
+[DETECTION MATCH] page1254.text.div.3.quote.1.p.1.s.1.w.16: Hard -> hard
+	[CORRECT]
+[DETECTION MATCH] page1254.text.div.3.quote.1.p.1.s.1.w.17: Bop -> box
+	[INCORRECT] Should be: bop
+[DETECTION MISS] page1254.text.div.3.quote.1.p.1.s.1.w.20: Jazz -> jazz
+[DETECTION MATCH] page1254.text.div.3.quote.1.p.1.s.1.w.22: Swing -> swing
+	[CORRECT]
+[DETECTION MATCH] page1254.text.div.3.quote.1.p.1.s.1.w.24: Zigeunerjazz -> zigeuner
+	[INCORRECT] Should be: zigeunerjazz
+[DETECTION MISS] page1254.text.div.4.head.1.s.1.w.3: zangers -> -zangers
+[DETECTION WRONG] page1254.text.p.3.s.2.w.28: blue -> bluf
+[DETECTION WRONG] page1254.text.p.3.s.3.w.3: blue -> bluf
+[DETECTION WRONG] page1254.text.p.3.s.4.w.17: plantagezang -> plantage zang
+[DETECTION WRONG] page1254.text.p.3.s.4.w.21: Ragtime -> ragtime
+[DETECTION WRONG] page1254.text.p.5.s.1.w.22: Original -> origine
+[DETECTION WRONG] page1254.text.p.5.s.1.w.23: Dixieland -> dixieland
+[DETECTION WRONG] page1254.text.p.5.s.1.w.25: Band -> band
+[DETECTION WRONG] page1254.text.p.5.s.1.w.33: ss -> sf
+[DETECTION WRONG] page1254.text.p.5.s.1.w.39: zz -> z z
+[DETECTION WRONG] page1254.text.p.7.s.1.w.11: Roll -> rolt
+[DETECTION WRONG] page1254.text.p.7.s.2.w.12: De -> de
+[DETECTION WRONG] page1254.text.p.8.s.2.w.16: Dixieland -> dixieland
+[DETECTION WRONG] page1254.text.p.8.s.6.w.16: Ellington -> Elling ton
+[DETECTION WRONG] page1254.text.p.8.s.6.w.19: Ellington -> Elling ton
+[DETECTION WRONG] page1254.text.p.8.s.6.w.22: Willam -> Wil lam
+[DETECTION WRONG] page1254.text.p.8.s.6.w.24: Count -> county
+[DETECTION WRONG] page1254.text.p.8.s.6.w.26: Basie -> Basil
+[DETECTION WRONG] page1254.text.p.8.s.6.w.28: Count -> county
+[DETECTION WRONG] page1254.text.p.8.s.6.w.29: Basie -> Basil
+[DETECTION WRONG] page1254.text.p.10.s.3.w.7: Dixieland -> dixieland
+[DETECTION WRONG] page1254.text.p.10.s.3.w.20: Dixieland -> dixieland
+[DETECTION WRONG] page1254.text.p.10.s.3.w.21: Revival -> revival
+[DETECTION WRONG] page1254.text.p.11.s.2.w.8: De -> de
+[DETECTION WRONG] page1254.text.p.12.s.1.w.7: Condon -> condor
+[DETECTION WRONG] page1254.text.p.13.s.1.w.15: Ragtime -> ragtime
+[DETECTION WRONG] page1254.text.p.13.s.1.w.20: Frisco -> frisco
+[DETECTION WRONG] page1254.text.p.13.s.2.w.22: Clancey -> coulance
+[DETECTION WRONG] page1254.text.p.13.s.2.w.32: Disney-medewerkers -> medewerkers
+[DETECTION WRONG] page1254.text.p.13.s.2.w.36: Plus -> plus
+[DETECTION WRONG] page1254.text.p.14.s.1.w.16: Swing -> swing
+[DETECTION WRONG] page1254.text.p.14.s.1.w.17: College -> college
+[DETECTION WRONG] page1254.text.p.14.s.1.w.18: Band -> band
+[DETECTION WRONG] page1254.text.p.15.s.2.w.3: Dizzy -> dizzy
+[DETECTION WRONG] page1254.text.p.15.s.2.w.4: Gillespie -> Gille spie
+[DETECTION WRONG] page1254.text.p.15.s.3.w.14: Dizzy -> dizzy
+[DETECTION WRONG] page1254.text.p.15.s.3.w.15: Gillespie -> Gille spie
+[DETECTION WRONG] page1254.text.p.15.s.4.w.18: Blakey -> blakke
+[DETECTION WRONG] page1254.text.p.16.s.3.w.17: Chet -> C het
+[DETECTION WRONG] page1254.text.p.16.s.3.w.18: Baker -> baker
+[DETECTION WRONG] page1254.text.p.16.s.3.w.21: Modern -> modern
+[DETECTION WRONG] page1254.text.p.16.s.3.w.23: Quartet -> quarté
+[DETECTION WRONG] page1254.text.p.16.s.3.w.29: Reys -> Rex'
+[DETECTION WRONG] page1254.text.p.18.s.1.w.18: Dixieland -> dixieland
+[DETECTION WRONG] page1254.text.p.20.s.1.w.23: North -> Noort
+[DETECTION WRONG] page1254.text.p.20.s.1.w.24: Sea -> Seb
+[DETECTION WRONG] page1254.text.p.20.s.1.w.26: Festival -> festival
+[DETECTION WRONG] page1254.text.p.21.s.1.w.16: kerktoonladders -> kerk toonladders
+[DETECTION WRONG] page1254.text.div.1.head.1.s.1.w.1: Jazzinstrumenten -> instrumenten
+[DETECTION WRONG] page1254.text.div.1.quote.1.p.1.s.1.w.1: Banjo -> banjo
+[DETECTION WRONG] page1254.text.div.2.head.1.s.1.w.1: Beroemde -> beroemde
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.4: Chet -> C het
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.5: Baker -> baker
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.7: Count -> county
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.8: Basie -> Basil
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.16: Chick -> chick
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.17: Corea -> Coret
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.26: Ellington -> Elling ton
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.38: Garner -> garneer
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.41: Getz -> get.
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.43: Dizzy -> dizzy
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.44: Gillespie -> Gille spie
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.59: Haden -> Ha den
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.74: Monk -> monk
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.80: Pastorius -> pastorij
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.85: Bud -> buk
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.89: Ra -> ra
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.92: Rollins -> rolling
+[DETECTION WRONG] page1254.text.div.2.quote.1.p.1.s.1.w.95: Reinhardt -> Reinhard
+[DETECTION WRONG] page1254.text.div.3.head.1.s.1.w.1: Jazzstijlen -> jazzstijlen
+[DETECTION WRONG] page1254.text.div.3.quote.1.p.1.s.1.w.1: Big -> big
+[DETECTION WRONG] page1254.text.div.3.quote.1.p.1.s.1.w.9: Dixieland -> dixieland
+[DETECTION WRONG] page1254.text.div.3.quote.1.p.1.s.1.w.19: Latin -> latino
+[DETECTION WRONG] page1254.text.div.4.head.1.s.1.w.1: Jazz-zangeressen -> jazzzangeressen
+[DETECTION WRONG] page1254.text.div.4.quote.1.p.1.s.1.w.5: Carter -> carter
+[DETECTION WRONG] page1254.text.div.4.quote.1.p.1.s.1.w.7: Nat -> nat
+[DETECTION WRONG] page1254.text.div.4.quote.1.p.1.s.1.w.11: Cole -> coole
+[DETECTION WRONG] page1254.text.div.4.quote.1.p.1.s.1.w.14: Cole -> coole
+[DETECTION WRONG] page1254.text.div.4.quote.1.p.1.s.1.w.32: Reys -> Rex'
+[DETECTION WRONG] page1254.text.div.4.quote.1.p.1.s.1.w.44: Krall -> Kral
+[DETECTION WRONG] page1254.text.div.5.head.1.s.1.w.1: Jazzcomponisten -> componisten
+[DETECTION WRONG] page1254.text.div.5.quote.1.p.1.s.1.w.5: Ellington -> Elling ton
+[DETECTION WRONG] page1254.text.div.5.quote.1.p.1.s.1.w.11: Monk -> monk
+[DETECTION WRONG] page1254.text.div.6.head.1.s.1.w.1: Beroemde -> beroemde
+[DETECTION WRONG] page1254.text.div.6.head.1.s.1.w.3: jazzensembles -> jazz ensembles
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.1.w.3: Nl -> nm
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.2.w.7: Bley -> blèt
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.2.w.8: Bigband -> bigband
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.2.w.10: USA -> uso
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.2.w.15: Bigband -> bigband
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.2.w.17: USA -> uso
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.2.w.21: Concert -> concert
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.2.w.22: Bigband -> bigband
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.2.w.29: Collective -> collectivum
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.2.w.38: Ensemble -> ensemble
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.2.w.46: Bigband -> bigband
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.2.w.48: UK -> uk
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.2.w.51: Jaga -> Jago
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.2.w.58: ICP -> ic's
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.2.w.61: Metropole -> metropolen
+[DETECTION WRONG] page1254.text.div.6.quote.1.p.1.s.2.w.62: Orkest -> orkest
+[DETECTION WRONG] page1254.text.div.7.head.1.s.1.w.1: Bekende -> bekende
+[DETECTION WRONG] page1254.text.div.7.head.1.s.1.w.2: jazznummers -> jazz nummers
+[DETECTION WRONG] page1254.text.div.7.quote.1.p.1.s.1.w.4: Blue -> bluf
+[DETECTION WRONG] page1254.text.div.7.quote.1.p.1.s.1.w.5: Rondo -> rondo
+[DETECTION WRONG] page1254.text.div.7.quote.1.p.1.s.1.w.11: the -> The
+[DETECTION WRONG] page1254.text.div.7.quote.1.p.1.s.1.w.15: Train -> train
+[DETECTION WRONG] page1254.text.div.7.quote.1.p.1.s.1.w.20: Tunisia -> Tunis ia

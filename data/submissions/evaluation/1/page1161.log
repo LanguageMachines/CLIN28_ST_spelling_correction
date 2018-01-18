@@ -1,0 +1,102 @@
+[DETECTION MISS] page1161.text.p.2.s.5.w.8;page1161.text.p.2.s.5.w.9: Inter connected -> Interconnected
+[DETECTION MISS] page1161.text.p.2.s.5.w.10;page1161.text.p.2.s.5.w.11: Net works -> Networks
+[DETECTION MISS] page1161.text.p.3.s.2.w.9: usenet -> Usenet
+[DETECTION MISS] page1161.text.div.1.p.2.s.2.w.15: packet-switching -> packet switching
+[DETECTION MISS] page1161.text.div.1.p.3.s.5.w.5;page1161.text.div.1.p.3.s.5.w.6: Mosaic -webbrowser -> Mosaic-webbrowser
+[DETECTION MATCH] page1161.text.div.2.p.6.s.2.w.5: messenger -> mess enger
+	[INCORRECT] Should be: Messenger
+[DETECTION MISS] page1161.text.div.3.list.1.item.4.s.2.w.7: zijn -> is
+[DETECTION WRONG] page1161.text.p.1.s.4.w.9: Internetprotocol -> internetprotocol
+[DETECTION WRONG] page1161.text.p.2.s.1.w.19: For -> Fox
+[DETECTION WRONG] page1161.text.p.2.s.1.w.20: Comments -> commentator
+[DETECTION WRONG] page1161.text.p.2.s.1.w.26: Internet -> internet
+[DETECTION WRONG] page1161.text.p.2.s.1.w.27: Engineering -> engineering
+[DETECTION WRONG] page1161.text.p.2.s.2.w.24: universiteitsnetwerken -> universiteiten
+[DETECTION WRONG] page1161.text.p.2.s.2.w.28: Verenigde -> verenigde
+[DETECTION WRONG] page1161.text.p.2.s.4.w.22: weldegelijk -> wel degelijk
+[DETECTION WRONG] page1161.text.p.2.s.5.w.8: Inter -> inteer
+[DETECTION WRONG] page1161.text.p.2.s.5.w.10: Net -> net
+[DETECTION WRONG] page1161.text.p.3.s.1.w.14: Web -> web
+[DETECTION WRONG] page1161.text.p.3.s.1.w.31: Internet -> internet
+[DETECTION WRONG] page1161.text.p.3.s.2.w.7: FTP -> ftp
+[DETECTION WRONG] page1161.text.p.4.s.1.w.19: Internet -> internet
+[DETECTION WRONG] page1161.text.p.4.s.2.w.7: Groene -> groene
+[DETECTION WRONG] page1161.text.p.4.s.2.w.8: Boekje -> boekje
+[DETECTION WRONG] page1161.text.div.1.p.1.s.1.w.1: Zie -> zie
+[DETECTION WRONG] page1161.text.div.1.p.1.s.1.w.4: Geschiedenis -> geschiedenis
+[DETECTION WRONG] page1161.text.div.1.p.2.s.1.w.1: Het -> het
+[DETECTION WRONG] page1161.text.div.1.p.2.s.2.w.4: onderzoeksbijdragen -> onderzoeksvragen
+[DETECTION WRONG] page1161.text.div.1.p.2.s.2.w.13: wachtrijtheorie -> wachtrij theorie
+[DETECTION WRONG] page1161.text.div.1.p.2.s.4.w.9: NCP -> n's
+[DETECTION WRONG] page1161.text.div.1.p.2.s.4.w.11: TCP -> t's
+[DETECTION WRONG] page1161.text.div.1.p.2.s.4.w.15: netwerkprotocol -> netwerkje
+[DETECTION WRONG] page1161.text.div.1.p.3.s.2.w.10: Web-project -> projectje
+[DETECTION WRONG] page1161.text.div.1.p.3.s.2.w.19: HTTP -> http
+[DETECTION WRONG] page1161.text.div.1.p.3.s.5.w.6: -webbrowser -> webbrowser
+[DETECTION WRONG] page1161.text.div.1.p.3.s.6.w.25: Web -> web
+[DETECTION WRONG] page1161.text.div.2.head.1.s.1.w.1: Het -> het
+[DETECTION WRONG] page1161.text.div.2.p.1.s.1.w.1: Afgezien -> afgezien
+[DETECTION WRONG] page1161.text.div.2.p.1.s.1.w.21: bi- -> bib
+[DETECTION WRONG] page1161.text.div.2.p.1.s.1.w.27: peeringovereenkomsten -> leerovereenkomsten
+[DETECTION WRONG] page1161.text.div.2.p.2.s.2.w.4: TCP -> t's
+[DETECTION WRONG] page1161.text.div.2.p.2.s.2.w.6: IP-communicatie -> communicatievak
+[DETECTION WRONG] page1161.text.div.2.p.2.s.2.w.9: glasvezel- -> glasvezel
+[DETECTION WRONG] page1161.text.div.2.p.2.s.2.w.11: koper- -> koper
+[DETECTION WRONG] page1161.text.div.2.p.3.s.1.w.7: Internet -> internet
+[DETECTION WRONG] page1161.text.div.2.p.3.s.1.w.8: Engineering -> engineering
+[DETECTION WRONG] page1161.text.div.2.p.3.s.1.w.9: Taskforce -> taskforce
+[DETECTION WRONG] page1161.text.div.2.p.3.s.1.w.11: IETF -> iets
+[DETECTION WRONG] page1161.text.div.2.p.3.s.3.w.2: IETF -> iets
+[DETECTION WRONG] page1161.text.div.2.p.3.s.4.w.7: Internet -> internet
+[DETECTION WRONG] page1161.text.div.2.p.3.s.4.w.8: Architecture -> architecturen
+[DETECTION WRONG] page1161.text.div.2.p.3.s.4.w.9: Board -> board
+[DETECTION WRONG] page1161.text.div.2.p.3.s.4.w.15: internetstandaard -> internet standaard
+[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.13: TCP -> t's
+[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.15: UDP -> ud's
+[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.19: PPP -> PHP
+[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.21: SLIP -> slip
+[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.27: IMAP -> Imad
+[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.31: HTTP -> http
+[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.33: HTTPS -> https
+[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.35: SSH -> Shu
+[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.39: FTP -> ftp
+[DETECTION WRONG] page1161.text.div.2.p.5.s.1.w.20: Web -> web
+[DETECTION WRONG] page1161.text.div.2.p.5.s.1.w.24: IRC -> ir.
+[DETECTION WRONG] page1161.text.div.2.p.5.s.1.w.26: MUD -> mud
+[DETECTION WRONG] page1161.text.div.2.p.5.s.2.w.10: Web -> web
+[DETECTION WRONG] page1161.text.div.2.p.5.s.4.w.19: netwerkprotocollen -> netwerk protocollen
+[DETECTION WRONG] page1161.text.div.2.p.6.s.1.w.1: Andere -> andere
+[DETECTION WRONG] page1161.text.div.2.p.6.s.2.w.4: MSN -> MSc
+[DETECTION WRONG] page1161.text.div.2.p.6.s.2.w.7: ICQ -> ic's
+[DETECTION WRONG] page1161.text.div.3.p.1.s.1.w.1: Ongelimiteerde -> ongelimiteerde
+[DETECTION WRONG] page1161.text.div.3.list.1.item.1.s.1.w.1: Via -> via
+[DETECTION WRONG] page1161.text.div.4.list.1.item.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1161.text.div.4.list.1.item.1.s.1.w.2: Heilige -> heilige
+[DETECTION WRONG] page1161.text.div.5.list.1.item.1.s.1.w.1: Internet -> internet
+[DETECTION WRONG] page1161.text.div.5.list.1.item.1.s.1.w.5: Z -> z
+[DETECTION WRONG] page1161.text.div.5.list.1.item.2.s.1.w.1: Computer -> computer
+[DETECTION WRONG] page1161.text.div.5.list.1.item.3.s.1.w.1: Informatica -> informatica
+[DETECTION WRONG] page1161.text.div.5.list.1.item.4.s.1.w.1: Telecommunicatie -> telecommunicatie
+[DETECTION WRONG] page1161.text.div.5.div.1.head.1.s.1.w.1: Geschiedenis -> geschiedenis
+[DETECTION WRONG] page1161.text.div.5.div.1.list.1.item.1.s.1.w.1: Geschiedenis -> geschiedenis
+[DETECTION WRONG] page1161.text.div.5.div.2.head.1.s.1.w.1: Theorie -> theorie
+[DETECTION WRONG] page1161.text.div.5.div.2.list.1.item.1.s.1.w.1: Netwerk -> netwerk
+[DETECTION WRONG] page1161.text.div.5.div.2.list.1.item.2.s.1.w.5: Web -> web
+[DETECTION WRONG] page1161.text.div.5.div.3.head.1.s.1.w.1: Internetdiensten -> internetdiensten
+[DETECTION WRONG] page1161.text.div.5.div.3.list.1.item.1.s.1.w.1: FTP -> ftp
+[DETECTION WRONG] page1161.text.div.5.div.3.list.1.item.2.s.1.w.1: IRC -> ir.
+[DETECTION WRONG] page1161.text.div.5.div.3.list.1.item.3.s.1.w.3: Web -> web
+[DETECTION WRONG] page1161.text.div.5.div.3.p.1.s.1.w.1: Aangeboden -> aangeboden
+[DETECTION WRONG] page1161.text.div.5.div.4.head.1.s.1.w.1: Gebruik -> gebruik
+[DETECTION WRONG] page1161.text.div.5.div.4.list.1.item.1.s.1.w.1: Internet -> internet
+[DETECTION WRONG] page1161.text.div.6.head.1.s.1.w.1: Externe -> externe
+[DETECTION WRONG] page1161.text.div.6.div.1.head.1.s.1.w.1: Schrijfwijze -> schrijfwijze
+[DETECTION WRONG] page1161.text.div.6.div.1.list.1.item.1.s.1.w.1: Fouten -> fouten
+[DETECTION WRONG] page1161.text.div.6.div.1.list.1.item.1.s.1.w.7: Onze -> onze
+[DETECTION WRONG] page1161.text.div.6.div.1.list.1.item.1.s.1.w.8: Taal -> taal
+[DETECTION WRONG] page1161.text.div.6.div.1.list.1.item.2.s.1.w.1: Schrijfwijze -> schrijfwijze
+[DETECTION WRONG] page1161.text.div.6.div.1.list.1.item.3.s.1.w.1: Ook -> ook
+[DETECTION WRONG] page1161.text.div.6.div.2.head.1.s.1.w.1: Geschiedenis -> geschiedenis
+[DETECTION WRONG] page1161.text.div.6.div.2.list.1.item.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1161.text.div.6.div.3.head.1.s.1.w.1: Sociologie -> sociologie
+[DETECTION WRONG] page1161.text.div.6.div.3.list.1.item.1.s.1.w.1: Sociologie -> sociologie

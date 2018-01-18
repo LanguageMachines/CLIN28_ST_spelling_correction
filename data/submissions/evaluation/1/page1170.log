@@ -1,0 +1,103 @@
+[DETECTION MISS] page1170.text.div.1.p.1.s.1.w.2;page1170.text.div.1.p.1.s.1.w.3: Internet Protocol -> internetprotocol
+[DETECTION MATCH] page1170.text.div.1.p.1.s.1.w.28: Internet -> internet
+	[CORRECT]
+[DETECTION MISS] page1170.text.div.1.p.2.s.1.w.13;page1170.text.div.1.p.2.s.1.w.14: Internet protocol -> internetprotocol
+[DETECTION MISS] page1170.text.div.1.p.4.s.1.w.2;page1170.text.div.1.p.4.s.1.w.3: Internet Protocol -> internetprotocol
+[DETECTION MISS] page1170.text.div.2.p.1.s.1.w.2;page1170.text.div.2.p.1.s.1.w.3: IPv4 adres -> IPv4-adres
+[DETECTION MISS] page1170.text.div.2.p.1.s.1.w.13;page1170.text.div.2.p.1.s.1.w.14;page1170.text.div.2.p.1.s.1.w.15: 8 bit getallen -> 8-bitgetallen
+[DETECTION MISS] page1170.text.div.2.p.1.s.2.w.9;page1170.text.div.2.p.1.s.2.w.10: netwerk nummer -> netwerknummer
+[DETECTION MISS] page1170.text.div.2.p.1.s.2.w.18;page1170.text.div.2.p.1.s.2.w.19: host nummer -> hostnummer
+[DETECTION MISS] page1170.text.div.2.p.1.s.3.w.9;page1170.text.div.2.p.1.s.3.w.10: netwerk nummer -> netwerknummer
+[DETECTION MISS] page1170.text.div.2.p.1.s.3.w.17;page1170.text.div.2.p.1.s.3.w.18: host nummer -> hostnummer
+[DETECTION MATCH] page1170.text.div.2.p.1.s.4.w.7: hezelfde -> he zelfde
+	[INCORRECT] Should be: hetzelfde
+[DETECTION MATCH] page1170.text.div.3.p.2.s.1.w.3: Headers -> He aders
+	[INCORRECT] Should be: headers
+[DETECTION MISS] page1170.text.div.3.list.1.item.3.p.1.s.3.w.10: Qos -> QoS
+[DETECTION MATCH] page1170.text.div.3.list.1.item.3.list.1.item.2.s.1.w.4: Kosten -> kosten
+	[CORRECT]
+[DETECTION MATCH] page1170.text.div.3.list.1.item.3.list.1.item.3.s.1.w.3: Betrouwbaarheid -> betrouwbaarheid
+	[CORRECT]
+[DETECTION MATCH] page1170.text.div.3.list.1.item.3.list.1.item.4.s.1.w.3: Doorvoersnelheid -> doorvoersnelheid
+	[CORRECT]
+[DETECTION MATCH] page1170.text.div.3.list.1.item.3.list.1.item.5.s.1.w.3: Wachttijd -> wachttijd
+	[CORRECT]
+[DETECTION MATCH] page1170.text.div.3.list.1.item.3.list.1.item.6.s.1.w.3: Beveiliging -> beveiliging
+	[CORRECT]
+[DETECTION MATCH] page1170.text.div.3.list.1.item.5.s.2.w.7: pakketen -> pakketten
+	[CORRECT]
+[DETECTION MISS] page1170.text.div.3.list.1.item.9.s.1.w.10: wat -> dat
+[DETECTION MATCH] page1170.text.div.3.list.1.item.10.s.2.w.4: pakketen -> pakketten
+	[CORRECT]
+[DETECTION MATCH] page1170.text.div.4.p.1.s.1.w.16: bestemmings-adressen -> bestemmingsadressen
+	[CORRECT]
+[DETECTION MISS] page1170.text.div.4.p.1.s.3.w.29;page1170.text.div.4.p.1.s.3.w.30;page1170.text.div.4.p.1.s.3.w.31;page1170.text.div.4.p.1.s.3.w.32: 255 tot de 4e -> 255^4e
+[DETECTION WRONG] page1170.text.div.1.p.1.s.1.w.1: Het -> het
+[DETECTION WRONG] page1170.text.div.1.p.1.s.1.w.2: Internet -> internet
+[DETECTION WRONG] page1170.text.div.1.p.1.s.1.w.3: Protocol -> protocol
+[DETECTION WRONG] page1170.text.div.1.p.2.s.1.w.13: Internet -> internet
+[DETECTION WRONG] page1170.text.div.1.p.4.s.1.w.2: Internet -> internet
+[DETECTION WRONG] page1170.text.div.1.p.4.s.1.w.3: Protocol -> protocol
+[DETECTION WRONG] page1170.text.div.1.p.4.s.1.w.10: stack -> Stacy
+[DETECTION WRONG] page1170.text.div.1.p.4.s.2.w.5: Control -> controle
+[DETECTION WRONG] page1170.text.div.1.p.4.s.2.w.6: Protocol -> protocol
+[DETECTION WRONG] page1170.text.div.1.p.4.s.2.w.11: TCP -> t's
+[DETECTION WRONG] page1170.text.div.1.p.4.s.3.w.16: Protocol -> protocol
+[DETECTION WRONG] page1170.text.div.1.p.5.s.3.w.12: NAT -> nat
+[DETECTION WRONG] page1170.text.div.1.p.5.s.3.w.14: DHCP -> D.V.
+[DETECTION WRONG] page1170.text.div.1.p.5.s.3.w.23: IP-nummer -> ISBN-nummer
+[DETECTION WRONG] page1170.text.div.2.p.1.s.1.w.1: Een -> een
+[DETECTION WRONG] page1170.text.div.2.p.1.s.3.w.3: netmasker -> net masker
+[DETECTION WRONG] page1170.text.div.2.p.1.s.4.w.9: netwerknummer -> netwerk nummer
+[DETECTION WRONG] page1170.text.div.2.p.1.s.4.w.20: netwerknummer -> netwerk nummer
+[DETECTION WRONG] page1170.text.div.3.p.1.s.1.w.1: Een -> een
+[DETECTION WRONG] page1170.text.div.3.list.1.item.1.s.1.w.1: Versie -> versie
+[DETECTION WRONG] page1170.text.div.3.list.1.item.2.s.2.w.4: headers -> he aders
+[DETECTION WRONG] page1170.text.div.3.list.1.item.2.s.4.w.13: headers -> he aders
+[DETECTION WRONG] page1170.text.div.3.list.1.item.3.p.1.s.1.w.1: Differentiated -> differente
+[DETECTION WRONG] page1170.text.div.3.list.1.item.3.p.1.s.1.w.2: Service -> service
+[DETECTION WRONG] page1170.text.div.3.list.1.item.3.p.1.s.1.w.4: Type -> type
+[DETECTION WRONG] page1170.text.div.3.list.1.item.3.p.1.s.1.w.5: Of -> of
+[DETECTION WRONG] page1170.text.div.3.list.1.item.3.p.1.s.1.w.6: Service -> service
+[DETECTION WRONG] page1170.text.div.3.list.1.item.3.p.1.s.3.w.8: Service -> service
+[DETECTION WRONG] page1170.text.div.3.list.1.item.3.p.1.s.4.w.2: TOS-veld -> veldmuts
+[DETECTION WRONG] page1170.text.div.3.list.1.item.3.list.1.item.1.s.1.w.2: Standaard -> standaard
+[DETECTION WRONG] page1170.text.div.3.list.1.item.3.list.1.item.2.s.1.w.2: Minimale -> minimale
+[DETECTION WRONG] page1170.text.div.3.list.1.item.3.list.1.item.3.s.1.w.2: Maximale -> maximale
+[DETECTION WRONG] page1170.text.div.3.list.1.item.3.list.1.item.4.s.1.w.2: Maximale -> maximale
+[DETECTION WRONG] page1170.text.div.3.list.1.item.3.list.1.item.5.s.1.w.2: Minimale -> minimale
+[DETECTION WRONG] page1170.text.div.3.list.1.item.3.list.1.item.6.s.1.w.2: Maximale -> maximale
+[DETECTION WRONG] page1170.text.div.3.list.1.item.4.s.1.w.1: Totale -> totale
+[DETECTION WRONG] page1170.text.div.3.list.1.item.5.s.1.w.1: Identificatie -> identificatie
+[DETECTION WRONG] page1170.text.div.3.list.1.item.8.s.1.w.1: Time -> time
+[DETECTION WRONG] page1170.text.div.3.list.1.item.8.s.1.w.3: Live -> live
+[DETECTION WRONG] page1170.text.div.3.list.1.item.8.s.1.w.5: TTL -> t's
+[DETECTION WRONG] page1170.text.div.3.list.1.item.8.s.2.w.2: hops -> Hope
+[DETECTION WRONG] page1170.text.div.3.list.1.item.8.s.3.w.5: TTL -> t's
+[DETECTION WRONG] page1170.text.div.3.list.1.item.8.s.3.w.13: TTL -> t's
+[DETECTION WRONG] page1170.text.div.3.list.1.item.8.s.3.w.22: verdergestuurd -> verder gestuurd
+[DETECTION WRONG] page1170.text.div.3.list.1.item.9.s.1.w.13: IP-pakket -> pakket
+[DETECTION WRONG] page1170.text.div.3.list.1.item.9.s.1.w.18: UDP -> ud's
+[DETECTION WRONG] page1170.text.div.3.list.1.item.9.s.1.w.20: TCP -> t's
+[DETECTION WRONG] page1170.text.div.3.list.1.item.10.s.1.w.1: Controlesom -> controles
+[DETECTION WRONG] page1170.text.div.3.list.1.item.10.s.1.w.4: headers -> he aders
+[DETECTION WRONG] page1170.text.div.3.list.1.item.11.s.1.w.10: IP-pakket -> pakket
+[DETECTION WRONG] page1170.text.div.3.list.1.item.12.s.1.w.2: Bestemming -> bestemming
+[DETECTION WRONG] page1170.text.div.3.p.3.s.1.w.1: Hierna -> hierna
+[DETECTION WRONG] page1170.text.div.3.p.3.s.1.w.4: data-gedeelte -> lunchgedeelte
+[DETECTION WRONG] page1170.text.div.3.p.3.s.1.w.8: TCP -> t's
+[DETECTION WRONG] page1170.text.div.3.p.3.s.1.w.10: UDP -> ud's
+[DETECTION WRONG] page1170.text.div.4.p.1.s.1.w.1: Onder -> onder
+[DETECTION WRONG] page1170.text.div.4.p.1.s.1.w.14: bron- -> Bronk
+[DETECTION WRONG] page1170.text.div.4.p.1.s.3.w.32: 4e -> vierde
+[DETECTION WRONG] page1170.text.div.4.p.1.s.5.w.7: addressen -> adressen
+[DETECTION WRONG] page1170.text.div.4.p.2.s.4.w.4: TCP -> t's
+[DETECTION WRONG] page1170.text.div.4.p.2.s.4.w.6: UDP -> ud's
+[DETECTION WRONG] page1170.text.div.5.list.1.item.1.s.1.w.1: Internet -> internet
+[DETECTION WRONG] page1170.text.div.5.list.1.item.1.s.1.w.2: Protocol -> protocol
+[DETECTION WRONG] page1170.text.div.6.head.1.s.1.w.1: Externe -> externe
+[DETECTION WRONG] page1170.text.div.6.head.1.s.1.w.2: Links -> links
+[DETECTION WRONG] page1170.text.div.6.p.1.s.1.w.1: Technische -> technische
+[DETECTION WRONG] page1170.text.div.6.p.1.s.1.w.5: Internet -> internet
+[DETECTION WRONG] page1170.text.div.6.p.1.s.1.w.6: Protocol -> protocol
+[DETECTION WRONG] page1170.text.div.6.list.1.item.1.s.1.w.1: Bekijk -> bekijk

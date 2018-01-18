@@ -1,0 +1,66 @@
+{
+    "all": {
+        "detection": {
+            "truepos": 3.0,
+            "falseneg": 7.0,
+            "recall": 0.3,
+            "falsepos": 125.0,
+            "precision": 0.0234375,
+            "f1score": 0.043478260869565216
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 2.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0,
+            "precision": 0.0
+        }
+    },
+    "capitalizationerror": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 1.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "confusion": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 2.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "redundantpunctuation": {
+        "detection": {
+            "truepos": 3.0,
+            "falseneg": 4.0,
+            "recall": 0.42857142857142855
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 2.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    }
+}

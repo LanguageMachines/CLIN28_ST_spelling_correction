@@ -1,0 +1,143 @@
+[DETECTION MATCH] page1256.text.div.1.p.1.s.4.w.11: stromnigen -> stromeigen
+	[INCORRECT] Should be: stromingen
+[DETECTION MISS] page1256.text.div.2.div.1.p.1.s.3.w.25;page1256.text.div.2.div.1.p.1.s.3.w.26: voodoo -praktijken -> voodoo-praktijken
+[DETECTION MISS] page1256.text.div.2.div.1.p.3.s.4.w.27;page1256.text.div.2.div.1.p.3.s.4.w.28: jazz band -> jazzband
+[DETECTION MISS] page1256.text.div.2.div.2.p.4.s.3.w.2: ritmeinstrument -> ritme-instrument
+[DETECTION MISS] page1256.text.div.2.div.2.p.5.s.1.w.10;page1256.text.div.2.div.2.p.5.s.1.w.11;page1256.text.div.2.div.2.p.5.s.1.w.12;page1256.text.div.2.div.2.p.5.s.1.w.13: oude stijl jazz band -> oude-stijl-jazzband
+[DETECTION MISS] page1256.text.div.2.div.3.p.3.s.2.w.3;page1256.text.div.2.div.3.p.3.s.2.w.4: jazz stijlen -> jazzstijlen
+[DETECTION MISS] page1256.text.div.2.div.4.p.1.s.1.w.16: Bebop -> bebop
+[DETECTION MATCH] page1256.text.div.2.div.4.p.2.s.1.w.30: 10-20 -> @-,
+	[INCORRECT] Should be: tien tot twintig
+[DETECTION MISS] page1256.text.div.2.div.4.p.2.s.2.w.11: was -> waren
+[DETECTION MISS] page1256.text.div.2.div.4.p.2.s.2.w.47;page1256.text.div.2.div.4.p.2.s.2.w.48: Swing periode -> swingperiode
+[DETECTION MISS] page1256.text.div.2.div.4.p.4.s.1.w.8: Swing -> swing
+[DETECTION MISS] page1256.text.div.2.div.4.p.7.s.1.w.15: Ragtime -> ragtime
+[DETECTION MISS] page1256.text.div.2.div.4.p.7.s.1.w.20;page1256.text.div.2.div.4.p.7.s.1.w.21: Frisco jazz -> Frisco-jazz
+[DETECTION MISS] page1256.text.div.2.div.5.p.1.s.8.w.11: Swingmuziek -> swingmuziek
+[DETECTION MISS] page1256.text.div.2.div.5.p.1.s.10.w.10: Bebop -> bebop
+[DETECTION MISS] page1256.text.div.2.div.5.p.2.s.4.w.7: Bebop -> bebop
+[DETECTION MISS] page1256.text.div.2.div.6.p.3.s.1.w.44: Monk's -> Monks
+[DETECTION MISS] page1256.text.div.2.div.6.p.4.s.1.w.8: Cool-Jazz -> cooljazz
+[DETECTION MISS] page1256.text.div.2.div.6.p.4.s.1.w.31: klassificeerbare -> classificeerbare
+[DETECTION MISS] page1256.text.div.2.div.6.p.5.s.1.w.7: Cooljazz -> cooljazz
+[DETECTION MISS] page1256.text.div.2.div.6.p.5.s.1.w.12: zie -> zien
+[DETECTION MISS] page1256.text.div.2.div.6.p.5.s.2.w.6: Freejazz -> freejazz
+[DETECTION MISS] page1256.text.div.2.div.6.p.5.s.2.w.13: nieuwe -> nieuwe
+[DETECTION MISS] page1256.text.div.2.div.7.p.1.s.1.w.6: Cooljazz -> cooljazz
+[DETECTION MISS] page1256.text.div.2.div.7.p.1.s.1.w.13: Cooljazz -> cooljazz
+[DETECTION MISS] page1256.text.div.2.div.7.p.1.s.2.w.9: Cool -> cool
+[DETECTION MISS] page1256.text.div.2.div.7.p.1.s.2.w.13: Cooljazz -> cooljazz
+[DETECTION MISS] page1256.text.div.2.div.8.p.1.s.1.w.13: Bebop -> bebop
+[DETECTION MISS] page1256.text.div.2.div.9.head.1.s.1.w.1;page1256.text.div.2.div.9.head.1.s.1.w.2: Hard Bop -> Hardbop
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.1.w.5: Cooljazz -> cooljazz
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.1.w.15;page1256.text.div.2.div.9.p.1.s.1.w.16: Hard Bop -> hardbop
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.1.w.20;page1256.text.div.2.div.9.p.1.s.1.w.21: Hard Bop -> hardbop
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.1.w.22: Regression -> regression
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.2.w.3: Cooljazz -> cooljazz
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.2.w.14;page1256.text.div.2.div.9.p.1.s.2.w.15: Coast Jazz -> Coast-jazz
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.5.w.7: Gospelmuziek -> gospelmuziek
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.5.w.10;page1256.text.div.2.div.9.p.1.s.5.w.11: Hard Bop -> hardbop
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.6.w.11;page1256.text.div.2.div.9.p.1.s.6.w.12: Hard Bop -> hardbop
+[DETECTION MISS] page1256.text.div.2.div.9.p.2.s.1.w.15: Hardbop -> hardbop
+[DETECTION MISS] page1256.text.div.2.div.9.p.2.s.2.w.11;page1256.text.div.2.div.9.p.2.s.2.w.12: Columbia LP -> Columbia-lp
+[DETECTION MISS] page1256.text.div.2.div.9.p.2.s.2.w.23;page1256.text.div.2.div.9.p.2.s.2.w.24: hard bop -> hardbop
+[DETECTION MISS] page1256.text.div.2.div.9.p.2.s.2.w.33;page1256.text.div.2.div.9.p.2.s.2.w.34: jazz reviewer -> jazz-reviewer
+[DETECTION MISS] page1256.text.div.2.div.9.p.3.s.1.w.1;page1256.text.div.2.div.9.p.3.s.1.w.2: Soul jazz -> Souljazz
+[DETECTION MISS] page1256.text.div.2.div.9.p.3.s.1.w.5;page1256.text.div.2.div.9.p.3.s.1.w.6: hard bop -> hardbop
+[DETECTION MISS] page1256.text.div.2.div.9.p.4.s.1.w.5;page1256.text.div.2.div.9.p.4.s.1.w.6: Hard Bop -> hardbop
+[DETECTION MISS] page1256.text.div.2.div.10.head.1.s.1.w.1;page1256.text.div.2.div.10.head.1.s.1.w.2: Soul jazz -> Souljazz
+[DETECTION MISS] page1256.text.div.2.div.10.p.1.s.1.w.1;page1256.text.div.2.div.10.p.1.s.1.w.2: Soul jazz -> Souljazz
+[DETECTION MISS] page1256.text.div.2.div.10.p.1.s.1.w.8;page1256.text.div.2.div.10.p.1.s.1.w.9: hard bop -> hardbop
+[DETECTION MISS] page1256.text.div.2.div.10.p.1.s.1.w.25;page1256.text.div.2.div.10.p.1.s.1.w.27: hammond orgel-trio -> hammond-orgel-trio
+[DETECTION MISS] page1256.text.div.2.div.10.p.1.s.2.w.2;page1256.text.div.2.div.10.p.1.s.2.w.3: souljazz organisten -> souljazz-organisten
+[DETECTION MISS] page1256.text.div.2.div.10.p.2.s.1.w.9;page1256.text.div.2.div.10.p.2.s.1.w.10: soul jazz -> souljazz
+[DETECTION MISS] page1256.text.div.2.div.10.p.2.s.1.w.12;page1256.text.div.2.div.10.p.2.s.1.w.13: soul jazz -> souljazz
+[DETECTION MISS] page1256.text.div.2.div.10.p.3.s.1.w.3;page1256.text.div.2.div.10.p.3.s.1.w.4: hard bop -> hardbop
+[DETECTION MISS] page1256.text.div.2.div.10.p.3.s.1.w.7;page1256.text.div.2.div.10.p.3.s.1.w.8: soul jazz -> souljazz
+[DETECTION MISS] INSERTION AFTER page1256.text.div.2.div.10.p.3.s.1.w.11: op
+[DETECTION MISS] page1256.text.div.2.div.10.p.4.s.1.w.1;page1256.text.div.2.div.10.p.4.s.1.w.2: Soul jazz -> Souljazz
+[DETECTION MISS] page1256.text.div.2.div.10.p.4.s.1.w.34: jaten -> jaren
+[DETECTION MISS] page1256.text.div.2.div.10.p.4.s.1.w.39;page1256.text.div.2.div.10.p.4.s.1.w.40;page1256.text.div.2.div.10.p.4.s.1.w.41: soul jazz musici -> souljazz-musici
+[DETECTION MISS] page1256.text.div.2.div.10.p.5.s.1.w.34: Silver's -> Silvers
+[DETECTION MISS] page1256.text.div.2.div.10.p.5.s.1.w.46: Lewis's -> Lewis'
+[DETECTION MISS] page1256.text.div.2.div.10.p.6.s.1.w.1;page1256.text.div.2.div.10.p.6.s.1.w.2: Soul jazz -> Souljazz
+[DETECTION MISS] page1256.text.div.2.div.10.p.6.s.1.w.13: Jazz-funk -> jazzfunk
+[DETECTION MISS] page1256.text.div.2.div.11.head.1.s.1.w.1;page1256.text.div.2.div.11.head.1.s.1.w.2: Free Jazz -> Freejazz
+[DETECTION MISS] page1256.text.div.2.div.11.p.1.s.1.w.5: Souljazz -> souljazz
+[DETECTION MISS] page1256.text.div.2.div.11.p.2.s.1.w.15;page1256.text.div.2.div.11.p.2.s.1.w.16: free jazz -> freejazz
+[DETECTION MISS] page1256.text.div.2.div.11.p.2.s.1.w.25: Coleman's -> Colemans
+[DETECTION MISS] page1256.text.div.2.div.11.p.2.s.3.w.7;page1256.text.div.2.div.11.p.2.s.3.w.8: free jazz -> freejazz
+[DETECTION MISS] page1256.text.div.2.div.11.p.2.s.5.w.3;page1256.text.div.2.div.11.p.2.s.5.w.4: free jazz -> freejazz
+[DETECTION MISS] page1256.text.div.2.div.12.p.1.s.5.w.27;page1256.text.div.2.div.12.p.1.s.5.w.28: fusion groepen -> fusiongroepen
+[DETECTION MISS] page1256.text.div.2.div.13.p.1.s.1.w.40: free-jazz -> freejazz
+[DETECTION MISS] INSERTION AFTER page1256.text.div.2.div.13.p.2.s.2.w.18: vanuit
+[DETECTION MISS] page1256.text.div.2.div.13.p.3.s.2.w.17: maken- -> maken
+[DETECTION MISS] page1256.text.div.2.div.14.p.1.s.2.w.17: gezamelijk -> gezamenlijk
+[DETECTION MISS] page1256.text.div.2.div.14.p.2.s.4.w.13;page1256.text.div.2.div.14.p.2.s.4.w.14: de zelfde -> dezelfde
+[DETECTION MISS] page1256.text.div.4.p.1.s.1.w.14: free-jazz -> freejazz
+[DETECTION MISS] INSERTION AFTER page1256.text.div.4.p.3.s.3.w.25: het
+[DETECTION MISS] page1256.text.div.4.p.3.s.3.w.28: die -> dat
+[DETECTION WRONG] page1256.text.div.1.p.1.s.1.w.24: vorm -> voom
+[DETECTION WRONG] page1256.text.div.1.p.1.s.1.w.46: ontstaat -> ontstaat
+[DETECTION WRONG] page1256.text.div.1.p.1.s.2.w.10: afwezig -> afwezig
+[DETECTION WRONG] page1256.text.div.1.p.1.s.4.w.34: dage -> dagen
+[DETECTION WRONG] page1256.text.div.2.div.1.p.2.s.3.w.33: allen -> allenn
+[DETECTION WRONG] page1256.text.div.2.div.1.p.2.s.4.w.21: Afrikanen -> afrikanen
+[DETECTION WRONG] page1256.text.div.2.div.1.p.2.s.5.w.31: deel -> dezl
+[DETECTION WRONG] page1256.text.div.2.div.1.p.3.s.1.w.9: and -> andd
+[DETECTION WRONG] page1256.text.div.2.div.1.p.3.s.2.w.15: daad -> daar
+[DETECTION WRONG] page1256.text.div.2.div.2.p.1.s.3.w.8: traditie -> traditie
+[DETECTION WRONG] page1256.text.div.2.div.2.p.2.s.1.w.21: worden -> worden
+[DETECTION WRONG] page1256.text.div.2.div.2.p.2.s.2.w.7: noot -> noott
+[DETECTION WRONG] page1256.text.div.2.div.2.p.3.s.1.w.37: speelden -> speelden
+[DETECTION WRONG] page1256.text.div.2.div.2.p.4.s.2.w.6: bekend -> bekend
+[DETECTION WRONG] page1256.text.div.2.div.3.p.1.s.1.w.33: ss -> sss
+[DETECTION WRONG] page1256.text.div.2.div.3.p.3.s.1.w.33: spoor -> spoor
+[DETECTION WRONG] page1256.text.div.2.div.3.p.3.s.2.w.13: tak -> takk
+[DETECTION WRONG] page1256.text.div.2.div.3.p.3.s.2.w.22: tak -> takk
+[DETECTION WRONG] page1256.text.div.2.div.4.p.1.s.2.w.20: maat -> maatt
+[DETECTION WRONG] page1256.text.div.2.div.4.p.1.s.3.w.34: muziek -> muziek
+[DETECTION WRONG] page1256.text.div.2.div.4.p.1.s.5.w.20: arrangement -> arrangement
+[DETECTION WRONG] page1256.text.div.2.div.4.p.2.s.3.w.4: Django -> diango
+[DETECTION WRONG] page1256.text.div.2.div.4.p.3.s.2.w.10: zin -> zijn
+[DETECTION WRONG] page1256.text.div.2.div.4.p.4.s.2.w.13: onderscheiden -> onderscheiden
+[DETECTION WRONG] page1256.text.div.2.div.4.p.5.s.2.w.13: actief -> actief
+[DETECTION WRONG] page1256.text.div.2.div.4.p.8.s.2.w.7: Town -> townn
+[DETECTION WRONG] page1256.text.div.2.div.5.p.1.s.8.w.22: staan -> staan
+[DETECTION WRONG] page1256.text.div.2.div.5.p.2.s.2.w.6: word -> wordd
+[DETECTION WRONG] page1256.text.div.2.div.6.p.2.s.2.w.22: bebop -> bebop
+[DETECTION WRONG] page1256.text.div.2.div.6.p.3.s.1.w.21: and -> andd
+[DETECTION WRONG] page1256.text.div.2.div.6.p.4.s.1.w.20: Lee -> leee
+[DETECTION WRONG] page1256.text.div.2.div.6.p.4.s.1.w.23: Art -> artt
+[DETECTION WRONG] page1256.text.div.2.div.6.p.5.s.1.w.16: tijden -> tijdenn
+[DETECTION WRONG] page1256.text.div.2.div.9.p.1.s.4.w.2: akkoordenschema's -> aakoordenschemas
+[DETECTION WRONG] page1256.text.div.2.div.9.p.4.s.1.w.10: Art -> artt
+[DETECTION WRONG] page1256.text.div.2.div.9.p.4.s.1.w.30: Adderley -> aaderley,
+[DETECTION WRONG] page1256.text.div.2.div.9.p.4.s.1.w.77: Lee -> leee
+[DETECTION WRONG] page1256.text.div.2.div.10.p.1.s.2.w.39: Don -> donn
+[DETECTION WRONG] page1256.text.div.2.div.10.p.2.s.2.w.18: Idris -> iiris
+[DETECTION WRONG] page1256.text.div.2.div.10.p.4.s.1.w.7: late -> later
+[DETECTION WRONG] page1256.text.div.2.div.10.p.4.s.1.w.19: Adderley -> aaderley
+[DETECTION WRONG] page1256.text.div.2.div.10.p.5.s.1.w.4: Lee -> leee
+[DETECTION WRONG] page1256.text.div.2.div.10.p.5.s.1.w.8: Sidewinder -> siddwinder
+[DETECTION WRONG] page1256.text.div.2.div.10.p.5.s.1.w.18: Island -> islandd
+[DETECTION WRONG] page1256.text.div.2.div.10.p.5.s.1.w.57: Adderley's -> aaderleys
+[DETECTION WRONG] page1256.text.div.2.div.11.p.2.s.3.w.3: vormden -> voomden
+[DETECTION WRONG] page1256.text.div.2.div.12.p.1.s.5.w.18: allen -> allenn
+[DETECTION WRONG] page1256.text.div.2.div.12.p.1.s.5.w.30: Lifetime -> lijetime,
+[DETECTION WRONG] page1256.text.div.2.div.12.p.1.s.6.w.43: Burton -> burton
+[DETECTION WRONG] page1256.text.div.2.div.13.p.1.s.2.w.26: was -> was
+[DETECTION WRONG] page1256.text.div.2.div.13.p.2.s.2.w.23: Marsalis -> maasalis
+[DETECTION WRONG] page1256.text.div.2.div.14.p.1.s.2.w.38: DJ -> dij
+[DETECTION WRONG] page1256.text.div.2.div.14.p.2.s.1.w.29: afwezig -> afwezig
+[DETECTION WRONG] page1256.text.div.4.p.1.s.1.w.27: akkoorden -> aakoorden
+[DETECTION WRONG] page1256.text.div.4.p.1.s.2.w.4: akkoorden -> aakoorden
+[DETECTION WRONG] page1256.text.div.4.p.2.s.1.w.3: vormen -> voomen
+[DETECTION WRONG] page1256.text.div.4.p.2.s.3.w.8: vorm -> voom
+[DETECTION WRONG] page1256.text.div.4.p.2.s.3.w.14: noot -> noott
+[DETECTION WRONG] page1256.text.div.4.p.2.s.3.w.22: noot -> noott
+[DETECTION WRONG] page1256.text.div.4.p.2.s.3.w.42: verhouding -> verhouding
+[DETECTION WRONG] page1256.text.div.4.p.3.s.2.w.7: ware -> waren
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.21: Bley -> bleyy
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.64: Maria -> maaia
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.93: Art -> artt

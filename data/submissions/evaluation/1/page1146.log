@@ -1,0 +1,71 @@
+[DETECTION MATCH] page1146.text.div.2.p.2.s.6.w.8: geubliceerd -> gepubliceerde
+	[INCORRECT] Should be: gepubliceerd
+[DETECTION MATCH] page1146.text.div.2.p.2.s.7.w.15: toeepast -> toepast
+	[INCORRECT] Should be: toegepast
+[DETECTION MISS] page1146.text.div.3.p.3.s.2.w.10;page1146.text.div.3.p.3.s.2.w.11: M Pa -> MPa
+[DETECTION MISS] page1146.text.div.3.p.4.s.1.w.8;page1146.text.div.3.p.4.s.1.w.9: M Pa -> MPa
+[DETECTION MISS] page1146.text.div.3.p.4.s.3.w.13;page1146.text.div.3.p.4.s.3.w.14: M Pa -> MPa
+[DETECTION MISS] page1146.text.div.3.p.4.s.3.w.24;page1146.text.div.3.p.4.s.3.w.25: G Pa -> GPa
+[DETECTION MISS] page1146.text.div.5.p.1.s.1.w.3;page1146.text.div.5.p.1.s.1.w.4: He isotoop -> He-isotoop
+[DETECTION MISS] page1146.text.div.5.p.2.s.1.w.20;page1146.text.div.5.p.2.s.1.w.21: lambda punt -> lambdapunt
+[DETECTION MISS] page1146.text.div.5.p.4.s.1.w.4;page1146.text.div.5.p.4.s.1.w.5: He isotoop -> He-isotoop
+[DETECTION MISS] page1146.text.div.6.p.3.s.1.w.3: Oerknaltheorie -> oerknaltheorie
+[DETECTION MATCH] page1146.text.div.6.p.3.s.1.w.17: Oerknal -> oerknal
+	[CORRECT]
+[DETECTION WRONG] page1146.text.div.1.p.1.s.1.w.1: Helium -> helium
+[DETECTION WRONG] page1146.text.div.1.p.1.s.1.w.14: Lockyer -> locker
+[DETECTION WRONG] page1146.text.div.1.p.1.s.2.w.23: emissielijn -> emissielijnen
+[DETECTION WRONG] page1146.text.div.1.p.1.s.3.w.2: Frankland -> Franky's
+[DETECTION WRONG] page1146.text.div.1.p.1.s.5.w.7: Sir -> Six
+[DETECTION WRONG] page1146.text.div.1.p.1.s.5.w.9: Ramsay -> ramsj
+[DETECTION WRONG] page1146.text.div.1.p.1.s.5.w.11: cleviet -> c leviet
+[DETECTION WRONG] page1146.text.div.1.p.1.s.6.w.9: Cleve -> C leve
+[DETECTION WRONG] page1146.text.div.1.p.1.s.6.w.13: Ramsay -> ramsj
+[DETECTION WRONG] page1146.text.div.1.p.2.s.1.w.10: Royds -> Royce
+[DETECTION WRONG] page1146.text.div.1.p.2.s.2.w.9: Kamerlingh -> Kamerling
+[DETECTION WRONG] page1146.text.div.1.p.2.s.2.w.23: K -> k
+[DETECTION WRONG] page1146.text.div.1.p.3.s.1.w.9: helios -> Helios
+[DETECTION WRONG] page1146.text.div.2.p.1.s.1.w.1: Helium -> helium
+[DETECTION WRONG] page1146.text.div.2.p.1.s.2.w.10: reclametoepassingen -> toepassingen
+[DETECTION WRONG] page1146.text.div.2.p.3.s.1.w.8: heliumstem -> helium stem
+[DETECTION WRONG] page1146.text.div.2.p.5.s.1.w.5: smelt- -> smelt
+[DETECTION WRONG] page1146.text.div.2.p.5.s.2.w.7: draaggas -> draagas
+[DETECTION WRONG] page1146.text.div.2.p.6.s.2.w.5: aandrijfvloeistof -> aandrijf vloeistof
+[DETECTION WRONG] page1146.text.div.2.p.6.s.2.w.16: afdekgas -> afdekkap
+[DETECTION WRONG] page1146.text.div.2.p.6.s.2.w.18: booglassen -> boog lassen
+[DETECTION WRONG] page1146.text.div.2.p.6.s.3.w.7: cascademethode -> C14-methode
+[DETECTION WRONG] page1146.text.div.2.p.7.s.1.w.9: kernfusiereactie -> kernreactie
+[DETECTION WRONG] page1146.text.div.3.p.1.s.1.w.1: Helium -> helium
+[DETECTION WRONG] page1146.text.div.3.p.2.s.1.w.11: heliumdamp -> helium damp
+[DETECTION WRONG] page1146.text.div.3.p.2.s.2.w.5: Helium -> helium
+[DETECTION WRONG] page1146.text.div.3.p.2.s.2.w.9: K -> k
+[DETECTION WRONG] page1146.text.div.3.p.3.s.2.w.11: Pa -> pa
+[DETECTION WRONG] page1146.text.div.3.p.4.s.1.w.5: K -> k
+[DETECTION WRONG] page1146.text.div.3.p.4.s.1.w.9: Pa -> pa
+[DETECTION WRONG] page1146.text.div.3.p.4.s.3.w.6: K -> k
+[DETECTION WRONG] page1146.text.div.3.p.4.s.3.w.14: Pa -> pa
+[DETECTION WRONG] page1146.text.div.3.p.4.s.3.w.24: G -> g
+[DETECTION WRONG] page1146.text.div.3.p.4.s.3.w.25: Pa -> pa
+[DETECTION WRONG] page1146.text.div.3.p.4.s.4.w.6: K -> k
+[DETECTION WRONG] page1146.text.div.3.p.4.s.4.w.11: kubische -> fobische
+[DETECTION WRONG] page1146.text.div.3.p.4.s.5.w.21: kubische -> fobische
+[DETECTION WRONG] page1146.text.div.4.p.1.s.1.w.1: Helium -> helium
+[DETECTION WRONG] page1146.text.div.4.p.1.s.2.w.10: thoriummineralen -> thorium mineralen
+[DETECTION WRONG] page1146.text.div.4.p.1.s.2.w.13: clevieten -> levieten
+[DETECTION WRONG] page1146.text.div.4.p.1.s.2.w.17: kartoniet -> karton iet
+[DETECTION WRONG] page1146.text.div.4.p.1.s.2.w.21: beryl -> Beryl
+[DETECTION WRONG] page1146.text.div.4.p.1.s.4.w.29: Verenigde -> verenigde
+[DETECTION WRONG] page1146.text.div.5.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1146.text.div.5.p.1.s.2.w.13: superfluïde -> super fluïde
+[DETECTION WRONG] page1146.text.div.5.p.1.s.3.w.2: superfluïde -> super fluïde
+[DETECTION WRONG] page1146.text.div.5.p.1.s.4.w.6: lambdapunt -> lambda punt
+[DETECTION WRONG] page1146.text.div.5.p.1.s.5.w.6: lambdapunt -> lambda punt
+[DETECTION WRONG] page1146.text.div.5.p.2.s.1.w.1: Aangezien -> aangezien
+[DETECTION WRONG] page1146.text.div.5.p.4.s.1.w.12: mK -> ml
+[DETECTION WRONG] page1146.text.div.5.p.4.s.2.w.5: superfluïde -> super fluïde
+[DETECTION WRONG] page1146.text.div.6.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1146.text.div.6.p.1.s.1.w.4: heliumisotoop -> helium isotoop
+[DETECTION WRONG] page1146.text.div.6.p.2.s.1.w.15: alfaverval -> alfa verval
+[DETECTION WRONG] page1146.text.div.6.p.2.s.4.w.3: heliumisotoop -> helium isotoop
+[DETECTION WRONG] page1146.text.div.7.quote.1.p.1.s.1.w.1: Vaten -> vaten
+[DETECTION WRONG] page1146.text.div.7.quote.1.p.1.s.1.w.13: K -> k

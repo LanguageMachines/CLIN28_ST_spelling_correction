@@ -1,0 +1,362 @@
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1248.text.p.1.s.2.w.6'], 'superclass': 'replace', 'text': 'Akkadiër'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.1.list.1.item.1.s.1.w.1'], 'superclass': 'replace', 'text': 'Fish'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.1.list.1.item.1.s.1.w.3'], 'superclass': 'replace', 'text': 'druk'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.1.list.1.item.1.s.1.w.5'], 'superclass': 'replace', 'text': 'vr'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.1.list.1.item.1.s.1.w.7'], 'superclass': 'replace', 'text': 'Lagast'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.1.list.1.item.1.s.1.w.11'], 'superclass': 'replace', 'text': 'Maris'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.1.list.1.item.1.s.1.w.13'], 'superclass': 'replace', 'text': 'Ella'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.4.head.1.s.1.w.2'], 'superclass': 'replace', 'text': 'Derde'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.4.p.1.s.1.w.11'], 'superclass': 'replace', 'text': 'Urk'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1248.text.div.4.p.1.s.1.w.18'], 'superclass': 'replace', 'text': 'Tirian'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.4.p.1.s.1.w.18'], 'superclass': 'replace', 'text': 'Tirion'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1248.text.div.4.p.1.s.1.w.23'], 'superclass': 'replace', 'text': 'vorst'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.4.p.1.s.3.w.11'], 'superclass': 'replace', 'text': 'mr'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.4.p.1.s.3.w.11'], 'superclass': 'replace', 'text': 'me'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.4.p.1.s.3.w.11'], 'superclass': 'replace', 'text': 'de'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.4.p.1.s.6.w.1'], 'superclass': 'replace', 'text': 'Wij'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.5.head.1.s.1.w.4'], 'superclass': 'replace', 'text': 'U'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.5.head.1.s.1.w.4'], 'superclass': 'replace', 'text': '.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.5.head.1.s.1.w.3'], 'superclass': 'replace', 'text': 'aan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.5.head.1.s.1.w.2'], 'superclass': 'replace', 'text': 'bal'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.5.p.1.s.2.w.11'], 'superclass': 'replace', 'text': 'mr'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.5.p.1.s.2.w.11'], 'superclass': 'replace', 'text': 'me'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.5.p.1.s.2.w.11'], 'superclass': 'replace', 'text': 'de'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.5.p.1.s.3.w.10'], 'superclass': 'replace', 'text': 'dwongen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.5.p.1.s.3.w.11'], 'superclass': 'replace', 'text': 'mij'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.5.p.1.s.4.w.4'], 'superclass': 'replace', 'text': 'ze'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.5.p.1.s.4.w.21'], 'superclass': 'replace', 'text': 'Edam'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.5.p.1.s.6.w.7'], 'superclass': 'replace', 'text': 'Edam'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.6.p.1.s.1.w.8'], 'superclass': 'replace', 'text': 'Summer'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.6.p.1.s.2.w.1'], 'superclass': 'replace', 'text': 'Wij'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.6.p.1.s.4.w.1'], 'superclass': 'replace', 'text': 'Iain'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.6.p.1.s.4.w.1'], 'superclass': 'replace', 'text': 'Ian'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.6.p.1.s.4.w.1'], 'superclass': 'replace', 'text': 'Man'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.6.p.1.s.4.w.3'], 'superclass': 'replace', 'text': 'Lara'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1248.text.div.6.p.1.s.5.w.22'], 'superclass': 'replace', 'text': 'machtscentra'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.7.p.1.s.1.w.11'], 'superclass': 'replace', 'text': 'Westen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.8.p.1.s.4.w.17'], 'superclass': 'replace', 'text': 'kopiëren'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.11.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'Menen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.11.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'Mensen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.11.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'mensen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.11.p.1.s.1.w.5'], 'superclass': 'replace', 'text': 'leden'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.17.p.1.s.1.w.3'], 'superclass': 'replace', 'text': 'Zij'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.17.p.1.s.1.w.3'], 'superclass': 'replace', 'text': 'bij'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.17.p.3.s.1.w.24'], 'superclass': 'replace', 'text': 'reageert'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.17.p.5.s.1.w.5'], 'superclass': 'replace', 'text': 'in'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.18.p.1.s.3.w.5'], 'superclass': 'replace', 'text': 'Iran'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.18.p.2.s.2.w.4'], 'superclass': 'replace', 'text': 'wahabieten'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.18.p.2.s.2.w.18'], 'superclass': 'replace', 'text': 'hij'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.19.p.1.s.4.w.10'], 'superclass': 'replace', 'text': 'Ottomaanse'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.19.p.1.s.4.w.14'], 'superclass': 'replace', 'text': 'Bagdad'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.20.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'De'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.20.p.1.s.2.w.9'], 'superclass': 'replace', 'text': 'Londen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.20.p.1.s.2.w.8'], 'superclass': 'replace', 'text': 'in'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.20.p.1.s.2.w.11'], 'superclass': 'replace', 'text': 'lokale'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.20.p.1.s.3.w.1'], 'superclass': 'replace', 'text': 'En'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.20.p.1.s.3.w.1'], 'superclass': 'replace', 'text': 'In'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.20.p.1.s.3.w.13'], 'superclass': 'replace', 'text': 'sjiieten'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.20.p.1.s.3.w.15'], 'superclass': 'replace', 'text': 'soennieten'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.20.p.1.s.5.w.7'], 'superclass': 'replace', 'text': 'sjiieten'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.20.p.1.s.5.w.9'], 'superclass': 'replace', 'text': 'soennieten'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.20.p.1.s.6.w.8'], 'superclass': 'replace', 'text': 'verwerken'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.20.p.1.s.7.w.7'], 'superclass': 'replace', 'text': 'hij'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.20.p.1.s.7.w.18'], 'superclass': 'replace', 'text': 'hij'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.20.p.1.s.8.w.3'], 'superclass': 'replace', 'text': 'het'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.20.p.1.s.8.w.7'], 'superclass': 'replace', 'text': 'Handful'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.20.list.1.item.1.s.1.w.2'], 'superclass': 'replace', 'text': 'sjiieten'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.20.list.1.item.1.s.1.w.9'], 'superclass': 'replace', 'text': 'christenen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.20.list.1.item.2.s.1.w.2'], 'superclass': 'replace', 'text': 'soennieten'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.20.list.1.item.3.s.1.w.10'], 'superclass': 'replace', 'text': 'deze'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.20.list.1.item.3.s.1.w.20'], 'superclass': 'replace', 'text': 'van'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.20.list.1.item.3.s.1.w.20'], 'superclass': 'replace', 'text': 'dan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.20.p.4.s.1.w.19'], 'superclass': 'replace', 'text': 'Reza'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.20.p.5.s.1.w.8'], 'superclass': 'replace', 'text': 'doen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.20.p.5.s.3.w.8'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1248.text.div.21.p.1.s.2.w.5'], 'superclass': 'replace', 'text': 'officieel'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.21.p.1.s.3.w.8'], 'superclass': 'replace', 'text': 'van'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.23.p.2.s.4.w.11'], 'superclass': 'replace', 'text': 'Golfoorlog'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.23.p.3.s.4.w.7'], 'superclass': 'replace', 'text': 'wijze'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.23.p.4.s.1.w.9'], 'superclass': 'replace', 'text': 'aan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.23.p.4.s.1.w.13'], 'superclass': 'replace', 'text': 'alles'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.23.p.4.s.1.w.13'], 'superclass': 'replace', 'text': 'alle'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.24.list.1.item.2.s.1.w.9'], 'superclass': 'replace', 'text': 'Al'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.24.p.6.s.3.w.1'], 'superclass': 'replace', 'text': 'Deze'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.24.p.6.s.4.w.9'], 'superclass': 'replace', 'text': 'deel'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.24.p.6.s.4.w.22'], 'superclass': 'replace', 'text': 'sjiitische'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.24.p.8.s.2.w.6'], 'superclass': 'replace', 'text': 'in'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.24.p.9.s.3.w.17'], 'superclass': 'replace', 'text': 'en'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.25.list.1.item.2.s.1.w.3'], 'superclass': 'replace', 'text': 'Persie'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1248.text.div.26.list.1.item.2.s.1.w.1'], 'superclass': 'replace', 'text': 'Nebuchadnezzar'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.26.list.1.item.2.s.1.w.26'], 'superclass': 'replace', 'text': 'Isis'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1248.text.div.26.list.1.item.3.s.1.w.1'], 'superclass': 'replace', 'text': 'Nebuchadnezzar'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1248.text.div.26.list.1.item.4.s.1.w.1'], 'superclass': 'replace', 'text': 'Belsazar'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.26.list.1.item.4.s.1.w.10'], 'superclass': 'replace', 'text': 'Rijk'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.27.list.1.item.1.s.1.w.5'], 'superclass': 'replace', 'text': 'landeninfo'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.27.list.1.item.2.s.1.w.7'], 'superclass': 'replace', 'text': 'Irak'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1248.text.div.27.list.1.item.2.s.1.w.14'], 'superclass': 'replace', 'text': 'Kuros'} will be ignored!
+[DETECTION MISS] INSERTION AFTER page1248.text.div.4.p.1.s.4.w.15: v.Chr.
+[DETECTION MISS] page1248.text.div.5.p.1.s.1.w.6: Westsemietische -> West-Semietische
+[DETECTION MISS] page1248.text.div.5.p.1.s.1.w.10: Mur.tu -> Mur-Tu
+[DETECTION MISS] INSERTION AFTER page1248.text.div.5.p.1.s.3.w.8: v.Chr.
+[DETECTION MISS] INSERTION AFTER page1248.text.div.5.p.1.s.4.w.7: v.Chr.
+[DETECTION MISS] INSERTION AFTER page1248.text.div.5.p.1.s.5.w.16: v.Chr.
+[DETECTION MISS] INSERTION AFTER page1248.text.div.6.p.1.s.5.w.13: v.Chr.
+[DETECTION MISS] page1248.text.div.7.p.1.s.2.w.13: Bab-ilani -> Bab-Ilani
+[DETECTION MATCH] INSERTION AFTER page1248.text.div.7.p.1.s.3.w.4: van
+	[CORRECT]
+[DETECTION MISS] page1248.text.div.8.p.1.s.2.w.1: Degenen -> Degene
+[DETECTION MISS] page1248.text.div.8.p.1.s.2.w.4: profiteerden -> profiteerde
+[DETECTION MISS] page1248.text.div.8.p.1.s.2.w.5: waren -> was
+[DETECTION MISS] page1248.text.div.8.p.1.s.3.w.5: regeerden -> en regeerden over
+[DETECTION MATCH] page1248.text.div.8.p.1.s.3.w.18;page1248.text.div.8.p.1.s.3.w.19: v. Chr. -> v.Chr.
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.8.p.1.s.4.w.17: copiëren -> kopiëren
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.9.p.1.s.1.w.22;page1248.text.div.9.p.1.s.1.w.23: v. Chr. -> v.Chr.
+	[CORRECT]
+[DETECTION MISS] page1248.text.div.17.p.5.s.1.w.8;page1248.text.div.17.p.5.s.1.w.9: Zanj opstand -> Zanj-opstand
+[DETECTION MISS] page1248.text.div.17.p.8.s.1.w.4: Sultan -> sultan
+[DETECTION MATCH] page1248.text.div.19.p.1.s.4.w.10: ottomaanse -> Ottomaanse
+	[CORRECT]
+[DETECTION MISS] page1248.text.div.19.p.1.s.4.w.33: Sanremo -> San Remo
+[DETECTION MISS] page1248.text.div.19.p.1.s.5.w.24: Sjarif -> sjarif
+[DETECTION MATCH] page1248.text.div.20.head.1.s.1.w.1: de -> De
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.20.p.1.s.2.w.11: locale -> lokale
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.20.p.1.s.3.w.13: Sjiieten -> sjiieten
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.20.p.1.s.3.w.15: Soennieten -> soennieten
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.20.p.1.s.5.w.7: Sjiieten -> sjiieten
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.20.p.1.s.5.w.9: Soennieten -> soennieten
+	[CORRECT]
+[DETECTION MISS] page1248.text.div.20.p.1.s.8.w.17: wat -> dat
+[DETECTION MISS] page1248.text.div.20.p.1.s.8.w.33: Sjiiten -> sjiiten
+[DETECTION MATCH] page1248.text.div.20.list.1.item.1.s.1.w.2: Sjiieten -> sjiieten
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.20.list.1.item.1.s.1.w.9: Christenen -> christenen
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.20.list.1.item.2.s.1.w.2: Soennieten -> soennieten
+	[CORRECT]
+[DETECTION MISS] page1248.text.div.20.p.4.s.1.w.6: Sjiitische -> sjiitische
+[DETECTION MISS] page1248.text.div.20.p.4.s.7.w.11: RAFluchtaanvallen -> RAF-luchtaanvallen
+[DETECTION MISS] page1248.text.div.20.p.5.s.3.w.33: Soennieten -> soennieten
+[DETECTION MISS] page1248.text.div.20.p.5.s.3.w.36: Sjiiten -> sjiiten
+[DETECTION MATCH] page1248.text.div.21.p.1.s.2.w.5: officiëel -> officieel
+	[CORRECT]
+[DETECTION MISS] page1248.text.div.23.p.1.s.2.w.5: golfoorlog -> Golfoorlog
+[DETECTION MATCH] page1248.text.div.23.p.2.s.2.w.14;page1248.text.div.23.p.2.s.2.w.15: VN -strijdkrachten -> VN-strijdkrachten
+	[INCORRECT] Should be: VN-stdijkrachten
+[DETECTION MATCH] page1248.text.div.23.p.2.s.4.w.11: golfoorlog -> Golfoorlog
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.23.p.3.s.1.w.7;page1248.text.div.23.p.3.s.1.w.8: Scud -raketten -> Scud-raketten
+	[CORRECT]
+[DETECTION MISS] page1248.text.div.23.p.3.s.3.w.2;page1248.text.div.23.p.3.s.3.w.3: VN mandaat -> VN-mandaat
+[DETECTION MATCH] page1248.text.div.23.p.3.s.4.w.7: wijzen -> wijze
+	[CORRECT]
+[DETECTION MISS] page1248.text.div.23.p.4.s.1.w.20: lange-afstandraketten -> langeafstandraketten
+[DETECTION MATCH] page1248.text.div.24.list.1.item.2.s.1.w.9: al -> Al
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.24.p.6.s.2.w.4;page1248.text.div.24.p.6.s.2.w.5: interim president -> interimpresident
+	[INCORRECT] Should be: interim-president
+[DETECTION MISS] page1248.text.div.24.p.8.s.3.w.18;page1248.text.div.24.p.8.s.3.w.20: interim- premier -> interim-premier
+[DETECTION MATCH] page1248.text.div.24.p.10.s.1.w.7;page1248.text.div.24.p.10.s.1.w.8: ontwerp grondwet -> ontwerpgrondwet
+	[INCORRECT] Should be: ontwerp-grondwet
+[DETECTION MATCH] page1248.text.div.26.list.1.item.1.s.1.w.4;page1248.text.div.26.list.1.item.1.s.1.w.5: v. Chr. -> v.Chr.
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.26.list.1.item.2.s.1.w.8;page1248.text.div.26.list.1.item.2.s.1.w.9: v. Chr. -> v.Chr.
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.26.list.1.item.2.s.1.w.13;page1248.text.div.26.list.1.item.2.s.1.w.14: v. Chr. -> v.Chr.
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.26.list.1.item.3.s.1.w.6;page1248.text.div.26.list.1.item.3.s.1.w.7: v. Chr. -> v.Chr.
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.26.list.1.item.3.s.1.w.10;page1248.text.div.26.list.1.item.3.s.1.w.11: v. Chr. -> v.Chr.
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.26.list.1.item.4.s.2.w.3;page1248.text.div.26.list.1.item.4.s.2.w.4: v. Chr. -> v.Chr.
+	[CORRECT]
+[DETECTION WRONG] page1248.text.p.1.s.2.w.6: Akkadië -> Akkadiër
+[DETECTION WRONG] page1248.text.div.1.list.1.item.1.s.1.w.1: Kish -> Fish
+[DETECTION WRONG] page1248.text.div.1.list.1.item.1.s.1.w.3: Uruk -> druk
+[DETECTION WRONG] page1248.text.div.1.list.1.item.1.s.1.w.5: Ur -> vr
+[DETECTION WRONG] page1248.text.div.1.list.1.item.1.s.1.w.7: Lagash -> Lagast
+[DETECTION WRONG] page1248.text.div.1.list.1.item.1.s.1.w.11: Mari -> Maris
+[DETECTION WRONG] page1248.text.div.1.list.1.item.1.s.1.w.13: Ebla -> Ella
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.3.head.1.s.1.w.1: ingevallen
+[DETECTION WRONG] page1248.text.div.4.head.1.s.1.w.2: derde -> Derde
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.4.head.1.s.1.w.5: .
+[DETECTION WRONG] page1248.text.div.4.p.1.s.1.w.11: Uruk -> Urk
+[DETECTION WRONG] page1248.text.div.4.p.1.s.1.w.18: Tiriqan -> Tirian
+[DETECTION WRONG] page1248.text.div.4.p.1.s.1.w.18: Tiriqan -> Tirion
+[DETECTION WRONG] page1248.text.div.4.p.1.s.1.w.23: -vorst -> - vorst
+[DETECTION WRONG] page1248.text.div.4.p.1.s.1.w.23: -vorst -> vorst
+[DETECTION WRONG] page1248.text.div.4.p.1.s.3.w.11: Ur -> mr
+[DETECTION WRONG] page1248.text.div.4.p.1.s.3.w.11;page1248.text.div.4.p.1.s.3.w.12: Ur . -> mr.
+[DETECTION WRONG] page1248.text.div.4.p.1.s.3.w.11: Ur -> me
+[DETECTION WRONG] page1248.text.div.4.p.1.s.3.w.11: Ur -> de
+[DETECTION WRONG] page1248.text.div.4.p.1.s.6.w.1: Zij -> Wij
+[DETECTION WRONG] page1248.text.div.5.head.1.s.1.w.4: Ur -> U
+[DETECTION WRONG] page1248.text.div.5.head.1.s.1.w.4: Ur -> .
+[DETECTION WRONG] page1248.text.div.5.head.1.s.1.w.3: van -> aan
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.5.head.1.s.1.w.3: Icarus
+[DETECTION WRONG] page1248.text.div.5.head.1.s.1.w.2: val -> bal
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.5.head.1.s.1.w.2: ging
+[DETECTION WRONG] page1248.text.div.5.p.1.s.2.w.11: Ur -> mr
+[DETECTION WRONG] page1248.text.div.5.p.1.s.2.w.11;page1248.text.div.5.p.1.s.2.w.12: Ur . -> mr.
+[DETECTION WRONG] page1248.text.div.5.p.1.s.2.w.11: Ur -> me
+[DETECTION WRONG] page1248.text.div.5.p.1.s.2.w.11: Ur -> de
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.5.p.1.s.2.w.11: jaren
+[DETECTION WRONG] page1248.text.div.5.p.1.s.3.w.10: drongen -> dwongen
+[DETECTION WRONG] page1248.text.div.5.p.1.s.3.w.11: zij -> mij
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.5.p.1.s.3.w.29: om
+[DETECTION WRONG] page1248.text.div.5.p.1.s.4.w.4: zo -> ze
+[DETECTION WRONG] page1248.text.div.5.p.1.s.4.w.10;page1248.text.div.5.p.1.s.4.w.11: koning en -> koningen
+[DETECTION WRONG] page1248.text.div.5.p.1.s.4.w.21: Elam -> Edam
+[DETECTION WRONG] page1248.text.div.5.p.1.s.5.w.9;page1248.text.div.5.p.1.s.5.w.10: hier tegenover -> hiertegenover
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.5.p.1.s.5.w.28: kleine
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.5.p.1.s.5.w.29: '
+[DETECTION WRONG] page1248.text.div.5.p.1.s.6.w.7: Elam -> Edam
+[DETECTION WRONG] page1248.text.div.6.p.1.s.1.w.8: Sumer -> Summer
+[DETECTION WRONG] page1248.text.div.6.p.1.s.2.w.1: Zij -> Wij
+[DETECTION WRONG] page1248.text.div.6.p.1.s.4.w.1: Isin -> Iain
+[DETECTION WRONG] page1248.text.div.6.p.1.s.4.w.1: Isin -> Ian
+[DETECTION WRONG] page1248.text.div.6.p.1.s.4.w.1: Isin -> Man
+[DETECTION WRONG] page1248.text.div.6.p.1.s.4.w.3: Larsa -> Lara
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.6.p.1.s.5.w.10: duurden
+[DETECTION WRONG] page1248.text.div.6.p.1.s.5.w.22: machtcentra -> machtscentra
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.7.p.1.s.1.w.2: onderzoek
+[DETECTION WRONG] page1248.text.div.7.p.1.s.1.w.11: westen -> Westen
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.7.p.1.s.2.w.2: voor
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.7.p.1.s.3.w.2: dat
+[DETECTION WRONG] page1248.text.div.7.p.1.s.5.w.22;page1248.text.div.7.p.1.s.5.w.23: bestudeerd en -> bestudeerden
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.7.p.2.s.1.w.11: te
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.8.head.1.s.1.w.1: .
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.8.p.1.s.3.w.26: in
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.8.p.1.s.5.w.2: we
+[DETECTION WRONG] page1248.text.div.8.p.1.s.6.w.4;page1248.text.div.8.p.1.s.6.w.5: rust en -> rusten
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.9.head.1.s.1.w.2: .
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.9.p.1.s.1.w.1: ook
+[DETECTION WRONG] page1248.text.div.11.head.1.s.1.w.1: Meden -> Menen
+[DETECTION WRONG] page1248.text.div.11.head.1.s.1.w.1: Meden -> Mensen
+[DETECTION WRONG] page1248.text.div.11.head.1.s.1.w.1: Meden -> mensen
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.11.p.1.s.1.w.1: ook
+[DETECTION WRONG] page1248.text.div.11.p.1.s.1.w.5: Meden -> leden
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.12.p.1.s.1.w.1: ook
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.13.p.1.s.1.w.1: ook
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.13.p.1.s.1.w.6: .
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.14.p.1.s.1.w.1: ook
+[DETECTION WRONG] page1248.text.div.17.p.1.s.1.w.3: Zie -> Zij
+[DETECTION WRONG] page1248.text.div.17.p.1.s.1.w.3: Zie -> bij
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.17.p.1.s.1.w.7: .
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.17.p.3.s.1.w.1: hij
+[DETECTION WRONG] page1248.text.div.17.p.3.s.1.w.24: regeert -> reageert
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.17.p.4.s.2.w.2: wordt
+[DETECTION WRONG] page1248.text.div.17.p.4.s.4.w.17;page1248.text.div.17.p.4.s.4.w.18: plaats en -> plaatsen
+[DETECTION WRONG] page1248.text.div.17.p.5.s.1.w.5: is -> in
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.17.p.6.s.2.w.7: over
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.17.p.8.s.2.w.10: ,
+[DETECTION WRONG] page1248.text.div.17.p.9.s.1.w.12;page1248.text.div.17.p.9.s.1.w.13: vernietigen de -> vernietigende
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.17.p.9.s.1.w.16: verwoest
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.18.p.1.s.1.w.1: ook
+[DETECTION WRONG] page1248.text.div.18.p.1.s.2.w.5;page1248.text.div.18.p.1.s.2.w.6: veroverd en -> veroverden
+[DETECTION WRONG] page1248.text.div.18.p.1.s.3.w.5: Irak -> Iran
+[DETECTION WRONG] page1248.text.div.18.p.2.s.2.w.4: Wahabieten -> wahabieten
+[DETECTION WRONG] page1248.text.div.18.p.2.s.2.w.18;page1248.text.div.18.p.2.s.2.w.19: zij de -> zijde
+[DETECTION WRONG] page1248.text.div.18.p.2.s.2.w.18: zij -> hij
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.19.head.1.s.1.w.7: .
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.19.p.1.s.1.w.1: je
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.19.p.1.s.2.w.3: Jeruzalem
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.19.p.1.s.2.w.11: Romeinse
+[DETECTION WRONG] page1248.text.div.19.p.1.s.4.w.14: Baghdad -> Bagdad
+[DETECTION WRONG] page1248.text.div.19.p.1.s.5.w.7;page1248.text.div.19.p.1.s.5.w.8: land en -> landen
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.19.p.1.s.5.w.18: Saddam
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.19.p.1.s.5.w.42: begon
+[DETECTION WRONG] page1248.text.div.20.p.1.s.2.w.9: vonden -> Londen
+[DETECTION WRONG] page1248.text.div.20.p.1.s.2.w.8: en -> in
+[DETECTION WRONG] page1248.text.div.20.p.1.s.3.w.1: In -> En
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.20.p.1.s.3.w.1: het
+[DETECTION WRONG] page1248.text.div.20.p.1.s.3.w.1: In -> In
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.20.p.1.s.3.w.2: van
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.20.p.1.s.3.w.15: ,
+[DETECTION WRONG] page1248.text.div.20.p.1.s.6.w.8: verwerpen -> verwerken
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.20.p.1.s.6.w.26: tien
+[DETECTION WRONG] page1248.text.div.20.p.1.s.7.w.7: zij -> hij
+[DETECTION WRONG] page1248.text.div.20.p.1.s.7.w.18: zij -> hij
+[DETECTION WRONG] page1248.text.div.20.p.1.s.8.w.3: hen -> het
+[DETECTION WRONG] page1248.text.div.20.p.1.s.8.w.7: handful -> Handful
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.20.list.1.item.1.s.1.w.13: .
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.20.list.1.item.2.s.1.w.11: .
+[DETECTION WRONG] page1248.text.div.20.list.1.item.3.s.1.w.10: dezen -> deze
+[DETECTION WRONG] page1248.text.div.20.list.1.item.3.s.1.w.20: dan -> van
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.20.list.1.item.3.s.1.w.20: over
+[DETECTION WRONG] page1248.text.div.20.list.1.item.3.s.1.w.20: dan -> dan
+[DETECTION WRONG] page1248.text.div.20.p.4.s.1.w.19: Riza -> Reza
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.20.p.4.s.2.w.11: is
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.20.p.4.s.8.w.14: ,
+[DETECTION WRONG] page1248.text.div.20.p.5.s.1.w.8: doden -> doen
+[DETECTION WRONG] page1248.text.div.20.p.5.s.2.w.5;page1248.text.div.20.p.5.s.2.w.6: er op -> erop
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.20.p.5.s.2.w.17: hoeft
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.20.p.5.s.2.w.24: wrede
+[DETECTION WRONG] page1248.text.div.20.p.5.s.3.w.8: I -> ,
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.20.p.5.s.3.w.21: groot
+[DETECTION WRONG] page1248.text.div.20.p.5.s.3.w.34;page1248.text.div.20.p.5.s.3.w.35: bestond en -> bestonden
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.21.head.1.s.1.w.2: .
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.21.p.1.s.2.w.12: "
+[DETECTION WRONG] page1248.text.div.21.p.1.s.3.w.8;page1248.text.div.21.p.1.s.3.w.9: I van -> Ivan
+[DETECTION WRONG] page1248.text.div.21.p.1.s.3.w.8: I -> van
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.22.p.1.s.1.w.6: tot
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.22.p.1.s.3.w.2: jaren
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.23.p.2.s.4.w.2: kadert
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.23.p.2.s.4.w.19: wel
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.23.p.2.s.4.w.29: periode
+[DETECTION WRONG] page1248.text.div.23.p.3.s.2.w.2;page1248.text.div.23.p.3.s.2.w.3: vrees de -> vreesde
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.23.p.3.s.2.w.2: dat
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.23.p.3.s.4.w.7: werd
+[DETECTION WRONG] page1248.text.div.23.p.4.s.1.w.9: van -> aan
+[DETECTION WRONG] page1248.text.div.23.p.4.s.1.w.13: alle -> alles
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.23.p.4.s.1.w.13: troeven
+[DETECTION WRONG] page1248.text.div.23.p.4.s.1.w.13: alle -> alle
+[DETECTION WRONG] page1248.text.div.23.p.4.s.1.w.17: zijnde -> zijn de
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.23.p.4.s.1.w.17: aan
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.23.p.4.s.2.w.17: aan
+[DETECTION WRONG] page1248.text.div.23.p.4.s.3.w.1;page1248.text.div.23.p.4.s.3.w.2: Daar bovenop -> Daarbovenop
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.p.1.s.2.w.3: om
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.p.1.s.2.w.9: wel
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.p.1.s.2.w.19: periode
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.list.1.item.4.s.1.w.7: dat
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.p.3.s.1.w.27: zelfs
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.p.3.s.2.w.1: in
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.p.4.s.3.w.4: de
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.p.5.s.1.w.11: Human
+[DETECTION WRONG] page1248.text.div.24.p.6.s.3.w.1: Dezen -> Deze
+[DETECTION WRONG] page1248.text.div.24.p.6.s.3.w.5;page1248.text.div.24.p.6.s.3.w.6: klaar maken -> klaarmaken
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.p.6.s.3.w.5: te
+[DETECTION WRONG] page1248.text.div.24.p.6.s.3.w.7;page1248.text.div.24.p.6.s.3.w.8: voor verkiezingen -> voorverkiezingen
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.p.6.s.4.w.7: vorige
+[DETECTION WRONG] page1248.text.div.24.p.6.s.4.w.9: veel -> deel
+[DETECTION WRONG] page1248.text.div.24.p.6.s.4.w.22: sjiietische -> sjiitische
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.p.7.s.2.w.3: slechts
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.p.7.s.5.w.5: Hadep
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.p.8.s.2.w.4: drie
+[DETECTION WRONG] page1248.text.div.24.p.8.s.2.w.6: en -> in
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.p.8.s.2.w.12: even
+[DETECTION WRONG] page1248.text.div.24.p.9.s.3.w.18;page1248.text.div.24.p.9.s.3.w.19: christen en -> christenen
+[DETECTION WRONG] page1248.text.div.24.p.9.s.3.w.17: een -> en
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.p.10.s.2.w.17: over
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.24.p.10.s.2.w.18: Europese
+[DETECTION WRONG] page1248.text.div.25.list.1.item.2.s.1.w.3: Perzie -> Persie
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.25.list.1.item.3.s.1.w.7: .
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.25.list.1.item.4.s.1.w.4: .
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.26.list.1.item.1.s.1.w.12: skioord
+[DETECTION WRONG] page1248.text.div.26.list.1.item.2.s.1.w.1: Nebuchadnezar -> Nebuchadnezzar
+[DETECTION WRONG] page1248.text.div.26.list.1.item.2.s.1.w.26: Isin -> Isis
+[DETECTION WRONG] page1248.text.div.26.list.1.item.3.s.1.w.1: Nebuchadnezar -> Nebuchadnezzar
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.26.list.1.item.3.s.1.w.24: Ottomaanse
+[DETECTION WRONG] page1248.text.div.26.list.1.item.4.s.1.w.1: Belshazar -> Belsazar
+[DETECTION WRONG] page1248.text.div.26.list.1.item.4.s.1.w.10: rijk -> Rijk
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.26.list.1.item.4.s.2.w.6: gebied
+[DETECTION WRONG] page1248.text.div.27.list.1.item.1.s.1.w.5: Landeninfo -> landeninfo
+[DETECTION WRONG] page1248.text.div.27.list.1.item.2.s.1.w.7: Iraq -> Irak
+[DETECTION WRONG] page1248.text.div.27.list.1.item.2.s.1.w.14: Kurds -> Kuros
+[DETECTION WRONG] INSERTION AFTER page1248.text.div.27.list.1.item.3.s.1.w.1: zijn

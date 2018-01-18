@@ -1,0 +1,78 @@
+[DETECTION MISS] page124.text.div.1.list.1.item.1.s.1.w.3: antarctisch -> Antarctisch
+[DETECTION MISS] page124.text.div.1.list.1.item.3.p.1.s.1.w.7: antarctisch -> Antarctisch
+[DETECTION MATCH] page124.text.div.2.p.1.s.2.w.6: noor -> Noor
+	[CORRECT]
+[DETECTION MISS] page124.text.div.4.list.1.item.5.s.1.w.24: antarctisch -> Antarctisch
+[DETECTION WRONG] page124.text.p.1.s.1.w.18: Oceaan -> oceaan
+[DETECTION WRONG] page124.text.p.1.s.1.w.21: Grote -> grote
+[DETECTION WRONG] page124.text.p.1.s.1.w.22: Oceaan -> oceaan
+[DETECTION WRONG] page124.text.p.1.s.4.w.8: anti- -> anti
+[DETECTION WRONG] page124.text.p.1.s.4.w.16: Grote -> grote
+[DETECTION WRONG] page124.text.p.1.s.4.w.17: Beer -> beer
+[DETECTION WRONG] page124.text.p.2.s.7.w.14: Queen -> queue
+[DETECTION WRONG] page124.text.p.2.s.7.w.16: Land -> land
+[DETECTION WRONG] page124.text.div.1.list.1.item.3.list.1.item.1.s.1.w.1: Zuidelijke -> zuidelijke
+[DETECTION WRONG] page124.text.div.1.list.1.item.3.list.1.item.2.s.1.w.1: Zuidelijke -> zuidelijke
+[DETECTION WRONG] page124.text.div.1.list.1.item.3.list.1.item.2.s.1.w.2: Shetlandeilanden -> Falklandeilanden
+[DETECTION WRONG] page124.text.div.1.list.1.item.3.list.1.item.3.s.1.w.4: Zuidelijke -> zuidelijke
+[DETECTION WRONG] page124.text.div.2.head.1.s.1.w.1: Geschiedenis -> geschiedenis
+[DETECTION WRONG] page124.text.div.2.p.1.s.1.w.1: Hoewel -> hoewel
+[DETECTION WRONG] page124.text.div.3.p.1.s.1.w.1: Verschillende -> verschillende
+[DETECTION WRONG] page124.text.div.3.p.1.s.1.w.20: 20e -> twintigste
+[DETECTION WRONG] page124.text.div.3.p.2.s.1.w.5: observatie- -> observatie
+[DETECTION WRONG] page124.text.div.3.p.2.s.1.w.7: studieposten -> studiekosten
+[DETECTION WRONG] page124.text.div.3.p.2.s.2.w.3: Verdrag -> verdrag
+[DETECTION WRONG] page124.text.div.3.p.2.s.3.w.10: Verenigde -> verenigde
+[DETECTION WRONG] page124.text.div.3.list.1.item.1.s.1.w.32: Zuid-Atlantische -> Atlantische
+[DETECTION WRONG] page124.text.div.3.list.1.item.2.s.1.w.5: O -> o
+[DETECTION WRONG] page124.text.div.3.list.1.item.2.s.1.w.9: O -> o
+[DETECTION WRONG] page124.text.div.3.list.1.item.2.s.1.w.13: O -> o
+[DETECTION WRONG] page124.text.div.3.list.1.item.2.s.1.w.25: Territorium -> territorium
+[DETECTION WRONG] page124.text.div.3.list.1.item.3.s.1.w.24: Territorium -> territorium
+[DETECTION WRONG] page124.text.div.3.list.1.item.4.s.1.w.5: O -> o
+[DETECTION WRONG] page124.text.div.3.list.1.item.4.s.1.w.19: Zuidelijke -> zuidelijke
+[DETECTION WRONG] page124.text.div.3.list.1.item.4.s.1.w.20: Gebieden -> gebieden
+[DETECTION WRONG] page124.text.div.3.list.1.item.6.s.1.w.5: O -> o
+[DETECTION WRONG] page124.text.div.3.list.1.item.6.s.1.w.15: Maudland -> Mandy's
+[DETECTION WRONG] page124.text.div.3.list.1.item.6.s.1.w.19: I-eiland -> eilandje
+[DETECTION WRONG] page124.text.div.3.list.1.item.7.s.1.w.2: Koninkrijk -> koninkrijk
+[DETECTION WRONG] page124.text.div.3.list.1.item.7.s.1.w.26: Territorium -> territorium
+[DETECTION WRONG] page124.text.div.3.div.1.list.1.item.1.s.1.w.5: O -> o
+[DETECTION WRONG] page124.text.div.4.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page124.text.div.4.list.1.item.1.s.1.w.1: Station -> station
+[DETECTION WRONG] page124.text.div.4.list.1.item.1.s.1.w.4: Anvers -> An vers
+[DETECTION WRONG] page124.text.div.4.list.1.item.2.s.1.w.1: Zuidpoolstation -> Zuidpool station
+[DETECTION WRONG] page124.text.div.4.list.1.item.4.s.1.w.1: Station -> station
+[DETECTION WRONG] page124.text.div.4.list.1.item.4.s.1.w.4: Elizabethland -> Elizabeth land
+[DETECTION WRONG] page124.text.div.4.list.1.item.5.s.1.w.1: Station -> station
+[DETECTION WRONG] page124.text.div.4.list.1.item.5.s.1.w.2: Maitri -> Mai tri
+[DETECTION WRONG] page124.text.div.4.list.1.item.5.s.1.w.9: Z -> z
+[DETECTION WRONG] page124.text.div.4.list.1.item.5.s.1.w.15: O -> o
+[DETECTION WRONG] page124.text.div.4.list.1.item.5.s.1.w.20: Regio -> regio
+[DETECTION WRONG] page124.text.div.4.list.1.item.6.s.1.w.1: Station -> station
+[DETECTION WRONG] page124.text.div.4.list.1.item.7.s.1.w.1: Station -> station
+[DETECTION WRONG] page124.text.div.4.list.1.item.7.s.1.w.4: Rosseiland -> rotseiland
+[DETECTION WRONG] page124.text.div.4.list.1.item.9.s.1.w.1: Station -> station
+[DETECTION WRONG] page124.text.div.4.list.1.item.9.s.1.w.5: Robertsonland -> Roberts onland
+[DETECTION WRONG] page124.text.div.4.list.1.item.10.s.1.w.1: Station -> station
+[DETECTION WRONG] page124.text.div.4.list.1.item.10.s.1.w.3: von -> v on
+[DETECTION WRONG] page124.text.div.4.list.1.item.10.s.1.w.11: Z -> z
+[DETECTION WRONG] page124.text.div.4.list.1.item.10.s.1.w.25: Instituut -> instituut
+[DETECTION WRONG] page124.text.div.4.list.1.item.11.s.1.w.1: Basis -> basis
+[DETECTION WRONG] page124.text.div.4.list.1.item.11.s.1.w.4: Rosseiland -> rotseiland
+[DETECTION WRONG] page124.text.div.4.list.1.item.12.s.1.w.1: Station -> station
+[DETECTION WRONG] page124.text.div.4.list.1.item.12.s.1.w.3: O -> o
+[DETECTION WRONG] page124.text.div.4.list.1.item.12.s.1.w.8: Schiereiland -> schiereiland
+[DETECTION WRONG] page124.text.div.4.list.1.item.13.s.1.w.1: Station -> station
+[DETECTION WRONG] page124.text.div.4.list.1.item.13.s.1.w.3: Frei -> Freij
+[DETECTION WRONG] page124.text.div.4.list.1.item.14.s.1.w.1: Vostok -> Vo stok
+[DETECTION WRONG] page124.text.div.4.list.1.item.14.s.1.w.9: Z -> z
+[DETECTION WRONG] page124.text.div.4.list.1.item.14.s.1.w.15: O -> o
+[DETECTION WRONG] page124.text.div.5.head.1.s.1.w.1: Externe -> externe
+[DETECTION WRONG] page124.text.div.5.list.1.item.1.s.1.w.1: Het -> het
+[DETECTION WRONG] page124.text.div.5.list.1.item.1.s.1.w.2: Laatste -> laatste
+[DETECTION WRONG] page124.text.div.5.list.1.item.1.s.1.w.3: Continent -> continent
+[DETECTION WRONG] page124.text.div.5.list.1.item.2.s.1.w.2: Pole -> Polet
+[DETECTION WRONG] page124.text.div.5.list.1.item.2.s.1.w.3: Observatory -> observator
+[DETECTION WRONG] page124.text.div.5.list.1.item.2.s.1.w.8: Zuidpoolwebcam -> Zuidpool
+[DETECTION WRONG] page124.text.div.5.list.1.item.3.s.1.w.2: Topics -> topics

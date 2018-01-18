@@ -1,0 +1,67 @@
+[DETECTION MISS] page1341.text.div.1.p.1.s.1.w.3: werden -> werd
+[DETECTION MISS] page1341.text.div.1.p.1.s.3.w.11;page1341.text.div.1.p.1.s.3.w.12: Louis-de-Grand lyceum -> Louis-de-Grandlyceum
+[DETECTION MISS] page1341.text.div.1.p.1.s.4.w.8: Ecole -> École
+[DETECTION MISS] page1341.text.div.1.p.1.s.7.w.11: franse -> Franse
+[DETECTION MATCH] page1341.text.div.1.p.1.s.11.w.9: ideëen -> ideeën
+	[CORRECT]
+[DETECTION WRONG] page1341.text.div.1.p.1.s.2.w.8: IV -> Ivy
+[DETECTION WRONG] page1341.text.div.1.p.1.s.2.w.9: Lyceum -> lyceum
+[DETECTION WRONG] page1341.text.div.1.p.1.s.5.w.6: Beauvoir -> beauty's
+[DETECTION WRONG] page1341.text.div.1.p.1.s.10.w.20: mur -> murw
+[DETECTION WRONG] page1341.text.div.2.list.1.item.1.s.1.w.3: L -> l
+[DETECTION WRONG] page1341.text.div.2.list.1.item.2.s.1.w.8: Walging -> walging
+[DETECTION WRONG] page1341.text.div.2.list.1.item.3.s.1.w.4: mur -> murw
+[DETECTION WRONG] page1341.text.div.2.list.1.item.3.s.1.w.8: De -> de
+[DETECTION WRONG] page1341.text.div.2.list.1.item.4.s.1.w.3: L -> l
+[DETECTION WRONG] page1341.text.div.2.list.1.item.5.s.1.w.8: De -> de
+[DETECTION WRONG] page1341.text.div.2.list.1.item.6.s.1.w.3: L -> l
+[DETECTION WRONG] page1341.text.div.2.list.1.item.6.s.1.w.6: et -> eto
+[DETECTION WRONG] page1341.text.div.2.list.1.item.6.s.1.w.7: le -> Le
+[DETECTION WRONG] page1341.text.div.2.list.1.item.6.s.1.w.10: Essai -> essay
+[DETECTION WRONG] page1341.text.div.2.list.1.item.6.s.1.w.14: phenomenologique -> fenomenologie
+[DETECTION WRONG] page1341.text.div.2.list.1.item.6.s.1.w.18: Het -> het
+[DETECTION WRONG] page1341.text.div.2.list.1.item.7.s.1.w.3: Huis-clos -> huisvuil
+[DETECTION WRONG] page1341.text.div.2.list.1.item.7.s.1.w.7: Met -> met
+[DETECTION WRONG] page1341.text.div.2.list.1.item.8.s.1.w.3: Morts -> mort
+[DETECTION WRONG] page1341.text.div.2.list.1.item.8.s.1.w.4: sans -> Sans
+[DETECTION WRONG] page1341.text.div.2.list.1.item.10.s.1.w.5: sales -> sa les
+[DETECTION WRONG] page1341.text.div.2.list.1.item.10.s.1.w.9: Vuile -> vuile
+[DETECTION WRONG] page1341.text.div.2.list.1.item.11.s.1.w.6: raison -> Raisa's
+[DETECTION WRONG] page1341.text.div.2.list.1.item.11.s.1.w.7: dialectique -> dialectica
+[DETECTION WRONG] page1341.text.div.2.list.1.item.12.s.1.w.8: De -> de
+[DETECTION WRONG] page1341.text.div.2.list.1.item.13.s.1.w.5: Situations -> situatie
+[DETECTION WRONG] page1341.text.div.2.list.1.item.14.s.1.w.5: L -> l
+[DETECTION WRONG] page1341.text.div.2.list.1.item.14.s.1.w.7: Idiot -> idioot
+[DETECTION WRONG] page1341.text.div.2.list.1.item.14.s.1.w.10: famille -> familie
+[DETECTION WRONG] page1341.text.div.2.list.1.item.15.s.1.w.3: Cahiers -> cahiers
+[DETECTION WRONG] page1341.text.div.2.list.1.item.15.s.1.w.4: pour -> Pouw
+[DETECTION WRONG] page1341.text.div.2.list.1.item.15.s.1.w.6: morale -> m orale
+[DETECTION WRONG] page1341.text.div.3.head.1.s.1.w.1: Citaten -> citaten
+[DETECTION WRONG] page1341.text.div.3.list.1.item.1.s.1.w.2: L -> l
+[DETECTION WRONG] page1341.text.div.3.list.1.item.1.s.2.w.17: Uit -> uit
+[DETECTION WRONG] page1341.text.div.3.list.1.item.1.s.2.w.18: L -> l
+[DETECTION WRONG] page1341.text.div.3.list.1.item.1.s.2.w.21: est -> Est
+[DETECTION WRONG] page1341.text.div.3.list.1.item.1.s.2.w.22: un -> u n
+[DETECTION WRONG] page1341.text.div.3.list.1.item.2.s.1.w.2: L -> l
+[DETECTION WRONG] page1341.text.div.3.list.1.item.2.s.1.w.4: homme -> Hommes
+[DETECTION WRONG] page1341.text.div.3.list.1.item.2.s.1.w.5: est -> Est
+[DETECTION WRONG] page1341.text.div.3.list.1.item.2.s.2.w.16: Uit -> uit
+[DETECTION WRONG] page1341.text.div.3.list.1.item.2.s.2.w.17: L -> l
+[DETECTION WRONG] page1341.text.div.3.list.1.item.2.s.2.w.20: est -> Est
+[DETECTION WRONG] page1341.text.div.3.list.1.item.2.s.2.w.21: un -> u n
+[DETECTION WRONG] page1341.text.div.3.list.1.item.3.s.1.w.3: nous -> Nous
+[DETECTION WRONG] page1341.text.div.3.list.1.item.3.s.1.w.6: avons -> avond
+[DETECTION WRONG] page1341.text.div.3.list.1.item.3.s.1.w.7: été -> etc.
+[DETECTION WRONG] page1341.text.div.3.list.1.item.3.s.1.w.10: que -> queue
+[DETECTION WRONG] page1341.text.div.3.list.1.item.3.s.2.w.4: Nooit -> nooit
+[DETECTION WRONG] page1341.text.div.3.list.1.item.3.s.2.w.17: Uit -> uit
+[DETECTION WRONG] page1341.text.div.3.list.1.item.3.s.2.w.18: Situations -> situatie
+[DETECTION WRONG] page1341.text.div.3.list.1.item.4.s.1.w.2: L -> l
+[DETECTION WRONG] page1341.text.div.3.list.1.item.4.s.1.w.8: est -> Est
+[DETECTION WRONG] page1341.text.div.3.list.1.item.4.s.1.w.10: autres -> au tres
+[DETECTION WRONG] page1341.text.div.3.list.1.item.4.s.2.w.14: Uit -> uit
+[DETECTION WRONG] page1341.text.div.3.list.1.item.4.s.2.w.15: Huis-clos -> huisvuil
+[DETECTION WRONG] page1341.text.div.3.p.1.s.1.w.3: Beauvoir -> beauty's
+[DETECTION WRONG] page1341.text.div.3.p.1.s.1.w.18: age -> Age
+[DETECTION WRONG] page1341.text.div.3.p.1.s.1.w.21: Sartre's -> Sartre
+[DETECTION WRONG] page1341.text.div.3.p.1.s.1.w.22: originalteit -> originaliteit

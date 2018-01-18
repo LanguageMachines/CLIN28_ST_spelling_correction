@@ -1,0 +1,67 @@
+{
+    "all": {
+        "detection": {
+            "truepos": 12.0,
+            "falseneg": 0.0,
+            "recall": 1.0,
+            "falsepos": 27.0,
+            "precision": 0.3076923076923077,
+            "f1score": 0.47058823529411764
+        },
+        "correction": {
+            "correct": 9.0,
+            "incorrect": 3.0,
+            "accuracy": 0.75
+        },
+        "both": {
+            "recall": 0.75,
+            "precision": 0.23076923076923078,
+            "f1score": 0.3529411764705882
+        }
+    },
+    "capitalizationerror": {
+        "detection": {
+            "truepos": 6.0,
+            "falseneg": 0.0,
+            "recall": 1.0
+        },
+        "correction": {
+            "correct": 6.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 1.0
+        }
+    },
+    "missingpunctuation": {
+        "detection": {
+            "truepos": 1.0,
+            "falseneg": 0.0,
+            "recall": 1.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 1.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "nonworderror": {
+        "detection": {
+            "truepos": 5.0,
+            "falseneg": 0.0,
+            "recall": 1.0
+        },
+        "correction": {
+            "correct": 3.0,
+            "incorrect": 2.0,
+            "accuracy": 0.6
+        },
+        "both": {
+            "recall": 0.6
+        }
+    }
+}

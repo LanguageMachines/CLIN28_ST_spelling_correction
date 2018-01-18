@@ -1,0 +1,21 @@
+[DETECTION MISS] page1253.text.p.3.s.1.w.5;page1253.text.p.3.s.1.w.7: te vergeefs -> tevergeefs
+[DETECTION MATCH] page1253.text.p.3.s.2.w.14: ondragelijk -> ondergelijk
+	[INCORRECT] Should be: ondraaglijk
+[DETECTION MISS] INSERTION AFTER page1253.text.p.4.s.2.w.3: tijdens
+[DETECTION MISS] INSERTION AFTER page1253.text.p.4.s.2.w.5: in
+[DETECTION MISS] page1253.text.p.5.s.1.w.2: dan -> toen
+[DETECTION MISS] page1253.text.p.6.s.1.w.8: Bulgaars -> Bulgaarse
+[DETECTION MISS] INSERTION AFTER page1253.text.p.6.s.3.w.17: in
+[DETECTION WRONG] page1253.text.p.1.s.1.w.8: Άγγελος -> aagelos,
+[DETECTION WRONG] page1253.text.p.3.s.2.w.7: marktwaar -> maaktwaar
+[DETECTION WRONG] page1253.text.p.4.s.3.w.26: worden -> worden
+[DETECTION WRONG] page1253.text.p.5.s.2.w.5: Duits -> duitss
+[DETECTION WRONG] page1253.text.p.5.s.2.w.18: vorst -> voost
+[DETECTION WRONG] page1253.text.p.6.s.1.w.19: verslagen -> verslagen
+[DETECTION WRONG] page1253.text.p.6.s.5.w.21: zetten -> zetten
+[DETECTION WRONG] page1253.text.p.6.s.6.w.13: omgebracht -> omgebracht
+[DETECTION WRONG] page1253.text.div.1.p.3.s.1.w.6: Margaretha -> maagaretha
+[DETECTION WRONG] page1253.text.div.1.p.3.s.1.w.10: 1175-1223 -> @-,
+[DETECTION WRONG] page1253.text.div.1.p.3.s.1.w.14: Maria -> maaia,
+[DETECTION WRONG] page1253.text.div.1.p.3.s.1.w.20: zonen -> zonee
+[DETECTION WRONG] page1253.text.div.1.list.2.item.1.s.1.w.15: 1227-42 -> @-,,

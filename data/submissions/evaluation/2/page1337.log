@@ -1,0 +1,45 @@
+[DETECTION MISS] page1337.text.div.1.p.1.s.1.w.3: Jeugdliteratuur -> jeugdliteratuur
+[DETECTION MISS] page1337.text.div.1.p.1.s.1.w.23: -en -> en
+[DETECTION MISS] page1337.text.div.3.div.1.div.4.p.3.s.1.w.31: Kockere's -> Kockeres
+[DETECTION MISS] page1337.text.div.3.div.1.div.6.p.3.s.2.w.5: Vrancken's -> Vranckens
+[DETECTION MISS] page1337.text.div.3.div.1.div.6.p.4.s.2.w.4;page1337.text.div.3.div.1.div.6.p.4.s.2.w.5: Wille 's -> Willes
+[DETECTION MISS] page1337.text.div.3.div.1.div.6.p.4.s.2.w.12;page1337.text.div.3.div.1.div.6.p.4.s.2.w.13: Grossman 's -> Grossmans
+[DETECTION MISS] page1337.text.div.3.div.1.div.7.p.1.s.2.w.24;page1337.text.div.3.div.1.div.7.p.1.s.2.w.25: Wang 's -> Wangs
+[DETECTION WRONG] page1337.text.div.2.p.1.s.2.w.8: lezen -> lezen
+[DETECTION WRONG] page1337.text.div.2.p.2.s.2.w.18: opvoedend -> opvoedend
+[DETECTION WRONG] page1337.text.div.2.p.2.s.3.w.3: vorige -> vooige
+[DETECTION WRONG] page1337.text.div.3.p.2.s.1.w.4: avontuur -> aaontuur,
+[DETECTION WRONG] page1337.text.div.3.p.2.s.3.w.18: Schmidt -> schmidtt
+[DETECTION WRONG] page1337.text.div.3.p.2.s.4.w.16: Schmidt -> schmidtt
+[DETECTION WRONG] page1337.text.div.3.quote.1.p.1.s.1.w.14: doen -> doen
+[DETECTION WRONG] page1337.text.div.3.quote.1.p.1.s.2.w.26: vindt -> vindt
+[DETECTION WRONG] page1337.text.div.3.quote.1.p.1.s.7.w.5: laat -> laat
+[DETECTION WRONG] page1337.text.div.3.quote.1.p.1.s.8.w.12: avontuur -> aaontuur
+[DETECTION WRONG] page1337.text.div.3.div.1.p.1.s.1.w.3: Märchen -> maachen
+[DETECTION WRONG] page1337.text.div.3.div.1.p.1.s.1.w.13: 1893-1974 -> @-,
+[DETECTION WRONG] page1337.text.div.3.div.1.div.1.p.1.s.2.w.4: zingen -> zijgen
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.1.w.18: staan -> staan
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.3.w.9: taal -> taal
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.4.w.17: belangrijkst -> belangrijkst
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.5.w.23: Schmidt -> schmidtt
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.head.1.s.1.w.1: Boxpeuters -> boypeuters
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.1.s.2.w.7: vingerbewegingen -> vingerbewegingen
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.1.s.3.w.2: boxpeuter -> boypeuter
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.2.s.2.w.2: boxpeuters -> boypeuters
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.3.s.1.w.14: aankijken -> aankijken
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.3.s.1.w.9: zinnetje -> zijneeje
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.4.s.1.w.14: avontuur -> aaontuur
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.2.w.24: zin -> zijn
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.2.s.4.w.13: humor -> humorr
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.3.s.2.w.13: Marita -> maaita
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.3.s.2.w.23: overbruggen -> overbruggen
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.4.s.2.w.14: Itamar -> iitmar
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.3.s.2.w.17: weet-je-dat-kan -> weet-je-dat-kan
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.36: been -> beenn
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.46: Martha -> maatha
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.59: Heede -> heedee
+[DETECTION WRONG] page1337.text.div.3.div.1.div.8.p.1.s.3.w.17: Vries -> vriess
+[DETECTION WRONG] page1337.text.div.4.list.1.item.1.s.2.w.5: 1989 -> @
+[DETECTION WRONG] page1337.text.div.4.list.1.item.3.s.1.w.3: Bodt -> bodtt
+[DETECTION WRONG] page1337.text.div.4.list.1.item.3.s.1.w.10: ideologie -> iieologie
+[DETECTION WRONG] page1337.text.div.4.list.1.item.3.s.1.w.13: 1890-1950 -> @-,

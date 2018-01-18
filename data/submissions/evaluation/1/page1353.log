@@ -1,0 +1,63 @@
+[DETECTION MATCH] page1353.text.div.1.p.6.s.1.w.10: Jumbojet -> jumbojet
+	[CORRECT]
+[DETECTION MATCH] page1353.text.div.1.p.6.s.2.w.22: Jumbojet -> jumbojet
+	[CORRECT]
+[DETECTION MATCH] page1353.text.div.3.list.2.item.1.s.1.w.2: alps -> Alps
+	[CORRECT]
+[DETECTION MATCH] page1353.text.div.3.list.2.item.2.s.1.w.2: exel -> ex el
+	[INCORRECT] Should be: Exel
+[DETECTION MISS] page1353.text.div.3.list.2.item.3.s.1.w.2: uk -> UK
+[DETECTION MATCH] page1353.text.div.3.list.2.item.3.s.1.w.5: opereerd -> opereer
+	[INCORRECT] Should be: opereert
+[DETECTION WRONG] page1353.text.p.1.s.1.w.3: Luchtvaart -> luchtvaart
+[DETECTION WRONG] page1353.text.p.1.s.1.w.4: Maatschappij -> maatschappij
+[DETECTION WRONG] page1353.text.p.3.s.1.w.13: Air -> air
+[DETECTION WRONG] page1353.text.p.3.s.3.w.14: Air -> air
+[DETECTION WRONG] page1353.text.p.3.s.3.w.15: France-KLM -> Frances'
+[DETECTION WRONG] page1353.text.div.1.p.1.s.5.w.3: KLM-vlucht -> vluchtluik
+[DETECTION WRONG] page1353.text.div.1.p.1.s.8.w.13: AT -> at
+[DETECTION WRONG] page1353.text.div.1.p.1.s.8.w.15: T -> t
+[DETECTION WRONG] page1353.text.div.1.p.1.s.9.w.10: Fokker -> fokker
+[DETECTION WRONG] page1353.text.div.1.p.2.s.5.w.7: Uiver -> uiver
+[DETECTION WRONG] page1353.text.div.1.p.3.s.1.w.5: Fokker -> fokker
+[DETECTION WRONG] page1353.text.div.1.p.4.s.1.w.3: Tweede -> tweede
+[DETECTION WRONG] page1353.text.div.1.p.4.s.1.w.4: Wereldoorlog -> wereldoorlog
+[DETECTION WRONG] page1353.text.div.1.p.4.s.2.w.12: Constellation -> constellatie
+[DETECTION WRONG] page1353.text.div.1.p.5.s.1.w.14: NLM -> nl.
+[DETECTION WRONG] page1353.text.div.1.p.6.s.2.w.26: Pan -> pan
+[DETECTION WRONG] page1353.text.div.1.p.6.s.2.w.27: Am -> A4
+[DETECTION WRONG] page1353.text.div.1.p.6.s.2.w.28: -toestel -> toestel
+[DETECTION WRONG] page1353.text.div.1.p.6.s.2.w.34: Vliegtuigramp -> vliegtuigramp
+[DETECTION WRONG] page1353.text.div.1.div.1.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1353.text.div.1.div.1.p.1.s.6.w.20: Australian -> Australië
+[DETECTION WRONG] page1353.text.div.1.div.1.p.1.s.6.w.23: SAS -> sas
+[DETECTION WRONG] page1353.text.div.1.div.2.head.1.s.1.w.3: Air -> air
+[DETECTION WRONG] page1353.text.div.1.div.2.p.1.s.1.w.1: Op -> op
+[DETECTION WRONG] page1353.text.div.1.div.2.p.1.s.1.w.6: Air -> air
+[DETECTION WRONG] page1353.text.div.1.div.2.p.1.s.1.w.19: Air -> air
+[DETECTION WRONG] page1353.text.div.1.div.2.p.1.s.1.w.20: France-KLM -> Frances'
+[DETECTION WRONG] page1353.text.div.1.div.2.p.1.s.2.w.3: Air -> air
+[DETECTION WRONG] page1353.text.div.1.div.2.p.1.s.2.w.4: France-KLM -> Frances'
+[DETECTION WRONG] page1353.text.div.1.div.2.p.1.s.3.w.7: Air -> air
+[DETECTION WRONG] page1353.text.div.1.div.2.p.1.s.4.w.11: Air -> air
+[DETECTION WRONG] page1353.text.div.1.div.2.p.1.s.4.w.16: semi-zelfstandigheid -> zelfstandigheid
+[DETECTION WRONG] page1353.text.div.2.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1353.text.div.2.list.1.item.9.s.1.w.1: Airbus -> airbus
+[DETECTION WRONG] page1353.text.div.2.list.1.item.10.s.1.w.1: Fokker -> fokker
+[DETECTION WRONG] page1353.text.div.2.list.1.item.11.s.1.w.1: Fokker -> fokker
+[DETECTION WRONG] page1353.text.div.2.list.1.item.12.s.1.w.1: Fokker -> fokker
+[DETECTION WRONG] page1353.text.div.2.div.1.head.1.s.1.w.1: Airbus -> airbus
+[DETECTION WRONG] page1353.text.div.2.div.1.p.1.s.1.w.9: Airbus -> airbus
+[DETECTION WRONG] page1353.text.div.2.div.1.p.1.s.2.w.16: De -> de
+[DETECTION WRONG] page1353.text.div.2.div.1.p.1.s.2.w.22: transantlantische -> trans-Atlantische
+[DETECTION WRONG] page1353.text.div.2.div.2.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page1353.text.div.3.p.1.s.1.w.1: Dochtermaatschappijen -> dochtermaatschappijen
+[DETECTION WRONG] page1353.text.div.3.list.1.item.1.s.1.w.2: Cityhopper -> cityhopper
+[DETECTION WRONG] page1353.text.div.3.list.1.item.1.s.1.w.6: NLM -> nl.
+[DETECTION WRONG] page1353.text.div.3.p.2.s.1.w.1: Enkele -> enkele
+[DETECTION WRONG] page1353.text.div.3.list.2.item.3.s.1.w.12: Cityhopper -> cityhopper
+[DETECTION WRONG] page1353.text.div.3.list.2.item.3.s.1.w.20: Cityhopper -> cityhopper
+[DETECTION WRONG] page1353.text.div.3.list.2.item.3.s.1.w.21: UK -> uk
+[DETECTION WRONG] page1353.text.div.4.head.1.s.1.w.1: Externe -> externe
+[DETECTION WRONG] page1353.text.div.4.list.1.item.1.s.1.w.1: Website -> website
+[DETECTION WRONG] page1353.text.div.4.list.1.item.2.s.1.w.1: Air -> air

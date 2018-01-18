@@ -1,0 +1,142 @@
+{
+    "all": {
+        "detection": {
+            "truepos": 10.0,
+            "falseneg": 34.0,
+            "recall": 0.22727272727272727,
+            "falsepos": 115.0,
+            "precision": 0.08,
+            "f1score": 0.1183431952662722
+        },
+        "correction": {
+            "correct": 7.0,
+            "incorrect": 3.0,
+            "accuracy": 0.7
+        },
+        "both": {
+            "recall": 0.1590909090909091,
+            "precision": 0.056,
+            "f1score": 0.08284023668639054
+        }
+    },
+    "capitalizationerror": {
+        "detection": {
+            "truepos": 4.0,
+            "falseneg": 4.0,
+            "recall": 0.5
+        },
+        "correction": {
+            "correct": 4.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 0.5
+        }
+    },
+    "confusion": {
+        "detection": {
+            "truepos": 1.0,
+            "falseneg": 3.0,
+            "recall": 0.25
+        },
+        "correction": {
+            "correct": 1.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 0.25
+        }
+    },
+    "missingpunctuation": {
+        "detection": {
+            "truepos": 1.0,
+            "falseneg": 1.0,
+            "recall": 0.5
+        },
+        "correction": {
+            "correct": 1.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 0.5
+        }
+    },
+    "missingword": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 3.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "nonworderror": {
+        "detection": {
+            "truepos": 2.0,
+            "falseneg": 3.0,
+            "recall": 0.4
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 2.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "redundantpunctuation": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 10.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "runonerror": {
+        "detection": {
+            "truepos": 2.0,
+            "falseneg": 0.0,
+            "recall": 1.0
+        },
+        "correction": {
+            "correct": 1.0,
+            "incorrect": 1.0,
+            "accuracy": 0.5
+        },
+        "both": {
+            "recall": 0.5
+        }
+    },
+    "spliterror": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 10.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    }
+}

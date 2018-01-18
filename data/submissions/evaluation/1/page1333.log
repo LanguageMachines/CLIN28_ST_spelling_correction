@@ -1,0 +1,37 @@
+[DETECTION MISS] page1333.text.p.1.s.1.w.14;page1333.text.p.1.s.1.w.15: Grand Slamwinnaar -> grandslamwinnaar
+[DETECTION MATCH] page1333.text.p.2.s.1.w.6: carriere -> carrière
+	[CORRECT]
+[DETECTION MISS] page1333.text.p.2.s.1.w.9;page1333.text.p.2.s.1.w.10;page1333.text.p.2.s.1.w.11: Grand Slam titels -> grandslamtitels
+[DETECTION MISS] page1333.text.p.2.s.1.w.14;page1333.text.p.2.s.1.w.15: heren enkelspel -> herenenenkelspel
+[DETECTION MISS] page1333.text.p.5.s.6.w.7: Wimbledon-finale -> Wimbledonfinale
+[DETECTION MISS] page1333.text.p.6.s.3.w.36;page1333.text.p.6.s.3.w.37;page1333.text.p.6.s.3.w.38: Grand Slam titel -> grandslamtitel
+[DETECTION MISS] page1333.text.p.7.s.1.w.8: bergafwaards -> bergafwaarts
+[DETECTION MISS] page1333.text.p.7.s.4.w.38;page1333.text.p.7.s.4.w.39: heren dubbelspel -> herendubbelspel
+[DETECTION MISS] page1333.text.p.7.s.5.w.5;page1333.text.p.7.s.5.w.6;page1333.text.p.7.s.5.w.7: Grand Slam titels -> grandslamtitels
+[DETECTION WRONG] page1333.text.p.1.s.1.w.14: Grand -> grands
+[DETECTION WRONG] page1333.text.p.1.s.3.w.4: Big -> big
+[DETECTION WRONG] page1333.text.p.2.s.1.w.9: Grand -> grands
+[DETECTION WRONG] page1333.text.p.2.s.1.w.10: Slam -> slab
+[DETECTION WRONG] page1333.text.list.1.item.1.s.1.w.1: US -> uso
+[DETECTION WRONG] page1333.text.list.1.item.1.s.1.w.2: Open -> open
+[DETECTION WRONG] page1333.text.p.5.s.3.w.20: centre -> cent re
+[DETECTION WRONG] page1333.text.p.5.s.3.w.21: court -> cour t
+[DETECTION WRONG] page1333.text.p.5.s.3.w.28: Borg -> borg
+[DETECTION WRONG] page1333.text.p.5.s.4.w.5: Borg -> borg
+[DETECTION WRONG] page1333.text.p.5.s.6.w.3: Borg -> borg
+[DETECTION WRONG] page1333.text.p.5.s.6.w.14: US -> uso
+[DETECTION WRONG] page1333.text.p.5.s.6.w.15: Open -> open
+[DETECTION WRONG] page1333.text.p.5.s.7.w.2: Borg -> borg
+[DETECTION WRONG] page1333.text.p.6.s.3.w.21: Lendl -> Len dl
+[DETECTION WRONG] page1333.text.p.6.s.3.w.36: Grand -> grands
+[DETECTION WRONG] page1333.text.p.6.s.3.w.37: Slam -> slab
+[DETECTION WRONG] page1333.text.p.7.s.2.w.8: power-tennis -> powertennis
+[DETECTION WRONG] page1333.text.p.7.s.4.w.33: Stich -> stick
+[DETECTION WRONG] page1333.text.p.7.s.5.w.5: Grand -> grands
+[DETECTION WRONG] page1333.text.p.7.s.5.w.6: Slam -> slab
+[DETECTION WRONG] page1333.text.p.8.s.1.w.3: seniorencircuit -> senioren circuit
+[DETECTION WRONG] page1333.text.p.9.s.1.w.17: heren-dubbel -> herendubbel
+[DETECTION WRONG] page1333.text.p.10.s.1.w.17: catch -> catchy
+[DETECTION WRONG] page1333.text.p.10.s.1.w.20: You -> Youp
+[DETECTION WRONG] page1333.text.p.10.s.1.w.22: be -> Be
+[DETECTION WRONG] page1333.text.p.10.s.1.w.23: serious -> serieus

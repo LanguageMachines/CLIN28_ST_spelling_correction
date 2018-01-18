@@ -1,0 +1,24 @@
+[DETECTION MISS] page1348.text.p.2.s.2.w.17: bislissingen -> beslissingen
+[DETECTION MISS] page1348.text.p.2.s.4.w.6: Concilie -> concilie
+[DETECTION MISS] page1348.text.p.2.s.4.w.32: Christelijke -> christelijke
+[DETECTION MISS] page1348.text.p.3.s.2.w.3: Kalief -> kalief
+[DETECTION MISS] page1348.text.p.3.s.6.w.8: Kalief -> kalief
+[DETECTION MISS] page1348.text.p.4.s.2.w.17: kunnnen -> kunnen
+[DETECTION MISS] page1348.text.p.4.s.5.w.17: Peloponesos -> Peloponnesos
+[DETECTION MISS] page1348.text.p.4.s.6.w.17: Kalief -> kalief
+[DETECTION MISS] page1348.text.p.5.s.1.w.4: Paus -> paus
+[DETECTION MATCH] page1348.text.p.5.s.3.w.27: Italë -> iitle
+	[INCORRECT] Should be: Italië
+[DETECTION MISS] page1348.text.p.7.s.5.w.3: massaexecuties -> massa-executies
+[DETECTION MISS] page1348.text.p.8.s.2.w.15: Capadocië -> Cappadocië
+[DETECTION WRONG] page1348.text.p.2.s.2.w.9: vorst -> voost
+[DETECTION WRONG] page1348.text.p.2.s.3.w.6: man -> man
+[DETECTION WRONG] page1348.text.p.2.s.4.w.35: verstevigen -> verstevigen
+[DETECTION WRONG] page1348.text.p.3.s.4.w.5: Iberië -> iierie
+[DETECTION WRONG] page1348.text.p.4.s.3.w.23: leveren -> leveren
+[DETECTION WRONG] page1348.text.p.4.s.5.w.2: Mardaïten -> maadaiten
+[DETECTION WRONG] page1348.text.p.6.s.3.w.3: deel -> dezl
+[DETECTION WRONG] page1348.text.p.6.s.3.w.6: agressieve -> aaressieve
+[DETECTION WRONG] page1348.text.p.8.s.1.w.24: Arabieren -> arabieren
+[DETECTION WRONG] page1348.text.p.8.s.4.w.18: voorbeeld -> voorbeeld
+[DETECTION WRONG] page1348.text.p.8.s.6.w.4: Armeniër -> armenierr

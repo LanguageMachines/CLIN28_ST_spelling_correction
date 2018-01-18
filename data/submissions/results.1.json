@@ -1,0 +1,172 @@
+{
+    "all": {
+        "detection": {
+            "truepos": 189.0,
+            "falseneg": 310.0,
+            "recall": 0.3787575150300601,
+            "falsepos": 2693.0,
+            "precision": 0.0655794587092297,
+            "f1score": 0.11180124223602483
+        },
+        "correction": {
+            "correct": 148.0,
+            "incorrect": 41.0,
+            "accuracy": 0.783068783068783
+        },
+        "both": {
+            "recall": 0.2965931863727455,
+            "precision": 0.05135322692574601,
+            "f1score": 0.08754806270334221
+        }
+    },
+    "archaic": {
+        "detection": {
+            "truepos": 1.0,
+            "falseneg": 4.0,
+            "recall": 0.2
+        },
+        "correction": {
+            "correct": 1.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 0.2
+        }
+    },
+    "capitalizationerror": {
+        "detection": {
+            "truepos": 117.0,
+            "falseneg": 48.0,
+            "recall": 0.7090909090909091
+        },
+        "correction": {
+            "correct": 105.0,
+            "incorrect": 12.0,
+            "accuracy": 0.8974358974358975
+        },
+        "both": {
+            "recall": 0.6363636363636364
+        }
+    },
+    "confusion": {
+        "detection": {
+            "truepos": 7.0,
+            "falseneg": 33.0,
+            "recall": 0.175
+        },
+        "correction": {
+            "correct": 3.0,
+            "incorrect": 4.0,
+            "accuracy": 0.42857142857142855
+        },
+        "both": {
+            "recall": 0.075
+        }
+    },
+    "missingpunctuation": {
+        "detection": {
+            "truepos": 6.0,
+            "falseneg": 12.0,
+            "recall": 0.3333333333333333
+        },
+        "correction": {
+            "correct": 3.0,
+            "incorrect": 3.0,
+            "accuracy": 0.5
+        },
+        "both": {
+            "recall": 0.16666666666666666
+        }
+    },
+    "missingword": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 21.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "nonworderror": {
+        "detection": {
+            "truepos": 39.0,
+            "falseneg": 23.0,
+            "recall": 0.6290322580645161
+        },
+        "correction": {
+            "correct": 24.0,
+            "incorrect": 15.0,
+            "accuracy": 0.6153846153846154
+        },
+        "both": {
+            "recall": 0.3870967741935484
+        }
+    },
+    "redundantpunctuation": {
+        "detection": {
+            "truepos": 13.0,
+            "falseneg": 40.0,
+            "recall": 0.24528301886792453
+        },
+        "correction": {
+            "correct": 8.0,
+            "incorrect": 5.0,
+            "accuracy": 0.6153846153846154
+        },
+        "both": {
+            "recall": 0.1509433962264151
+        }
+    },
+    "redundantword": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 2.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "runonerror": {
+        "detection": {
+            "truepos": 5.0,
+            "falseneg": 5.0,
+            "recall": 0.5
+        },
+        "correction": {
+            "correct": 3.0,
+            "incorrect": 2.0,
+            "accuracy": 0.6
+        },
+        "both": {
+            "recall": 0.3
+        }
+    },
+    "spliterror": {
+        "detection": {
+            "truepos": 1.0,
+            "falseneg": 122.0,
+            "recall": 0.008130081300813009
+        },
+        "correction": {
+            "correct": 1.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 0.008130081300813009
+        }
+    }
+}

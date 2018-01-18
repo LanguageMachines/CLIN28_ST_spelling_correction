@@ -1,0 +1,147 @@
+WARNING: Unknown key 'superclass' for correction {'text': 'meer', 'span': ['page124.text.p.1.s.3.w.26'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'is', 'span': ['page124.text.p.2.s.6.w.19'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'hen', 'span': ['page124.text.p.2.s.6.w.18'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'ontdekt', 'span': ['page124.text.p.2.s.7.w.4'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'Antarctisch', 'span': ['page124.text.div.1.list.1.item.1.s.1.w.3'], 'superclass': 'replace', 'class': 'capitalizationerror'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'Het', 'span': ['page124.text.div.1.list.1.item.1.s.1.w.1'], 'superclass': 'replace', 'class': 'capitalizationerror'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'De', 'span': ['page124.text.div.1.list.1.item.2.s.1.w.1'], 'superclass': 'replace', 'class': 'capitalizationerror'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'Eilanden', 'span': ['page124.text.div.1.list.1.item.3.p.1.s.1.w.1'], 'superclass': 'replace', 'class': 'capitalizationerror'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'Zuid-Georgia', 'span': ['page124.text.div.1.list.1.item.3.list.1.item.3.s.1.w.1'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'Noor', 'span': ['page124.text.div.2.p.1.s.2.w.6'], 'superclass': 'replace', 'class': 'capitalizationerror'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'Zuidpool', 'span': ['page124.text.div.2.p.1.s.2.w.14'], 'superclass': 'replace', 'class': 'capitalizationerror'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'studiekosten', 'span': ['page124.text.div.3.p.2.s.1.w.7'], 'superclass': 'replace', 'class': 'nonworderror'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'een', 'span': ['page124.text.div.3.p.2.s.3.w.4'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'dat', 'span': ['page124.text.div.3.p.2.s.3.w.19'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'C', 'span': ['page124.text.div.3.list.1.item.1.s.1.w.5'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': ')', 'span': ['page124.text.div.3.list.1.item.1.s.1.w.9'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': "'", 'span': ['page124.text.div.3.list.1.item.1.s.1.w.8'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'Antártica', 'span': ['page124.text.div.3.list.1.item.1.s.1.w.18'], 'superclass': 'replace', 'class': 'nonworderror'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'C', 'span': ['page124.text.div.3.list.1.item.2.s.1.w.5'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': ')', 'span': ['page124.text.div.3.list.1.item.2.s.1.w.9'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'e', 'span': ['page124.text.div.3.list.1.item.2.s.1.w.8'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': '1425', 'span': ['page124.text.div.3.list.1.item.2.s.1.w.7'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'C', 'span': ['page124.text.div.3.list.1.item.2.s.1.w.13'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': '-', 'span': ['page124.text.div.3.list.1.item.3.s.1.w.4'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': '2', 'span': ['page124.text.div.3.list.1.item.3.s.1.w.5'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': ')', 'span': ['page124.text.div.3.list.1.item.3.s.1.w.9'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': "'", 'span': ['page124.text.div.3.list.1.item.3.s.1.w.8'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'zij', 'span': ['page124.text.div.3.list.1.item.3.s.1.w.20'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'C', 'span': ['page124.text.div.3.list.1.item.4.s.1.w.5'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'Adélieland', 'span': ['page124.text.div.3.list.1.item.4.s.1.w.10'], 'superclass': 'replace', 'class': 'redundantpunctuation'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'C', 'span': ['page124.text.div.3.list.1.item.5.s.1.w.5'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': "'", 'span': ['page124.text.div.3.list.1.item.6.s.1.w.4'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': '(', 'span': ['page124.text.div.3.list.1.item.6.s.1.w.5'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'C', 'span': ['page124.text.div.3.list.1.item.7.s.1.w.6'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': "'", 'span': ['page124.text.div.3.list.1.item.7.s.1.w.9'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': '2', 'span': ['page124.text.div.3.list.1.item.7.s.1.w.10'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'zij', 'span': ['page124.text.div.3.list.1.item.7.s.1.w.22'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': ')', 'span': ['page124.text.div.3.p.3.s.1.w.6'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': "'", 'span': ['page124.text.div.3.p.3.s.1.w.5'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'C', 'span': ['page124.text.div.3.p.3.s.1.w.10'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': ',', 'span': ['page124.text.div.3.div.1.list.1.item.1.s.1.w.4'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': '2', 'span': ['page124.text.div.3.div.1.list.1.item.1.s.1.w.5'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'N', 'span': ['page124.text.div.3.div.1.list.1.item.1.s.1.w.8'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': "'", 'span': ['page124.text.div.3.div.1.list.1.item.3.s.1.w.4'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': '(', 'span': ['page124.text.div.3.div.1.list.1.item.3.s.1.w.5'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': '-', 'span': ['page124.text.div.3.div.1.list.1.item.3.s.1.w.8'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': '2', 'span': ['page124.text.div.3.div.1.list.1.item.3.s.1.w.9'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'Britse', 'span': ['page124.text.div.3.div.1.list.1.item.3.s.1.w.14'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': '-', 'span': ['page124.text.div.4.list.1.item.10.s.1.w.8'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': "'", 'span': ['page124.text.div.4.list.1.item.10.s.1.w.11'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': ',', 'span': ['page124.text.div.4.list.1.item.10.s.1.w.14'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': "'", 'span': ['page124.text.div.4.list.1.item.10.s.1.w.17'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': 'schiereiland', 'span': ['page124.text.div.4.list.1.item.12.s.1.w.8'], 'superclass': 'replace', 'class': 'capitalizationerror'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': ',', 'span': ['page124.text.div.4.list.1.item.14.s.1.w.9'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'text': "'", 'span': ['page124.text.div.4.list.1.item.14.s.1.w.15'], 'superclass': 'replace', 'class': 'replace'} will be ignored!
+[DETECTION MATCH] page124.text.div.1.list.1.item.1.s.1.w.3: antarctisch -> Antarctisch
+	[CORRECT]
+[DETECTION MISS] page124.text.div.1.list.1.item.3.p.1.s.1.w.7: antarctisch -> Antarctisch
+[DETECTION MATCH] page124.text.div.2.p.1.s.2.w.6: noor -> Noor
+	[CORRECT]
+[DETECTION MISS] page124.text.div.4.list.1.item.5.s.1.w.24: antarctisch -> Antarctisch
+[DETECTION WRONG] page124.text.p.1.s.3.w.26: beer -> meer
+[DETECTION WRONG] INSERTION AFTER page124.text.p.1.s.4.w.12: ,
+[DETECTION WRONG] INSERTION AFTER page124.text.p.2.s.2.w.3: niet
+[DETECTION WRONG] page124.text.p.2.s.6.w.19: ijs -> is
+[DETECTION WRONG] page124.text.p.2.s.6.w.18: het -> hen
+[DETECTION WRONG] page124.text.p.2.s.7.w.4: ontdekte -> ontdekt
+[DETECTION WRONG] INSERTION AFTER page124.text.p.2.s.7.w.23: of
+[DETECTION WRONG] page124.text.p.2.s.7.w.25;page124.text.p.2.s.7.w.26: vrij waren -> vrijwaren
+[DETECTION WRONG] INSERTION AFTER page124.text.div.1.head.1.s.1.w.1: .
+[DETECTION WRONG] page124.text.div.1.list.1.item.1.s.1.w.1: het -> Het
+[DETECTION WRONG] INSERTION AFTER page124.text.div.1.list.1.item.1.s.1.w.1: Australisch
+[DETECTION WRONG] page124.text.div.1.list.1.item.2.s.1.w.1: de -> De
+[DETECTION WRONG] INSERTION AFTER page124.text.div.1.list.1.item.2.s.1.w.2: liggen
+[DETECTION WRONG] page124.text.div.1.list.1.item.3.p.1.s.1.w.1: eilanden -> Eilanden
+[DETECTION WRONG] page124.text.div.1.list.1.item.3.list.1.item.3.s.1.w.1: Zuid-Georgië -> Zuid-Georgia
+[DETECTION WRONG] INSERTION AFTER page124.text.div.1.list.1.item.3.list.1.item.3.s.1.w.5: .
+[DETECTION WRONG] page124.text.div.1.list.1.item.3.list.1.item.5.s.1.w.1: Heard- -> Heard -
+[DETECTION WRONG] INSERTION AFTER page124.text.div.2.p.1.s.2.w.11: mens
+[DETECTION WRONG] page124.text.div.2.p.1.s.2.w.14: zuidpool -> Zuidpool
+[DETECTION WRONG] INSERTION AFTER page124.text.div.3.head.1.s.1.w.2: .
+[DETECTION WRONG] INSERTION AFTER page124.text.div.3.p.1.s.1.w.13: we
+[DETECTION WRONG] page124.text.div.3.p.2.s.1.w.7: studieposten -> studiekosten
+[DETECTION WRONG] INSERTION AFTER page124.text.div.3.p.2.s.2.w.1: Australisch
+[DETECTION WRONG] page124.text.div.3.p.2.s.3.w.4: geen -> een
+[DETECTION WRONG] INSERTION AFTER page124.text.div.3.p.2.s.3.w.3: vaak
+[DETECTION WRONG] INSERTION AFTER page124.text.div.3.p.2.s.3.w.4: grijs
+[DETECTION WRONG] page124.text.div.3.p.2.s.3.w.19: dit -> dat
+[DETECTION WRONG] page124.text.div.3.p.2.s.3.w.18;page124.text.div.3.p.2.s.3.w.19: voor dit -> voordat
+[DETECTION WRONG] INSERTION AFTER page124.text.div.3.p.2.s.3.w.18: om
+[DETECTION WRONG] page124.text.div.3.list.1.item.1.s.1.w.5: W -> C
+[DETECTION WRONG] page124.text.div.3.list.1.item.1.s.1.w.9: W -> )
+[DETECTION WRONG] page124.text.div.3.list.1.item.1.s.1.w.8: ° -> '
+[DETECTION WRONG] page124.text.div.3.list.1.item.1.s.1.w.18: Antártida -> Antártica
+[DETECTION WRONG] page124.text.div.3.list.1.item.2.s.1.w.5: O -> C
+[DETECTION WRONG] page124.text.div.3.list.1.item.2.s.1.w.9: O -> )
+[DETECTION WRONG] page124.text.div.3.list.1.item.2.s.1.w.8: ° -> e
+[DETECTION WRONG] page124.text.div.3.list.1.item.2.s.1.w.7;page124.text.div.3.list.1.item.2.s.1.w.8: 142 ° -> 142e
+[DETECTION WRONG] page124.text.div.3.list.1.item.2.s.1.w.7: 142 -> 1425
+[DETECTION WRONG] page124.text.div.3.list.1.item.2.s.1.w.13: O -> C
+[DETECTION WRONG] page124.text.div.3.list.1.item.3.s.1.w.4: ° -> -
+[DETECTION WRONG] page124.text.div.3.list.1.item.3.s.1.w.5: W -> 2
+[DETECTION WRONG] page124.text.div.3.list.1.item.3.s.1.w.9: W -> )
+[DETECTION WRONG] page124.text.div.3.list.1.item.3.s.1.w.8: ° -> '
+[DETECTION WRONG] INSERTION AFTER page124.text.div.3.list.1.item.3.s.1.w.8: C
+[DETECTION WRONG] page124.text.div.3.list.1.item.3.s.1.w.12;page124.text.div.3.list.1.item.3.s.1.w.13: Argentijns en -> Argentijnsen
+[DETECTION WRONG] page124.text.div.3.list.1.item.3.s.1.w.20: zie -> zij
+[DETECTION WRONG] page124.text.div.3.list.1.item.4.s.1.w.5: O -> C
+[DETECTION WRONG] page124.text.div.3.list.1.item.4.s.1.w.10: Adelieland -> Adélieland
+[DETECTION WRONG] page124.text.div.3.list.1.item.5.s.1.w.5: W -> C
+[DETECTION WRONG] page124.text.div.3.list.1.item.6.s.1.w.4: ° -> '
+[DETECTION WRONG] page124.text.div.3.list.1.item.6.s.1.w.5: O -> (
+[DETECTION WRONG] page124.text.div.3.list.1.item.7.s.1.w.6: W -> C
+[DETECTION WRONG] INSERTION AFTER page124.text.div.3.list.1.item.7.s.1.w.7: +
+[DETECTION WRONG] page124.text.div.3.list.1.item.7.s.1.w.9: ° -> '
+[DETECTION WRONG] page124.text.div.3.list.1.item.7.s.1.w.10: W -> 2
+[DETECTION WRONG] page124.text.div.3.list.1.item.7.s.1.w.13;page124.text.div.3.list.1.item.7.s.1.w.14: Argentijns en -> Argentijnsen
+[DETECTION WRONG] page124.text.div.3.list.1.item.7.s.1.w.22: zie -> zij
+[DETECTION WRONG] page124.text.div.3.p.3.s.1.w.6;page124.text.div.3.p.3.s.1.w.7: W en -> Wen
+[DETECTION WRONG] page124.text.div.3.p.3.s.1.w.6: W -> )
+[DETECTION WRONG] page124.text.div.3.p.3.s.1.w.5: ° -> '
+[DETECTION WRONG] page124.text.div.3.p.3.s.1.w.10;page124.text.div.3.p.3.s.1.w.11: W is -> Wis
+[DETECTION WRONG] page124.text.div.3.p.3.s.1.w.10: W -> C
+[DETECTION WRONG] page124.text.div.3.div.1.list.1.item.1.s.1.w.4: ° -> ,
+[DETECTION WRONG] page124.text.div.3.div.1.list.1.item.1.s.1.w.5: O -> 2
+[DETECTION WRONG] page124.text.div.3.div.1.list.1.item.1.s.1.w.8: ° -> N
+[DETECTION WRONG] page124.text.div.3.div.1.list.1.item.1.s.1.w.8;page124.text.div.3.div.1.list.1.item.1.s.1.w.9: ° W -> NW
+[DETECTION WRONG] page124.text.div.3.div.1.list.1.item.3.s.1.w.4: ° -> '
+[DETECTION WRONG] page124.text.div.3.div.1.list.1.item.3.s.1.w.5: W -> (
+[DETECTION WRONG] page124.text.div.3.div.1.list.1.item.3.s.1.w.8: ° -> -
+[DETECTION WRONG] page124.text.div.3.div.1.list.1.item.3.s.1.w.9: W -> 2
+[DETECTION WRONG] page124.text.div.3.div.1.list.1.item.3.s.1.w.14: Brits -> Britse
+[DETECTION WRONG] INSERTION AFTER page124.text.div.4.head.1.s.1.w.1: .
+[DETECTION WRONG] page124.text.div.4.p.1.s.1.w.8;page124.text.div.4.p.1.s.1.w.9: ten minste -> tenminste
+[DETECTION WRONG] INSERTION AFTER page124.text.div.4.p.1.s.2.w.2: eitjes
+[DETECTION WRONG] page124.text.div.4.list.1.item.1.s.1.w.7;page124.text.div.4.list.1.item.1.s.1.w.8: V . -> V.
+[DETECTION WRONG] page124.text.div.4.list.1.item.1.s.2.w.1;page124.text.div.4.list.1.item.1.s.2.w.2: S . -> S.
+[DETECTION WRONG] page124.text.div.4.list.1.item.10.s.1.w.8: ° -> -
+[DETECTION WRONG] page124.text.div.4.list.1.item.10.s.1.w.11: Z -> '
+[DETECTION WRONG] page124.text.div.4.list.1.item.10.s.1.w.14: ° -> ,
+[DETECTION WRONG] page124.text.div.4.list.1.item.10.s.1.w.17: W -> '
+[DETECTION WRONG] page124.text.div.4.list.1.item.11.s.1.w.4: Rosseiland -> Ross eiland
+[DETECTION WRONG] page124.text.div.4.list.1.item.12.s.1.w.8: Schiereiland -> schiereiland
+[DETECTION WRONG] page124.text.div.4.list.1.item.14.s.1.w.9;page124.text.div.4.list.1.item.14.s.1.w.10: Z en -> Zen
+[DETECTION WRONG] page124.text.div.4.list.1.item.14.s.1.w.9: Z -> ,
+[DETECTION WRONG] page124.text.div.4.list.1.item.14.s.1.w.15: O -> '
+[DETECTION WRONG] INSERTION AFTER page124.text.div.5.head.1.s.1.w.2: .

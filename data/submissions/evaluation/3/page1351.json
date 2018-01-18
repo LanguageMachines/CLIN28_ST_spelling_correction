@@ -1,0 +1,52 @@
+{
+    "all": {
+        "detection": {
+            "truepos": 2.0,
+            "falseneg": 0.0,
+            "recall": 1.0,
+            "falsepos": 6.0,
+            "precision": 0.25,
+            "f1score": 0.4
+        },
+        "correction": {
+            "correct": 2.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 1.0,
+            "precision": 0.25,
+            "f1score": 0.4
+        }
+    },
+    "capitalizationerror": {
+        "detection": {
+            "truepos": 1.0,
+            "falseneg": 0.0,
+            "recall": 1.0
+        },
+        "correction": {
+            "correct": 1.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 1.0
+        }
+    },
+    "nonworderror": {
+        "detection": {
+            "truepos": 1.0,
+            "falseneg": 0.0,
+            "recall": 1.0
+        },
+        "correction": {
+            "correct": 1.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 1.0
+        }
+    }
+}

@@ -1,0 +1,18 @@
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1351.text.list.1.item.1.s.1.w.2'], 'superclass': 'replace', 'text': 'Krijt'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1351.text.list.1.item.1.s.1.w.25'], 'superclass': 'replace', 'text': 'krijt'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1351.text.list.1.item.2.s.1.w.11'], 'superclass': 'replace', 'text': 'COCO'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1351.text.list.1.item.5.s.1.w.1'], 'superclass': 'replace', 'text': 'Krijt'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1351.text.list.1.item.7.s.1.w.1'], 'superclass': 'replace', 'text': 'Krijt'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1351.text.list.1.item.8.s.1.w.1'], 'superclass': 'replace', 'text': 'Een'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1351.text.list.1.item.9.s.1.w.1'], 'superclass': 'replace', 'text': 'Synoniem'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1351.text.list.1.item.9.s.1.w.10'], 'superclass': 'replace', 'text': 'krijt'} will be ignored!
+[DETECTION MATCH] page1351.text.list.1.item.1.s.1.w.2: krijt -> Krijt
+	[CORRECT]
+[DETECTION MATCH] page1351.text.list.1.item.9.s.1.w.10: krijd -> krijt
+	[CORRECT]
+[DETECTION WRONG] page1351.text.list.1.item.1.s.1.w.25: Krijt -> krijt
+[DETECTION WRONG] page1351.text.list.1.item.2.s.1.w.11: CaCO -> COCO
+[DETECTION WRONG] page1351.text.list.1.item.5.s.1.w.1: krijt -> Krijt
+[DETECTION WRONG] page1351.text.list.1.item.7.s.1.w.1: krijt -> Krijt
+[DETECTION WRONG] page1351.text.list.1.item.8.s.1.w.1: een -> Een
+[DETECTION WRONG] page1351.text.list.1.item.9.s.1.w.1: synoniem -> Synoniem

@@ -1,0 +1,36 @@
+[DETECTION MISS] page1161.text.p.2.s.5.w.8;page1161.text.p.2.s.5.w.9: Inter connected -> Interconnected
+[DETECTION MISS] page1161.text.p.2.s.5.w.10;page1161.text.p.2.s.5.w.11: Net works -> Networks
+[DETECTION MISS] page1161.text.p.3.s.2.w.9: usenet -> Usenet
+[DETECTION MISS] page1161.text.div.1.p.2.s.2.w.15: packet-switching -> packet switching
+[DETECTION MISS] page1161.text.div.1.p.3.s.5.w.5;page1161.text.div.1.p.3.s.5.w.6: Mosaic -webbrowser -> Mosaic-webbrowser
+[DETECTION MISS] page1161.text.div.2.p.6.s.2.w.5: messenger -> Messenger
+[DETECTION MISS] page1161.text.div.3.list.1.item.4.s.2.w.7: zijn -> is
+[DETECTION WRONG] page1161.text.p.1.s.2.w.22: internet -> internet
+[DETECTION WRONG] page1161.text.p.3.s.1.w.13: Wide -> widde
+[DETECTION WRONG] page1161.text.p.4.s.1.w.29: hoofdletter -> hoofdlltter
+[DETECTION WRONG] page1161.text.p.4.s.2.w.11: oktober -> ootober
+[DETECTION WRONG] page1161.text.p.4.s.2.w.25: hoofdletter -> hoofdlltter
+[DETECTION WRONG] page1161.text.div.1.p.2.s.4.w.29: vorm -> voom
+[DETECTION WRONG] page1161.text.div.1.p.3.s.2.w.9: Wide -> widde
+[DETECTION WRONG] page1161.text.div.1.p.3.s.2.w.19: HTTP -> hetp
+[DETECTION WRONG] page1161.text.div.1.p.3.s.2.w.21: HTML -> heml
+[DETECTION WRONG] page1161.text.div.1.p.3.s.4.w.7: webpagina -> webpaginas
+[DETECTION WRONG] page1161.text.div.1.p.3.s.5.w.21: merkbaar -> merkbaar
+[DETECTION WRONG] page1161.text.div.1.p.3.s.6.w.24: Wide -> widde
+[DETECTION WRONG] page1161.text.div.2.p.1.s.1.w.12: vormen -> voomen,
+[DETECTION WRONG] page1161.text.div.2.p.2.s.1.w.8: set -> sett
+[DETECTION WRONG] page1161.text.div.2.p.3.s.2.w.9: discussie -> discussie
+[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.17: DNS -> dan
+[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.31: HTTP -> hetp
+[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.33: HTTPS -> hetps
+[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.35: SSH -> sshh
+[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.43: SSL -> ssll
+[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.45: TLS -> tlss
+[DETECTION WRONG] page1161.text.div.2.p.5.s.1.w.19: Wide -> widde
+[DETECTION WRONG] page1161.text.div.2.p.5.s.2.w.9: Wide -> widde
+[DETECTION WRONG] page1161.text.div.2.p.5.s.3.w.11: weblogs -> weblogs
+[DETECTION WRONG] page1161.text.div.2.p.5.s.4.w.20: bereiken -> bereiken
+[DETECTION WRONG] page1161.text.div.2.p.6.s.2.w.7: ICQ -> icy
+[DETECTION WRONG] page1161.text.div.5.div.2.list.1.item.2.s.1.w.1: www -> wwww
+[DETECTION WRONG] page1161.text.div.5.div.2.list.1.item.2.s.1.w.4: Wide -> widde
+[DETECTION WRONG] page1161.text.div.5.div.3.list.1.item.3.s.1.w.2: Wide -> widde

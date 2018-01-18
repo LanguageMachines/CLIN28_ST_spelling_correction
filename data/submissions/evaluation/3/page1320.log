@@ -1,0 +1,127 @@
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.p.1.s.1.w.4'], 'superclass': 'replace', 'text': 'Il'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.p.1.s.2.w.3'], 'superclass': 'replace', 'text': 'Il'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1320.text.p.1.s.2.w.22'], 'superclass': 'replace', 'text': 'Boeings'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.p.2.s.1.w.8'], 'superclass': 'replace', 'text': 'orde'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.p.2.s.2.w.10'], 'superclass': 'replace', 'text': 'een'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.p.2.s.2.w.19'], 'superclass': 'replace', 'text': 'X-302'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.p.2.s.3.w.2'], 'superclass': 'replace', 'text': 'X-3'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.p.2.s.3.w.15'], 'superclass': 'replace', 'text': 'boek'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1320.text.p.3.s.1.w.3'], 'superclass': 'replace', 'text': 'JSF-project'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.p.3.s.3.w.11'], 'superclass': 'replace', 'text': 'veel'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.p.3.s.4.w.16'], 'superclass': 'replace', 'text': 'ouders'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.p.3.s.4.w.22'], 'superclass': 'replace', 'text': 'onderaannemer'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.p.3.s.4.w.25'], 'superclass': 'replace', 'text': 'een'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1320.text.div.1.p.1.s.1.w.5'], 'superclass': 'replace', 'text': 'JSF-project'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1320.text.div.1.list.1.item.1.s.3.w.2'], 'superclass': 'replace', 'text': 'over'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.1.list.1.item.1.s.3.w.6'], 'superclass': 'replace', 'text': 'dan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.1.list.1.item.1.s.3.w.21'], 'superclass': 'replace', 'text': 'geval'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.1.list.1.item.1.s.3.w.41'], 'superclass': 'replace', 'text': 'dan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.1.list.1.item.1.s.3.w.52'], 'superclass': 'replace', 'text': 'oordeel'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.2.p.1.s.3.w.44'], 'superclass': 'replace', 'text': '1'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.2.p.1.s.3.w.49'], 'superclass': 'replace', 'text': 'u'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.2.p.1.s.3.w.56'], 'superclass': 'replace', 'text': 'FSF'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.2.p.2.s.1.w.13'], 'superclass': 'replace', 'text': 'moet'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1320.text.div.2.p.2.s.1.w.17'], 'superclass': 'replace', 'text': 'JSF-project'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.2.p.3.s.3.w.8'], 'superclass': 'replace', 'text': 'definitief'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.2.list.1.item.2.s.1.w.7'], 'superclass': 'replace', 'text': 'want'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.2.list.1.item.3.s.1.w.11'], 'superclass': 'replace', 'text': 'liter'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.3.list.1.item.1.s.1.w.8'], 'superclass': 'replace', 'text': 'Nederlandse'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1320.text.div.3.list.1.item.5.s.1.w.13'], 'superclass': 'replace', 'text': 'F16'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.3.list.1.item.5.s.2.w.12'], 'superclass': 'replace', 'text': 'de'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.3.p.2.s.1.w.27'], 'superclass': 'replace', 'text': 'hem'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.3.p.2.s.2.w.15'], 'superclass': 'replace', 'text': 'dat'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.3.p.2.s.2.w.22'], 'superclass': 'replace', 'text': 'werken'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.3.p.3.s.2.w.3'], 'superclass': 'replace', 'text': 'kandidaten'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.3.p.6.s.1.w.34'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1320.text.div.4.list.1.item.3.s.1.w.5'], 'superclass': 'replace', 'text': 'Ruimtevaartlaboratorium'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1320.text.div.4.list.1.item.5.s.1.w.1'], 'superclass': 'replace', 'text': 'Rexroth'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1320.text.div.4.list.1.item.11.s.1.w.1'], 'superclass': 'replace', 'text': 'Adamec'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1320.text.div.4.list.1.item.17.s.1.w.1'], 'superclass': 'replace', 'text': 'Hafkamp'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.4.list.1.item.27.s.1.w.3'], 'superclass': 'replace', 'text': 'N.V.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1320.text.div.4.list.1.item.39.s.1.w.1'], 'superclass': 'replace', 'text': 'Askovi'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1320.text.div.4.list.2.item.1.s.1.w.6'], 'superclass': 'replace', 'text': 'campagne'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1320.text.div.4.list.2.item.1.s.1.w.8'], 'superclass': 'replace', 'text': 'wapenhandel'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.div.4.list.2.item.2.s.1.w.11'], 'superclass': 'replace', 'text': 'AOP'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1320.text.footnote.1.p.1.s.1.w.4'], 'superclass': 'replace', 'text': 'ministerie'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1320.text.footnote.1.p.1.s.1.w.16'], 'superclass': 'replace', 'text': ';'} will be ignored!
+[DETECTION MISS] page1320.text.p.1.s.2.w.13;page1320.text.p.1.s.2.w.14;page1320.text.p.1.s.2.w.15;page1320.text.p.1.s.2.w.16: Joint Strike Fighter -project -> JSF-project
+[DETECTION MATCH] page1320.text.div.2.p.3.s.3.w.8: defintief -> definitief
+	[CORRECT]
+[DETECTION MISS] page1320.text.div.3.p.3.s.1.w.19: kanidaten -> kandidaten
+[DETECTION MATCH] page1320.text.div.3.p.3.s.2.w.3: kanidaten -> kandidaten
+	[CORRECT]
+[DETECTION WRONG] page1320.text.p.1.s.1.w.4: II -> Il
+[DETECTION WRONG] page1320.text.p.1.s.2.w.3: II -> Il
+[DETECTION WRONG] page1320.text.p.1.s.2.w.17;page1320.text.p.1.s.2.w.18: deelnam en -> deelnamen
+[DETECTION WRONG] page1320.text.p.1.s.2.w.22: Boeing´s -> Boeings
+[DETECTION WRONG] page1320.text.p.2.s.1.w.8: order -> orde
+[DETECTION WRONG] page1320.text.p.2.s.2.w.10: en -> een
+[DETECTION WRONG] page1320.text.p.2.s.2.w.19: X-32 -> X-302
+[DETECTION WRONG] page1320.text.p.2.s.3.w.2: X-32 -> X-3
+[DETECTION WRONG] INSERTION AFTER page1320.text.p.2.s.3.w.5: gebruikt
+[DETECTION WRONG] page1320.text.p.2.s.3.w.15: bek -> boek
+[DETECTION WRONG] page1320.text.p.3.s.1.w.3: JSF-Project -> JSF-project
+[DETECTION WRONG] page1320.text.p.3.s.3.w.11: deel -> veel
+[DETECTION WRONG] page1320.text.p.3.s.4.w.16: orders -> ouders
+[DETECTION WRONG] INSERTION AFTER page1320.text.p.3.s.4.w.15: de
+[DETECTION WRONG] page1320.text.p.3.s.4.w.22: onderaannemers -> onderaannemer
+[DETECTION WRONG] page1320.text.p.3.s.4.w.25: en -> een
+[DETECTION WRONG] page1320.text.div.1.p.1.s.1.w.5: JSF-Project -> JSF-project
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.1.list.1.item.1.s.2.w.9: is
+[DETECTION WRONG] page1320.text.div.1.list.1.item.1.s.3.w.2: Over -> over
+[DETECTION WRONG] page1320.text.div.1.list.1.item.1.s.3.w.6: dat -> dan
+[DETECTION WRONG] page1320.text.div.1.list.1.item.1.s.3.w.21: getal -> geval
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.1.list.1.item.1.s.3.w.20: speciaal
+[DETECTION WRONG] page1320.text.div.1.list.1.item.1.s.3.w.41: dat -> dan
+[DETECTION WRONG] page1320.text.div.1.list.1.item.1.s.3.w.52: voordeel -> oordeel
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.2.head.1.s.1.w.1: van
+[DETECTION WRONG] page1320.text.div.2.p.1.s.1.w.11;page1320.text.div.2.p.1.s.1.w.12: F-16 's -> F-16's
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.2.p.1.s.3.w.18: Aviation
+[DETECTION WRONG] page1320.text.div.2.p.1.s.3.w.30;page1320.text.div.2.p.1.s.3.w.31: project en -> projecten
+[DETECTION WRONG] page1320.text.div.2.p.1.s.3.w.44: F -> 1
+[DETECTION WRONG] page1320.text.div.2.p.1.s.3.w.49: F -> u
+[DETECTION WRONG] page1320.text.div.2.p.1.s.3.w.56: JSF -> FSF
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.2.p.1.s.4.w.4: kennis
+[DETECTION WRONG] page1320.text.div.2.p.2.s.1.w.13: moest -> moet
+[DETECTION WRONG] page1320.text.div.2.p.2.s.1.w.17: JSF-Project -> JSF-project
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.2.p.3.s.1.w.16: je
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.2.p.3.s.3.w.12: wat
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.2.list.1.item.1.s.1.w.8: .
+[DETECTION WRONG] page1320.text.div.2.list.1.item.2.s.1.w.7: wat -> want
+[DETECTION WRONG] page1320.text.div.2.list.1.item.3.s.1.w.11: later -> liter
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.2.list.1.item.3.s.1.w.11: roomijs
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.2.list.1.item.4.s.1.w.6: moeten
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.2.p.5.s.3.w.6: sluiten
+[DETECTION WRONG] page1320.text.div.3.list.1.item.1.s.1.w.8: Nederlands -> Nederlandse
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.3.list.1.item.3.s.1.w.2: het
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.3.list.1.item.5.s.1.w.7: er
+[DETECTION WRONG] page1320.text.div.3.list.1.item.5.s.1.w.13: F-16 -> F16
+[DETECTION WRONG] page1320.text.div.3.list.1.item.5.s.2.w.12: die -> de
+[DETECTION WRONG] page1320.text.div.3.p.1.s.2.w.28;page1320.text.div.3.p.1.s.2.w.29: Christi en -> Christien
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.3.p.2.s.1.w.11: een
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.3.p.2.s.1.w.13: de
+[DETECTION WRONG] page1320.text.div.3.p.2.s.1.w.14;page1320.text.div.3.p.2.s.1.w.15: zorg en -> zorgen
+[DETECTION WRONG] page1320.text.div.3.p.2.s.1.w.27: hen -> hem
+[DETECTION WRONG] page1320.text.div.3.p.2.s.2.w.15: wat -> dat
+[DETECTION WRONG] page1320.text.div.3.p.2.s.2.w.22: merken -> werken
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.3.p.3.s.1.w.17: een
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.3.p.4.s.1.w.15: ,
+[DETECTION WRONG] page1320.text.div.3.p.5.s.2.w.7;page1320.text.div.3.p.5.s.2.w.8: wil de -> wilde
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.3.p.5.s.3.w.1: .
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.3.p.6.s.1.w.9: het
+[DETECTION WRONG] page1320.text.div.3.p.6.s.1.w.34: a -> ,
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.3.p.6.s.2.w.1: .
+[DETECTION WRONG] page1320.text.div.4.list.1.item.3.s.1.w.5: Ruimtevaarlaboratorium -> Ruimtevaartlaboratorium
+[DETECTION WRONG] page1320.text.div.4.list.1.item.5.s.1.w.1: Rextroth -> Rexroth
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.4.list.1.item.9.s.1.w.4: .
+[DETECTION WRONG] page1320.text.div.4.list.1.item.11.s.1.w.1: Adimec -> Adamec
+[DETECTION WRONG] page1320.text.div.4.list.1.item.17.s.1.w.1: Hankamp -> Hafkamp
+[DETECTION WRONG] page1320.text.div.4.list.1.item.27.s.1.w.3: B.V. -> N.V.
+[DETECTION WRONG] page1320.text.div.4.list.1.item.39.s.1.w.1: Askove -> Askovi
+[DETECTION WRONG] page1320.text.div.4.list.2.item.1.s.1.w.6: Campagne -> campagne
+[DETECTION WRONG] page1320.text.div.4.list.2.item.1.s.1.w.8: Wapenhandel -> wapenhandel
+[DETECTION WRONG] page1320.text.div.4.list.2.item.2.s.1.w.11: ANP -> AOP
+[DETECTION WRONG] INSERTION AFTER page1320.text.div.4.list.2.item.2.s.1.w.15: .
+[DETECTION WRONG] INSERTION AFTER page1320.text.footnote.1.w.1: .
+[DETECTION WRONG] page1320.text.footnote.1.p.1.s.1.w.4: Ministerie -> ministerie
+[DETECTION WRONG] page1320.text.footnote.1.p.1.s.1.w.16: F -> ;

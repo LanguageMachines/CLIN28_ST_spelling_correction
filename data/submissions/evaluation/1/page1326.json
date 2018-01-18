@@ -1,0 +1,37 @@
+{
+    "all": {
+        "detection": {
+            "truepos": 1.0,
+            "falseneg": 0.0,
+            "recall": 1.0,
+            "falsepos": 11.0,
+            "precision": 0.08333333333333333,
+            "f1score": 0.15384615384615385
+        },
+        "correction": {
+            "correct": 1.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 1.0,
+            "precision": 0.08333333333333333,
+            "f1score": 0.15384615384615385
+        }
+    },
+    "confusion": {
+        "detection": {
+            "truepos": 1.0,
+            "falseneg": 0.0,
+            "recall": 1.0
+        },
+        "correction": {
+            "correct": 1.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 1.0
+        }
+    }
+}

@@ -1,0 +1,55 @@
+[DETECTION MATCH] page1239.text.p.1.s.2.w.6: Indo-europees -> Indo-Europees
+	[CORRECT]
+[DETECTION MATCH] page1239.text.p.1.s.2.w.9: Indogermaans -> Indo-Germaans
+	[CORRECT]
+[DETECTION MATCH] page1239.text.p.3.s.1.w.8: Indo-europese -> Indo-Europese
+	[CORRECT]
+[DETECTION MISS] page1239.text.p.3.s.1.w.17: satem-talen -> satemtalen
+[DETECTION MATCH] page1239.text.p.4.s.1.w.4: Proto-Indo-europees -> Indo-Europees
+	[INCORRECT] Should be: Proto-Indo-Europees
+[DETECTION MATCH] page1239.text.p.4.s.1.w.13: Indo-europese -> Indo-Europese
+	[CORRECT]
+[DETECTION MISS] page1239.text.p.4.s.1.w.29: kentum-talen -> kentumtalen
+[DETECTION MISS] page1239.text.p.4.s.1.w.32: satem-talen -> satemtalen
+[DETECTION MATCH] page1239.text.p.5.s.1.w.4: Indo-europese -> Indo-Europese
+	[CORRECT]
+[DETECTION MATCH] page1239.text.p.6.s.1.w.8: Proto-Indo-europees -> Indo-Europees
+	[INCORRECT] Should be: Proto-Indo-Europees
+[DETECTION MATCH] page1239.text.p.6.s.2.w.14: Proto-Indo-europees -> Indo-Europees
+	[INCORRECT] Should be: Proto-Indo-Europees
+[DETECTION MATCH] page1239.text.p.6.s.4.w.10: Indo-europees -> Indo-Europees
+	[CORRECT]
+[DETECTION WRONG] page1239.text.p.2.s.3.w.8: niet-Indo-Europese -> Indo-Europese
+[DETECTION WRONG] page1239.text.p.3.s.1.w.30: centum -> centrum
+[DETECTION WRONG] page1239.text.p.3.s.2.w.4: s-verschil -> verschilt
+[DETECTION WRONG] page1239.text.p.4.s.1.w.27: K -> k
+[DETECTION WRONG] page1239.text.p.4.s.1.w.31: S -> s
+[DETECTION WRONG] page1239.text.list.1.item.1.s.1.w.6: K -> k
+[DETECTION WRONG] page1239.text.list.1.item.2.s.1.w.2: K -> k
+[DETECTION WRONG] page1239.text.list.1.item.3.p.1.s.1.w.3: S -> s
+[DETECTION WRONG] page1239.text.list.1.item.4.s.1.w.5: K -> k
+[DETECTION WRONG] page1239.text.list.1.item.5.s.1.w.3: K -> k
+[DETECTION WRONG] page1239.text.list.1.item.6.s.1.w.3: K -> k
+[DETECTION WRONG] page1239.text.list.1.item.7.s.1.w.2: S -> s
+[DETECTION WRONG] page1239.text.list.1.item.8.s.1.w.5: K -> k
+[DETECTION WRONG] page1239.text.list.1.item.9.s.1.w.3: S -> s
+[DETECTION WRONG] page1239.text.list.1.item.10.s.1.w.3: S -> s
+[DETECTION WRONG] page1239.text.list.1.item.11.s.1.w.2: S -> s
+[DETECTION WRONG] page1239.text.p.5.s.1.w.1: Een -> een
+[DETECTION WRONG] page1239.text.list.2.item.6.s.1.w.1: Oud-Macedonisch -> Macedonisch
+[DETECTION WRONG] page1239.text.p.6.s.1.w.1: Het -> het
+[DETECTION WRONG] page1239.text.p.6.s.2.w.21: Zwarte -> zwarte
+[DETECTION WRONG] page1239.text.p.6.s.2.w.22: Zee -> zee
+[DETECTION WRONG] page1239.text.p.6.s.5.w.2: glottochronologisch -> chronologisch
+[DETECTION WRONG] page1239.text.p.6.s.9.w.10: Proto-Indo-Europees -> Indo-Europees
+[DETECTION WRONG] page1239.text.p.6.s.9.w.17: supertaalfamilie -> super taalfamilie
+[DETECTION WRONG] page1239.text.div.1.list.1.item.1.s.1.w.2: divergence -> divergent
+[DETECTION WRONG] page1239.text.div.1.list.1.item.1.s.1.w.3: times -> Timmes
+[DETECTION WRONG] page1239.text.div.1.list.1.item.1.s.1.w.5: the -> The
+[DETECTION WRONG] page1239.text.div.1.list.1.item.1.s.1.w.7: theory -> Theodor
+[DETECTION WRONG] page1239.text.div.1.list.1.item.1.s.1.w.9: Indo-European -> Indo-Europeaan
+[DETECTION WRONG] page1239.text.div.1.list.1.item.1.s.1.w.10: origin -> origine
+[DETECTION WRONG] page1239.text.div.1.list.1.item.1.s.1.w.20: Nature -> naturel
+[DETECTION WRONG] page1239.text.div.1.list.1.item.2.s.1.w.1: Stevenson -> Steevensz
+[DETECTION WRONG] page1239.text.div.1.list.1.item.2.s.2.w.8: Het -> het
+[DETECTION WRONG] page1239.text.div.1.list.1.item.2.s.2.w.9: Spectrum -> spectrum

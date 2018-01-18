@@ -1,0 +1,59 @@
+[DETECTION MATCH] page1279.text.p.1.s.1.w.5: Zon -> zon
+	[CORRECT]
+[DETECTION MISS] page1279.text.div.2.p.1.s.2.w.15: vloeibaar -> vloeibare
+[DETECTION MISS] page1279.text.div.2.p.1.s.2.w.16: moleculair -> moleculaire
+[DETECTION MATCH] page1279.text.div.2.p.2.s.1.w.7: Zon -> zon
+	[CORRECT]
+[DETECTION MISS] page1279.text.div.2.p.2.s.2.w.7;page1279.text.div.2.p.2.s.2.w.8: twee maal -> tweemaal
+[DETECTION MISS] page1279.text.div.2.p.2.s.2.w.12: dan -> als
+[DETECTION MISS] page1279.text.div.2.p.2.s.4.w.22: het -> met
+[DETECTION MISS] page1279.text.div.2.p.3.s.2.w.10: dan -> als
+[DETECTION MATCH] page1279.text.div.3.p.1.s.3.w.11: Aarde -> aarde
+	[CORRECT]
+[DETECTION MATCH] page1279.text.div.3.p.1.s.5.w.23: gedraagd -> gedraag
+	[INCORRECT] Should be: gedraagt
+[DETECTION MISS] INSERTION AFTER page1279.text.div.3.div.1.p.1.s.2.w.11: jaar
+[DETECTION MATCH] page1279.text.div.3.div.1.p.1.s.4.w.9: velk -> v elk
+	[INCORRECT] Should be: vlek
+[DETECTION MISS] page1279.text.div.3.div.2.p.1.s.2.w.7: botingen -> botsingen
+[DETECTION MATCH] page1279.text.div.4.p.2.s.3.w.15: jupiter -> Jupiter
+	[CORRECT]
+[DETECTION MATCH] page1279.text.div.5.p.1.s.1.w.3: Aarde -> aarde
+	[CORRECT]
+[DETECTION MISS] page1279.text.div.5.div.3.p.1.s.1.w.9;page1279.text.div.5.div.3.p.1.s.1.w.10: Galileo ruimtesonde -> Galileo-ruimtesonde
+[DETECTION MISS] page1279.text.div.5.div.4.p.1.s.1.w.6;page1279.text.div.5.div.4.p.1.s.1.w.7: Cassini-Huygens ruimtesonde -> Cassini-Huygens-ruimtesosnde
+[DETECTION MATCH] page1279.text.div.5.div.4.p.1.s.1.w.13: Aarde -> aarde
+	[CORRECT]
+[DETECTION WRONG] page1279.text.div.2.head.1.s.1.w.1: Samenstelling -> samenstelling
+[DETECTION WRONG] page1279.text.div.2.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1279.text.div.2.p.1.s.1.w.30: Daar -> daar
+[DETECTION WRONG] page1279.text.div.2.p.1.s.2.w.5: overgangslaag -> overgang slaag
+[DETECTION WRONG] page1279.text.div.3.p.1.s.1.w.1: Aangezien -> aangezien
+[DETECTION WRONG] page1279.text.div.3.p.1.s.2.w.7: waterstoflaag -> water stoflaag
+[DETECTION WRONG] page1279.text.div.3.p.1.s.3.w.21: H -> h
+[DETECTION WRONG] page1279.text.div.3.p.1.s.3.w.26: O -> o
+[DETECTION WRONG] page1279.text.div.3.p.1.s.3.w.31: NH -> nm
+[DETECTION WRONG] page1279.text.div.3.p.1.s.3.w.41: NH -> nm
+[DETECTION WRONG] page1279.text.div.3.p.1.s.5.w.11: afmosfeer -> atmosfeer
+[DETECTION WRONG] page1279.text.div.3.div.1.p.1.s.1.w.1: Eén -> een
+[DETECTION WRONG] page1279.text.div.3.div.1.p.1.s.1.w.11: Grote -> grote
+[DETECTION WRONG] page1279.text.div.3.div.1.p.1.s.1.w.13: Vlek -> vlek
+[DETECTION WRONG] page1279.text.div.3.div.1.p.1.s.3.w.10: 18e -> achttiende
+[DETECTION WRONG] page1279.text.div.3.div.2.p.1.s.1.w.1: Tussen -> tussen
+[DETECTION WRONG] page1279.text.div.4.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page1279.text.div.4.p.2.s.1.w.12: stof- -> stoft
+[DETECTION WRONG] page1279.text.div.4.p.2.s.1.w.14: ijsdeeltjes -> ijs deeltjes
+[DETECTION WRONG] page1279.text.div.4.p.2.s.2.w.9: R -> r
+[DETECTION WRONG] page1279.text.div.4.p.2.s.3.w.3: R -> r
+[DETECTION WRONG] page1279.text.div.4.p.2.s.4.w.10: R -> r
+[DETECTION WRONG] page1279.text.div.4.p.2.s.4.w.14: R -> r
+[DETECTION WRONG] page1279.text.div.5.p.1.s.1.w.1: Vanaf -> vanaf
+[DETECTION WRONG] page1279.text.div.5.p.1.s.2.w.4: Galileo -> Galilea
+[DETECTION WRONG] page1279.text.div.5.div.1.p.1.s.2.w.24: Aarde -> aarde
+[DETECTION WRONG] page1279.text.div.5.div.2.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page1279.text.div.5.div.3.head.1.s.1.w.1: Galileo -> Galilea
+[DETECTION WRONG] page1279.text.div.5.div.3.p.1.s.1.w.6: Cape -> cape
+[DETECTION WRONG] page1279.text.div.5.div.3.p.1.s.1.w.9: Galileo -> Galilea
+[DETECTION WRONG] page1279.text.div.5.div.3.p.1.s.2.w.15: Galileo -> Galilea
+[DETECTION WRONG] page1279.text.div.5.div.5.head.1.s.1.w.2: Horizons -> horizon
+[DETECTION WRONG] page1279.text.div.5.div.5.p.1.s.1.w.2: Horizons -> horizon

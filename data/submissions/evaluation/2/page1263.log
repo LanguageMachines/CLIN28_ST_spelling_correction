@@ -1,0 +1,10 @@
+[DETECTION MISS] page1263.text.p.1.s.1.w.15;page1263.text.p.1.s.1.w.16: PvdA -huize -> PvdA-huize
+[DETECTION MISS] page1263.text.p.2.s.3.w.17;page1263.text.p.2.s.3.w.18;page1263.text.p.2.s.3.w.20: PvdA- CPN D66 -> PvdA-CPN-D66
+[DETECTION MISS] page1263.text.p.2.s.3.w.19: - -> 
+[DETECTION MISS] page1263.text.p.3.s.2.w.15;page1263.text.p.3.s.2.w.16: SP -leider -> SP-leider
+[DETECTION MISS] page1263.text.p.3.s.9.w.6: vertrekt -> vertrek
+[DETECTION WRONG] page1263.text.p.1.s.2.w.3: oktober -> ootober
+[DETECTION WRONG] page1263.text.p.2.s.1.w.15: hbs -> hes
+[DETECTION WRONG] page1263.text.p.2.s.3.w.20: D66 -> da
+[DETECTION WRONG] page1263.text.p.3.s.2.w.18: Marijnissen -> maaijnissen
+[DETECTION WRONG] page1263.text.p.4.s.1.w.7: Marijke -> maaijke

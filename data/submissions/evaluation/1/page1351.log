@@ -1,0 +1,10 @@
+[DETECTION MISS] page1351.text.list.1.item.1.s.1.w.2: krijt -> Krijt
+[DETECTION MATCH] page1351.text.list.1.item.9.s.1.w.10: krijd -> k rijd
+	[INCORRECT] Should be: krijt
+[DETECTION WRONG] page1351.text.list.1.item.1.s.1.w.25: Krijt -> krijt
+[DETECTION WRONG] page1351.text.list.1.item.2.s.1.w.1: krijtgesteente -> krijt gesteente
+[DETECTION WRONG] page1351.text.list.1.item.2.s.1.w.11: CaCO -> coca
+[DETECTION WRONG] page1351.text.list.1.item.2.s.2.w.7: Krijt -> krijt
+[DETECTION WRONG] page1351.text.list.1.item.3.s.1.w.2: Krijt -> krijt
+[DETECTION WRONG] page1351.text.list.1.item.3.s.1.w.5: krijtgesteente -> krijt gesteente
+[DETECTION WRONG] page1351.text.list.1.item.6.s.1.w.10: schrijfmiddelen -> schrikmiddelen

@@ -1,0 +1,46 @@
+[DETECTION MISS] page1147.text.div.1.p.2.s.1.w.8: eiggennaam -> eigennaam
+[DETECTION MISS] page1147.text.div.1.p.3.s.1.w.21: Christelijke -> christelijke
+[DETECTION MISS] page1147.text.div.1.p.5.s.3.w.15;page1147.text.div.1.p.5.s.3.w.16: Groot Khan -> grootkan
+[DETECTION MISS] page1147.text.div.1.p.8.s.4.w.4: machtstrijd -> machtsstrijd
+[DETECTION MISS] page1147.text.div.1.p.8.s.4.w.12: contra-revolutionairen -> contrarevolutionairen
+[DETECTION MISS] page1147.text.div.1.p.11.s.1.w.12: Volksrepubliek -> volksrepubliek
+[DETECTION MISS] page1147.text.div.2.div.2.head.1.s.1.w.2: Partijen -> partijen
+[DETECTION MISS] page1147.text.div.2.div.2.list.1.item.2.s.1.w.2;page1147.text.div.2.div.2.list.1.item.2.s.1.w.3: Burger Unie -> Burgerunie
+[DETECTION MISS] page1147.text.div.3.p.1.s.1.w.11: meerendeel -> merendeel
+[DETECTION MISS] page1147.text.div.3.p.1.s.2.w.13: Zigeuners -> zigeuners
+[DETECTION MISS] page1147.text.div.4.p.1.s.1.w.14;page1147.text.div.4.p.1.s.1.w.15;page1147.text.div.4.p.1.s.1.w.16: vrije markt economie -> vrijemarkteconomie
+[DETECTION MISS] page1147.text.div.4.p.1.s.2.w.5: landbouw-arealen -> landbouwarealen
+[DETECTION MISS] page1147.text.div.4.p.1.s.3.w.3: dientensector -> dienstensector
+[DETECTION MISS] page1147.text.div.4.p.1.s.4.w.16: reëele -> reële
+[DETECTION MISS] page1147.text.div.5.p.1.s.1.w.23: noord-oosten -> noordoosten
+[DETECTION MISS] page1147.text.div.5.p.2.s.1.w.6: tweeen -> tweeën
+[DETECTION MISS] page1147.text.div.6.list.1.item.12.s.1.w.4: opera-componist -> operacomponist
+[DETECTION WRONG] page1147.text.div.1.p.3.s.1.w.33: schonk -> schonk
+[DETECTION WRONG] page1147.text.div.1.p.4.s.3.w.12: omstandigheden -> omstandigheden
+[DETECTION WRONG] page1147.text.div.1.p.6.s.1.w.6: 14e -> @
+[DETECTION WRONG] page1147.text.div.1.p.6.s.1.w.14: Ottomaanse -> ootomaanse
+[DETECTION WRONG] page1147.text.div.1.p.6.s.1.w.20: Westen -> westen
+[DETECTION WRONG] page1147.text.div.1.p.6.s.3.w.34: vorstendom -> voostendom
+[DETECTION WRONG] page1147.text.div.1.p.7.s.2.w.23: neergeslagen -> neergeslagen
+[DETECTION WRONG] page1147.text.div.1.p.8.s.1.w.7: deel -> dezl
+[DETECTION WRONG] page1147.text.div.1.p.8.s.4.w.19: admiraal -> aamiraal
+[DETECTION WRONG] page1147.text.div.2.div.2.list.1.item.4.s.1.w.7: Ibolya -> iiolya
+[DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.5: Békés -> bekess
+[DETECTION WRONG] page1147.text.div.3.p.1.s.1.w.14: 96,6 -> @,,
+[DETECTION WRONG] page1147.text.div.4.p.1.s.1.w.15: markt -> maakt
+[DETECTION WRONG] page1147.text.div.4.p.1.s.2.w.14: deel -> dezl
+[DETECTION WRONG] page1147.text.div.4.div.1.list.1.item.3.s.1.w.11: 13,600 -> @,,
+[DETECTION WRONG] page1147.text.div.4.div.1.list.1.item.4.list.1.item.1.s.1.w.5: 3,3 -> @,,
+[DETECTION WRONG] page1147.text.div.4.div.1.list.1.item.4.list.1.item.2.s.1.w.3: 32,5 -> @,,
+[DETECTION WRONG] page1147.text.div.4.div.1.list.1.item.4.list.1.item.3.s.1.w.3: 64,2 -> @,,
+[DETECTION WRONG] page1147.text.div.4.div.1.list.4.item.1.s.1.w.2: 56,88 -> @,,
+[DETECTION WRONG] page1147.text.div.5.p.1.s.1.w.29: westen -> westen
+[DETECTION WRONG] page1147.text.div.5.p.1.s.2.w.16: vormen -> voomen
+[DETECTION WRONG] page1147.text.div.5.div.1.list.1.item.6.s.1.w.21: 172.400 -> @
+[DETECTION WRONG] page1147.text.div.5.div.1.list.1.item.6.s.1.w.26: 158.200 -> @
+[DETECTION WRONG] page1147.text.div.6.list.1.item.1.s.1.w.1: Oszkár -> oozkar
+[DETECTION WRONG] page1147.text.div.6.list.1.item.15.s.1.w.2: Horn -> hornn
+[DETECTION WRONG] page1147.text.div.6.list.1.item.17.s.1.w.1: Mór -> morr
+[DETECTION WRONG] page1147.text.div.6.list.1.item.26.s.1.w.2: Márai -> maari
+[DETECTION WRONG] page1147.text.div.6.list.1.item.30.s.1.w.3: Margittai -> maagittai
+[DETECTION WRONG] page1147.text.div.6.list.1.item.33.s.1.w.1: Márta -> maata

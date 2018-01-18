@@ -1,0 +1,51 @@
+[DETECTION MATCH] page1348.text.p.2.s.2.w.17: bislissingen -> beslissingen
+	[CORRECT]
+[DETECTION MATCH] page1348.text.p.2.s.4.w.6: Concilie -> concilie
+	[CORRECT]
+[DETECTION MATCH] page1348.text.p.2.s.4.w.32: Christelijke -> christelijke
+	[CORRECT]
+[DETECTION MATCH] page1348.text.p.3.s.2.w.3: Kalief -> kalief
+	[CORRECT]
+[DETECTION MATCH] page1348.text.p.3.s.6.w.8: Kalief -> kalief
+	[CORRECT]
+[DETECTION MATCH] page1348.text.p.4.s.2.w.17: kunnnen -> Kunnen
+	[INCORRECT] Should be: kunnen
+[DETECTION MATCH] page1348.text.p.4.s.5.w.17: Peloponesos -> Peloponnesos
+	[CORRECT]
+[DETECTION MATCH] page1348.text.p.4.s.6.w.17: Kalief -> kalief
+	[CORRECT]
+[DETECTION MATCH] page1348.text.p.5.s.1.w.4: Paus -> paus
+	[CORRECT]
+[DETECTION MATCH] page1348.text.p.5.s.3.w.27: Italë -> Italo
+	[INCORRECT] Should be: Italië
+[DETECTION MATCH] page1348.text.p.7.s.5.w.3: massaexecuties -> massa-executie
+	[INCORRECT] Should be: massa-executies
+[DETECTION MATCH] page1348.text.p.8.s.2.w.15: Capadocië -> Cappadocië
+	[CORRECT]
+[DETECTION WRONG] page1348.text.p.1.s.1.w.1: Justinianus -> Justinus'
+[DETECTION WRONG] page1348.text.p.2.s.1.w.1: Justinianus -> Justinus'
+[DETECTION WRONG] page1348.text.p.2.s.1.w.12: IV -> Ivy
+[DETECTION WRONG] page1348.text.p.2.s.4.w.13: Concilie -> concilie
+[DETECTION WRONG] page1348.text.p.2.s.4.w.21: Constantinopel -> Constantinus'
+[DETECTION WRONG] page1348.text.p.2.s.6.w.2: spelbrekerij -> spelbreker
+[DETECTION WRONG] page1348.text.p.3.s.1.w.12: Oosten -> oosten
+[DETECTION WRONG] page1348.text.p.3.s.2.w.10: Justinianus -> Justinus'
+[DETECTION WRONG] page1348.text.p.3.s.3.w.2: Justinianus -> Justinus'
+[DETECTION WRONG] page1348.text.p.3.s.5.w.5: uitzondelijke -> uitzonderlijke
+[DETECTION WRONG] page1348.text.p.4.s.2.w.1: Justinianus -> Justinus'
+[DETECTION WRONG] page1348.text.p.4.s.2.w.11: Constantinopel -> Constantinus'
+[DETECTION WRONG] page1348.text.p.4.s.5.w.5: Oosten -> oosten
+[DETECTION WRONG] page1348.text.p.4.s.5.w.18: neergeplant -> neer geplant
+[DETECTION WRONG] page1348.text.p.5.s.2.w.10: Justinianus -> Justinus'
+[DETECTION WRONG] page1348.text.p.5.s.3.w.16: Paus -> paus
+[DETECTION WRONG] page1348.text.p.6.s.2.w.1: Justinianus -> Justinus'
+[DETECTION WRONG] page1348.text.p.6.s.3.w.14: behoeve -> behoeven
+[DETECTION WRONG] page1348.text.p.6.s.4.w.5: Justinianus -> Justinus'
+[DETECTION WRONG] page1348.text.p.6.s.4.w.16: Blauwen -> blauwen
+[DETECTION WRONG] page1348.text.p.7.s.1.w.8: Justinianus -> Justinus'
+[DETECTION WRONG] page1348.text.p.7.s.1.w.15: Cherson -> Chers on
+[DETECTION WRONG] page1348.text.p.7.s.3.w.6: Constantinopel -> Constantinus'
+[DETECTION WRONG] page1348.text.p.8.s.3.w.3: Justinianus -> Justinus'
+[DETECTION WRONG] page1348.text.p.8.s.3.w.12: Cherson -> Chers on
+[DETECTION WRONG] page1348.text.p.8.s.6.w.12: Philippicus -> Philippus'
+[DETECTION WRONG] page1348.text.p.8.s.8.w.1: Justinianus' -> Justinus'

@@ -1,0 +1,244 @@
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.p.1.s.1.w.9'], 'superclass': 'replace', 'text': 'Or'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.1.p.4.s.1.w.2'], 'superclass': 'replace', 'text': 'lijkt'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page127.text.div.2.div.1.p.1.s.1.w.9'], 'superclass': 'replace', 'text': 'Arabisch-Berbers'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.2.div.1.p.1.s.2.w.11'], 'superclass': 'replace', 'text': 'Europa'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page127.text.div.2.div.2.list.1.item.2.s.1.w.5'], 'superclass': 'replace', 'text': 'Kabul'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.2.div.2.list.1.item.2.s.2.w.1'], 'superclass': 'replace', 'text': 'v'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.2.div.2.list.1.item.2.s.2.w.1'], 'superclass': 'replace', 'text': '.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.2.div.2.p.2.s.2.w.8'], 'superclass': 'replace', 'text': 'taak'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.2.div.2.p.2.s.3.w.11'], 'superclass': 'replace', 'text': 'Berbertaal'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.2.div.2.p.2.s.4.w.17'], 'superclass': 'replace', 'text': 'Auris'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.2.div.3.p.2.s.3.w.10'], 'superclass': 'replace', 'text': 'stelde'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.2.div.3.p.3.s.2.w.26'], 'superclass': 'replace', 'text': 'of'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page127.text.div.3.list.1.item.3.s.1.w.3'], 'superclass': 'replace', 'text': 'Témouchent'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page127.text.div.3.list.1.item.26.s.1.w.2'], 'superclass': 'replace', 'text': 'Muskar'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.3.list.1.item.27.s.1.w.2'], 'superclass': 'replace', 'text': 'Media'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page127.text.div.3.list.1.item.30.s.1.w.3'], 'superclass': 'replace', 'text': "'"} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.3.list.1.item.30.s.1.w.2'], 'superclass': 'replace', 'text': "'"} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.3.list.1.item.30.s.1.w.4'], 'superclass': 'replace', 'text': 'Silva'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.4.p.1.s.1.w.14'], 'superclass': 'replace', 'text': 'met'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.4.p.3.s.1.w.6'], 'superclass': 'replace', 'text': 'dat'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.4.list.1.item.1.s.1.w.1'], 'superclass': 'replace', 'text': 'Een'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.4.list.1.item.1.s.1.w.7'], 'superclass': 'replace', 'text': 'Bergen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.4.list.1.item.2.s.1.w.1'], 'superclass': 'replace', 'text': 'Het'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.4.list.1.item.2.s.1.w.12'], 'superclass': 'replace', 'text': 'mediterraan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.4.list.1.item.3.s.1.w.1'], 'superclass': 'replace', 'text': 'Het'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page127.text.div.4.list.1.item.3.s.1.w.5'], 'superclass': 'replace', 'text': 'Chott'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page127.text.div.4.list.1.item.3.s.1.w.20'], 'superclass': 'replace', 'text': 'chotty'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.4.list.1.item.4.s.1.w.1'], 'superclass': 'replace', 'text': 'Het'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.4.p.5.s.1.w.14'], 'superclass': 'replace', 'text': ')'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.4.p.5.s.2.w.1'], 'superclass': 'replace', 'text': 'In'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.4.p.5.s.3.w.9'], 'superclass': 'replace', 'text': 'grind'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.4.div.3.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'Fasen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.4.div.4.list.1.item.5.s.1.w.1'], 'superclass': 'replace', 'text': 'Setia'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page127.text.div.4.div.4.list.1.item.7.s.1.w.1'], 'superclass': 'replace', 'text': 'Besra'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.4.div.4.list.1.item.7.s.1.w.1'], 'superclass': 'replace', 'text': 'Bera'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.4.div.4.list.1.item.7.s.1.w.1'], 'superclass': 'replace', 'text': 'Bert'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page127.text.div.4.div.4.list.1.item.9.s.1.w.1'], 'superclass': 'replace', 'text': 'Tessa'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.7.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'economie'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.7.p.1.s.1.w.27'], 'superclass': 'replace', 'text': 'aan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.7.p.1.s.1.w.27'], 'superclass': 'replace', 'text': 'dan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.7.p.2.s.1.w.18'], 'superclass': 'replace', 'text': 'fasen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.7.p.2.s.1.w.18'], 'superclass': 'replace', 'text': 'fase'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.7.p.2.s.4.w.5'], 'superclass': 'replace', 'text': 'schepen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.7.p.4.s.1.w.4'], 'superclass': 'replace', 'text': 'en'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.7.p.4.s.2.w.9'], 'superclass': 'replace', 'text': 'R'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.7.p.4.s.2.w.11'], 'superclass': 'replace', 'text': 'Melk'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.7.p.6.s.1.w.19'], 'superclass': 'replace', 'text': 'Vranken'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.7.p.7.s.1.w.7'], 'superclass': 'replace', 'text': 'inkomen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.7.p.7.s.2.w.7'], 'superclass': 'replace', 'text': 'drinken'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.7.p.7.s.2.w.13'], 'superclass': 'replace', 'text': 'staaf'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page127.text.div.7.p.7.s.2.w.15'], 'superclass': 'replace', 'text': 'vervoersapparatuur'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'Politie'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.p.3.s.2.w.15'], 'superclass': 'replace', 'text': 'moeten'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page127.text.div.8.p.3.s.4.w.3'], 'superclass': 'replace', 'text': 'LN-leden'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.p.4.s.1.w.10'], 'superclass': 'replace', 'text': 'islamitische'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.p.4.s.1.w.10'], 'superclass': 'replace', 'text': 'islamistische'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page127.text.div.8.p.4.s.4.w.7'], 'superclass': 'replace', 'text': 'Zéroual'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.p.6.s.1.w.13'], 'superclass': 'replace', 'text': 'Armé'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.p.8.s.2.w.20'], 'superclass': 'replace', 'text': 'raam'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.8.list.1.item.1.s.1.w.1'], 'superclass': 'replace', 'text': 'President'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.8.list.1.item.2.s.1.w.1'], 'superclass': 'replace', 'text': 'Regeringsleider'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.8.list.1.item.3.s.1.w.1'], 'superclass': 'replace', 'text': 'Minister'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.8.list.1.item.4.p.1.s.1.w.1'], 'superclass': 'replace', 'text': 'Partijen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page127.text.div.8.list.1.item.4.p.1.s.1.w.8'], 'superclass': 'replace', 'text': ')'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.list.1.item.4.list.1.item.1.s.1.w.1'], 'superclass': 'replace', 'text': 'FN'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.list.1.item.4.list.1.item.1.s.1.w.1'], 'superclass': 'replace', 'text': 'IN'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.list.1.item.4.list.1.item.2.s.1.w.1'], 'superclass': 'replace', 'text': 'IND'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.list.1.item.4.list.1.item.2.s.1.w.1'], 'superclass': 'replace', 'text': 'IN'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page127.text.div.8.list.1.item.4.list.1.item.3.s.1.w.1'], 'superclass': 'replace', 'text': 'MR'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.1'], 'superclass': 'replace', 'text': 'ESP'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.1'], 'superclass': 'replace', 'text': 'ESB'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.6'], 'superclass': 'replace', 'text': 'société'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.9'], 'superclass': 'replace', 'text': 'paix'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.list.1.item.4.list.1.item.5.s.1.w.1'], 'superclass': 'replace', 'text': 'P'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.list.1.item.4.list.1.item.5.s.1.w.1'], 'superclass': 'replace', 'text': "'"} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.8.div.1.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'economie'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.div.1.list.1.item.2.s.1.w.2'], 'superclass': 'replace', 'text': 'BBP'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.8.div.1.list.1.item.3.s.1.w.9'], 'superclass': 'replace', 'text': 'Tijn'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.8.div.1.list.1.item.6.s.1.w.1'], 'superclass': 'replace', 'text': 'exportpartners'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.8.div.1.list.1.item.8.s.1.w.1'], 'superclass': 'replace', 'text': 'importpartners'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.9.p.1.s.1.w.4'], 'superclass': 'replace', 'text': 'subtropisch'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.9.p.1.s.1.w.8'], 'superclass': 'replace', 'text': 'rust'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.10.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'sport'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.11.list.1.item.2.s.1.w.1'], 'superclass': 'replace', 'text': 'President'} will be ignored!
+[DETECTION MATCH] page127.text.div.2.div.1.p.1.s.2.w.11: europa -> Europa
+	[CORRECT]
+[DETECTION MATCH] page127.text.div.2.div.2.p.2.s.3.w.11: berbertaal -> Berbertaal
+	[CORRECT]
+[DETECTION MISS] page127.text.div.2.div.3.p.2.s.2.w.5: anno -> anno
+[DETECTION MISS] page127.text.div.4.p.1.s.1.w.17;page127.text.div.4.p.1.s.1.w.18: Sahara - -> Sahara-
+[DETECTION MISS] page127.text.div.4.list.1.item.4.s.1.w.2;page127.text.div.4.list.1.item.4.s.1.w.3: Sahara Atlasgebergte -> Sahara-Atlasgebergte
+[DETECTION MATCH] page127.text.div.4.p.5.s.1.w.5;page127.text.div.4.p.5.s.1.w.6: dun bevolkte -> dunbevolkte
+	[CORRECT]
+[DETECTION MATCH] page127.text.div.4.p.5.s.2.w.1: in -> In
+	[CORRECT]
+[DETECTION MISS] page127.text.div.4.div.2.p.1.s.1.w.9: Middellandse-Zeegebied -> Middellandse Zeegebied
+[DETECTION MISS] page127.text.div.7.p.1.s.1.w.21: tot -> aan
+[DETECTION MATCH] page127.text.div.8.p.8.s.2.w.27: indirectgekozen -> indirect gekozen
+	[CORRECT]
+[DETECTION MATCH] page127.text.div.9.p.1.s.1.w.4: Subtropisch -> subtropisch
+	[CORRECT]
+[DETECTION MISS] page127.text.div.9.p.2.s.1.w.6: Hoge -> hoge
+[DETECTION MISS] page127.text.div.9.p.2.s.1.w.7: Plateaus -> plateaus
+[DETECTION WRONG] page127.text.p.1.s.1.w.9: ir -> Or
+[DETECTION WRONG] INSERTION AFTER page127.text.p.3.s.1.w.11: )
+[DETECTION WRONG] INSERTION AFTER page127.text.p.4.s.2.w.7: zin
+[DETECTION WRONG] INSERTION AFTER page127.text.div.1.p.2.s.1.w.4: Portugese
+[DETECTION WRONG] INSERTION AFTER page127.text.div.1.p.3.s.3.w.1: zijn
+[DETECTION WRONG] page127.text.div.1.p.4.s.1.w.2: lijdt -> lijkt
+[DETECTION WRONG] page127.text.div.2.div.1.p.1.s.1.w.9: Arabisch-Berberse -> Arabisch-Berbers
+[DETECTION WRONG] page127.text.div.2.div.1.list.1.item.3.s.1.w.7;page127.text.div.2.div.1.list.1.item.3.s.1.w.8: 1980 -2001 -> 1980-2001
+[DETECTION WRONG] page127.text.div.2.div.2.list.1.item.2.s.1.w.5;page127.text.div.2.div.2.list.1.item.2.s.1.w.6: Kabyl e -> Kabyle
+[DETECTION WRONG] page127.text.div.2.div.2.list.1.item.2.s.1.w.5: Kabyl -> Kabul
+[DETECTION WRONG] page127.text.div.2.div.2.list.1.item.2.s.2.w.1: a -> v
+[DETECTION WRONG] page127.text.div.2.div.2.list.1.item.2.s.2.w.1;page127.text.div.2.div.2.list.1.item.2.s.2.w.2: a . -> v.
+[DETECTION WRONG] page127.text.div.2.div.2.list.1.item.2.s.2.w.1: a -> .
+[DETECTION WRONG] INSERTION AFTER page127.text.div.2.div.2.list.1.item.2.s.2.w.1: Vlaanderen
+[DETECTION WRONG] page127.text.div.2.div.2.p.2.s.2.w.8: taal -> taak
+[DETECTION WRONG] INSERTION AFTER page127.text.div.2.div.2.p.2.s.4.w.12: ,
+[DETECTION WRONG] page127.text.div.2.div.2.p.2.s.4.w.17: Aures -> Auris
+[DETECTION WRONG] INSERTION AFTER page127.text.div.2.div.2.p.3.s.1.w.16: geopend
+[DETECTION WRONG] INSERTION AFTER page127.text.div.2.div.2.p.3.s.2.w.5: en
+[DETECTION WRONG] INSERTION AFTER page127.text.div.2.div.2.p.3.s.2.w.18: bekend
+[DETECTION WRONG] INSERTION AFTER page127.text.div.2.div.3.p.2.s.3.w.9: ,
+[DETECTION WRONG] page127.text.div.2.div.3.p.2.s.3.w.10: telde -> stelde
+[DETECTION WRONG] INSERTION AFTER page127.text.div.2.div.3.p.2.s.3.w.19: keer
+[DETECTION WRONG] page127.text.div.2.div.3.p.2.s.4.w.2;page127.text.div.2.div.3.p.2.s.4.w.3: ontvoering en -> ontvoeringen
+[DETECTION WRONG] INSERTION AFTER page127.text.div.2.div.3.p.2.s.5.w.4: armste
+[DETECTION WRONG] INSERTION AFTER page127.text.div.2.div.3.p.3.s.2.w.9: maanden
+[DETECTION WRONG] page127.text.div.2.div.3.p.3.s.2.w.26: op -> of
+[DETECTION WRONG] page127.text.div.3.list.1.item.3.s.1.w.3: Temouchent -> Témouchent
+[DETECTION WRONG] INSERTION AFTER page127.text.div.3.list.1.item.11.s.1.w.4: .
+[DETECTION WRONG] page127.text.div.3.list.1.item.17.s.1.w.1;page127.text.div.3.list.1.item.17.s.1.w.2: 17 El -> 17El
+[DETECTION WRONG] INSERTION AFTER page127.text.div.3.list.1.item.17.s.1.w.1: :
+[DETECTION WRONG] INSERTION AFTER page127.text.div.3.list.1.item.18.s.1.w.1: :
+[DETECTION WRONG] INSERTION AFTER page127.text.div.3.list.1.item.19.s.1.w.1: :
+[DETECTION WRONG] page127.text.div.3.list.1.item.26.s.1.w.2: Muaskar -> Muskar
+[DETECTION WRONG] page127.text.div.3.list.1.item.27.s.1.w.2: Medea -> Media
+[DETECTION WRONG] page127.text.div.3.list.1.item.30.s.1.w.3: ’ -> '
+[DETECTION WRONG] page127.text.div.3.list.1.item.30.s.1.w.2: M -> '
+[DETECTION WRONG] page127.text.div.3.list.1.item.30.s.1.w.4: Sila -> Silva
+[DETECTION WRONG] INSERTION AFTER page127.text.div.3.list.1.item.38.s.1.w.4: .
+[DETECTION WRONG] page127.text.div.4.p.1.s.1.w.12;page127.text.div.4.p.1.s.1.w.13: gebied en -> gebieden
+[DETECTION WRONG] page127.text.div.4.p.1.s.1.w.14: het -> met
+[DETECTION WRONG] INSERTION AFTER page127.text.div.4.p.2.s.1.w.6: uitmaakt
+[DETECTION WRONG] page127.text.div.4.p.3.s.1.w.6: dit -> dat
+[DETECTION WRONG] page127.text.div.4.list.1.item.1.s.1.w.1: een -> Een
+[DETECTION WRONG] page127.text.div.4.list.1.item.1.s.1.w.7: bergen -> Bergen
+[DETECTION WRONG] page127.text.div.4.list.1.item.2.s.1.w.1: het -> Het
+[DETECTION WRONG] page127.text.div.4.list.1.item.2.s.1.w.12: Mediterraan -> mediterraan
+[DETECTION WRONG] page127.text.div.4.list.1.item.3.s.1.w.1: het -> Het
+[DETECTION WRONG] INSERTION AFTER page127.text.div.4.list.1.item.3.s.1.w.2: Anholt
+[DETECTION WRONG] page127.text.div.4.list.1.item.3.s.1.w.5: Chotts -> Chott
+[DETECTION WRONG] page127.text.div.4.list.1.item.3.s.1.w.20: chotts -> chotty
+[DETECTION WRONG] page127.text.div.4.list.1.item.4.s.1.w.1: het -> Het
+[DETECTION WRONG] page127.text.div.4.list.1.item.4.s.2.w.7;page127.text.div.4.list.1.item.4.s.2.w.8: gebied en -> gebieden
+[DETECTION WRONG] page127.text.div.4.p.5.s.1.w.14: m -> )
+[DETECTION WRONG] page127.text.div.4.p.5.s.3.w.9: grint -> grind
+[DETECTION WRONG] INSERTION AFTER page127.text.div.4.div.2.p.1.s.1.w.24: te
+[DETECTION WRONG] page127.text.div.4.div.3.head.1.s.1.w.1: Oasen -> Fasen
+[DETECTION WRONG] INSERTION AFTER page127.text.div.4.div.4.list.1.item.1.s.1.w.1: Almog
+[DETECTION WRONG] page127.text.div.4.div.4.list.1.item.5.s.1.w.1: Setif -> Setia
+[DETECTION WRONG] INSERTION AFTER page127.text.div.4.div.4.list.1.item.5.s.1.w.1: Budi
+[DETECTION WRONG] page127.text.div.4.div.4.list.1.item.7.s.1.w.1: Beskra -> Besra
+[DETECTION WRONG] page127.text.div.4.div.4.list.1.item.7.s.1.w.1: Beskra -> Bera
+[DETECTION WRONG] page127.text.div.4.div.4.list.1.item.7.s.1.w.1: Beskra -> Bert
+[DETECTION WRONG] INSERTION AFTER page127.text.div.4.div.4.list.1.item.7.s.1.w.1: Grabsch
+[DETECTION WRONG] page127.text.div.4.div.4.list.1.item.9.s.1.w.1: Tbessa -> Tessa
+[DETECTION WRONG] INSERTION AFTER page127.text.div.4.div.4.list.1.item.9.s.1.w.1: Vandoorne
+[DETECTION WRONG] INSERTION AFTER page127.text.div.5.list.1.item.1.s.1.w.4: .
+[DETECTION WRONG] page127.text.div.7.head.1.s.1.w.1: Economie -> economie
+[DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.1.s.1.w.26: ,
+[DETECTION WRONG] page127.text.div.7.p.1.s.1.w.27: dan -> aan
+[DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.1.s.1.w.27: is
+[DETECTION WRONG] page127.text.div.7.p.1.s.1.w.27: dan -> dan
+[DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.1.s.1.w.30: de
+[DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.1.s.2.w.1: soort
+[DETECTION WRONG] page127.text.div.7.p.1.s.3.w.10;page127.text.div.7.p.1.s.3.w.11: plaats en -> plaatsen
+[DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.2.s.1.w.3: vooral
+[DETECTION WRONG] page127.text.div.7.p.2.s.1.w.18: oasen -> fasen
+[DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.2.s.1.w.17: beslissende
+[DETECTION WRONG] page127.text.div.7.p.2.s.1.w.18: oasen -> fase
+[DETECTION WRONG] page127.text.div.7.p.2.s.4.w.5: schapen -> schepen
+[DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.2.s.4.w.10: ander
+[DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.3.s.2.w.18: donderdag
+[DETECTION WRONG] page127.text.div.7.p.4.s.1.w.4: in -> en
+[DETECTION WRONG] page127.text.div.7.p.4.s.2.w.9: r -> R
+[DETECTION WRONG] page127.text.div.7.p.4.s.2.w.11;page127.text.div.7.p.4.s.2.w.12: Mel en -> Melen
+[DETECTION WRONG] page127.text.div.7.p.4.s.2.w.11: Mel -> Melk
+[DETECTION WRONG] page127.text.div.7.p.6.s.1.w.19: dranken -> Vranken
+[DETECTION WRONG] page127.text.div.7.p.7.s.1.w.7: inkomens -> inkomen
+[DETECTION WRONG] page127.text.div.7.p.7.s.2.w.7: dranken -> drinken
+[DETECTION WRONG] page127.text.div.7.p.7.s.2.w.11;page127.text.div.7.p.7.s.2.w.12: ijzer en -> ijzeren
+[DETECTION WRONG] page127.text.div.7.p.7.s.2.w.13: staal -> staaf
+[DETECTION WRONG] page127.text.div.7.p.7.s.2.w.15: vervoerapparatuur -> vervoersapparatuur
+[DETECTION WRONG] page127.text.div.8.head.1.s.1.w.1: Politiek -> Politie
+[DETECTION WRONG] INSERTION AFTER page127.text.div.8.p.3.s.2.w.13: worden
+[DETECTION WRONG] page127.text.div.8.p.3.s.2.w.15: moesten -> moeten
+[DETECTION WRONG] page127.text.div.8.p.3.s.4.w.3: FLN-leden -> LN-leden
+[DETECTION WRONG] page127.text.div.8.p.4.s.1.w.10: islamistische -> islamitische
+[DETECTION WRONG] INSERTION AFTER page127.text.div.8.p.4.s.1.w.10: "
+[DETECTION WRONG] page127.text.div.8.p.4.s.1.w.10: islamistische -> islamistische
+[DETECTION WRONG] INSERTION AFTER page127.text.div.8.p.4.s.1.w.15: )
+[DETECTION WRONG] INSERTION AFTER page127.text.div.8.p.4.s.3.w.3: daarop
+[DETECTION WRONG] page127.text.div.8.p.4.s.3.w.11;page127.text.div.8.p.4.s.3.w.12: werd en -> werden
+[DETECTION WRONG] page127.text.div.8.p.4.s.4.w.7: Zeroual -> Zéroual
+[DETECTION WRONG] INSERTION AFTER page127.text.div.8.p.5.s.2.w.13: Israëlische
+[DETECTION WRONG] INSERTION AFTER page127.text.div.8.p.5.s.3.w.7: nieuwe
+[DETECTION WRONG] INSERTION AFTER page127.text.div.8.p.6.s.1.w.1: deelnemers
+[DETECTION WRONG] INSERTION AFTER page127.text.div.8.p.6.s.1.w.9: "
+[DETECTION WRONG] page127.text.div.8.p.6.s.1.w.13: Armée -> Armé
+[DETECTION WRONG] INSERTION AFTER page127.text.div.8.p.7.s.5.w.7: de
+[DETECTION WRONG] page127.text.div.8.p.8.s.2.w.20: raad -> raam
+[DETECTION WRONG] page127.text.div.8.list.1.item.1.s.1.w.1: president -> President
+[DETECTION WRONG] page127.text.div.8.list.1.item.2.s.1.w.1: regeringsleider -> Regeringsleider
+[DETECTION WRONG] page127.text.div.8.list.1.item.3.s.1.w.1: minister -> Minister
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.p.1.s.1.w.1: partijen -> Partijen
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.p.1.s.1.w.8: ): -> )
+[DETECTION WRONG] INSERTION AFTER page127.text.div.8.list.1.item.4.p.1.s.1.w.8: 16,8
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.1.s.1.w.1: FLN -> FN
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.1.s.1.w.1: FLN -> IN
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.1.s.1.w.12: nationaalraad -> nationaal raad
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.2.s.1.w.1: RND -> IND
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.2.s.1.w.1: RND -> IN
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.3.s.1.w.1: MRN -> MR
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.1: MSP -> ESP
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.1: MSP -> ESB
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.6: Société -> société
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.9: Paix -> paix
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.5.s.1.w.1: PT -> P
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.5.s.1.w.1: PT -> '
+[DETECTION WRONG] INSERTION AFTER page127.text.div.8.list.1.item.4.list.1.item.5.s.1.w.9: .
+[DETECTION WRONG] INSERTION AFTER page127.text.div.8.list.1.item.4.list.1.item.6.s.1.w.5: .
+[DETECTION WRONG] page127.text.div.8.div.1.head.1.s.1.w.1: Economie -> economie
+[DETECTION WRONG] page127.text.div.8.div.1.list.1.item.2.s.1.w.2: BNP -> BBP
+[DETECTION WRONG] page127.text.div.8.div.1.list.1.item.3.s.1.w.9: wijn -> Tijn
+[DETECTION WRONG] page127.text.div.8.div.1.list.1.item.6.s.1.w.1: Exportpartners -> exportpartners
+[DETECTION WRONG] page127.text.div.8.div.1.list.1.item.8.s.1.w.1: Importpartners -> importpartners
+[DETECTION WRONG] INSERTION AFTER page127.text.div.8.div.1.list.1.item.8.s.1.w.8: ,
+[DETECTION WRONG] page127.text.div.9.p.1.s.1.w.8: kust -> rust
+[DETECTION WRONG] page127.text.div.10.head.1.s.1.w.1: Sport -> sport
+[DETECTION WRONG] INSERTION AFTER page127.text.div.11.list.1.item.1.s.1.w.4: ,
+[DETECTION WRONG] INSERTION AFTER page127.text.div.11.list.1.item.1.s.1.w.6: .
+[DETECTION WRONG] page127.text.div.11.list.1.item.2.s.1.w.1: president -> President

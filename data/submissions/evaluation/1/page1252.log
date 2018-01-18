@@ -1,0 +1,5 @@
+[DETECTION MATCH] page1252.text.p.3.s.2.w.9: Patriarch -> patriarch
+	[CORRECT]
+[DETECTION MATCH] page1252.text.p.3.s.2.w.22: dulde -> duldde
+	[CORRECT]
+[DETECTION WRONG] page1252.text.p.3.s.2.w.16: kerkzaken -> kerkdaken

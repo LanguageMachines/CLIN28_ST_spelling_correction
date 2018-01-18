@@ -1,0 +1,90 @@
+[DETECTION MATCH] page1272.text.p.1.s.1.w.21: Duits -> duitss
+	[INCORRECT] Should be: Duitse
+[DETECTION MISS] page1272.text.p.2.s.1.w.20;page1272.text.p.2.s.1.w.22: science fiction -> sciencefiction
+[DETECTION MISS] page1272.text.p.2.s.2.w.10;page1272.text.p.2.s.2.w.11: er van -> ervan
+[DETECTION MISS] page1272.text.div.1.div.1.p.1.s.7.w.15;page1272.text.div.1.div.1.p.1.s.7.w.16: Copernicus ' -> Copernicus'
+[DETECTION MISS] page1272.text.div.1.div.2.p.1.s.2.w.2: schoolwas -> school was
+[DETECTION MISS] page1272.text.div.1.div.2.p.1.s.3.w.11;page1272.text.div.1.div.2.p.1.s.3.w.12: Copernicus ' -> Copernicus'
+[DETECTION MISS] page1272.text.div.1.div.2.p.1.s.9.w.11: Kosmos -> kosmos
+[DETECTION MISS] page1272.text.div.1.div.2.p.1.s.13.w.4: trouwfe -> trouwde
+[DETECTION MISS] page1272.text.div.1.div.3.p.3.s.1.w.4: Kepler’s -> Keplers
+[DETECTION MISS] page1272.text.div.1.div.3.p.3.s.2.w.1: Kepler's -> Keplers
+[DETECTION MATCH] page1272.text.div.1.div.3.p.3.s.9.w.6: avantgarde -> aaantgarde
+	[INCORRECT] Should be: avant-garde
+[DETECTION MISS] page1272.text.div.1.div.3.p.4.s.1.w.11: Astrologen -> astrologen
+[DETECTION MISS] page1272.text.div.1.div.3.p.4.s.1.w.14;page1272.text.div.1.div.3.p.4.s.1.w.16: Ram-Leeuw Boogschutter -> Ram-Leeuw-Boogschutter
+[DETECTION MISS] page1272.text.div.1.div.3.p.4.s.5.w.13: aardachtige -> aardachtigen
+[DETECTION MISS] INSERTION AFTER page1272.text.div.1.div.3.p.5.s.1.w.6: in
+[DETECTION MISS] page1272.text.div.1.div.3.p.5.s.2.w.8: latijns -> Latijns
+[DETECTION MISS] page1272.text.div.1.div.3.p.5.s.4.w.12;page1272.text.div.1.div.3.p.5.s.4.w.13: daar boven -> daarboven
+[DETECTION MISS] page1272.text.div.1.div.3.p.5.s.5.w.19;page1272.text.div.1.div.3.p.5.s.5.w.20: plaats vindt -> plaatsvindt
+[DETECTION MISS] page1272.text.div.1.div.3.p.7.s.1.w.5: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.1.div.3.p.7.s.4.w.9: Galilei -> Galileï
+[DETECTION MISS] page1272.text.div.1.div.3.p.7.s.5.w.16: Galilei's -> Galileï's
+[DETECTION MISS] page1272.text.div.1.div.3.p.7.s.7.w.15: Galilei -> Galileï
+[DETECTION MISS] page1272.text.div.1.div.4.p.1.s.4.w.11: jong -> jonge
+[DETECTION MISS] page1272.text.div.1.div.4.p.1.s.5.w.1: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.1.div.4.p.1.s.5.w.13: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.1.div.4.p.1.s.7.w.18: gedachtenwereld -> gedachtewereld
+[DETECTION MISS] page1272.text.div.1.div.4.p.1.s.8.w.8: wet -> wet.
+[DETECTION MISS] page1272.text.div.1.div.5.p.1.s.3.w.20: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.1.div.5.p.1.s.7.w.8;page1272.text.div.1.div.5.p.1.s.7.w.9: jaren lang -> jarenlang
+[DETECTION MISS] INSERTION AFTER page1272.text.div.1.div.5.p.1.s.7.w.9: voort
+[DETECTION MISS] page1272.text.div.1.div.6.p.1.s.1.w.6: dertigjarige -> Dertigjarige
+[DETECTION MISS] page1272.text.div.1.div.6.p.1.s.1.w.7: oorlog -> Oorlog
+[DETECTION MISS] page1272.text.div.1.div.7.p.1.s.1.w.10: asroloog -> astroloog
+[DETECTION MISS] page1272.text.div.1.div.7.p.1.s.4.w.19: dejaren -> de jaren
+[DETECTION MISS] page1272.text.div.1.div.8.p.1.s.4.w.3: dertigjarige -> Dertigjarige
+[DETECTION MISS] page1272.text.div.1.div.8.p.1.s.4.w.4: oorlog -> Oorlog
+[DETECTION MISS] page1272.text.div.1.div.9.p.1.s.3.w.5: Kepler's -> Keplers
+[DETECTION MISS] INSERTION AFTER page1272.text.div.1.div.9.p.1.s.4.w.33: de
+[DETECTION MISS] page1272.text.div.1.div.9.p.1.s.4.w.36: Hoe -> hoe
+[DETECTION MISS] page1272.text.div.1.div.9.p.1.s.5.w.6;page1272.text.div.1.div.9.p.1.s.5.w.7: er uitzien -> eruitzien
+[DETECTION MISS] page1272.text.div.1.div.9.p.1.s.6.w.7;page1272.text.div.1.div.9.p.1.s.6.w.8: science sprookje -> science-sprookje
+[DETECTION MISS] page1272.text.div.1.div.9.p.1.s.6.w.22: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.2.p.4.s.1.w.5: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.2.p.5.s.1.w.6: Kepler's -> Keplers
+[DETECTION WRONG] page1272.text.div.1.div.1.p.1.s.9.w.2: ideeën -> iieeen
+[DETECTION WRONG] page1272.text.div.1.div.2.head.1.s.1.w.4: 1594-1600 -> @-,
+[DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.2.w.15: aartshertog -> aaarshertog
+[DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.17.w.19: verlaten -> verlaten
+[DETECTION WRONG] page1272.text.div.1.div.3.head.1.s.1.w.2: 1600-1612 -> @-,
+[DETECTION WRONG] page1272.text.div.1.div.3.p.2.s.1.w.20: werken -> werken
+[DETECTION WRONG] page1272.text.div.1.div.3.p.2.s.2.w.29: Duits -> duitss
+[DETECTION WRONG] page1272.text.div.1.div.3.p.3.s.2.w.2: interpretatie -> interpretatie
+[DETECTION WRONG] page1272.text.div.1.div.3.p.3.s.7.w.21: objecten -> oojecten
+[DETECTION WRONG] page1272.text.div.1.div.3.p.3.s.10.w.10: daarmede -> daarmeee
+[DETECTION WRONG] page1272.text.div.1.div.3.p.3.s.12.w.16: observaties -> ooservaties
+[DETECTION WRONG] page1272.text.div.1.div.3.p.4.s.1.w.18: noem -> noemden
+[DETECTION WRONG] page1272.text.div.1.div.3.p.4.s.2.w.3: deelden -> dezldendelen
+[DETECTION WRONG] page1272.text.div.1.div.3.p.4.s.2.w.16: drie -> drie
+[DETECTION WRONG] page1272.text.div.1.div.3.p.4.s.5.w.10: vormden -> voomden
+[DETECTION WRONG] page1272.text.div.1.div.3.p.4.s.5.w.32: verbonden -> verbonden
+[DETECTION WRONG] page1272.text.div.1.div.3.p.5.s.1.w.8: Duits -> duitss
+[DETECTION WRONG] page1272.text.div.1.div.3.p.5.s.5.w.20: vindt -> vindt
+[DETECTION WRONG] page1272.text.div.1.div.3.p.6.s.2.w.24: staan -> staan
+[DETECTION WRONG] page1272.text.div.1.div.3.p.7.s.3.w.22: veranderen -> veranderen
+[DETECTION WRONG] page1272.text.div.1.div.3.p.7.s.6.w.27: Observatis -> ooservatis
+[DETECTION WRONG] page1272.text.div.1.div.4.head.1.s.1.w.2: 1612-1626 -> @-,
+[DETECTION WRONG] page1272.text.div.1.div.5.p.1.s.8.w.17: oktober -> ootober
+[DETECTION WRONG] page1272.text.div.1.div.6.head.1.s.1.w.3: 1626-1627 -> @-,
+[DETECTION WRONG] page1272.text.div.1.div.6.p.1.s.1.w.15: beschadigd -> beschadigd
+[DETECTION WRONG] page1272.text.div.1.div.6.p.1.s.6.w.10: verbeteren -> verbeteren
+[DETECTION WRONG] page1272.text.div.1.div.7.head.1.s.1.w.4: 1627-1630 -> @-,
+[DETECTION WRONG] page1272.text.div.1.div.8.p.2.s.1.w.11: voren -> voorn
+[DETECTION WRONG] page1272.text.div.1.div.9.p.1.s.6.w.25: verlichten -> verlichten
+[DETECTION WRONG] page1272.text.div.2.list.1.item.1.s.1.w.9: ISBN -> isbbn
+[DETECTION WRONG] page1272.text.div.2.list.1.item.1.s.1.w.10: 3-92 -> @-,-,-,
+[DETECTION WRONG] page1272.text.div.2.list.1.item.1.s.1.w.11: 8186-28-0 -> @-,-,
+[DETECTION WRONG] page1272.text.div.2.list.1.item.2.s.7.w.1: ISBN -> isbbn
+[DETECTION WRONG] page1272.text.div.2.list.1.item.2.s.7.w.2: 3-406-01639-1 -> @-,-,-,
+[DETECTION WRONG] page1272.text.div.2.list.1.item.3.s.12.w.1: ISBN -> isbbn
+[DETECTION WRONG] page1272.text.div.2.p.3.s.5.w.1: ISBN -> isbbn
+[DETECTION WRONG] page1272.text.div.2.p.3.s.5.w.2: 3-406-01648-0 -> @-,-,-,
+[DETECTION WRONG] page1272.text.div.2.list.3.item.1.s.1.w.10: ISBN -> isbbn
+[DETECTION WRONG] page1272.text.div.2.list.3.item.1.s.1.w.11: 0-14-0192 -> @-,-,-,
+[DETECTION WRONG] page1272.text.div.2.list.3.item.1.s.1.w.12: 46-8 -> @-,
+[DETECTION WRONG] page1272.text.div.2.list.3.item.2.s.1.w.1: Owen -> oween
+[DETECTION WRONG] page1272.text.div.2.list.3.item.2.s.1.w.12: ISBN -> isbbn
+[DETECTION WRONG] page1272.text.div.2.list.3.item.2.s.1.w.13: 0-434-01315-3 -> @-,-,-,
+[DETECTION WRONG] page1272.text.div.3.list.1.item.1.s.1.w.3: Observatory -> ooservatory

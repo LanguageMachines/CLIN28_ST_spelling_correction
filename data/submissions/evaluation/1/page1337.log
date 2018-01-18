@@ -1,0 +1,118 @@
+[DETECTION MATCH] page1337.text.div.1.p.1.s.1.w.3: Jeugdliteratuur -> jeugdliteratuur
+	[CORRECT]
+[DETECTION MISS] page1337.text.div.1.p.1.s.1.w.23: -en -> en
+[DETECTION MISS] page1337.text.div.3.div.1.div.4.p.3.s.1.w.31: Kockere's -> Kockeres
+[DETECTION MATCH] page1337.text.div.3.div.1.div.6.p.3.s.2.w.5: Vrancken's -> Vrancken
+	[INCORRECT] Should be: Vranckens
+[DETECTION MISS] page1337.text.div.3.div.1.div.6.p.4.s.2.w.4;page1337.text.div.3.div.1.div.6.p.4.s.2.w.5: Wille 's -> Willes
+[DETECTION MISS] page1337.text.div.3.div.1.div.6.p.4.s.2.w.12;page1337.text.div.3.div.1.div.6.p.4.s.2.w.13: Grossman 's -> Grossmans
+[DETECTION MISS] page1337.text.div.3.div.1.div.7.p.1.s.2.w.24;page1337.text.div.3.div.1.div.7.p.1.s.2.w.25: Wang 's -> Wangs
+[DETECTION WRONG] page1337.text.div.1.p.1.s.1.w.1: Kinder- -> kinders
+[DETECTION WRONG] page1337.text.div.1.p.2.s.2.w.10: Moeyaert -> moertje
+[DETECTION WRONG] page1337.text.div.1.p.2.s.3.w.18: kinder -> kinders
+[DETECTION WRONG] page1337.text.div.2.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1337.text.div.2.p.1.s.1.w.7: hanenboekjes -> hanen boekjes
+[DETECTION WRONG] page1337.text.div.2.p.1.s.5.w.7: Bibliotheek -> bibliotheek
+[DETECTION WRONG] page1337.text.div.2.p.1.s.5.w.9: Den -> den
+[DETECTION WRONG] page1337.text.div.2.p.1.s.5.w.10: Haag -> haag
+[DETECTION WRONG] page1337.text.div.2.p.2.s.3.w.18: Smeerpoets -> smeerpoets
+[DETECTION WRONG] page1337.text.div.2.p.2.s.3.w.20: Kruimeltje -> kruimeltje
+[DETECTION WRONG] page1337.text.div.2.p.3.s.1.w.12: Bibliotheek -> bibliotheek
+[DETECTION WRONG] page1337.text.div.2.p.3.s.1.w.14: Den -> den
+[DETECTION WRONG] page1337.text.div.2.p.3.s.1.w.15: Haag -> haag
+[DETECTION WRONG] page1337.text.div.2.p.3.s.1.w.19: Bibliotheek -> bibliotheek
+[DETECTION WRONG] page1337.text.div.2.p.3.s.1.w.22: Universiteit -> universiteit
+[DETECTION WRONG] page1337.text.div.3.p.2.s.1.w.1: Lezen -> lezen
+[DETECTION WRONG] page1337.text.div.3.p.2.s.3.w.24: Dahl -> Dawn
+[DETECTION WRONG] page1337.text.div.3.p.2.s.4.w.9: Dahl -> Dawn
+[DETECTION WRONG] page1337.text.div.3.p.2.s.4.w.11: De -> de
+[DETECTION WRONG] page1337.text.div.3.p.2.s.4.w.12: GVR -> g's
+[DETECTION WRONG] page1337.text.div.3.p.2.s.4.w.18: Pluk -> pluk
+[DETECTION WRONG] page1337.text.div.3.div.1.head.1.s.1.w.1: Literatuur -> literatuur
+[DETECTION WRONG] page1337.text.div.3.div.1.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page1337.text.div.3.div.1.p.1.s.1.w.2: Das -> das
+[DETECTION WRONG] page1337.text.div.3.div.1.p.1.s.1.w.3: Märchen -> marchen
+[DETECTION WRONG] page1337.text.div.3.div.1.p.1.s.1.w.6: Fantasie -> fantasie
+[DETECTION WRONG] page1337.text.div.3.div.1.p.1.s.1.w.8: Kindes -> Kin des
+[DETECTION WRONG] page1337.text.div.3.div.1.p.1.s.1.w.11: Bühler -> butler
+[DETECTION WRONG] page1337.text.div.3.div.1.p.1.s.1.w.19: leesfasen -> lees fasen
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.1.w.1: Voor -> voor
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.2.w.8: schommelwieg -> schommel wieg
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.5.w.4: Wiele -> W iele
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.5.w.5: wiele -> w iele
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.5.w.14: De -> de
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.5.w.15: Kockere -> Kock ere
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.5.w.17: Een -> een
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.5.w.25: Ik -> ik
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.1.s.1.w.1: Vanaf -> vanaf
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.1.s.3.w.2: boxpeuter -> box peuter
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.2.s.1.w.13: Boeke -> Boekel
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.2.s.1.w.18: Boekblok -> boekblok
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.2.s.2.w.2: boxpeuters -> box peuters
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.3.s.1.w.8: Kleine -> kleine
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.1.s.2.w.33: vb -> VN
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.2.s.1.w.13: stapelverhaaltjes -> stapel verhaaltjes
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.2.s.2.w.3: Dribbel -> dribbel
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.2.s.2.w.8: Dikkie -> dikke
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.2.s.2.w.12: Boeke -> Boekel
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.3.s.1.w.29: De -> de
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.3.s.1.w.35: Houd -> houd
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.2.w.4: Het -> het
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.2.w.5: huismens -> huis mens
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.2.w.14: hondenfamilie -> eendenfamilie
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.2.w.19: huismens -> huis mens
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.2.w.29: mamahond -> mama hond
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.3.w.3: huismens -> huis mens
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.1.s.7.w.4: klankspelletjes -> klank spelletjes
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.2.s.4.w.4: kleuterliteratuur -> litteratuur
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.3.s.1.w.11: De -> de
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.3.s.1.w.16: Moni -> mono
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.3.s.1.w.33: octopussenvissende -> octopussen vissende
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.3.s.2.w.4: Het -> het
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.3.s.2.w.14: De -> de
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.1.s.1.w.1: Tussen -> tussen
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.3.s.1.w.9: rijkgeïllustreerd -> rijk geïllustreerd
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.4.s.1.w.10: leesmoeilijkheden -> leermoeilijkheden
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.4.s.2.w.12: Grossman -> Gross man
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.1.s.1.w.11: Robinsonalter -> Robinson alter
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.1.s.2.w.11: Het -> het
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.1.s.2.w.21: navertelling -> na vertelling
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.1.s.2.w.27: Zwanen -> zwanen
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.2.s.3.w.3: escapistisch -> essayistisch
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.3.s.2.w.9: Weet-boeken -> weekboeken
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.4.s.1.w.2: Robinsonalter -> Robinson alter
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.4.s.1.w.6: Crusoë -> Cyrus'
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.4.s.1.w.13: Jean-Jacques -> Jacques'
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.4.s.1.w.22: pedagogisch-filosofisch -> filosofisch
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.5.s.1.w.13: Moeyaert -> moertje
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.5.s.1.w.15: Blote -> blote
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.5.s.1.w.18: Voor -> voor
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.13: probleemlezers -> probleemloze
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.17: Een -> een
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.24: Fine -> fine
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.27: Juffrouw -> juffrouw
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.28: Tureluurs -> tureluurs
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.31: Fine -> fine
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.34: Het -> het
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.50: De -> de
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.59: Heede -> He ede
+[DETECTION WRONG] page1337.text.div.3.div.1.div.8.p.1.s.1.w.1: Deze -> deze
+[DETECTION WRONG] page1337.text.div.3.div.1.div.8.p.1.s.3.w.20: Wanders -> Wander
+[DETECTION WRONG] page1337.text.div.4.p.1.s.1.w.1: Voor -> voor
+[DETECTION WRONG] page1337.text.div.4.list.1.item.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1337.text.div.4.list.1.item.1.s.1.w.27: et -> eto
+[DETECTION WRONG] page1337.text.div.4.list.1.item.2.s.1.w.5: Buijnsters-Smets -> Buijnsters
+[DETECTION WRONG] page1337.text.div.4.list.1.item.2.s.1.w.7: Lust -> lust
+[DETECTION WRONG] page1337.text.div.4.list.1.item.2.s.1.w.9: leering -> Leering
+[DETECTION WRONG] page1337.text.div.4.list.1.item.3.s.1.w.8: Prentenboeken -> prentenboeken
+[DETECTION WRONG] page1337.text.div.4.list.2.item.1.s.1.w.4: Het -> het
+[DETECTION WRONG] page1337.text.div.4.list.2.item.1.s.2.w.3: Acco -> accu
+[DETECTION WRONG] page1337.text.div.4.list.2.item.1.s.2.w.7: herz -> Hera
+[DETECTION WRONG] page1337.text.div.6.head.1.s.1.w.1: Externe -> externe
+[DETECTION WRONG] page1337.text.div.6.list.1.item.1.s.1.w.1: Informatie -> informatie
+[DETECTION WRONG] page1337.text.div.6.list.1.item.3.s.1.w.1: Museum -> museum
+[DETECTION WRONG] page1337.text.div.6.list.1.item.4.s.1.w.1: Bibliotheek -> bibliotheek
+[DETECTION WRONG] page1337.text.div.6.list.1.item.4.s.1.w.4: Universiteit -> universiteit
+[DETECTION WRONG] page1337.text.div.6.list.1.item.4.s.1.w.6: FOUTJE -> foutje

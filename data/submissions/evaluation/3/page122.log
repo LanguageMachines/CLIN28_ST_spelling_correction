@@ -1,0 +1,25 @@
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page122.text.p.1.s.1.w.1'], 'superclass': 'replace', 'text': 'do'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page122.text.p.1.s.1.w.1'], 'superclass': 'replace', 'text': 'de'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page122.text.list.1.item.1.s.1.w.1'], 'superclass': 'replace', 'text': 'Het'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page122.text.list.1.item.2.s.1.w.1'], 'superclass': 'replace', 'text': 'De'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page122.text.list.1.item.3.s.1.w.1'], 'superclass': 'replace', 'text': 'Eilanden'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page122.text.p.4.s.1.w.5'], 'superclass': 'replace', 'text': 'tanden'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page122.text.p.7.s.4.w.6'], 'superclass': 'replace', 'text': 'in'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page122.text.p.7.s.4.w.15'], 'superclass': 'replace', 'text': 'ministerie'} will be ignored!
+[DETECTION MISS] page122.text.p.7.s.3.w.15: ondermeer -> onder meer
+[DETECTION WRONG] page122.text.p.1.s.1.w.1: de -> do
+[DETECTION WRONG] INSERTION AFTER page122.text.p.1.s.1.w.1: verdieping
+[DETECTION WRONG] page122.text.p.1.s.1.w.1: de -> de
+[DETECTION WRONG] page122.text.list.1.item.1.s.1.w.1: het -> Het
+[DETECTION WRONG] INSERTION AFTER page122.text.list.1.item.1.s.1.w.1: Australisch
+[DETECTION WRONG] page122.text.list.1.item.2.s.1.w.1: de -> De
+[DETECTION WRONG] INSERTION AFTER page122.text.list.1.item.2.s.1.w.2: liggen
+[DETECTION WRONG] page122.text.list.1.item.3.s.1.w.1: eilanden -> Eilanden
+[DETECTION WRONG] page122.text.p.4.s.1.w.5: landen -> tanden
+[DETECTION WRONG] page122.text.p.4.s.2.w.11;page122.text.p.4.s.2.w.12: op delen -> opdelen
+[DETECTION WRONG] INSERTION AFTER page122.text.p.5.s.1.w.2: president
+[DETECTION WRONG] page122.text.p.7.s.3.w.31;page122.text.p.7.s.3.w.32: er in -> erin
+[DETECTION WRONG] page122.text.p.7.s.4.w.6: is -> in
+[DETECTION WRONG] INSERTION AFTER page122.text.p.7.s.4.w.6: werking
+[DETECTION WRONG] INSERTION AFTER page122.text.p.7.s.4.w.8: is
+[DETECTION WRONG] page122.text.p.7.s.4.w.15: Ministerie -> ministerie

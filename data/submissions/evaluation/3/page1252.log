@@ -1,0 +1,7 @@
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1252.text.p.3.s.2.w.22'], 'superclass': 'replace', 'text': 'dulden'} will be ignored!
+[DETECTION MISS] page1252.text.p.3.s.2.w.9: Patriarch -> patriarch
+[DETECTION MATCH] page1252.text.p.3.s.2.w.22: dulde -> dulden
+	[INCORRECT] Should be: duldde
+[DETECTION WRONG] page1252.text.p.3.s.1.w.7;page1252.text.p.3.s.1.w.8: achtergesteld en -> achtergestelden
+[DETECTION WRONG] INSERTION AFTER page1252.text.p.3.s.1.w.7: voelen
+[DETECTION WRONG] INSERTION AFTER page1252.text.p.4.s.1.w.12: orthodoxe

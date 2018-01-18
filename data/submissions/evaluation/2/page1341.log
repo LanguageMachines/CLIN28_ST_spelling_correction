@@ -1,0 +1,11 @@
+[DETECTION MISS] page1341.text.div.1.p.1.s.1.w.3: werden -> werd
+[DETECTION MISS] page1341.text.div.1.p.1.s.3.w.11;page1341.text.div.1.p.1.s.3.w.12: Louis-de-Grand lyceum -> Louis-de-Grandlyceum
+[DETECTION MISS] page1341.text.div.1.p.1.s.4.w.8: Ecole -> École
+[DETECTION MISS] page1341.text.div.1.p.1.s.7.w.11: franse -> Franse
+[DETECTION MATCH] page1341.text.div.1.p.1.s.11.w.9: ideëen -> iieeen
+	[INCORRECT] Should be: ideeën
+[DETECTION WRONG] page1341.text.div.1.p.1.s.10.w.20: mur -> murr
+[DETECTION WRONG] page1341.text.div.2.list.1.item.3.s.1.w.4: mur -> murr
+[DETECTION WRONG] page1341.text.div.2.list.1.item.11.s.1.w.7: dialectique -> dialectiyue
+[DETECTION WRONG] page1341.text.div.3.list.1.item.2.s.1.w.9: libre -> libre
+[DETECTION WRONG] page1341.text.div.3.list.1.item.3.s.1.w.6: avons -> aaons

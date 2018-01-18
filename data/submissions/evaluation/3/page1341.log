@@ -1,0 +1,67 @@
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1341.text.p.2.s.2.w.1'], 'superclass': 'replace', 'text': 'Van'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1341.text.div.1.p.1.s.3.w.11'], 'superclass': 'replace', 'text': 'Louis-le-Grand'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1341.text.div.1.p.1.s.4.w.8'], 'superclass': 'replace', 'text': 'École'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1341.text.div.1.p.1.s.7.w.11'], 'superclass': 'replace', 'text': 'Franse'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1341.text.div.1.p.1.s.8.w.4'], 'superclass': 'replace', 'text': 'een'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1341.text.div.1.p.1.s.10.w.9'], 'superclass': 'replace', 'text': 'roman'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1341.text.div.1.p.1.s.10.w.17'], 'superclass': 'replace', 'text': 'novelle'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1341.text.div.1.p.2.s.1.w.10'], 'superclass': 'replace', 'text': 'Literatuur'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1341.text.div.2.list.1.item.2.s.1.w.3'], 'superclass': 'replace', 'text': 'la'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1341.text.div.2.list.1.item.3.s.1.w.8'], 'superclass': 'replace', 'text': 'de'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1341.text.div.2.list.1.item.5.s.1.w.9'], 'superclass': 'replace', 'text': 'vlieger'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1341.text.div.2.list.1.item.6.s.1.w.18'], 'superclass': 'replace', 'text': 'het'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1341.text.div.2.list.1.item.6.s.1.w.24'], 'superclass': 'replace', 'text': 'proeven'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1341.text.div.2.list.1.item.7.s.1.w.3'], 'superclass': 'replace', 'text': 'huis-clos'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1341.text.div.2.list.1.item.12.s.1.w.8'], 'superclass': 'replace', 'text': 'de'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1341.text.div.3.list.1.item.1.s.2.w.17'], 'superclass': 'replace', 'text': 'uit'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1341.text.div.3.list.1.item.1.s.2.w.18'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1341.text.div.3.list.1.item.2.s.2.w.16'], 'superclass': 'replace', 'text': 'uit'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1341.text.div.3.list.1.item.2.s.2.w.17'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1341.text.div.3.list.1.item.3.s.1.w.14'], 'superclass': 'replace', 'text': 'Occupation'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1341.text.div.3.list.1.item.4.s.2.w.15'], 'superclass': 'replace', 'text': 'huis-clos'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1341.text.div.3.p.1.s.1.w.11'], 'superclass': 'replace', 'text': 'en'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1341.text.div.3.p.1.s.1.w.18'], 'superclass': 'replace', 'text': 'âge'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1341.text.div.3.p.1.s.1.w.22'], 'superclass': 'replace', 'text': 'originaliteit'} will be ignored!
+[DETECTION MISS] page1341.text.div.1.p.1.s.1.w.3: werden -> werd
+[DETECTION MISS] page1341.text.div.1.p.1.s.3.w.11;page1341.text.div.1.p.1.s.3.w.12: Louis-de-Grand lyceum -> Louis-de-Grandlyceum
+[DETECTION MATCH] page1341.text.div.1.p.1.s.4.w.8: Ecole -> École
+	[CORRECT]
+[DETECTION MATCH] page1341.text.div.1.p.1.s.7.w.11: franse -> Franse
+	[CORRECT]
+[DETECTION MISS] page1341.text.div.1.p.1.s.11.w.9: ideëen -> ideeën
+[DETECTION WRONG] page1341.text.p.2.s.2.w.1: Aan -> Van
+[DETECTION WRONG] INSERTION AFTER page1341.text.p.2.s.2.w.3: in
+[DETECTION WRONG] page1341.text.div.1.p.1.s.3.w.11: Louis-de-Grand -> Louis-le-Grand
+[DETECTION WRONG] page1341.text.div.1.p.1.s.8.w.4: ten -> een
+[DETECTION WRONG] INSERTION AFTER page1341.text.div.1.p.1.s.8.w.5: levering
+[DETECTION WRONG] page1341.text.div.1.p.1.s.10.w.9: romans -> roman
+[DETECTION WRONG] page1341.text.div.1.p.1.s.10.w.17: novelles -> novelle
+[DETECTION WRONG] page1341.text.div.1.p.1.s.10.w.19;page1341.text.div.1.p.1.s.10.w.20: Le mur -> Lemur
+[DETECTION WRONG] page1341.text.div.1.p.2.s.1.w.10: literatuur -> Literatuur
+[DETECTION WRONG] page1341.text.div.2.list.1.item.2.s.1.w.3: La -> la
+[DETECTION WRONG] page1341.text.div.2.list.1.item.3.s.1.w.3;page1341.text.div.2.list.1.item.3.s.1.w.4: Le mur -> Lemur
+[DETECTION WRONG] page1341.text.div.2.list.1.item.3.s.1.w.8: De -> de
+[DETECTION WRONG] page1341.text.div.2.list.1.item.5.s.1.w.9: vliegen -> vlieger
+[DETECTION WRONG] page1341.text.div.2.list.1.item.5.s.1.w.8;page1341.text.div.2.list.1.item.5.s.1.w.9: De vliegen -> Devlieger
+[DETECTION WRONG] page1341.text.div.2.list.1.item.6.s.1.w.10;page1341.text.div.2.list.1.item.6.s.1.w.11: Essai d -> Essaid
+[DETECTION WRONG] page1341.text.div.2.list.1.item.6.s.1.w.18: Het -> het
+[DETECTION WRONG] INSERTION AFTER page1341.text.div.2.list.1.item.6.s.1.w.19: lange
+[DETECTION WRONG] page1341.text.div.2.list.1.item.6.s.1.w.24: proeve -> proeven
+[DETECTION WRONG] page1341.text.div.2.list.1.item.7.s.1.w.3: Huis-clos -> huis-clos
+[DETECTION WRONG] page1341.text.div.2.list.1.item.12.s.1.w.8: De -> de
+[DETECTION WRONG] INSERTION AFTER page1341.text.div.2.list.1.item.14.s.1.w.10: .
+[DETECTION WRONG] page1341.text.div.3.list.1.item.1.s.2.w.17: Uit -> uit
+[DETECTION WRONG] page1341.text.div.3.list.1.item.1.s.2.w.18: L -> ,
+[DETECTION WRONG] INSERTION AFTER page1341.text.div.3.list.1.item.2.s.2.w.12: .
+[DETECTION WRONG] page1341.text.div.3.list.1.item.2.s.2.w.16: Uit -> uit
+[DETECTION WRONG] page1341.text.div.3.list.1.item.2.s.2.w.17: L -> ,
+[DETECTION WRONG] INSERTION AFTER page1341.text.div.3.list.1.item.3.s.1.w.6: pas
+[DETECTION WRONG] page1341.text.div.3.list.1.item.3.s.1.w.14: occupation -> Occupation
+[DETECTION WRONG] INSERTION AFTER page1341.text.div.3.list.1.item.4.s.1.w.8: que
+[DETECTION WRONG] INSERTION AFTER page1341.text.div.3.list.1.item.4.s.2.w.4: groene
+[DETECTION WRONG] page1341.text.div.3.list.1.item.4.s.2.w.15: Huis-clos -> huis-clos
+[DETECTION WRONG] page1341.text.div.3.p.1.s.1.w.11: in -> en
+[DETECTION WRONG] page1341.text.div.3.p.1.s.1.w.13;page1341.text.div.3.p.1.s.1.w.14: La force -> Laforce
+[DETECTION WRONG] page1341.text.div.3.p.1.s.1.w.18: age -> âge
+[DETECTION WRONG] page1341.text.div.3.p.1.s.1.w.22: originalteit -> originaliteit
+[DETECTION WRONG] INSERTION AFTER page1341.text.div.3.p.2.s.1.w.16: Edmund

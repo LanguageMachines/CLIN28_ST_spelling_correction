@@ -1,0 +1,197 @@
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.2.p.1.s.4.w.10'], 'superclass': 'replace', 'text': 'baan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.quote.1.p.1.s.3.w.8'], 'superclass': 'replace', 'text': 'ooit'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.p.1.s.1.w.3'], 'superclass': 'replace', 'text': 'Mädchen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.2.p.1.s.1.w.12'], 'superclass': 'replace', 'text': 'lijm'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.2.p.1.s.3.w.1'], 'superclass': 'replace', 'text': 'De'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.3.p.2.s.1.w.13'], 'superclass': 'replace', 'text': 'Beeke'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1337.text.div.3.div.1.div.3.p.2.s.1.w.18'], 'superclass': 'replace', 'text': 'boekblok'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.3.p.3.s.3.w.22'], 'superclass': 'replace', 'text': 'landen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.4.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'Reuters'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.4.p.4.s.1.w.39'], 'superclass': 'replace', 'text': 'moet'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.4.p.5.s.1.w.16'], 'superclass': 'replace', 'text': 'om'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.4.p.5.s.1.w.19'], 'superclass': 'replace', 'text': 'thuis'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1337.text.div.3.div.1.div.4.p.5.s.2.w.26'], 'superclass': 'replace', 'text': 'papa'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.4.p.5.s.3.w.14'], 'superclass': 'replace', 'text': 'we'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.4.p.5.s.3.w.16'], 'superclass': 'replace', 'text': 'ogen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.4.p.5.s.3.w.18'], 'superclass': 'replace', 'text': 'de'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.5.p.1.s.7.w.1'], 'superclass': 'replace', 'text': 'Noord'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.5.p.1.s.7.w.1'], 'superclass': 'replace', 'text': 'moord'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.5.p.1.s.7.w.1'], 'superclass': 'replace', 'text': 'Noord'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.5.p.2.s.1.w.18'], 'superclass': 'replace', 'text': 'dat'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1337.text.div.3.div.1.div.5.p.3.s.1.w.14'], 'superclass': 'replace', 'text': 'Tsatsiki'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1337.text.div.3.div.1.div.5.p.3.s.2.w.4'], 'superclass': 'replace', 'text': 'het'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.5.p.3.s.2.w.11'], 'superclass': 'replace', 'text': 'kond'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.6.p.1.s.1.w.4'], 'superclass': 'replace', 'text': 'leven'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.6.p.1.s.1.w.3'], 'superclass': 'replace', 'text': 'in'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.6.p.2.s.1.w.6'], 'superclass': 'replace', 'text': 'leven'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1337.text.div.3.div.1.div.6.list.1.item.1.s.1.w.1'], 'superclass': 'replace', 'text': 'Inzicht'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1337.text.div.3.div.1.div.6.list.1.item.2.s.1.w.1'], 'superclass': 'replace', 'text': 'Klank'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1337.text.div.3.div.1.div.6.list.1.item.5.s.1.w.1'], 'superclass': 'replace', 'text': 'Ervaring'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.6.list.1.item.5.s.2.w.1'], 'superclass': 'replace', 'text': '2'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.6.list.1.item.5.s.3.w.1'], 'superclass': 'replace', 'text': 'zoeken'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1337.text.div.3.div.1.div.6.p.3.s.2.w.5'], 'superclass': 'replace', 'text': 'Vranckens'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.6.p.4.s.2.w.8'], 'superclass': 'replace', 'text': 'Lord'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.6.p.4.s.2.w.25'], 'superclass': 'replace', 'text': 'kust'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.6.p.4.s.2.w.25'], 'superclass': 'replace', 'text': 'rust'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.7.p.1.s.2.w.14'], 'superclass': 'replace', 'text': '.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.7.p.1.s.2.w.17'], 'superclass': 'replace', 'text': 'De'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1337.text.div.3.div.1.div.7.p.1.s.2.w.27'], 'superclass': 'replace', 'text': 'zwanen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1337.text.div.3.div.1.div.7.p.2.s.2.w.6'], 'superclass': 'replace', 'text': 'historische'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1337.text.div.3.div.1.div.7.p.2.s.2.w.9'], 'superclass': 'replace', 'text': 'fantasie'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.7.p.2.s.3.w.10'], 'superclass': 'replace', 'text': 'er'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.7.p.2.s.3.w.11'], 'superclass': 'replace', 'text': 'intrekt'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.7.p.3.s.2.w.4'], 'superclass': 'replace', 'text': 'start'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.7.p.5.s.1.w.4'], 'superclass': 'replace', 'text': 'aan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1337.text.div.3.div.1.div.7.p.5.s.1.w.18'], 'superclass': 'replace', 'text': 'voor'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.7.p.5.s.1.w.29'], 'superclass': 'replace', 'text': 'aan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.7.p.6.s.2.w.14'], 'superclass': 'replace', 'text': 'me'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.7.p.6.s.2.w.14'], 'superclass': 'replace', 'text': 'de'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1337.text.div.3.div.1.div.7.p.7.s.1.w.17'], 'superclass': 'replace', 'text': 'een'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1337.text.div.3.div.1.div.7.p.7.s.1.w.34'], 'superclass': 'replace', 'text': 'het'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.7.p.7.s.1.w.50'], 'superclass': 'replace', 'text': 'je'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.7.p.7.s.1.w.54'], 'superclass': 'replace', 'text': 'Heer'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.8.p.1.s.2.w.3'], 'superclass': 'replace', 'text': 'die'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.8.p.1.s.2.w.5'], 'superclass': 'replace', 'text': 'in'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.3.div.1.div.8.p.1.s.3.w.4'], 'superclass': 'replace', 'text': 'de'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.4.list.1.item.2.s.1.w.7'], 'superclass': 'replace', 'text': 'rust'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1337.text.div.4.list.1.item.2.s.1.w.15'], 'superclass': 'replace', 'text': 'Kinderboek'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.4.list.2.item.1.s.3.w.1'], 'superclass': 'replace', 'text': 'gr.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1337.text.div.4.list.2.item.1.s.4.w.2'], 'superclass': 'replace', 'text': 'literatuurwetenschappelijk'} will be ignored!
+[DETECTION MISS] page1337.text.div.1.p.1.s.1.w.3: Jeugdliteratuur -> jeugdliteratuur
+[DETECTION MATCH] page1337.text.div.1.p.1.s.1.w.23: -en -> - en
+	[INCORRECT] Should be: en
+[DETECTION MISS] page1337.text.div.3.div.1.div.4.p.3.s.1.w.31: Kockere's -> Kockeres
+[DETECTION MATCH] page1337.text.div.3.div.1.div.6.p.3.s.2.w.5: Vrancken's -> Vranckens
+	[CORRECT]
+[DETECTION MISS] page1337.text.div.3.div.1.div.6.p.4.s.2.w.4;page1337.text.div.3.div.1.div.6.p.4.s.2.w.5: Wille 's -> Willes
+[DETECTION MISS] page1337.text.div.3.div.1.div.6.p.4.s.2.w.12;page1337.text.div.3.div.1.div.6.p.4.s.2.w.13: Grossman 's -> Grossmans
+[DETECTION MATCH] page1337.text.div.3.div.1.div.7.p.1.s.2.w.24;page1337.text.div.3.div.1.div.7.p.1.s.2.w.25: Wang 's -> Wang's
+	[INCORRECT] Should be: Wangs
+[DETECTION WRONG] INSERTION AFTER page1337.text.p.1.s.1.w.19: uur
+[DETECTION WRONG] page1337.text.p.2.s.2.w.11;page1337.text.p.2.s.2.w.12: gebruikt en -> gebruikten
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.1.p.1.s.1.w.18: jaar
+[DETECTION WRONG] page1337.text.div.1.p.1.s.1.w.22;page1337.text.div.1.p.1.s.1.w.23: psychologische -en -> psychologische-
+[DETECTION WRONG] page1337.text.div.1.p.1.s.1.w.25;page1337.text.div.1.p.1.s.1.w.26: plaats heeft -> plaatsheeft
+[DETECTION WRONG] page1337.text.div.1.p.2.s.2.w.7;page1337.text.div.1.p.2.s.2.w.8: Franck en -> Francken
+[DETECTION WRONG] page1337.text.div.1.p.2.s.3.w.18;page1337.text.div.1.p.2.s.3.w.19: kinder - -> kinder-
+[DETECTION WRONG] page1337.text.div.1.p.2.s.3.w.21;page1337.text.div.1.p.2.s.3.w.22: jeugd - -> jeugd-
+[DETECTION WRONG] page1337.text.div.2.p.1.s.4.w.10: haan -> baan
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.2.p.3.s.1.w.18: Koninklijke
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.p.1.s.1.w.2: heeft
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.p.2.s.3.w.7: klinken
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.quote.1.p.1.s.1.w.2: prille
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.quote.1.p.1.s.1.w.13: te
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.quote.1.p.1.s.2.w.3: niet
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.quote.1.p.1.s.2.w.14: ...
+[DETECTION WRONG] page1337.text.div.3.quote.1.p.1.s.3.w.8: nooit -> ooit
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.quote.1.p.1.s.3.w.8: iets
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.quote.1.p.1.s.3.w.23: te
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.quote.1.p.1.s.7.w.5: is
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.quote.1.p.1.s.8.w.7: in
+[DETECTION WRONG] page1337.text.div.3.div.1.p.1.s.1.w.3: Märchen -> Mädchen
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.p.1.s.2.w.5: houden
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.1.w.12: rijm -> lijm
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.1.w.14;page1337.text.div.3.div.1.div.2.p.1.s.1.w.15: woord en -> woorden
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.3.w.2;page1337.text.div.3.div.1.div.2.p.1.s.3.w.3: stimuleren de -> stimulerende
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.3.w.1: Ze -> De
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.3.w.4;page1337.text.div.3.div.1.div.2.p.1.s.3.w.5: ontwikkeling en -> ontwikkelingen
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.2.p.1.s.4.w.9: mijn
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.5.w.20;page1337.text.div.3.div.1.div.2.p.1.s.5.w.21: zilver en -> zilveren
+[DETECTION WRONG] page1337.text.div.3.div.1.div.2.p.1.s.5.w.23;page1337.text.div.3.div.1.div.2.p.1.s.5.w.24: Schmidt 's -> Schmidt's
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.1.s.1.w.8;page1337.text.div.3.div.1.div.3.p.1.s.1.w.9: hand en -> handen
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.1.s.2.w.4;page1337.text.div.3.div.1.div.3.p.1.s.2.w.5: hand - -> hand-
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.1.s.3.w.17;page1337.text.div.3.div.1.div.3.p.1.s.3.w.18: kaft en -> kaften
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.2.s.1.w.13: Boeke -> Beeke
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.2.s.1.w.18: Boekblok -> boekblok
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.3.p.3.s.2.w.14: wel
+[DETECTION WRONG] page1337.text.div.3.div.1.div.3.p.3.s.3.w.22: tanden -> landen
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.head.1.s.1.w.1: Peuters -> Reuters
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.1.s.1.w.1;page1337.text.div.3.div.1.div.4.p.1.s.1.w.2: De peuter -> Depeuter
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.4.p.1.s.1.w.14: goed
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.4.p.1.s.2.w.1: een
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.4.p.1.s.2.w.2: basistest
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.2.s.2.w.6;page1337.text.div.3.div.1.div.4.p.2.s.2.w.7: Hill en -> Hillen
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.4.s.1.w.39: zoet -> moet
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.1.w.5;page1337.text.div.3.div.1.div.4.p.5.s.1.w.6: Ross en -> Rossen
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.4.p.5.s.1.w.13: tegelijk
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.1.w.16: kom -> om
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.1.w.19: huis -> thuis
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.4.p.5.s.1.w.19: komt
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.2.w.15;page1337.text.div.3.div.1.div.4.p.5.s.2.w.16: wil de -> wilde
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.2.w.26;page1337.text.div.3.div.1.div.4.p.5.s.2.w.27: papa - -> papa-
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.2.w.26: papa -> papa
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.3.w.14: je -> we
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.3.w.16: oren -> ogen
+[DETECTION WRONG] page1337.text.div.3.div.1.div.4.p.5.s.3.w.18: je -> de
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.5.p.1.s.4.w.9: enkel
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.1.s.7.w.1;page1337.text.div.3.div.1.div.5.p.1.s.7.w.2: Woord - -> Woord-
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.1.s.7.w.1: Woord -> Noord
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.1.s.7.w.1;page1337.text.div.3.div.1.div.5.p.1.s.7.w.3: Woord en -> Noorden
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.1.s.7.w.1: Woord -> moord
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.5.p.1.s.7.w.1: -
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.1.s.7.w.1: Woord -> Noord
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.1.s.8.w.7;page1337.text.div.3.div.1.div.5.p.1.s.8.w.8: angst en -> angsten
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.2.s.1.w.18: dit -> dat
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.5.p.3.s.1.w.10: Romain
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.3.s.1.w.14: Tatsiki -> Tsatsiki
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.3.s.2.w.4: Het -> het
+[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.3.s.2.w.11: vond -> kond
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.1.s.1.w.4: zeven -> leven
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.1.s.1.w.3: en -> in
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.1.s.1.w.5;page1337.text.div.3.div.1.div.6.p.1.s.1.w.6: beginnen de -> beginnende
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.6.p.2.s.1.w.2: deel
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.2.s.1.w.6: lezen -> leven
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.6.p.2.s.1.w.5: Het
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.6.p.2.s.1.w.6: van
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.6.p.2.s.1.w.7: .
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.list.1.item.1.s.1.w.1: inzicht -> Inzicht
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.list.1.item.2.s.1.w.1;page1337.text.div.3.div.1.div.6.list.1.item.2.s.1.w.2: klank - -> klank-
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.list.1.item.2.s.1.w.1: klank -> Klank
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.list.1.item.2.s.1.w.1;page1337.text.div.3.div.1.div.6.list.1.item.2.s.1.w.3: klank en -> Klanken
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.6.list.1.item.3.s.1.w.3: .
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.list.1.item.5.s.1.w.1: ervaring -> Ervaring
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.list.1.item.5.s.2.w.1: a -> 2
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.list.1.item.5.s.3.w.1: boeken -> zoeken
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.3.s.1.w.9: rijkgeïllustreerd -> rijk geïllustreerd
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.4.s.1.w.6;page1337.text.div.3.div.1.div.6.p.4.s.1.w.7: er voor -> ervoor
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.4.s.2.w.8: Lora -> Lord
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.4.s.2.w.25: kast -> kust
+[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.4.s.2.w.25: kast -> rust
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.1.s.2.w.14: d -> .
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.7.p.1.s.2.w.13: Jonah
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.1.s.2.w.17: e -> De
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.1.s.2.w.17;page1337.text.div.3.div.1.div.7.p.1.s.2.w.18: e witte -> Dewitte
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.1.s.2.w.27: Zwanen -> zwanen
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.2.s.1.w.12;page1337.text.div.3.div.1.div.7.p.2.s.1.w.13: voorkeur en -> voorkeuren
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.2.s.2.w.6;page1337.text.div.3.div.1.div.7.p.2.s.2.w.7: historische - -> historische-
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.2.s.2.w.6: historische -> historische
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.2.s.2.w.9;page1337.text.div.3.div.1.div.7.p.2.s.2.w.10: fantasie - -> fantasie-
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.2.s.2.w.9: fantasie -> fantasie
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.2.s.3.w.10: erg -> er
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.2.s.3.w.11;page1337.text.div.3.div.1.div.7.p.2.s.3.w.12: in trek -> intrek
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.2.s.3.w.11: in -> intrekt
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.7.p.3.s.1.w.14: situatie
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.3.s.2.w.4: stort -> start
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.7.p.5.s.1.w.1: de
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.5.s.1.w.4: van -> aan
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.7.p.5.s.1.w.7: de
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.5.s.1.w.18: Voor -> voor
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.5.s.1.w.29: kan -> aan
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.6.s.2.w.14: de -> me
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.7.p.6.s.2.w.14: kosten
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.6.s.2.w.14: de -> de
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.17: Een -> een
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.34: Het -> het
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.50: De -> je
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.54: beer -> Heer
+[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.57;page1337.text.div.3.div.1.div.7.p.7.s.1.w.58: Van den -> Vanden
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.8.p.1.s.1.w.7: uur
+[DETECTION WRONG] page1337.text.div.3.div.1.div.8.p.1.s.2.w.3: de -> die
+[DETECTION WRONG] page1337.text.div.3.div.1.div.8.p.1.s.2.w.5: is -> in
+[DETECTION WRONG] page1337.text.div.3.div.1.div.8.p.1.s.3.w.4: die -> de
+[DETECTION WRONG] INSERTION AFTER page1337.text.div.4.p.1.s.1.w.2: volledig
+[DETECTION WRONG] page1337.text.div.4.list.1.item.2.s.1.w.7;page1337.text.div.4.list.1.item.2.s.1.w.8: Lust en -> Lusten
+[DETECTION WRONG] page1337.text.div.4.list.1.item.2.s.1.w.7: Lust -> rust
+[DETECTION WRONG] page1337.text.div.4.list.1.item.2.s.1.w.15: kinderboek -> Kinderboek
+[DETECTION WRONG] page1337.text.div.4.list.2.item.1.s.3.w.1: dr. -> gr.
+[DETECTION WRONG] page1337.text.div.4.list.2.item.1.s.4.w.2: Literatuurwetenschappelijk -> literatuurwetenschappelijk

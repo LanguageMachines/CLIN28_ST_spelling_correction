@@ -1,0 +1,26 @@
+[DETECTION MISS] page1263.text.p.1.s.1.w.15;page1263.text.p.1.s.1.w.16: PvdA -huize -> PvdA-huize
+[DETECTION MISS] page1263.text.p.2.s.3.w.17;page1263.text.p.2.s.3.w.18;page1263.text.p.2.s.3.w.20: PvdA- CPN D66 -> PvdA-CPN-D66
+[DETECTION MISS] page1263.text.p.2.s.3.w.19: - -> 
+[DETECTION MISS] page1263.text.p.3.s.2.w.15;page1263.text.p.3.s.2.w.16: SP -leider -> SP-leider
+[DETECTION MISS] page1263.text.p.3.s.9.w.6: vertrekt -> vertrek
+[DETECTION WRONG] page1263.text.p.1.s.1.w.16: -huize -> huizes
+[DETECTION WRONG] page1263.text.p.2.s.1.w.7: middenstandsgezin -> middenstand
+[DETECTION WRONG] page1263.text.p.2.s.3.w.17: PvdA- -> PvdA
+[DETECTION WRONG] page1263.text.p.2.s.3.w.18: CPN -> C++
+[DETECTION WRONG] page1263.text.p.2.s.4.w.13: Tweede -> tweede
+[DETECTION WRONG] page1263.text.p.2.s.5.w.7: Onderwijs -> onderwijs
+[DETECTION WRONG] page1263.text.p.2.s.5.w.9: Wetenschappen -> wetenschappen
+[DETECTION WRONG] page1263.text.p.2.s.5.w.13: kabinet-Lubbers -> kabinet
+[DETECTION WRONG] page1263.text.p.2.s.6.w.7: Sociale -> sociale
+[DETECTION WRONG] page1263.text.p.2.s.6.w.8: Zaken -> zaken
+[DETECTION WRONG] page1263.text.p.2.s.6.w.15: Veld -> veld
+[DETECTION WRONG] page1263.text.p.3.s.1.w.3: Tweede -> tweede
+[DETECTION WRONG] page1263.text.p.3.s.2.w.16: -leider -> leiders
+[DETECTION WRONG] page1263.text.p.3.s.2.w.18: Marijnissen -> Marij nissen
+[DETECTION WRONG] page1263.text.p.3.s.3.w.13: Tweede -> tweede
+[DETECTION WRONG] page1263.text.p.3.s.6.w.8: Melkert -> melker
+[DETECTION WRONG] page1263.text.p.3.s.8.w.13: Raad -> raad
+[DETECTION WRONG] page1263.text.p.3.s.8.w.16: Openbaar -> openbaar
+[DETECTION WRONG] page1263.text.p.3.s.8.w.17: Bestuur -> bestuur
+[DETECTION WRONG] page1263.text.p.3.s.9.w.13: Je -> je
+[DETECTION WRONG] page1263.text.p.3.s.9.w.28: Grieze -> griezel

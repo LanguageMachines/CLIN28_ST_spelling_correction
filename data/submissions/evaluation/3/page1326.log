@@ -1,0 +1,11 @@
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1326.text.p.2.s.1.w.1'], 'superclass': 'replace', 'text': 'Gillet'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1326.text.p.2.s.2.w.8'], 'superclass': 'replace', 'text': 'of'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1326.text.p.2.s.3.w.28'], 'superclass': 'replace', 'text': 'realistische'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1326.text.p.4.s.1.w.7'], 'superclass': 'replace', 'text': 'oktober'} will be ignored!
+[DETECTION MATCH] page1326.text.p.4.s.1.w.7: october -> oktober
+	[CORRECT]
+[DETECTION WRONG] page1326.text.p.2.s.1.w.1: Millet -> Gillet
+[DETECTION WRONG] INSERTION AFTER page1326.text.p.2.s.1.w.2: na
+[DETECTION WRONG] page1326.text.p.2.s.2.w.8: af -> of
+[DETECTION WRONG] page1326.text.p.2.s.2.w.12;page1326.text.p.2.s.2.w.13: modestijl en -> modestijlen
+[DETECTION WRONG] page1326.text.p.2.s.3.w.28: realistiche -> realistische

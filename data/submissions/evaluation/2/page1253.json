@@ -1,0 +1,81 @@
+{
+    "all": {
+        "detection": {
+            "truepos": 1.0,
+            "falseneg": 6.0,
+            "recall": 0.14285714285714285,
+            "falsepos": 13.0,
+            "precision": 0.07142857142857142,
+            "f1score": 0.09523809523809523
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.956,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0,
+            "precision": 0.0
+        }
+    },
+    "confusion": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 2.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "missingword": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 3.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "nonworderror": {
+        "detection": {
+            "truepos": 1.0,
+            "falseneg": 0.0,
+            "recall": 1.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.956,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "spliterror": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 1.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    }
+}

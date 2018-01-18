@@ -1,0 +1,127 @@
+[DETECTION MATCH] page1147.text.div.1.p.2.s.1.w.8: eiggennaam -> eigennaam
+	[CORRECT]
+[DETECTION MATCH] page1147.text.div.1.p.3.s.1.w.21: Christelijke -> christelijke
+	[CORRECT]
+[DETECTION MISS] page1147.text.div.1.p.5.s.3.w.15;page1147.text.div.1.p.5.s.3.w.16: Groot Khan -> grootkan
+[DETECTION MATCH] page1147.text.div.1.p.8.s.4.w.4: machtstrijd -> machtsstrijd
+	[CORRECT]
+[DETECTION MATCH] page1147.text.div.1.p.8.s.4.w.12: contra-revolutionairen -> contrarevolutionairen
+	[CORRECT]
+[DETECTION MATCH] page1147.text.div.1.p.11.s.1.w.12: Volksrepubliek -> volksrepubliek
+	[CORRECT]
+[DETECTION MATCH] page1147.text.div.2.div.2.head.1.s.1.w.2: Partijen -> partijen
+	[CORRECT]
+[DETECTION MISS] page1147.text.div.2.div.2.list.1.item.2.s.1.w.2;page1147.text.div.2.div.2.list.1.item.2.s.1.w.3: Burger Unie -> Burgerunie
+[DETECTION MATCH] page1147.text.div.3.p.1.s.1.w.11: meerendeel -> merendeel
+	[CORRECT]
+[DETECTION MATCH] page1147.text.div.3.p.1.s.2.w.13: Zigeuners -> zigeuners
+	[CORRECT]
+[DETECTION MISS] page1147.text.div.4.p.1.s.1.w.14;page1147.text.div.4.p.1.s.1.w.15;page1147.text.div.4.p.1.s.1.w.16: vrije markt economie -> vrijemarkteconomie
+[DETECTION MATCH] page1147.text.div.4.p.1.s.2.w.5: landbouw-arealen -> landbouwarealen
+	[CORRECT]
+[DETECTION MISS] page1147.text.div.4.p.1.s.3.w.3: dientensector -> dienstensector
+[DETECTION MATCH] page1147.text.div.4.p.1.s.4.w.16: reëele -> reële
+	[CORRECT]
+[DETECTION MATCH] page1147.text.div.5.p.1.s.1.w.23: noord-oosten -> noordoosten
+	[CORRECT]
+[DETECTION MATCH] page1147.text.div.5.p.2.s.1.w.6: tweeen -> tweeën
+	[CORRECT]
+[DETECTION MATCH] page1147.text.div.6.list.1.item.12.s.1.w.4: opera-componist -> operacomponist
+	[CORRECT]
+[DETECTION WRONG] page1147.text.div.1.p.1.s.1.w.1: Hoofdartikel -> hoofdartikel
+[DETECTION WRONG] page1147.text.div.1.p.1.s.1.w.4: Geschiedenis -> geschiedenis
+[DETECTION WRONG] page1147.text.div.1.p.2.s.1.w.1: De -> de
+[DETECTION WRONG] page1147.text.div.1.p.3.s.1.w.17: Heilige -> heilige
+[DETECTION WRONG] page1147.text.div.1.p.4.s.1.w.24: Heilige -> heilige
+[DETECTION WRONG] page1147.text.div.1.p.4.s.2.w.6: Gouden -> gouden
+[DETECTION WRONG] page1147.text.div.1.p.4.s.2.w.7: Edict -> edict
+[DETECTION WRONG] page1147.text.div.1.p.5.s.1.w.5: Mongolen -> mongolen
+[DETECTION WRONG] page1147.text.div.1.p.5.s.2.w.6: Bela -> Be la
+[DETECTION WRONG] page1147.text.div.1.p.5.s.2.w.7: IV -> Ivy
+[DETECTION WRONG] page1147.text.div.1.p.5.s.2.w.14: Muhi -> muft
+[DETECTION WRONG] page1147.text.div.1.p.5.s.3.w.22: Mongolen -> mongolen
+[DETECTION WRONG] page1147.text.div.1.p.5.s.4.w.3: Bela -> Be la
+[DETECTION WRONG] page1147.text.div.1.p.6.s.1.w.6: 14e -> veertiende
+[DETECTION WRONG] page1147.text.div.1.p.8.s.2.w.9: Eerste -> eerste
+[DETECTION WRONG] page1147.text.div.1.p.8.s.2.w.10: Wereldoorlog -> wereldoorlog
+[DETECTION WRONG] page1147.text.div.1.p.8.s.2.w.15: Károlyi -> Karols
+[DETECTION WRONG] page1147.text.div.1.p.8.s.3.w.2: Eerste -> eerste
+[DETECTION WRONG] page1147.text.div.1.p.8.s.3.w.3: Wereldoorlog -> wereldoorlog
+[DETECTION WRONG] page1147.text.div.1.p.8.s.4.w.21: Horthy -> hortus
+[DETECTION WRONG] page1147.text.div.1.p.9.s.1.w.21: Nazi-Duitsland -> nazi-Duitsland
+[DETECTION WRONG] page1147.text.div.1.p.9.s.1.w.35: Tweede -> tweede
+[DETECTION WRONG] page1147.text.div.1.p.9.s.1.w.36: Wereldoorlog -> wereldoorlog
+[DETECTION WRONG] page1147.text.div.1.p.9.s.1.w.43: Derde -> derde
+[DETECTION WRONG] page1147.text.div.1.p.10.s.1.w.9: Westelijke -> westelijke
+[DETECTION WRONG] page1147.text.div.1.p.10.s.2.w.9: Het -> het
+[DETECTION WRONG] page1147.text.div.1.p.10.s.2.w.11: Leger -> leger
+[DETECTION WRONG] page1147.text.div.1.p.11.s.2.w.10: Leger -> leger
+[DETECTION WRONG] page1147.text.div.1.p.12.s.3.w.11: Unie -> unie
+[DETECTION WRONG] page1147.text.div.2.div.1.head.1.s.1.w.1: Staatsinrichting -> staatsinrichting
+[DETECTION WRONG] page1147.text.div.2.div.1.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1147.text.div.2.div.1.p.1.s.1.w.2: Republiek -> republiek
+[DETECTION WRONG] page1147.text.div.2.div.2.list.1.item.1.s.1.w.2: Socialistische -> socialistische
+[DETECTION WRONG] page1147.text.div.2.div.2.list.1.item.1.s.1.w.3: Partij -> partij
+[DETECTION WRONG] page1147.text.div.2.div.2.list.1.item.1.s.1.w.8: Hiller -> Hille r
+[DETECTION WRONG] page1147.text.div.2.div.2.list.1.item.2.s.1.w.2: Burger -> burger
+[DETECTION WRONG] page1147.text.div.2.div.2.list.1.item.2.s.1.w.3: Unie -> unie
+[DETECTION WRONG] page1147.text.div.2.div.2.list.1.item.3.s.1.w.1: Alliantie -> alliantie
+[DETECTION WRONG] page1147.text.div.2.div.2.list.1.item.3.s.1.w.3: Vrije -> vrije
+[DETECTION WRONG] page1147.text.div.2.div.2.list.1.item.3.s.1.w.4: Democraten -> democraten
+[DETECTION WRONG] page1147.text.div.2.div.2.list.1.item.3.s.1.w.9: Kuncze -> kungfu
+[DETECTION WRONG] page1147.text.div.2.div.2.list.1.item.4.s.1.w.2: Democratisch -> democratisch
+[DETECTION WRONG] page1147.text.div.2.div.2.list.1.item.4.s.1.w.3: Forum -> forum
+[DETECTION WRONG] page1147.text.div.2.div.3.head.1.s.1.w.1: Bestuurlijke -> bestuurlijke
+[DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.3: Baranya -> Barans
+[DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.5: Békés -> Beke
+[DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.35: Heves -> hevea
+[DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.50: Miskolc -> miskom
+[DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.61: Pécs -> pech
+[DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.64: Pest -> pest
+[DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.90: Vas -> V as
+[DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.97: Zala -> zalm
+[DETECTION WRONG] page1147.text.div.3.head.1.s.1.w.1: Bevolking -> bevolking
+[DETECTION WRONG] page1147.text.div.3.p.1.s.2.w.27: Armenen -> Armen en
+[DETECTION WRONG] page1147.text.div.4.p.1.s.1.w.1: Sinds -> sinds
+[DETECTION WRONG] page1147.text.div.4.p.1.s.3.w.13: BNP -> bnp
+[DETECTION WRONG] page1147.text.div.4.p.1.s.4.w.3: BNP -> bnp
+[DETECTION WRONG] page1147.text.div.4.div.1.list.1.item.1.s.1.w.1: Totaal -> totaal
+[DETECTION WRONG] page1147.text.div.4.div.1.list.1.item.2.s.1.w.1: Reëel -> reëel
+[DETECTION WRONG] page1147.text.div.4.div.1.list.1.item.4.list.1.item.1.s.1.w.1: Land- -> Landa
+[DETECTION WRONG] page1147.text.div.4.div.1.list.1.item.4.list.1.item.2.s.1.w.1: Industrie -> industrie
+[DETECTION WRONG] page1147.text.div.4.div.1.list.1.item.4.list.1.item.3.s.1.w.1: Dienstensector -> dienstensector
+[DETECTION WRONG] page1147.text.div.4.div.1.p.1.s.1.w.1: Import -> import
+[DETECTION WRONG] page1147.text.div.4.div.1.p.2.s.1.w.1: Export -> export
+[DETECTION WRONG] page1147.text.div.4.div.1.p.3.s.1.w.1: Buitenlandse -> buitenlandse
+[DETECTION WRONG] page1147.text.div.5.head.1.s.1.w.1: Geografie -> geografie
+[DETECTION WRONG] page1147.text.div.5.p.1.s.1.w.1: Het -> het
+[DETECTION WRONG] page1147.text.div.5.p.1.s.1.w.13: Basin -> Basil
+[DETECTION WRONG] page1147.text.div.5.p.1.s.1.w.20: karpaten -> Karpaten
+[DETECTION WRONG] page1147.text.div.5.p.2.s.2.w.9: Dráva -> draws
+[DETECTION WRONG] page1147.text.div.5.div.1.list.1.item.6.s.1.w.19: Miskolc -> miskom
+[DETECTION WRONG] page1147.text.div.5.div.1.list.1.item.6.s.1.w.29: Pécs -> pech
+[DETECTION WRONG] page1147.text.div.6.head.1.s.1.w.1: Beroemde -> beroemde
+[DETECTION WRONG] page1147.text.div.6.list.1.item.1.s.1.w.1: Oszkár -> Oskar
+[DETECTION WRONG] page1147.text.div.6.list.1.item.2.s.1.w.1: Donát -> Donath
+[DETECTION WRONG] page1147.text.div.6.list.1.item.2.s.1.w.2: Bánki -> Banka
+[DETECTION WRONG] page1147.text.div.6.list.1.item.3.s.1.w.2: Bartók -> Barto
+[DETECTION WRONG] page1147.text.div.6.list.1.item.6.s.1.w.1: János -> Jano's
+[DETECTION WRONG] page1147.text.div.6.list.1.item.7.s.1.w.2: Darnyi -> daarna
+[DETECTION WRONG] page1147.text.div.6.list.1.item.9.s.1.w.1: Krisztina -> Kristina
+[DETECTION WRONG] page1147.text.div.6.list.1.item.10.s.1.w.1: Lóránt -> Loran
+[DETECTION WRONG] page1147.text.div.6.list.1.item.11.s.1.w.1: Pál -> pal
+[DETECTION WRONG] page1147.text.div.6.list.1.item.11.s.1.w.2: Erd -> erf
+[DETECTION WRONG] page1147.text.div.6.list.1.item.15.s.1.w.2: Horn -> hors
+[DETECTION WRONG] page1147.text.div.6.list.1.item.16.s.1.w.2: Horthy -> hortus
+[DETECTION WRONG] page1147.text.div.6.list.1.item.17.s.1.w.1: Mór -> mor
+[DETECTION WRONG] page1147.text.div.6.list.1.item.20.s.1.w.1: Zoltán -> zolang
+[DETECTION WRONG] page1147.text.div.6.list.1.item.25.s.1.w.5: Liszt -> lispt
+[DETECTION WRONG] page1147.text.div.6.list.1.item.26.s.1.w.2: Márai -> Marjo
+[DETECTION WRONG] page1147.text.div.6.list.1.item.27.s.1.w.1: József -> Joosse
+[DETECTION WRONG] page1147.text.div.6.list.1.item.28.s.1.w.2: Nádas -> Nada
+[DETECTION WRONG] page1147.text.div.6.list.1.item.30.s.1.w.1: János -> Jano's
+[DETECTION WRONG] page1147.text.div.6.list.1.item.34.s.1.w.1: Ignác -> Ignace
+[DETECTION WRONG] page1147.text.div.7.head.1.s.1.w.1: Zie -> zie
+[DETECTION WRONG] page1147.text.div.7.list.1.item.4.s.1.w.1: Monumenten -> monumenten
+[DETECTION WRONG] page1147.text.div.7.list.1.item.4.s.1.w.4: Werelderfgoedlijst -> werelderfgoedlijst
+[DETECTION WRONG] page1147.text.div.7.list.1.item.5.s.1.w.5: Z -> z

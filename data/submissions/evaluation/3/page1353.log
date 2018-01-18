@@ -1,0 +1,68 @@
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'een', 'span': ['page1353.text.div.1.p.1.s.6.w.9'], 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'een', 'span': ['page1353.text.div.1.p.1.s.7.w.4'], 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'worden', 'span': ['page1353.text.div.1.p.1.s.8.w.3'], 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'mailboot', 'span': ['page1353.text.div.1.p.2.s.3.w.16'], 'class': 'nonworderror'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'NLD', 'span': ['page1353.text.div.1.p.5.s.1.w.14'], 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'VLD', 'span': ['page1353.text.div.1.p.5.s.1.w.14'], 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'jumbojet', 'span': ['page1353.text.div.1.p.6.s.1.w.10'], 'class': 'capitalizationerror'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'dub', 'span': ['page1353.text.div.1.div.1.p.1.s.3.w.21'], 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'duo', 'span': ['page1353.text.div.1.div.1.p.1.s.3.w.21'], 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'de', 'span': ['page1353.text.div.1.div.1.p.1.s.5.w.23'], 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'moet', 'span': ['page1353.text.div.1.div.1.p.1.s.7.w.16'], 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'u', 'span': ['page1353.text.div.2.list.1.item.1.s.2.w.7'], 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': '200ER', 'span': ['page1353.text.div.2.list.1.item.2.s.1.w.4'], 'class': 'redundantpunctuation'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'A320', 'span': ['page1353.text.div.2.div.1.head.1.s.1.w.2'], 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'naar', 'span': ['page1353.text.div.2.div.1.p.1.s.2.w.24'], 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'KM', 'span': ['page1353.text.div.2.div.2.p.1.s.1.w.5'], 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': '737-vloot', 'span': ['page1353.text.div.2.div.2.p.1.s.1.w.15'], 'class': 'nonworderror'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'NM', 'span': ['page1353.text.div.3.list.1.item.1.s.1.w.6'], 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'NY', 'span': ['page1353.text.div.3.list.1.item.1.s.1.w.6'], 'class': 'replace'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'Ltd', 'span': ['page1353.text.div.3.list.2.item.3.s.1.w.22'], 'class': 'redundantpunctuation'} will be ignored!
+[DETECTION MATCH] page1353.text.div.1.p.6.s.1.w.10: Jumbojet -> jumbojet
+	[CORRECT]
+[DETECTION MISS] page1353.text.div.1.p.6.s.2.w.22: Jumbojet -> jumbojet
+[DETECTION MISS] page1353.text.div.3.list.2.item.1.s.1.w.2: alps -> Alps
+[DETECTION MISS] page1353.text.div.3.list.2.item.2.s.1.w.2: exel -> Exel
+[DETECTION MISS] page1353.text.div.3.list.2.item.3.s.1.w.2: uk -> UK
+[DETECTION MISS] page1353.text.div.3.list.2.item.3.s.1.w.5: opereerd -> opereert
+[DETECTION WRONG] INSERTION AFTER page1353.text.p.1.s.1.w.4: (
+[DETECTION WRONG] INSERTION AFTER page1353.text.p.3.s.4.w.8: is
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.1.head.1.s.1.w.1: .
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.1.p.1.s.2.w.14: Frits
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.1.p.1.s.3.w.10: werd
+[DETECTION WRONG] page1353.text.div.1.p.1.s.6.w.9: en -> een
+[DETECTION WRONG] page1353.text.div.1.p.1.s.7.w.4: geen -> een
+[DETECTION WRONG] page1353.text.div.1.p.1.s.8.w.3: werden -> worden
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.1.p.1.s.9.w.10: Space
+[DETECTION WRONG] page1353.text.div.1.p.2.s.3.w.16: mailboat -> mailboot
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.1.p.2.s.4.w.11: de
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.1.p.3.s.1.w.1: groot
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.1.p.3.s.1.w.14: McDonnell
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.1.p.4.s.1.w.16: een
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.1.p.4.s.1.w.17: generatie
+[DETECTION WRONG] page1353.text.div.1.p.5.s.1.w.14: NLM -> NLD
+[DETECTION WRONG] page1353.text.div.1.p.5.s.1.w.14: NLM -> VLD
+[DETECTION WRONG] page1353.text.div.1.p.6.s.2.w.27;page1353.text.div.1.p.6.s.2.w.28: Am -toestel -> Am-toestel
+[DETECTION WRONG] page1353.text.div.1.p.6.s.2.w.26;page1353.text.div.1.p.6.s.2.w.27: Pan Am -> PanAm-toestel
+[DETECTION WRONG] page1353.text.div.1.div.1.p.1.s.3.w.21: hub -> dub
+[DETECTION WRONG] page1353.text.div.1.div.1.p.1.s.3.w.21: hub -> duo
+[DETECTION WRONG] page1353.text.div.1.div.1.p.1.s.5.w.23: die -> de
+[DETECTION WRONG] page1353.text.div.1.div.1.p.1.s.7.w.16: moest -> moet
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.1.div.1.p.1.s.7.w.19: de
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.1.div.2.head.1.s.1.w.4: .
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.1.div.2.p.1.s.4.w.1: wetenschappelijke
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.1.div.2.p.1.s.4.w.6: mag
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.2.head.1.s.1.w.1: .
+[DETECTION WRONG] page1353.text.div.2.list.1.item.1.s.1.w.2;page1353.text.div.2.list.1.item.1.s.1.w.3: 747 -400 -> 747-400
+[DETECTION WRONG] page1353.text.div.2.list.1.item.1.s.2.w.7: h -> u
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.2.list.1.item.1.s.2.w.7: !
+[DETECTION WRONG] page1353.text.div.2.list.1.item.2.s.1.w.4: 200ER: -> 200ER
+[DETECTION WRONG] page1353.text.div.2.div.1.head.1.s.1.w.2: A330 -> A320
+[DETECTION WRONG] page1353.text.div.2.div.1.p.1.s.2.w.24: waar -> naar
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.2.div.1.p.1.s.2.w.36: lichaam
+[DETECTION WRONG] page1353.text.div.2.div.2.p.1.s.1.w.5: KLM -> KM
+[DETECTION WRONG] page1353.text.div.2.div.2.p.1.s.1.w.15: 777-vloot -> 737-vloot
+[DETECTION WRONG] page1353.text.div.3.list.1.item.1.s.1.w.6: NLM -> NM
+[DETECTION WRONG] page1353.text.div.3.list.1.item.1.s.1.w.6: NLM -> NY
+[DETECTION WRONG] page1353.text.div.3.list.2.item.3.s.1.w.22: Ltd. -> Ltd
+[DETECTION WRONG] INSERTION AFTER page1353.text.div.4.list.1.item.2.s.1.w.2: en

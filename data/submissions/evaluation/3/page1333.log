@@ -1,0 +1,51 @@
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1333.text.p.2.s.1.w.6'], 'superclass': 'replace', 'text': 'carrière'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1333.text.p.3.s.3.w.26'], 'superclass': 'replace', 'text': 'geld'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1333.text.p.4.s.2.w.15'], 'superclass': 'replace', 'text': 'nemen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1333.text.p.4.s.3.w.17'], 'superclass': 'replace', 'text': 'dat'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1333.text.p.5.s.4.w.1'], 'superclass': 'replace', 'text': 'De'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1333.text.p.5.s.7.w.2'], 'superclass': 'replace', 'text': 'Burg'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1333.text.p.6.s.3.w.4'], 'superclass': 'replace', 'text': 'dit'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1333.text.p.6.s.3.w.37'], 'superclass': 'replace', 'text': 'Slam-titel'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1333.text.p.7.s.1.w.8'], 'superclass': 'replace', 'text': 'bergafwaarts'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1333.text.p.7.s.5.w.2'], 'superclass': 'replace', 'text': 'kon'} will be ignored!
+[DETECTION MISS] page1333.text.p.1.s.1.w.14;page1333.text.p.1.s.1.w.15: Grand Slamwinnaar -> grandslamwinnaar
+[DETECTION MATCH] page1333.text.p.2.s.1.w.6: carriere -> carrière
+	[CORRECT]
+[DETECTION MISS] page1333.text.p.2.s.1.w.9;page1333.text.p.2.s.1.w.10;page1333.text.p.2.s.1.w.11: Grand Slam titels -> grandslamtitels
+[DETECTION MATCH] page1333.text.p.2.s.1.w.14;page1333.text.p.2.s.1.w.15: heren enkelspel -> herenenkelspel
+	[INCORRECT] Should be: herenenenkelspel
+[DETECTION MISS] page1333.text.p.5.s.6.w.7: Wimbledon-finale -> Wimbledonfinale
+[DETECTION MISS] page1333.text.p.6.s.3.w.36;page1333.text.p.6.s.3.w.37;page1333.text.p.6.s.3.w.38: Grand Slam titel -> grandslamtitel
+[DETECTION MATCH] page1333.text.p.7.s.1.w.8: bergafwaards -> bergafwaarts
+	[CORRECT]
+[DETECTION MATCH] page1333.text.p.7.s.4.w.38;page1333.text.p.7.s.4.w.39: heren dubbelspel -> herendubbelspel
+	[CORRECT]
+[DETECTION MISS] page1333.text.p.7.s.5.w.5;page1333.text.p.7.s.5.w.6;page1333.text.p.7.s.5.w.7: Grand Slam titels -> grandslamtitels
+[DETECTION WRONG] INSERTION AFTER page1333.text.p.1.s.3.w.3: "
+[DETECTION WRONG] INSERTION AFTER page1333.text.p.1.s.3.w.5: "
+[DETECTION WRONG] page1333.text.p.2.s.1.w.10;page1333.text.p.2.s.1.w.11: Slam titels -> Slamtitels
+[DETECTION WRONG] INSERTION AFTER page1333.text.p.3.s.3.w.6: voor
+[DETECTION WRONG] page1333.text.p.3.s.3.w.23;page1333.text.p.3.s.3.w.24: daar in -> daarin
+[DETECTION WRONG] page1333.text.p.3.s.3.w.26: veld -> geld
+[DETECTION WRONG] INSERTION AFTER page1333.text.p.3.s.4.w.2: een
+[DETECTION WRONG] INSERTION AFTER page1333.text.p.4.s.1.w.7: worden
+[DETECTION WRONG] page1333.text.p.4.s.2.w.15: namen -> nemen
+[DETECTION WRONG] page1333.text.p.4.s.3.w.17: zat -> dat
+[DETECTION WRONG] INSERTION AFTER page1333.text.p.4.s.4.w.8: kunnen
+[DETECTION WRONG] page1333.text.p.5.s.4.w.1: Die -> De
+[DETECTION WRONG] INSERTION AFTER page1333.text.p.5.s.4.w.3: gewonnen
+[DETECTION WRONG] INSERTION AFTER page1333.text.p.5.s.7.w.1: de
+[DETECTION WRONG] page1333.text.p.5.s.7.w.2: Borg -> Burg
+[DETECTION WRONG] INSERTION AFTER page1333.text.p.6.s.1.w.7: boven
+[DETECTION WRONG] page1333.text.p.6.s.3.w.4: dat -> dit
+[DETECTION WRONG] INSERTION AFTER page1333.text.p.6.s.3.w.7: halve
+[DETECTION WRONG] page1333.text.p.6.s.3.w.15;page1333.text.p.6.s.3.w.16: in gewonnen -> ingewonnen
+[DETECTION WRONG] page1333.text.p.6.s.3.w.37;page1333.text.p.6.s.3.w.38: Slam titel -> Slamtitel
+[DETECTION WRONG] page1333.text.p.6.s.3.w.37: Slam -> Slam-titel
+[DETECTION WRONG] page1333.text.p.7.s.2.w.10;page1333.text.p.7.s.2.w.11: er toe -> ertoe
+[DETECTION WRONG] INSERTION AFTER page1333.text.p.7.s.4.w.21: de
+[DETECTION WRONG] page1333.text.p.7.s.5.w.2: won -> kon
+[DETECTION WRONG] page1333.text.p.7.s.5.w.6;page1333.text.p.7.s.5.w.7: Slam titels -> Slamtitels
+[DETECTION WRONG] page1333.text.p.7.s.5.w.11;page1333.text.p.7.s.5.w.12: enkelspel en -> enkelspelen
+[DETECTION WRONG] page1333.text.p.9.s.1.w.11;page1333.text.p.9.s.1.w.12: enkelspel en -> enkelspelen
+[DETECTION WRONG] page1333.text.p.10.s.1.w.17;page1333.text.p.10.s.1.w.18: catch phrase -> catchphrase

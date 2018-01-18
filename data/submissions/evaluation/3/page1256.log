@@ -1,0 +1,420 @@
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.p.1.s.1.w.8'], 'superclass': 'replace', 'text': 'improvisaties'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.p.1.s.1.w.26'], 'superclass': 'replace', 'text': 'negrospirituals'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.1.p.1.s.1.w.11'], 'superclass': 'replace', 'text': 'en'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.1.p.2.s.5.w.5'], 'superclass': 'replace', 'text': 'feest'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.1.p.2.s.5.w.5'], 'superclass': 'replace', 'text': 'meest'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.1.p.3.s.3.w.3'], 'superclass': 'replace', 'text': 'heide'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.1.p.3.s.3.w.1'], 'superclass': 'replace', 'text': 'Door'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.2.p.1.s.1.w.1'], 'superclass': 'replace', 'text': 'De'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1256.text.div.2.div.2.p.1.s.2.w.10'], 'superclass': 'replace', 'text': 'E-mineur'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.2.p.2.s.2.w.18'], 'superclass': 'replace', 'text': 'vis'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.2.p.4.s.1.w.2'], 'superclass': 'replace', 'text': 'de'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.2.p.4.s.3.w.2'], 'superclass': 'replace', 'text': 'ritme-instrument'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.2.p.5.s.1.w.1'], 'superclass': 'replace', 'text': 'Dat'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.2.p.5.s.2.w.23'], 'superclass': 'replace', 'text': 'tube'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.3.p.1.s.1.w.39'], 'superclass': 'replace', 'text': 'ze'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.3.p.1.s.2.w.8'], 'superclass': 'replace', 'text': 'verder'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.3.p.1.s.2.w.10'], 'superclass': 'replace', 'text': 'die'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.3.p.2.s.1.w.16'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.3.p.2.s.2.w.3'], 'superclass': 'replace', 'text': 'water'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.3.p.2.s.2.w.2'], 'superclass': 'replace', 'text': 'meer'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.2.div.3.p.3.s.1.w.27'], 'superclass': 'replace', 'text': 'Spoor'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.2.div.4.p.1.s.1.w.7'], 'superclass': 'replace', 'text': 'swing-tijdperk'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.4.p.1.s.2.w.15'], 'superclass': 'replace', 'text': 'en'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.4.p.1.s.3.w.19'], 'superclass': 'replace', 'text': 'er'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.4.p.2.s.1.w.7'], 'superclass': 'replace', 'text': 'ontwikkelde'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.4.p.2.s.2.w.22'], 'superclass': 'replace', 'text': 'Willem'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.4.p.2.s.2.w.26'], 'superclass': 'replace', 'text': 'Basil'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.4.p.2.s.2.w.35'], 'superclass': 'replace', 'text': 'slanke'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.4.p.3.s.1.w.5'], 'superclass': 'replace', 'text': 'aan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.4.p.3.s.2.w.1'], 'superclass': 'replace', 'text': 'Delwarte'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.4.p.3.s.2.w.14'], 'superclass': 'replace', 'text': 'meeste'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.4.p.4.s.1.w.6'], 'superclass': 'replace', 'text': 'voerde'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.2.div.4.p.5.s.2.w.8'], 'superclass': 'replace', 'text': 'de'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.2.div.4.p.7.s.1.w.15'], 'superclass': 'replace', 'text': 'ragtime'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.5.p.1.s.1.w.17'], 'superclass': 'replace', 'text': 'worden'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.5.p.1.s.2.w.2'], 'superclass': 'replace', 'text': 'konden'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.5.p.1.s.2.w.10'], 'superclass': 'replace', 'text': 'door'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.5.p.1.s.5.w.8'], 'superclass': 'replace', 'text': 'onder'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.5.p.2.s.2.w.6'], 'superclass': 'replace', 'text': 'wordt'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.5.p.2.s.4.w.12'], 'superclass': 'replace', 'text': 'be-'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.5.p.2.s.4.w.12'], 'superclass': 'replace', 'text': 'bel'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.6.p.1.s.1.w.4'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.6.p.1.s.1.w.11'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.6.p.2.s.1.w.19'], 'superclass': 'replace', 'text': 'kan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.6.p.3.s.1.w.34'], 'superclass': 'replace', 'text': 'zo'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.6.p.3.s.1.w.37'], 'superclass': 'replace', 'text': 'verhaal'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1256.text.div.2.div.6.p.4.s.1.w.31'], 'superclass': 'replace', 'text': 'classificeerbare'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.6.p.5.s.1.w.12'], 'superclass': 'replace', 'text': 'wie'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.2.div.6.p.5.s.2.w.40'], 'superclass': 'replace', 'text': 'de'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.6.p.5.s.2.w.43'], 'superclass': 'replace', 'text': "'"} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.6.p.5.s.2.w.47'], 'superclass': 'replace', 'text': "'"} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.7.p.1.s.2.w.6'], 'superclass': 'replace', 'text': 'Coasters'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.2.div.9.p.1.s.5.w.7'], 'superclass': 'replace', 'text': 'gospelmuziek'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.9.p.1.s.6.w.8'], 'superclass': 'replace', 'text': 'titel'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.2.div.9.p.2.s.1.w.15'], 'superclass': 'replace', 'text': 'hardbop'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1256.text.div.2.div.9.p.2.s.2.w.31'], 'superclass': 'replace', 'text': 'Mohegan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.10.p.1.s.1.w.27'], 'superclass': 'replace', 'text': 'orgeltrio'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.10.p.1.s.2.w.40'], 'superclass': 'replace', 'text': 'Paterson'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.10.p.2.s.2.w.13'], 'superclass': 'replace', 'text': 'trompettist'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.10.p.4.s.1.w.34'], 'superclass': 'replace', 'text': 'jaren'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.10.p.5.s.1.w.5'], 'superclass': 'replace', 'text': 'Morgans'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.10.p.5.s.1.w.15'], 'superclass': 'replace', 'text': 'Hancocks'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.10.p.5.s.1.w.26'], 'superclass': 'replace', 'text': 'USP'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.10.p.5.s.1.w.34'], 'superclass': 'replace', 'text': 'Silvers'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.2.div.10.p.5.s.1.w.69'], 'superclass': 'replace', 'text': 'gecovered'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.2.div.10.p.6.s.1.w.13'], 'superclass': 'replace', 'text': 'jazz-funk'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.11.p.1.s.2.w.4'], 'superclass': 'replace', 'text': 'vrijer'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.11.p.2.s.4.w.22'], 'superclass': 'replace', 'text': 'gebruiken'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.11.p.2.s.5.w.11'], 'superclass': 'replace', 'text': 'te'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.12.p.1.s.3.w.1'], 'superclass': 'replace', 'text': 'Vandaag'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.12.p.1.s.7.w.3'], 'superclass': 'replace', 'text': 'stil'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.13.p.1.s.2.w.4'], 'superclass': 'replace', 'text': 'staan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.2.div.13.p.1.s.5.w.1'], 'superclass': 'replace', 'text': 'jazz-fusion'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.13.p.3.s.1.w.6'], 'superclass': 'replace', 'text': 'jazzopleidingen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.13.p.3.s.1.w.16'], 'superclass': 'replace', 'text': 'voortbestaan'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.13.p.3.s.2.w.9'], 'superclass': 'replace', 'text': 'eeuw'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.14.p.1.s.2.w.17'], 'superclass': 'replace', 'text': 'gezamenlijk'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.14.p.1.s.2.w.29'], 'superclass': 'replace', 'text': 'Blue'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.14.p.1.s.3.w.12'], 'superclass': 'replace', 'text': 'koren'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.14.p.2.s.2.w.19'], 'superclass': 'replace', 'text': 'een'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.14.p.2.s.2.w.25'], 'superclass': 'replace', 'text': 'een'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.2.div.14.p.2.s.2.w.26'], 'superclass': 'replace', 'text': 'Van'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.3.p.1.s.4.w.11'], 'superclass': 'replace', 'text': 'de'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.3.p.1.s.4.w.10'], 'superclass': 'replace', 'text': 'in'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'Harmonisch'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.1.s.1.w.18'], 'superclass': 'replace', 'text': 'hernieuwde'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.1.s.1.w.36'], 'superclass': 'replace', 'text': 'non'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.1.s.1.w.36'], 'superclass': 'replace', 'text': 'nou'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1256.text.div.4.p.1.s.1.w.40'], 'superclass': 'replace', 'text': 'tredecim'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.4.p.1.s.2.w.2'], 'superclass': 'replace', 'text': 'kale'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.2.s.2.w.5'], 'superclass': 'replace', 'text': 'loopje'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.2.s.2.w.12'], 'superclass': 'replace', 'text': 'een'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.2.s.2.w.31'], 'superclass': 'replace', 'text': 'je'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.2.s.3.w.10'], 'superclass': 'replace', 'text': 'jaren'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.3.s.3.w.28'], 'superclass': 'replace', 'text': 'de'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.1.s.1.w.23'], 'superclass': 'replace', 'text': 'voor'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.5.p.1.s.1.w.41'], 'superclass': 'replace', 'text': ':'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.2.s.1.w.4'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.2.s.1.w.14'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.2.s.1.w.16'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.2.s.1.w.18'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.2.s.1.w.23'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.2.s.1.w.25'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.2.s.1.w.27'], 'superclass': 'replace', 'text': '.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.7.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'jazzstijlen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.8.p.1.s.1.w.17'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.8.p.1.s.1.w.22'], 'superclass': 'replace', 'text': 'Gamblers'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.9.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'jazzcomponisten'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.7'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.15'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.26'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.40'], 'superclass': 'replace', 'text': 'Nl'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.43'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.55'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.10.p.1.s.1.w.53'], 'superclass': 'replace', 'text': 'Ned'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.63'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.10.p.1.s.1.w.61'], 'superclass': 'replace', 'text': 'Ned'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.70'], 'superclass': 'replace', 'text': ','} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.71'], 'superclass': 'replace', 'text': 'Matthew'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.77'], 'superclass': 'replace', 'text': ','} will be ignored!
+[DETECTION MISS] page1256.text.div.1.p.1.s.4.w.11: stromnigen -> stromingen
+[DETECTION MATCH] page1256.text.div.2.div.1.p.1.s.3.w.25;page1256.text.div.2.div.1.p.1.s.3.w.26: voodoo -praktijken -> voodoo-praktijken
+	[CORRECT]
+[DETECTION MATCH] page1256.text.div.2.div.1.p.3.s.4.w.27;page1256.text.div.2.div.1.p.3.s.4.w.28: jazz band -> jazzband
+	[CORRECT]
+[DETECTION MATCH] page1256.text.div.2.div.2.p.4.s.3.w.2: ritmeinstrument -> ritme-instrument
+	[CORRECT]
+[DETECTION MISS] page1256.text.div.2.div.2.p.5.s.1.w.10;page1256.text.div.2.div.2.p.5.s.1.w.11;page1256.text.div.2.div.2.p.5.s.1.w.12;page1256.text.div.2.div.2.p.5.s.1.w.13: oude stijl jazz band -> oude-stijl-jazzband
+[DETECTION MATCH] page1256.text.div.2.div.3.p.3.s.2.w.3;page1256.text.div.2.div.3.p.3.s.2.w.4: jazz stijlen -> jazzstijlen
+	[CORRECT]
+[DETECTION MISS] page1256.text.div.2.div.4.p.1.s.1.w.16: Bebop -> bebop
+[DETECTION MISS] page1256.text.div.2.div.4.p.2.s.1.w.30: 10-20 -> tien tot twintig
+[DETECTION MISS] page1256.text.div.2.div.4.p.2.s.2.w.11: was -> waren
+[DETECTION MISS] page1256.text.div.2.div.4.p.2.s.2.w.47;page1256.text.div.2.div.4.p.2.s.2.w.48: Swing periode -> swingperiode
+[DETECTION MISS] page1256.text.div.2.div.4.p.4.s.1.w.8: Swing -> swing
+[DETECTION MATCH] page1256.text.div.2.div.4.p.7.s.1.w.15: Ragtime -> ragtime
+	[CORRECT]
+[DETECTION MISS] page1256.text.div.2.div.4.p.7.s.1.w.20;page1256.text.div.2.div.4.p.7.s.1.w.21: Frisco jazz -> Frisco-jazz
+[DETECTION MISS] page1256.text.div.2.div.5.p.1.s.8.w.11: Swingmuziek -> swingmuziek
+[DETECTION MISS] page1256.text.div.2.div.5.p.1.s.10.w.10: Bebop -> bebop
+[DETECTION MISS] page1256.text.div.2.div.5.p.2.s.4.w.7: Bebop -> bebop
+[DETECTION MISS] page1256.text.div.2.div.6.p.3.s.1.w.44: Monk's -> Monks
+[DETECTION MISS] page1256.text.div.2.div.6.p.4.s.1.w.8: Cool-Jazz -> cooljazz
+[DETECTION MATCH] page1256.text.div.2.div.6.p.4.s.1.w.31: klassificeerbare -> classificeerbare
+	[CORRECT]
+[DETECTION MISS] page1256.text.div.2.div.6.p.5.s.1.w.7: Cooljazz -> cooljazz
+[DETECTION MATCH] page1256.text.div.2.div.6.p.5.s.1.w.12: zie -> wie
+	[INCORRECT] Should be: zien
+[DETECTION MISS] page1256.text.div.2.div.6.p.5.s.2.w.6: Freejazz -> freejazz
+[DETECTION MISS] page1256.text.div.2.div.6.p.5.s.2.w.13: nieuwe -> nieuwe
+[DETECTION MISS] page1256.text.div.2.div.7.p.1.s.1.w.6: Cooljazz -> cooljazz
+[DETECTION MISS] page1256.text.div.2.div.7.p.1.s.1.w.13: Cooljazz -> cooljazz
+[DETECTION MISS] page1256.text.div.2.div.7.p.1.s.2.w.9: Cool -> cool
+[DETECTION MISS] page1256.text.div.2.div.7.p.1.s.2.w.13: Cooljazz -> cooljazz
+[DETECTION MISS] page1256.text.div.2.div.8.p.1.s.1.w.13: Bebop -> bebop
+[DETECTION MISS] page1256.text.div.2.div.9.head.1.s.1.w.1;page1256.text.div.2.div.9.head.1.s.1.w.2: Hard Bop -> Hardbop
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.1.w.5: Cooljazz -> cooljazz
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.1.w.15;page1256.text.div.2.div.9.p.1.s.1.w.16: Hard Bop -> hardbop
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.1.w.20;page1256.text.div.2.div.9.p.1.s.1.w.21: Hard Bop -> hardbop
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.1.w.22: Regression -> regression
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.2.w.3: Cooljazz -> cooljazz
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.2.w.14;page1256.text.div.2.div.9.p.1.s.2.w.15: Coast Jazz -> Coast-jazz
+[DETECTION MATCH] page1256.text.div.2.div.9.p.1.s.5.w.7: Gospelmuziek -> gospelmuziek
+	[CORRECT]
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.5.w.10;page1256.text.div.2.div.9.p.1.s.5.w.11: Hard Bop -> hardbop
+[DETECTION MISS] page1256.text.div.2.div.9.p.1.s.6.w.11;page1256.text.div.2.div.9.p.1.s.6.w.12: Hard Bop -> hardbop
+[DETECTION MATCH] page1256.text.div.2.div.9.p.2.s.1.w.15: Hardbop -> hardbop
+	[CORRECT]
+[DETECTION MISS] page1256.text.div.2.div.9.p.2.s.2.w.11;page1256.text.div.2.div.9.p.2.s.2.w.12: Columbia LP -> Columbia-lp
+[DETECTION MATCH] page1256.text.div.2.div.9.p.2.s.2.w.23;page1256.text.div.2.div.9.p.2.s.2.w.24: hard bop -> hardbop
+	[CORRECT]
+[DETECTION MISS] page1256.text.div.2.div.9.p.2.s.2.w.33;page1256.text.div.2.div.9.p.2.s.2.w.34: jazz reviewer -> jazz-reviewer
+[DETECTION MATCH] page1256.text.div.2.div.9.p.3.s.1.w.1;page1256.text.div.2.div.9.p.3.s.1.w.2: Soul jazz -> Souljazz
+	[CORRECT]
+[DETECTION MATCH] page1256.text.div.2.div.9.p.3.s.1.w.5;page1256.text.div.2.div.9.p.3.s.1.w.6: hard bop -> hardbop
+	[CORRECT]
+[DETECTION MISS] page1256.text.div.2.div.9.p.4.s.1.w.5;page1256.text.div.2.div.9.p.4.s.1.w.6: Hard Bop -> hardbop
+[DETECTION MATCH] page1256.text.div.2.div.10.head.1.s.1.w.1;page1256.text.div.2.div.10.head.1.s.1.w.2: Soul jazz -> Souljazz
+	[CORRECT]
+[DETECTION MATCH] page1256.text.div.2.div.10.p.1.s.1.w.1;page1256.text.div.2.div.10.p.1.s.1.w.2: Soul jazz -> Souljazz
+	[CORRECT]
+[DETECTION MATCH] page1256.text.div.2.div.10.p.1.s.1.w.8;page1256.text.div.2.div.10.p.1.s.1.w.9: hard bop -> hardbop
+	[CORRECT]
+[DETECTION MISS] page1256.text.div.2.div.10.p.1.s.1.w.25;page1256.text.div.2.div.10.p.1.s.1.w.27: hammond orgel-trio -> hammond-orgel-trio
+[DETECTION MISS] page1256.text.div.2.div.10.p.1.s.2.w.2;page1256.text.div.2.div.10.p.1.s.2.w.3: souljazz organisten -> souljazz-organisten
+[DETECTION MATCH] page1256.text.div.2.div.10.p.2.s.1.w.9;page1256.text.div.2.div.10.p.2.s.1.w.10: soul jazz -> souljazz
+	[CORRECT]
+[DETECTION MATCH] page1256.text.div.2.div.10.p.2.s.1.w.12;page1256.text.div.2.div.10.p.2.s.1.w.13: soul jazz -> souljazz
+	[CORRECT]
+[DETECTION MATCH] page1256.text.div.2.div.10.p.3.s.1.w.3;page1256.text.div.2.div.10.p.3.s.1.w.4: hard bop -> hardbop
+	[CORRECT]
+[DETECTION MATCH] page1256.text.div.2.div.10.p.3.s.1.w.7;page1256.text.div.2.div.10.p.3.s.1.w.8: soul jazz -> souljazz
+	[CORRECT]
+[DETECTION MISS] INSERTION AFTER page1256.text.div.2.div.10.p.3.s.1.w.11: op
+[DETECTION MATCH] page1256.text.div.2.div.10.p.4.s.1.w.1;page1256.text.div.2.div.10.p.4.s.1.w.2: Soul jazz -> Souljazz
+	[CORRECT]
+[DETECTION MATCH] page1256.text.div.2.div.10.p.4.s.1.w.34: jaten -> jaren
+	[CORRECT]
+[DETECTION MISS] page1256.text.div.2.div.10.p.4.s.1.w.39;page1256.text.div.2.div.10.p.4.s.1.w.40;page1256.text.div.2.div.10.p.4.s.1.w.41: soul jazz musici -> souljazz-musici
+[DETECTION MATCH] page1256.text.div.2.div.10.p.5.s.1.w.34: Silver's -> Silvers
+	[CORRECT]
+[DETECTION MISS] page1256.text.div.2.div.10.p.5.s.1.w.46: Lewis's -> Lewis'
+[DETECTION MATCH] page1256.text.div.2.div.10.p.6.s.1.w.1;page1256.text.div.2.div.10.p.6.s.1.w.2: Soul jazz -> Souljazz
+	[CORRECT]
+[DETECTION MATCH] page1256.text.div.2.div.10.p.6.s.1.w.13: Jazz-funk -> jazz-funk
+	[INCORRECT] Should be: jazzfunk
+[DETECTION MISS] page1256.text.div.2.div.11.head.1.s.1.w.1;page1256.text.div.2.div.11.head.1.s.1.w.2: Free Jazz -> Freejazz
+[DETECTION MISS] page1256.text.div.2.div.11.p.1.s.1.w.5: Souljazz -> souljazz
+[DETECTION MISS] page1256.text.div.2.div.11.p.2.s.1.w.15;page1256.text.div.2.div.11.p.2.s.1.w.16: free jazz -> freejazz
+[DETECTION MISS] page1256.text.div.2.div.11.p.2.s.1.w.25: Coleman's -> Colemans
+[DETECTION MISS] page1256.text.div.2.div.11.p.2.s.3.w.7;page1256.text.div.2.div.11.p.2.s.3.w.8: free jazz -> freejazz
+[DETECTION MISS] page1256.text.div.2.div.11.p.2.s.5.w.3;page1256.text.div.2.div.11.p.2.s.5.w.4: free jazz -> freejazz
+[DETECTION MISS] page1256.text.div.2.div.12.p.1.s.5.w.27;page1256.text.div.2.div.12.p.1.s.5.w.28: fusion groepen -> fusiongroepen
+[DETECTION MISS] page1256.text.div.2.div.13.p.1.s.1.w.40: free-jazz -> freejazz
+[DETECTION MISS] INSERTION AFTER page1256.text.div.2.div.13.p.2.s.2.w.18: vanuit
+[DETECTION MATCH] page1256.text.div.2.div.13.p.3.s.2.w.17: maken- -> maken -
+	[INCORRECT] Should be: maken
+[DETECTION MATCH] page1256.text.div.2.div.14.p.1.s.2.w.17: gezamelijk -> gezamenlijk
+	[CORRECT]
+[DETECTION MATCH] page1256.text.div.2.div.14.p.2.s.4.w.13;page1256.text.div.2.div.14.p.2.s.4.w.14: de zelfde -> dezelfde
+	[CORRECT]
+[DETECTION MISS] page1256.text.div.4.p.1.s.1.w.14: free-jazz -> freejazz
+[DETECTION MISS] INSERTION AFTER page1256.text.div.4.p.3.s.3.w.25: het
+[DETECTION MATCH] page1256.text.div.4.p.3.s.3.w.28: die -> de
+	[INCORRECT] Should be: dat
+[DETECTION WRONG] page1256.text.p.1.s.1.w.8: improvisatie -> improvisaties
+[DETECTION WRONG] page1256.text.p.1.s.1.w.26: negrospiritual -> negrospirituals
+[DETECTION WRONG] page1256.text.div.1.p.1.s.1.w.11: -er -> - er
+[DETECTION WRONG] page1256.text.div.1.p.1.s.1.w.11: -er -> en
+[DETECTION WRONG] page1256.text.div.1.p.1.s.1.w.24;page1256.text.div.1.p.1.s.1.w.25: vorm en -> vormen
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.1.p.1.s.2.w.1: de
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.1.p.1.s.4.w.34: meer
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.1.p.1.s.1.w.8: door
+[DETECTION WRONG] page1256.text.div.2.div.1.p.2.s.5.w.5: meest -> feest
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.1.p.2.s.5.w.5: waardevol
+[DETECTION WRONG] page1256.text.div.2.div.1.p.2.s.5.w.5: meest -> meest
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.1.p.3.s.2.w.1: wetenschappelijke
+[DETECTION WRONG] page1256.text.div.2.div.1.p.3.s.3.w.3: heiden -> heide
+[DETECTION WRONG] page1256.text.div.2.div.1.p.3.s.3.w.1: Voor -> Door
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.1.p.3.s.4.w.1: vuur
+[DETECTION WRONG] page1256.text.div.2.div.2.p.1.s.1.w.1: Die -> De
+[DETECTION WRONG] page1256.text.div.2.div.2.p.1.s.2.w.10: C-mineur -> E-mineur
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.2.p.1.s.4.w.12: )
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.2.p.2.s.1.w.1: kans
+[DETECTION WRONG] page1256.text.div.2.div.2.p.2.s.2.w.18: fis -> vis
+[DETECTION WRONG] page1256.text.div.2.div.2.p.4.s.1.w.2: die -> de
+[DETECTION WRONG] page1256.text.div.2.div.2.p.5.s.1.w.1: Dit -> Dat
+[DETECTION WRONG] page1256.text.div.2.div.2.p.5.s.1.w.12;page1256.text.div.2.div.2.p.5.s.1.w.13: jazz band -> jazzband
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.2.p.5.s.2.w.8: selectie
+[DETECTION WRONG] page1256.text.div.2.div.2.p.5.s.2.w.23: tuba -> tube
+[DETECTION WRONG] page1256.text.div.2.div.3.p.1.s.1.w.39: zz -> ze
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.3.p.1.s.2.w.4: politiek
+[DETECTION WRONG] page1256.text.div.2.div.3.p.1.s.2.w.8: eerder -> verder
+[DETECTION WRONG] page1256.text.div.2.div.3.p.1.s.2.w.10: dit -> die
+[DETECTION WRONG] page1256.text.div.2.div.3.p.2.s.1.w.16: – -> ,
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.3.p.2.s.1.w.29: oorlog
+[DETECTION WRONG] page1256.text.div.2.div.3.p.2.s.1.w.30;page1256.text.div.2.div.3.p.2.s.1.w.31: in middels -> inmiddels
+[DETECTION WRONG] page1256.text.div.2.div.3.p.2.s.2.w.3: later -> water
+[DETECTION WRONG] page1256.text.div.2.div.3.p.2.s.2.w.2: weer -> meer
+[DETECTION WRONG] page1256.text.div.2.div.3.p.3.s.1.w.27: spoor -> Spoor
+[DETECTION WRONG] page1256.text.div.2.div.3.p.3.s.1.w.27;page1256.text.div.2.div.3.p.3.s.1.w.28: spoor en -> Spooren
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.3.p.3.s.1.w.31: gat
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.3.p.3.s.2.w.11: lijst
+[DETECTION WRONG] page1256.text.div.2.div.4.p.1.s.1.w.7: Swing-tijdperk -> swing-tijdperk
+[DETECTION WRONG] page1256.text.div.2.div.4.p.1.s.2.w.15: in -> en
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.4.p.1.s.2.w.27: speeldag
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.4.p.1.s.2.w.35: plaats
+[DETECTION WRONG] page1256.text.div.2.div.4.p.1.s.3.w.19: en -> er
+[DETECTION WRONG] page1256.text.div.2.div.4.p.2.s.1.w.7: ontwikkelden -> ontwikkelde
+[DETECTION WRONG] page1256.text.div.2.div.4.p.2.s.2.w.22: Willam -> Willem
+[DETECTION WRONG] page1256.text.div.2.div.4.p.2.s.2.w.26: Basie -> Basil
+[DETECTION WRONG] page1256.text.div.2.div.4.p.2.s.2.w.35: blanke -> slanke
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.4.p.2.s.2.w.36: ,
+[DETECTION WRONG] page1256.text.div.2.div.4.p.3.s.1.w.5: van -> aan
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.4.p.3.s.1.w.7: volk
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.4.p.3.s.1.w.13: ook
+[DETECTION WRONG] page1256.text.div.2.div.4.p.3.s.2.w.1;page1256.text.div.2.div.4.p.3.s.2.w.2: De zwarte -> Dezwarte
+[DETECTION WRONG] page1256.text.div.2.div.4.p.3.s.2.w.1: De -> Delwarte
+[DETECTION WRONG] page1256.text.div.2.div.4.p.3.s.2.w.14: meest -> meeste
+[DETECTION WRONG] page1256.text.div.2.div.4.p.4.s.1.w.6: vierde -> voerde
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.4.p.4.s.3.w.14: nog
+[DETECTION WRONG] page1256.text.div.2.div.4.p.5.s.2.w.8: De -> de
+[DETECTION WRONG] page1256.text.div.2.div.4.p.6.s.1.w.21;page1256.text.div.2.div.4.p.6.s.1.w.22: in gang -> ingang
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.4.p.7.s.1.w.7: nieuwe
+[DETECTION WRONG] page1256.text.div.2.div.4.p.8.s.2.w.8;page1256.text.div.2.div.4.p.8.s.2.w.9: Jazz band -> Jazzband
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.5.head.1.s.1.w.1: .
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.5.p.1.s.1.w.10: eigen
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.5.p.1.s.1.w.11: ,
+[DETECTION WRONG] page1256.text.div.2.div.5.p.1.s.1.w.17: werden -> worden
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.5.p.1.s.1.w.19: moet
+[DETECTION WRONG] page1256.text.div.2.div.5.p.1.s.2.w.2: vonden -> konden
+[DETECTION WRONG] page1256.text.div.2.div.5.p.1.s.2.w.10: voor -> door
+[DETECTION WRONG] page1256.text.div.2.div.5.p.1.s.5.w.8: zonder -> onder
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.5.p.1.s.7.w.8: niet
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.5.p.2.s.1.w.3: hoogste
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.5.p.2.s.1.w.4: om
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.5.p.2.s.1.w.7: nog
+[DETECTION WRONG] page1256.text.div.2.div.5.p.2.s.2.w.6: word -> wordt
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.5.p.2.s.2.w.7: gelinkt
+[DETECTION WRONG] page1256.text.div.2.div.5.p.2.s.4.w.12: -be- -> be-
+[DETECTION WRONG] page1256.text.div.2.div.5.p.2.s.4.w.12: -be- -> bel
+[DETECTION WRONG] page1256.text.div.2.div.6.p.1.s.1.w.4: – -> ,
+[DETECTION WRONG] page1256.text.div.2.div.6.p.1.s.1.w.11: – -> ,
+[DETECTION WRONG] page1256.text.div.2.div.6.p.1.s.1.w.32;page1256.text.div.2.div.6.p.1.s.1.w.33: Cool en -> Coolen
+[DETECTION WRONG] page1256.text.div.2.div.6.p.2.s.1.w.13: opzoek -> op zoek
+[DETECTION WRONG] page1256.text.div.2.div.6.p.2.s.1.w.19: dan -> kan
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.6.p.3.s.1.w.10: November
+[DETECTION WRONG] page1256.text.div.2.div.6.p.3.s.1.w.34: -zo -> zo
+[DETECTION WRONG] page1256.text.div.2.div.6.p.3.s.1.w.37: verhaal- -> verhaal -
+[DETECTION WRONG] page1256.text.div.2.div.6.p.3.s.1.w.37: verhaal- -> verhaal
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.6.p.5.s.1.w.13: dagvaarden
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.6.p.5.s.2.w.12: de
+[DETECTION WRONG] page1256.text.div.2.div.6.p.5.s.2.w.40: De -> de
+[DETECTION WRONG] page1256.text.div.2.div.6.p.5.s.2.w.43: ‘ -> '
+[DETECTION WRONG] page1256.text.div.2.div.6.p.5.s.2.w.47: ’ -> '
+[DETECTION WRONG] page1256.text.div.2.div.7.p.1.s.2.w.6: Coasters' -> Coasters
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.9.p.1.s.1.w.1: schril
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.9.p.1.s.1.w.13: van
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.9.p.1.s.2.w.21: ,
+[DETECTION WRONG] page1256.text.div.2.div.9.p.1.s.4.w.7;page1256.text.div.2.div.9.p.1.s.4.w.8: bluesschema 's -> bluesschema's
+[DETECTION WRONG] page1256.text.div.2.div.9.p.1.s.6.w.8: titels -> titel
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.9.p.2.s.1.w.1: laatste
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.9.p.2.s.1.w.26: van
+[DETECTION WRONG] page1256.text.div.2.div.9.p.2.s.2.w.31: Mehegan -> Mohegan
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.9.p.2.s.2.w.40: actief
+[DETECTION WRONG] page1256.text.div.2.div.10.p.1.s.1.w.27: orgel-trio -> orgeltrio
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.10.p.1.s.2.w.21: Louie
+[DETECTION WRONG] page1256.text.div.2.div.10.p.1.s.2.w.40: Patterson -> Paterson
+[DETECTION WRONG] page1256.text.div.2.div.10.p.2.s.1.w.1;page1256.text.div.2.div.10.p.2.s.1.w.2: Tenor saxofoon -> Tenorsaxofoon
+[DETECTION WRONG] page1256.text.div.2.div.10.p.2.s.2.w.13: trompetist -> trompettist
+[DETECTION WRONG] page1256.text.div.2.div.10.p.4.s.1.w.39;page1256.text.div.2.div.10.p.4.s.1.w.40: soul jazz -> souljazz
+[DETECTION WRONG] page1256.text.div.2.div.10.p.5.s.1.w.5: Morgan's -> Morgans
+[DETECTION WRONG] page1256.text.div.2.div.10.p.5.s.1.w.15: Hancock's -> Hancocks
+[DETECTION WRONG] page1256.text.div.2.div.10.p.5.s.1.w.26: US3 -> USP
+[DETECTION WRONG] page1256.text.div.2.div.10.p.5.s.1.w.69: Gecovered -> gecovered
+[DETECTION WRONG] page1256.text.div.2.div.10.p.5.s.1.w.74;page1256.text.div.2.div.10.p.5.s.1.w.75: pop liedje -> popliedje
+[DETECTION WRONG] page1256.text.div.2.div.11.p.1.s.1.w.17;page1256.text.div.2.div.11.p.1.s.1.w.18: onderzocht en -> onderzochten
+[DETECTION WRONG] page1256.text.div.2.div.11.p.1.s.2.w.4: vrijere -> vrijer
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.11.p.2.s.1.w.4: voor
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.11.p.2.s.1.w.7: Arkestra
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.11.p.2.s.4.w.1: geworden
+[DETECTION WRONG] page1256.text.div.2.div.11.p.2.s.4.w.22: gebruikten -> gebruiken
+[DETECTION WRONG] page1256.text.div.2.div.11.p.2.s.5.w.11: de -> te
+[DETECTION WRONG] page1256.text.div.2.div.11.p.2.s.5.w.11;page1256.text.div.2.div.11.p.2.s.5.w.12: de veel -> teveel
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.12.p.1.s.1.w.4: de
+[DETECTION WRONG] page1256.text.div.2.div.12.p.1.s.3.w.1: Vandaar -> Vandaag
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.12.p.1.s.5.w.2: Elton
+[DETECTION WRONG] page1256.text.div.2.div.12.p.1.s.7.w.3: stijl -> stil
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.13.head.1.s.1.w.5: .
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.13.p.1.s.2.w.2: smooth
+[DETECTION WRONG] page1256.text.div.2.div.13.p.1.s.2.w.4: staat -> staan
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.13.p.1.s.2.w.23: is
+[DETECTION WRONG] page1256.text.div.2.div.13.p.1.s.5.w.1: Jazz-fusion -> jazz-fusion
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.13.p.2.s.1.w.11: )
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.13.p.2.s.2.w.2: het
+[DETECTION WRONG] page1256.text.div.2.div.13.p.3.s.1.w.6: jazz-opleidingen -> jazzopleidingen
+[DETECTION WRONG] page1256.text.div.2.div.13.p.3.s.1.w.16: voorbestaan -> voortbestaan
+[DETECTION WRONG] page1256.text.div.2.div.13.p.3.s.2.w.3: -als -> - als
+[DETECTION WRONG] page1256.text.div.2.div.13.p.3.s.2.w.9: eeuw- -> eeuw
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.14.p.1.s.2.w.10: klassieke
+[DETECTION WRONG AND WORDID MISMATCH] page1256.text.div.2.div.14.p.1.s.2.w.29: page1256.text.div.2.div.14.p.1.s.2.w.29 -> Blue
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.14.p.1.s.3.w.1: het
+[DETECTION WRONG] page1256.text.div.2.div.14.p.1.s.3.w.12: komen -> koren
+[DETECTION WRONG] page1256.text.div.2.div.14.p.2.s.1.w.10;page1256.text.div.2.div.14.p.2.s.1.w.11: van zelf -> vanzelf
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.14.p.2.s.1.w.19: doden
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.14.p.2.s.1.w.27: de
+[DETECTION WRONG] page1256.text.div.2.div.14.p.2.s.2.w.20;page1256.text.div.2.div.14.p.2.s.2.w.21: de al -> deal
+[DETECTION WRONG] page1256.text.div.2.div.14.p.2.s.2.w.19: en -> een
+[DETECTION WRONG] page1256.text.div.2.div.14.p.2.s.2.w.25: Ben -> een
+[DETECTION WRONG] page1256.text.div.2.div.14.p.2.s.2.w.26: van -> Van
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.14.p.2.s.2.w.29: trompettist
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.3.p.1.s.2.w.3: heen
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.3.p.1.s.2.w.4: hij
+[DETECTION WRONG] page1256.text.div.3.p.1.s.4.w.11: die -> de
+[DETECTION WRONG] page1256.text.div.3.p.1.s.4.w.10: en -> in
+[DETECTION WRONG] page1256.text.div.4.head.1.s.1.w.1: Harmonische -> Harmonisch
+[DETECTION WRONG] page1256.text.div.4.p.1.s.1.w.18: hernieuwd -> hernieuwde
+[DETECTION WRONG] page1256.text.div.4.p.1.s.1.w.36: none -> non
+[DETECTION WRONG] page1256.text.div.4.p.1.s.1.w.36: none -> nou
+[DETECTION WRONG] page1256.text.div.4.p.1.s.1.w.40: tredeciem -> tredecim
+[DETECTION WRONG] page1256.text.div.4.p.1.s.2.w.2: Kale -> kale
+[DETECTION WRONG] page1256.text.div.4.p.2.s.2.w.5: loopjes -> loopje
+[DETECTION WRONG] page1256.text.div.4.p.2.s.2.w.9;page1256.text.div.4.p.2.s.2.w.10: papier - -> papier-
+[DETECTION WRONG] page1256.text.div.4.p.2.s.2.w.12: even -> een
+[DETECTION WRONG] page1256.text.div.4.p.2.s.2.w.27;page1256.text.div.4.p.2.s.2.w.28: zo lang -> zolang
+[DETECTION WRONG] page1256.text.div.4.p.2.s.2.w.31: de -> je
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.4.p.2.s.3.w.9: zijn
+[DETECTION WRONG] page1256.text.div.4.p.2.s.3.w.10: paren -> jaren
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.5.head.1.s.1.w.1: mensen
+[DETECTION WRONG] page1256.text.div.5.p.1.s.1.w.23: door -> voor
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.5.p.1.s.1.w.23: het
+[DETECTION WRONG] page1256.text.div.5.p.1.s.1.w.41: ): -> :
+[DETECTION WRONG] page1256.text.div.5.p.2.s.1.w.4: – -> ,
+[DETECTION WRONG] page1256.text.div.5.p.2.s.1.w.14: – -> ,
+[DETECTION WRONG] page1256.text.div.5.p.2.s.1.w.16: – -> ,
+[DETECTION WRONG] page1256.text.div.5.p.2.s.1.w.18: – -> ,
+[DETECTION WRONG] page1256.text.div.5.p.2.s.1.w.23: – -> ,
+[DETECTION WRONG] page1256.text.div.5.p.2.s.1.w.25: – -> ,
+[DETECTION WRONG] page1256.text.div.5.p.2.s.1.w.27: – -> .
+[DETECTION WRONG] page1256.text.div.7.head.1.s.1.w.1: Jazzstijlen -> jazzstijlen
+[DETECTION WRONG] page1256.text.div.8.p.1.s.1.w.17: – -> ,
+[DETECTION WRONG] page1256.text.div.8.p.1.s.1.w.22: Ramblers -> Gamblers
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.8.p.1.s.1.w.22: 1750
+[DETECTION WRONG] page1256.text.div.9.head.1.s.1.w.1: Jazzcomponisten -> jazzcomponisten
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.7: – -> ,
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.15: – -> ,
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.26: – -> ,
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.40: No -> Nl
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.43: – -> ,
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.55: – -> ,
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.53: Ned. -> Ned
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.58: Europeanjazz -> European jazz
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.63: – -> ,
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.61: Ned. -> Ned
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.70: – -> ,
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.71: Mathew -> Matthew
+[DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.77: – -> ,
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.11.head.1.s.1.w.2: .
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.12.head.1.s.1.w.2: .
+[DETECTION WRONG] INSERTION AFTER page1256.text.div.12.list.1.item.1.s.1.w.9: .

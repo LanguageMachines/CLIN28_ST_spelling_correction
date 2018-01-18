@@ -1,0 +1,486 @@
+[DETECTION MISS] page1269.text.div.2.p.2.s.2.w.16: duin-en -> duin- en
+[DETECTION MATCH] page1269.text.div.3.p.6.s.1.w.30: enigzins -> enigszins
+	[CORRECT]
+[DETECTION MISS] page1269.text.div.4.p.1.s.2.w.56: hemelvaart -> Hemelvaart
+[DETECTION MISS] page1269.text.div.5.head.1.s.1.w.1: Ensor's -> Ensors
+[DETECTION MISS] page1269.text.div.5.p.3.s.2.w.67: pompueze -> pompeuze
+[DETECTION MISS] INSERTION AFTER page1269.text.div.5.p.4.s.4.w.9: in
+[DETECTION MATCH] page1269.text.div.5.p.5.s.1.w.15: enschreef -> naschreef
+	[INCORRECT] Should be: en schreef
+[DETECTION MATCH] page1269.text.div.6.p.1.s.4.w.8: bekritisseerd -> bekritiseerd
+	[CORRECT]
+[DETECTION MATCH] page1269.text.div.6.p.5.s.1.w.20: verwachtye -> verwacht
+	[INCORRECT] Should be: verwachte
+[DETECTION MISS] page1269.text.div.11.p.2.s.2.w.16: duin-en -> duin- en
+[DETECTION WRONG] page1269.text.div.1.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1269.text.div.1.p.1.s.2.w.10: uitsproken -> uitspoken
+[DETECTION WRONG] page1269.text.div.1.p.1.s.3.w.7: Oostendse -> Oostends
+[DETECTION WRONG] page1269.text.div.1.p.1.s.8.w.7: Sussex -> sussen
+[DETECTION WRONG] page1269.text.div.1.p.2.s.1.w.6: Bruggen -> bruggen
+[DETECTION WRONG] page1269.text.div.1.p.2.s.1.w.8: Wegen -> wegen
+[DETECTION WRONG] page1269.text.div.1.p.2.s.1.w.21: Verenigde -> verenigde
+[DETECTION WRONG] page1269.text.div.1.p.2.s.4.w.17: Oostendse -> Oostends
+[DETECTION WRONG] page1269.text.div.1.p.2.s.4.w.18: handelsvrouw -> handelsboycot
+[DETECTION WRONG] page1269.text.div.1.p.2.s.5.w.5: Oostendse -> Oostends
+[DETECTION WRONG] page1269.text.div.1.p.3.s.2.w.12: Sirène -> sirene
+[DETECTION WRONG] page1269.text.div.1.p.4.s.1.w.6: Mietje -> mietje
+[DETECTION WRONG] page1269.text.div.1.p.4.s.1.w.8: Mitche -> Mitchel
+[DETECTION WRONG] page1269.text.div.1.p.4.s.5.w.21: zorgennichtje -> zorgen nichtje
+[DETECTION WRONG] page1269.text.div.1.p.4.s.6.w.7: 15e -> vijftiende
+[DETECTION WRONG] page1269.text.div.2.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page1269.text.div.2.p.1.s.1.w.10: Oostendse -> Oostends
+[DETECTION WRONG] page1269.text.div.2.p.1.s.2.w.5: tuchtloos -> tucht loos
+[DETECTION WRONG] page1269.text.div.2.p.1.s.3.w.19: Een -> een
+[DETECTION WRONG] page1269.text.div.2.p.1.s.4.w.7: schilderwerkjes -> schilderwerk
+[DETECTION WRONG] page1269.text.div.2.p.1.s.6.w.4: schilder- -> schildert
+[DETECTION WRONG] page1269.text.div.2.p.1.s.6.w.11: Oostendse -> Oostends
+[DETECTION WRONG] page1269.text.div.2.p.1.s.7.w.16: spons- -> spons
+[DETECTION WRONG] page1269.text.div.2.p.1.s.7.w.18: tekentechniek -> teken techniek
+[DETECTION WRONG] page1269.text.div.2.p.2.s.1.w.16: Oostendse -> Oostends
+[DETECTION WRONG] page1269.text.div.2.p.2.s.1.w.17: Academie -> academie
+[DETECTION WRONG] page1269.text.div.2.p.2.s.1.w.19: Schone -> schone
+[DETECTION WRONG] page1269.text.div.2.p.2.s.1.w.20: Kunsten -> kunsten
+[DETECTION WRONG] page1269.text.div.2.p.2.s.2.w.22: Duinen -> duinen
+[DETECTION WRONG] page1269.text.div.2.p.2.s.2.w.30: Zicht -> zicht
+[DETECTION WRONG] page1269.text.div.2.p.2.s.2.w.39: De -> de
+[DETECTION WRONG] page1269.text.div.2.p.2.s.2.w.47: De -> de
+[DETECTION WRONG] page1269.text.div.2.p.3.s.1.w.19: Academie -> academie
+[DETECTION WRONG] page1269.text.div.2.p.3.s.1.w.21: Schone -> schone
+[DETECTION WRONG] page1269.text.div.2.p.3.s.1.w.22: Kunsten -> kunsten
+[DETECTION WRONG] page1269.text.div.2.p.3.s.4.w.16: Grote -> grote
+[DETECTION WRONG] page1269.text.div.2.p.3.s.4.w.17: Markt -> markt
+[DETECTION WRONG] page1269.text.div.2.p.4.s.1.w.6: Golfbreker -> golfbreker
+[DETECTION WRONG] page1269.text.div.2.p.4.s.1.w.15: Naakte -> naakte
+[DETECTION WRONG] page1269.text.div.2.p.4.s.1.w.23: Polderlandschap -> polderlandschap
+[DETECTION WRONG] page1269.text.div.2.p.4.s.1.w.30: Man -> man
+[DETECTION WRONG] page1269.text.div.2.p.4.s.1.w.42: Zelfportret -> zelfportret
+[DETECTION WRONG] page1269.text.div.2.p.4.s.1.w.49: Het -> het
+[DETECTION WRONG] page1269.text.div.2.p.5.s.4.w.15: Vlaanderenramp -> Vlaanderens
+[DETECTION WRONG] page1269.text.div.2.p.6.s.1.w.10: De -> de
+[DETECTION WRONG] page1269.text.div.2.p.6.s.1.w.35: Grijze -> grijze
+[DETECTION WRONG] page1269.text.div.2.p.6.s.1.w.43: Stilleven -> stilleven
+[DETECTION WRONG] page1269.text.div.2.p.6.s.1.w.52: Het -> het
+[DETECTION WRONG] page1269.text.div.2.p.6.s.2.w.10: Vlaanderenstraat -> Vlaanderens
+[DETECTION WRONG] page1269.text.div.2.p.6.s.2.w.17: Portret -> portret
+[DETECTION WRONG] page1269.text.div.2.p.6.s.2.w.24: De -> de
+[DETECTION WRONG] page1269.text.div.2.p.6.s.2.w.30: Namiddag -> namiddag
+[DETECTION WRONG] page1269.text.div.2.p.6.s.2.w.35: De -> de
+[DETECTION WRONG] page1269.text.div.2.p.6.s.2.w.40: Vrouw -> vrouw
+[DETECTION WRONG] page1269.text.div.3.head.1.s.1.w.2: vingt -> ving t
+[DETECTION WRONG] page1269.text.div.3.head.1.s.1.w.6: Heibel -> heibel
+[DETECTION WRONG] page1269.text.div.3.p.1.s.1.w.1: Hij -> hij
+[DETECTION WRONG] page1269.text.div.3.p.1.s.1.w.20: De -> de
+[DETECTION WRONG] page1269.text.div.3.p.1.s.1.w.21: koloriste -> koristes
+[DETECTION WRONG] page1269.text.div.3.p.1.s.1.w.23: Het -> het
+[DETECTION WRONG] page1269.text.div.3.p.1.s.1.w.24: burgersalon -> burger salon
+[DETECTION WRONG] page1269.text.div.3.p.1.s.1.w.26: Nature -> naturel
+[DETECTION WRONG] page1269.text.div.3.p.1.s.1.w.27: morte -> mor te
+[DETECTION WRONG] page1269.text.div.3.p.1.s.1.w.40: De -> de
+[DETECTION WRONG] page1269.text.div.3.p.1.s.1.w.48: Générale -> generale
+[DETECTION WRONG] page1269.text.div.3.p.1.s.2.w.4: Het -> het
+[DETECTION WRONG] page1269.text.div.3.p.1.s.2.w.5: burgersalon -> burger salon
+[DETECTION WRONG] page1269.text.div.3.p.2.s.1.w.7: Portret -> portret
+[DETECTION WRONG] page1269.text.div.3.p.2.s.1.w.14: De -> de
+[DETECTION WRONG] page1269.text.div.3.p.2.s.1.w.19: De -> de
+[DETECTION WRONG] page1269.text.div.3.p.3.s.1.w.9: L -> l
+[DETECTION WRONG] page1269.text.div.3.p.3.s.3.w.10: L -> l
+[DETECTION WRONG] page1269.text.div.3.p.4.s.1.w.11: L -> l
+[DETECTION WRONG] page1269.text.div.3.p.4.s.4.w.6: Salon -> salon
+[DETECTION WRONG] page1269.text.div.3.p.4.s.5.w.7: Namiddag -> namiddag
+[DETECTION WRONG] page1269.text.div.3.p.4.s.5.w.16: De -> de
+[DETECTION WRONG] page1269.text.div.3.p.4.s.10.w.13: Museum -> museum
+[DETECTION WRONG] page1269.text.div.3.p.4.s.10.w.15: Schone -> schone
+[DETECTION WRONG] page1269.text.div.3.p.4.s.10.w.16: Kunsten -> kunsten
+[DETECTION WRONG] page1269.text.div.3.p.4.s.10.w.22: Triënnale -> triënnale
+[DETECTION WRONG] page1269.text.div.3.p.4.s.10.w.23: Salon -> salon
+[DETECTION WRONG] page1269.text.div.3.p.5.s.1.w.6: Kursaal -> kursaal
+[DETECTION WRONG] page1269.text.div.3.p.5.s.1.w.16: 32ste -> tweeëndertigste
+[DETECTION WRONG] page1269.text.div.3.p.5.s.1.w.17: Triënnale -> triënnale
+[DETECTION WRONG] page1269.text.div.3.p.5.s.1.w.29: Société -> society
+[DETECTION WRONG] page1269.text.div.3.p.5.s.1.w.30: Royale -> royale
+[DETECTION WRONG] page1269.text.div.3.p.5.s.1.w.32: Aquarellistes -> aquarellist
+[DETECTION WRONG] page1269.text.div.3.p.5.s.1.w.33: Belges -> Belgen
+[DETECTION WRONG] page1269.text.div.3.p.6.s.1.w.10: De -> de
+[DETECTION WRONG] page1269.text.div.3.p.6.s.1.w.20: Daken -> daken
+[DETECTION WRONG] page1269.text.div.3.p.6.s.1.w.36: De -> de
+[DETECTION WRONG] page1269.text.div.3.p.6.s.1.w.46: Turner -> turner
+[DETECTION WRONG] page1269.text.div.3.p.6.s.2.w.10: Vogels -> vogels
+[DETECTION WRONG] page1269.text.div.3.p.6.s.2.w.18: Turner -> turner
+[DETECTION WRONG] page1269.text.div.3.p.7.s.1.w.19: revolterende -> revolte rende
+[DETECTION WRONG] page1269.text.div.3.p.7.s.1.w.24: vingt -> ving t
+[DETECTION WRONG] page1269.text.div.3.p.7.s.5.w.15: L -> l
+[DETECTION WRONG] page1269.text.div.3.p.7.s.5.w.18: Moderne -> moderne
+[DETECTION WRONG] page1269.text.div.3.p.7.s.6.w.6: Salon -> salon
+[DETECTION WRONG] page1269.text.div.3.p.8.s.1.w.10: De -> de
+[DETECTION WRONG] page1269.text.div.3.p.8.s.1.w.32: opensteekt -> open steekt
+[DETECTION WRONG] page1269.text.div.4.p.1.s.1.w.1: Op -> op
+[DETECTION WRONG] page1269.text.div.4.p.1.s.1.w.3: 25e -> vijfentwintigste
+[DETECTION WRONG] page1269.text.div.4.p.1.s.2.w.8: Aureolen -> aureolen
+[DETECTION WRONG] page1269.text.div.4.p.1.s.2.w.14: De -> de
+[DETECTION WRONG] page1269.text.div.4.p.1.s.2.w.18: Licht -> licht
+[DETECTION WRONG] page1269.text.div.4.p.1.s.2.w.25: De -> de
+[DETECTION WRONG] page1269.text.div.4.p.1.s.2.w.38: Intrede -> intrede
+[DETECTION WRONG] page1269.text.div.4.p.1.s.2.w.42: Satan -> satan
+[DETECTION WRONG] page1269.text.div.4.p.1.s.2.w.49: Gekruisigde -> gekruisigde
+[DETECTION WRONG] page1269.text.div.4.p.2.s.1.w.12: Licht -> licht
+[DETECTION WRONG] page1269.text.div.4.p.2.s.3.w.9: Zelfportret -> zelfportret
+[DETECTION WRONG] page1269.text.div.4.p.2.s.3.w.11: fini -> Fin
+[DETECTION WRONG] page1269.text.div.4.p.2.s.3.w.20: De -> de
+[DETECTION WRONG] page1269.text.div.5.p.1.s.1.w.1: Twee -> twee
+[DETECTION WRONG] page1269.text.div.5.p.1.s.1.w.20: Intrede -> intrede
+[DETECTION WRONG] page1269.text.div.5.p.1.s.3.w.13: Salon -> salon
+[DETECTION WRONG] page1269.text.div.5.p.2.s.2.w.2: zolderatelier -> zolder atelier
+[DETECTION WRONG] page1269.text.div.5.p.2.s.3.w.16: Hij -> hij
+[DETECTION WRONG] page1269.text.div.5.p.3.s.2.w.43: tovenaarshoed -> tovenaars hoed
+[DETECTION WRONG] page1269.text.div.5.p.3.s.2.w.46: Dood -> dood
+[DETECTION WRONG] page1269.text.div.5.p.3.s.2.w.56: Fanfares -> fanfares
+[DETECTION WRONG] page1269.text.div.5.p.3.s.2.w.57: doctrinaires -> doctrinaire
+[DETECTION WRONG] page1269.text.div.5.p.3.s.3.w.9: clownskostuum -> clowns kostuum
+[DETECTION WRONG] page1269.text.div.5.p.3.s.4.w.11: Sociale -> sociale
+[DETECTION WRONG] page1269.text.div.5.p.3.s.5.w.4: feite -> feitje
+[DETECTION WRONG] page1269.text.div.5.p.4.s.1.w.18: Vlaanderenramp -> Vlaanderens
+[DETECTION WRONG] page1269.text.div.5.p.4.s.2.w.23: Vlaanderenstraat -> Vlaanderens
+[DETECTION WRONG] page1269.text.div.5.p.4.s.4.w.20: gevelbalkon -> gevel balkon
+[DETECTION WRONG] page1269.text.div.5.p.5.s.1.w.23: Mort -> mort
+[DETECTION WRONG] page1269.text.div.5.p.5.s.1.w.27: un -> u n
+[DETECTION WRONG] page1269.text.div.5.p.5.s.1.w.28: théologien -> theologie
+[DETECTION WRONG] page1269.text.div.5.p.6.s.1.w.11: Tweede -> tweede
+[DETECTION WRONG] page1269.text.div.5.p.6.s.1.w.12: Wereldoorlog -> wereldoorlog
+[DETECTION WRONG] page1269.text.div.5.p.6.s.2.w.14: Casino -> casino
+[DETECTION WRONG] page1269.text.div.5.p.6.s.2.w.21: Museum -> museum
+[DETECTION WRONG] page1269.text.div.5.p.6.s.2.w.23: Schone -> schone
+[DETECTION WRONG] page1269.text.div.5.p.6.s.2.w.24: Kunsten -> kunsten
+[DETECTION WRONG] page1269.text.div.5.p.6.s.2.w.35: Koninklijk -> koninklijk
+[DETECTION WRONG] page1269.text.div.5.p.6.s.2.w.36: Museum -> museum
+[DETECTION WRONG] page1269.text.div.5.p.6.s.2.w.38: Schone -> schone
+[DETECTION WRONG] page1269.text.div.5.p.6.s.2.w.39: Kunsten -> kunsten
+[DETECTION WRONG] page1269.text.div.5.p.6.s.2.w.51: Künsthaus -> kunstpaus
+[DETECTION WRONG] page1269.text.div.5.p.6.s.3.w.8: Getty -> getto
+[DETECTION WRONG] page1269.text.div.5.p.6.s.3.w.9: Museum -> museum
+[DETECTION WRONG] page1269.text.div.5.p.6.s.3.w.11: Los -> los
+[DETECTION WRONG] page1269.text.div.5.p.6.s.3.w.12: Angeles -> Angèles
+[DETECTION WRONG] page1269.text.div.5.p.7.s.1.w.29: De -> de
+[DETECTION WRONG] page1269.text.div.5.p.7.s.1.w.48: De -> de
+[DETECTION WRONG] page1269.text.div.5.p.7.s.1.w.73: De -> de
+[DETECTION WRONG] page1269.text.div.6.head.1.s.1.w.3: Esthétique -> esthetica
+[DETECTION WRONG] page1269.text.div.6.p.1.s.1.w.1: Wegens -> wegens
+[DETECTION WRONG] page1269.text.div.6.p.1.s.2.w.9: Esthétique -> esthetica
+[DETECTION WRONG] page1269.text.div.6.p.1.s.2.w.17: uitgenodigden -> uitgenodigde
+[DETECTION WRONG] page1269.text.div.6.p.2.s.2.w.6: Prentenkabinet -> prentenkabinet
+[DETECTION WRONG] page1269.text.div.6.p.3.s.1.w.14: Esthétique -> esthetica
+[DETECTION WRONG] page1269.text.div.6.p.3.s.1.w.24: Vogels -> vogels
+[DETECTION WRONG] page1269.text.div.6.p.3.s.1.w.33: Beaux -> beau
+[DETECTION WRONG] page1269.text.div.6.p.3.s.1.w.37: Ostende -> Oostende
+[DETECTION WRONG] page1269.text.div.6.p.3.s.2.w.10: Prentenkabinet -> prentenkabinet
+[DETECTION WRONG] page1269.text.div.6.p.4.s.1.w.23: Industriels -> industrieel
+[DETECTION WRONG] page1269.text.div.6.p.4.s.1.w.25: Royale -> royale
+[DETECTION WRONG] page1269.text.div.6.p.4.s.2.w.8: Koninklijk -> koninklijk
+[DETECTION WRONG] page1269.text.div.6.p.4.s.2.w.9: Museum -> museum
+[DETECTION WRONG] page1269.text.div.6.p.4.s.2.w.11: Schone -> schone
+[DETECTION WRONG] page1269.text.div.6.p.4.s.2.w.12: Kunsten -> kunsten
+[DETECTION WRONG] page1269.text.div.6.p.4.s.2.w.15: De -> de
+[DETECTION WRONG] page1269.text.div.6.p.4.s.2.w.16: Lampenist -> lampenist
+[DETECTION WRONG] page1269.text.div.6.p.5.s.1.w.8: Salon -> salon
+[DETECTION WRONG] page1269.text.div.6.p.5.s.1.w.10: Cents -> cents
+[DETECTION WRONG] page1269.text.div.6.p.5.s.2.w.11: plume -> Plum
+[DETECTION WRONG] page1269.text.div.6.p.6.s.1.w.10: Zelfportret -> zelfportret
+[DETECTION WRONG] page1269.text.div.6.p.6.s.1.w.19: temidden -> te midden
+[DETECTION WRONG] page1269.text.div.6.p.7.s.1.w.12: Olie -> olie
+[DETECTION WRONG] page1269.text.div.6.p.7.s.1.w.16: Mijn -> mijn
+[DETECTION WRONG] page1269.text.div.7.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page1269.text.div.7.p.2.s.1.w.7: Geërgerde -> geërgerde
+[DETECTION WRONG] page1269.text.div.7.p.2.s.2.w.17: carnavalvermomming -> carnaval vermomming
+[DETECTION WRONG] page1269.text.div.7.p.2.s.3.w.11: Geraamte -> geraamte
+[DETECTION WRONG] page1269.text.div.7.p.2.s.3.w.23: Satan -> satan
+[DETECTION WRONG] page1269.text.div.7.p.2.s.3.w.36: Aureolen -> aureolen
+[DETECTION WRONG] page1269.text.div.7.p.2.s.4.w.7: Carnaval -> carnaval
+[DETECTION WRONG] page1269.text.div.7.p.3.s.1.w.14: De -> de
+[DETECTION WRONG] page1269.text.div.7.p.3.s.1.w.28: Maskers -> maskers
+[DETECTION WRONG] page1269.text.div.7.p.3.s.1.w.38: Maskers -> maskers
+[DETECTION WRONG] page1269.text.div.7.p.3.s.1.w.49: feite -> feitje
+[DETECTION WRONG] page1269.text.div.7.p.3.s.1.w.61: De -> de
+[DETECTION WRONG] page1269.text.div.7.p.3.s.1.w.73: De -> de
+[DETECTION WRONG] page1269.text.div.7.p.3.s.1.w.87: De -> de
+[DETECTION WRONG] page1269.text.div.7.p.3.s.1.w.95: De -> de
+[DETECTION WRONG] page1269.text.div.7.p.3.s.1.w.106: Doop -> doop
+[DETECTION WRONG] page1269.text.div.7.p.3.s.1.w.116: De -> de
+[DETECTION WRONG] page1269.text.div.7.p.3.s.1.w.119: Pierrot -> pierrot
+[DETECTION WRONG] page1269.text.div.7.p.3.s.1.w.126: Zelfportret -> zelfportret
+[DETECTION WRONG] page1269.text.div.7.p.4.s.1.w.11: Geraamten -> geraamten
+[DETECTION WRONG] page1269.text.div.7.p.4.s.1.w.26: De -> de
+[DETECTION WRONG] page1269.text.div.7.p.4.s.1.w.30: mensenkudde -> mensenbaby's
+[DETECTION WRONG] page1269.text.div.7.p.4.s.1.w.37: Demonen -> demonen
+[DETECTION WRONG] page1269.text.div.7.p.4.s.1.w.47: De -> de
+[DETECTION WRONG] page1269.text.div.7.p.4.s.1.w.58: Pierrot -> pierrot
+[DETECTION WRONG] page1269.text.div.7.p.4.s.1.w.69: Bebloemde -> bebloemde
+[DETECTION WRONG] page1269.text.div.7.p.5.s.2.w.9: De -> de
+[DETECTION WRONG] page1269.text.div.7.p.5.s.3.w.5: De -> de
+[DETECTION WRONG] page1269.text.div.7.p.5.s.3.w.16: De -> de
+[DETECTION WRONG] page1269.text.div.7.p.5.s.3.w.25: De -> de
+[DETECTION WRONG] page1269.text.div.7.p.5.s.3.w.33: De -> de
+[DETECTION WRONG] page1269.text.div.7.p.5.s.3.w.42: In -> in
+[DETECTION WRONG] page1269.text.div.7.p.5.s.3.w.44: muziekconservatorium -> muziek conservatorium
+[DETECTION WRONG] page1269.text.div.8.head.1.s.1.w.2: gloriejaar -> glorie jaar
+[DETECTION WRONG] page1269.text.div.8.head.1.s.1.w.4: Baron -> baron
+[DETECTION WRONG] page1269.text.div.8.p.1.s.1.w.1: Alhoewel -> alhoewel
+[DETECTION WRONG] page1269.text.div.8.p.1.s.1.w.27: gloriejaar -> glorie jaar
+[DETECTION WRONG] page1269.text.div.8.p.1.s.2.w.11: Paleis -> paleis
+[DETECTION WRONG] page1269.text.div.8.p.1.s.2.w.13: Schone -> schone
+[DETECTION WRONG] page1269.text.div.8.p.1.s.2.w.14: Kunsten -> kunsten
+[DETECTION WRONG] page1269.text.div.8.p.1.s.3.w.8: Intrede -> intrede
+[DETECTION WRONG] page1269.text.div.8.p.1.s.3.w.24: Baron -> baron
+[DETECTION WRONG] page1269.text.div.8.p.1.s.3.w.27: Baron -> baron
+[DETECTION WRONG] page1269.text.div.8.p.1.s.3.w.28: J -> j
+[DETECTION WRONG] page1269.text.div.8.p.1.s.5.w.15: Pro -> pro
+[DETECTION WRONG] page1269.text.div.8.p.1.s.5.w.23: Oostendse -> Oostends
+[DETECTION WRONG] page1269.text.div.8.p.1.s.5.w.24: Kursaal -> kursaal
+[DETECTION WRONG] page1269.text.div.8.p.1.s.8.w.18: Heilig -> heilig
+[DETECTION WRONG] page1269.text.div.8.p.1.s.8.w.19: Hart -> hart
+[DETECTION WRONG] page1269.text.div.8.p.1.s.8.w.33: duinenkerkje -> duinen kerkje
+[DETECTION WRONG] page1269.text.div.8.p.2.s.4.w.6: Licht -> licht
+[DETECTION WRONG] page1269.text.div.9.list.1.item.1.s.1.w.2: Tricot -> tricot
+[DETECTION WRONG] page1269.text.div.9.list.1.item.1.s.1.w.10: Catalogue -> catalogus
+[DETECTION WRONG] page1269.text.div.9.list.1.item.1.s.1.w.13: the -> The
+[DETECTION WRONG] page1269.text.div.9.list.1.item.1.s.1.w.20: MIM -> mix
+[DETECTION WRONG] page1269.text.div.9.list.1.item.2.s.1.w.2: Tricot -> tricot
+[DETECTION WRONG] page1269.text.div.9.list.1.item.3.s.1.w.4: Bussche -> Busscher
+[DETECTION WRONG] page1269.text.div.9.list.1.item.3.s.1.w.11: Catalogus -> catalogus
+[DETECTION WRONG] page1269.text.div.9.list.1.item.4.s.1.w.9: KMSK -> km/h
+[DETECTION WRONG] page1269.text.div.10.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1269.text.div.10.p.1.s.2.w.10: uitsproken -> uitspoken
+[DETECTION WRONG] page1269.text.div.10.p.1.s.3.w.7: Oostendse -> Oostends
+[DETECTION WRONG] page1269.text.div.10.p.1.s.8.w.7: Sussex -> sussen
+[DETECTION WRONG] page1269.text.div.10.p.2.s.1.w.6: Bruggen -> bruggen
+[DETECTION WRONG] page1269.text.div.10.p.2.s.1.w.8: Wegen -> wegen
+[DETECTION WRONG] page1269.text.div.10.p.2.s.1.w.21: Verenigde -> verenigde
+[DETECTION WRONG] page1269.text.div.10.p.2.s.4.w.17: Oostendse -> Oostends
+[DETECTION WRONG] page1269.text.div.10.p.2.s.4.w.18: handelsvrouw -> handelsboycot
+[DETECTION WRONG] page1269.text.div.10.p.2.s.5.w.5: Oostendse -> Oostends
+[DETECTION WRONG] page1269.text.div.10.p.3.s.2.w.12: Sirène -> sirene
+[DETECTION WRONG] page1269.text.div.10.p.4.s.1.w.6: Mietje -> mietje
+[DETECTION WRONG] page1269.text.div.10.p.4.s.1.w.8: Mitche -> Mitchel
+[DETECTION WRONG] page1269.text.div.10.p.4.s.5.w.21: zorgennichtje -> zorgen nichtje
+[DETECTION WRONG] page1269.text.div.10.p.4.s.6.w.7: 15e -> vijftiende
+[DETECTION WRONG] page1269.text.div.11.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page1269.text.div.11.p.1.s.1.w.10: Oostendse -> Oostends
+[DETECTION WRONG] page1269.text.div.11.p.1.s.2.w.5: tuchtloos -> tucht loos
+[DETECTION WRONG] page1269.text.div.11.p.1.s.3.w.19: Een -> een
+[DETECTION WRONG] page1269.text.div.11.p.1.s.4.w.7: schilderwerkjes -> schilderwerk
+[DETECTION WRONG] page1269.text.div.11.p.1.s.6.w.4: schilder- -> schildert
+[DETECTION WRONG] page1269.text.div.11.p.1.s.6.w.11: Oostendse -> Oostends
+[DETECTION WRONG] page1269.text.div.11.p.1.s.7.w.16: spons- -> spons
+[DETECTION WRONG] page1269.text.div.11.p.1.s.7.w.18: tekentechniek -> teken techniek
+[DETECTION WRONG] page1269.text.div.11.p.2.s.1.w.16: Oostendse -> Oostends
+[DETECTION WRONG] page1269.text.div.11.p.2.s.1.w.17: Academie -> academie
+[DETECTION WRONG] page1269.text.div.11.p.2.s.1.w.19: Schone -> schone
+[DETECTION WRONG] page1269.text.div.11.p.2.s.1.w.20: Kunsten -> kunsten
+[DETECTION WRONG] page1269.text.div.11.p.2.s.2.w.22: Duinen -> duinen
+[DETECTION WRONG] page1269.text.div.11.p.2.s.2.w.30: Zicht -> zicht
+[DETECTION WRONG] page1269.text.div.11.p.2.s.2.w.39: De -> de
+[DETECTION WRONG] page1269.text.div.11.p.2.s.2.w.47: De -> de
+[DETECTION WRONG] page1269.text.div.11.p.3.s.1.w.19: Academie -> academie
+[DETECTION WRONG] page1269.text.div.11.p.3.s.1.w.21: Schone -> schone
+[DETECTION WRONG] page1269.text.div.11.p.3.s.1.w.22: Kunsten -> kunsten
+[DETECTION WRONG] page1269.text.div.11.p.3.s.4.w.16: Grote -> grote
+[DETECTION WRONG] page1269.text.div.11.p.3.s.4.w.17: Markt -> markt
+[DETECTION WRONG] page1269.text.div.11.p.4.s.1.w.6: Golfbreker -> golfbreker
+[DETECTION WRONG] page1269.text.div.11.p.4.s.1.w.15: Naakte -> naakte
+[DETECTION WRONG] page1269.text.div.11.p.4.s.1.w.23: Polderlandschap -> polderlandschap
+[DETECTION WRONG] page1269.text.div.11.p.4.s.1.w.30: Man -> man
+[DETECTION WRONG] page1269.text.div.11.p.4.s.1.w.42: Zelfportret -> zelfportret
+[DETECTION WRONG] page1269.text.div.11.p.4.s.1.w.49: Het -> het
+[DETECTION WRONG] page1269.text.div.11.p.5.s.4.w.15: Vlaanderenramp -> Vlaanderens
+[DETECTION WRONG] page1269.text.div.11.p.6.s.1.w.10: De -> de
+[DETECTION WRONG] page1269.text.div.11.p.6.s.1.w.35: Grijze -> grijze
+[DETECTION WRONG] page1269.text.div.11.p.6.s.1.w.43: Stilleven -> stilleven
+[DETECTION WRONG] page1269.text.div.11.p.6.s.1.w.52: Het -> het
+[DETECTION WRONG] page1269.text.div.11.p.6.s.2.w.10: Vlaanderenstraat -> Vlaanderens
+[DETECTION WRONG] page1269.text.div.11.p.6.s.2.w.17: Portret -> portret
+[DETECTION WRONG] page1269.text.div.11.p.6.s.2.w.24: De -> de
+[DETECTION WRONG] page1269.text.div.11.p.6.s.2.w.30: Namiddag -> namiddag
+[DETECTION WRONG] page1269.text.div.11.p.6.s.2.w.35: De -> de
+[DETECTION WRONG] page1269.text.div.11.p.6.s.2.w.40: Vrouw -> vrouw
+[DETECTION WRONG] page1269.text.div.12.head.1.s.1.w.2: vingt -> ving t
+[DETECTION WRONG] page1269.text.div.12.head.1.s.1.w.6: Heibel -> heibel
+[DETECTION WRONG] page1269.text.div.12.p.1.s.1.w.1: Hij -> hij
+[DETECTION WRONG] page1269.text.div.12.p.1.s.1.w.20: De -> de
+[DETECTION WRONG] page1269.text.div.12.p.1.s.1.w.21: koloriste -> koristes
+[DETECTION WRONG] page1269.text.div.12.p.1.s.1.w.23: Het -> het
+[DETECTION WRONG] page1269.text.div.12.p.1.s.1.w.24: burgersalon -> burger salon
+[DETECTION WRONG] page1269.text.div.12.p.1.s.1.w.26: Nature -> naturel
+[DETECTION WRONG] page1269.text.div.12.p.1.s.1.w.27: morte -> mor te
+[DETECTION WRONG] page1269.text.div.12.p.1.s.1.w.40: De -> de
+[DETECTION WRONG] page1269.text.div.12.p.1.s.1.w.48: Générale -> generale
+[DETECTION WRONG] page1269.text.div.12.p.1.s.2.w.4: Het -> het
+[DETECTION WRONG] page1269.text.div.12.p.1.s.2.w.5: burgersalon -> burger salon
+[DETECTION WRONG] page1269.text.div.12.p.2.s.1.w.7: Portret -> portret
+[DETECTION WRONG] page1269.text.div.12.p.2.s.1.w.14: De -> de
+[DETECTION WRONG] page1269.text.div.12.p.2.s.1.w.19: De -> de
+[DETECTION WRONG] page1269.text.div.12.p.3.s.1.w.9: L -> l
+[DETECTION WRONG] page1269.text.div.12.p.3.s.3.w.10: L -> l
+[DETECTION WRONG] page1269.text.div.12.p.4.s.1.w.11: L -> l
+[DETECTION WRONG] page1269.text.div.12.p.4.s.4.w.6: Salon -> salon
+[DETECTION WRONG] page1269.text.div.12.p.4.s.5.w.7: Namiddag -> namiddag
+[DETECTION WRONG] page1269.text.div.12.p.4.s.5.w.16: De -> de
+[DETECTION WRONG] page1269.text.div.12.p.4.s.10.w.13: Museum -> museum
+[DETECTION WRONG] page1269.text.div.12.p.4.s.10.w.15: Schone -> schone
+[DETECTION WRONG] page1269.text.div.12.p.4.s.10.w.16: Kunsten -> kunsten
+[DETECTION WRONG] page1269.text.div.12.p.4.s.10.w.22: Triënnale -> triënnale
+[DETECTION WRONG] page1269.text.div.12.p.4.s.10.w.23: Salon -> salon
+[DETECTION WRONG] page1269.text.div.12.p.5.s.1.w.6: Kursaal -> kursaal
+[DETECTION WRONG] page1269.text.div.12.p.5.s.1.w.16: 32ste -> tweeëndertigste
+[DETECTION WRONG] page1269.text.div.12.p.5.s.1.w.17: Triënnale -> triënnale
+[DETECTION WRONG] page1269.text.div.12.p.5.s.1.w.29: Société -> society
+[DETECTION WRONG] page1269.text.div.12.p.5.s.1.w.30: Royale -> royale
+[DETECTION WRONG] page1269.text.div.12.p.5.s.1.w.32: Aquarellistes -> aquarellist
+[DETECTION WRONG] page1269.text.div.12.p.5.s.1.w.33: Belges -> Belgen
+[DETECTION WRONG] page1269.text.div.12.p.6.s.1.w.10: De -> de
+[DETECTION WRONG] page1269.text.div.12.p.6.s.1.w.20: Daken -> daken
+[DETECTION WRONG] page1269.text.div.12.p.6.s.1.w.30: enigzins -> enigszins
+[DETECTION WRONG] page1269.text.div.12.p.6.s.1.w.36: De -> de
+[DETECTION WRONG] page1269.text.div.12.p.6.s.1.w.46: Turner -> turner
+[DETECTION WRONG] page1269.text.div.12.p.6.s.2.w.10: Vogels -> vogels
+[DETECTION WRONG] page1269.text.div.12.p.6.s.2.w.18: Turner -> turner
+[DETECTION WRONG] page1269.text.div.12.p.7.s.1.w.19: revolterende -> revolte rende
+[DETECTION WRONG] page1269.text.div.12.p.7.s.1.w.24: vingt -> ving t
+[DETECTION WRONG] page1269.text.div.12.p.7.s.5.w.15: L -> l
+[DETECTION WRONG] page1269.text.div.12.p.7.s.5.w.18: Moderne -> moderne
+[DETECTION WRONG] page1269.text.div.12.p.7.s.6.w.6: Salon -> salon
+[DETECTION WRONG] page1269.text.div.12.p.8.s.1.w.10: De -> de
+[DETECTION WRONG] page1269.text.div.12.p.8.s.1.w.32: opensteekt -> open steekt
+[DETECTION WRONG] page1269.text.div.13.p.1.s.1.w.1: Op -> op
+[DETECTION WRONG] page1269.text.div.13.p.1.s.1.w.3: 25e -> vijfentwintigste
+[DETECTION WRONG] page1269.text.div.13.p.1.s.2.w.8: Aureolen -> aureolen
+[DETECTION WRONG] page1269.text.div.13.p.1.s.2.w.14: De -> de
+[DETECTION WRONG] page1269.text.div.13.p.1.s.2.w.18: Licht -> licht
+[DETECTION WRONG] page1269.text.div.13.p.1.s.2.w.25: De -> de
+[DETECTION WRONG] page1269.text.div.13.p.1.s.2.w.38: Intrede -> intrede
+[DETECTION WRONG] page1269.text.div.13.p.1.s.2.w.42: Satan -> satan
+[DETECTION WRONG] page1269.text.div.13.p.1.s.2.w.49: Gekruisigde -> gekruisigde
+[DETECTION WRONG] page1269.text.div.13.p.2.s.1.w.12: Licht -> licht
+[DETECTION WRONG] page1269.text.div.13.p.2.s.3.w.9: Zelfportret -> zelfportret
+[DETECTION WRONG] page1269.text.div.13.p.2.s.3.w.11: fini -> Fin
+[DETECTION WRONG] page1269.text.div.13.p.2.s.3.w.20: De -> de
+[DETECTION WRONG] page1269.text.div.14.p.1.s.1.w.1: Twee -> twee
+[DETECTION WRONG] page1269.text.div.14.p.1.s.1.w.20: Intrede -> intrede
+[DETECTION WRONG] page1269.text.div.14.p.1.s.3.w.13: Salon -> salon
+[DETECTION WRONG] page1269.text.div.14.p.2.s.2.w.2: zolderatelier -> zolder atelier
+[DETECTION WRONG] page1269.text.div.14.p.2.s.3.w.16: Hij -> hij
+[DETECTION WRONG] page1269.text.div.14.p.3.s.2.w.43: tovenaarshoed -> tovenaars hoed
+[DETECTION WRONG] page1269.text.div.14.p.3.s.2.w.46: Dood -> dood
+[DETECTION WRONG] page1269.text.div.14.p.3.s.2.w.56: Fanfares -> fanfares
+[DETECTION WRONG] page1269.text.div.14.p.3.s.2.w.57: doctrinaires -> doctrinaire
+[DETECTION WRONG] page1269.text.div.14.p.3.s.3.w.9: clownskostuum -> clowns kostuum
+[DETECTION WRONG] page1269.text.div.14.p.3.s.4.w.11: Sociale -> sociale
+[DETECTION WRONG] page1269.text.div.14.p.3.s.5.w.4: feite -> feitje
+[DETECTION WRONG] page1269.text.div.14.p.4.s.1.w.18: Vlaanderenramp -> Vlaanderens
+[DETECTION WRONG] page1269.text.div.14.p.4.s.2.w.23: Vlaanderenstraat -> Vlaanderens
+[DETECTION WRONG] page1269.text.div.14.p.4.s.4.w.20: gevelbalkon -> gevel balkon
+[DETECTION WRONG] page1269.text.div.14.p.5.s.1.w.15: enschreef -> naschreef
+[DETECTION WRONG] page1269.text.div.14.p.5.s.1.w.23: Mort -> mort
+[DETECTION WRONG] page1269.text.div.14.p.5.s.1.w.27: un -> u n
+[DETECTION WRONG] page1269.text.div.14.p.5.s.1.w.28: théologien -> theologie
+[DETECTION WRONG] page1269.text.div.14.p.6.s.1.w.11: Tweede -> tweede
+[DETECTION WRONG] page1269.text.div.14.p.6.s.1.w.12: Wereldoorlog -> wereldoorlog
+[DETECTION WRONG] page1269.text.div.14.p.6.s.2.w.14: Casino -> casino
+[DETECTION WRONG] page1269.text.div.14.p.6.s.2.w.21: Museum -> museum
+[DETECTION WRONG] page1269.text.div.14.p.6.s.2.w.23: Schone -> schone
+[DETECTION WRONG] page1269.text.div.14.p.6.s.2.w.24: Kunsten -> kunsten
+[DETECTION WRONG] page1269.text.div.14.p.6.s.2.w.35: Koninklijk -> koninklijk
+[DETECTION WRONG] page1269.text.div.14.p.6.s.2.w.36: Museum -> museum
+[DETECTION WRONG] page1269.text.div.14.p.6.s.2.w.38: Schone -> schone
+[DETECTION WRONG] page1269.text.div.14.p.6.s.2.w.39: Kunsten -> kunsten
+[DETECTION WRONG] page1269.text.div.14.p.6.s.2.w.51: Künsthaus -> kunstpaus
+[DETECTION WRONG] page1269.text.div.14.p.6.s.3.w.8: Getty -> getto
+[DETECTION WRONG] page1269.text.div.14.p.6.s.3.w.9: Museum -> museum
+[DETECTION WRONG] page1269.text.div.14.p.6.s.3.w.11: Los -> los
+[DETECTION WRONG] page1269.text.div.14.p.6.s.3.w.12: Angeles -> Angèles
+[DETECTION WRONG] page1269.text.div.14.p.7.s.1.w.29: De -> de
+[DETECTION WRONG] page1269.text.div.14.p.7.s.1.w.48: De -> de
+[DETECTION WRONG] page1269.text.div.14.p.7.s.1.w.73: De -> de
+[DETECTION WRONG] page1269.text.div.15.head.1.s.1.w.3: Esthétique -> esthetica
+[DETECTION WRONG] page1269.text.div.15.p.1.s.1.w.1: Wegens -> wegens
+[DETECTION WRONG] page1269.text.div.15.p.1.s.2.w.9: Esthétique -> esthetica
+[DETECTION WRONG] page1269.text.div.15.p.1.s.2.w.17: uitgenodigden -> uitgenodigde
+[DETECTION WRONG] page1269.text.div.15.p.1.s.4.w.8: bekritisseerd -> bekritiseerd
+[DETECTION WRONG] page1269.text.div.15.p.2.s.2.w.6: Prentenkabinet -> prentenkabinet
+[DETECTION WRONG] page1269.text.div.15.p.3.s.1.w.14: Esthétique -> esthetica
+[DETECTION WRONG] page1269.text.div.15.p.3.s.1.w.24: Vogels -> vogels
+[DETECTION WRONG] page1269.text.div.15.p.3.s.1.w.33: Beaux -> beau
+[DETECTION WRONG] page1269.text.div.15.p.3.s.1.w.37: Ostende -> Oostende
+[DETECTION WRONG] page1269.text.div.15.p.3.s.2.w.10: Prentenkabinet -> prentenkabinet
+[DETECTION WRONG] page1269.text.div.15.p.4.s.1.w.23: Industriels -> industrieel
+[DETECTION WRONG] page1269.text.div.15.p.4.s.1.w.25: Royale -> royale
+[DETECTION WRONG] page1269.text.div.15.p.4.s.2.w.8: Koninklijk -> koninklijk
+[DETECTION WRONG] page1269.text.div.15.p.4.s.2.w.9: Museum -> museum
+[DETECTION WRONG] page1269.text.div.15.p.4.s.2.w.11: Schone -> schone
+[DETECTION WRONG] page1269.text.div.15.p.4.s.2.w.12: Kunsten -> kunsten
+[DETECTION WRONG] page1269.text.div.15.p.4.s.2.w.15: De -> de
+[DETECTION WRONG] page1269.text.div.15.p.4.s.2.w.16: Lampenist -> lampenist
+[DETECTION WRONG] page1269.text.div.15.p.5.s.1.w.8: Salon -> salon
+[DETECTION WRONG] page1269.text.div.15.p.5.s.1.w.10: Cents -> cents
+[DETECTION WRONG] page1269.text.div.15.p.5.s.1.w.20: verwachtye -> verwacht
+[DETECTION WRONG] page1269.text.div.15.p.5.s.2.w.11: plume -> Plum
+[DETECTION WRONG] page1269.text.div.15.p.6.s.1.w.10: Zelfportret -> zelfportret
+[DETECTION WRONG] page1269.text.div.15.p.6.s.1.w.19: temidden -> te midden
+[DETECTION WRONG] page1269.text.div.15.p.7.s.1.w.12: Olie -> olie
+[DETECTION WRONG] page1269.text.div.15.p.7.s.1.w.16: Mijn -> mijn
+[DETECTION WRONG] page1269.text.div.16.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page1269.text.div.16.p.2.s.1.w.7: Geërgerde -> geërgerde
+[DETECTION WRONG] page1269.text.div.16.p.2.s.2.w.17: carnavalvermomming -> carnaval vermomming
+[DETECTION WRONG] page1269.text.div.16.p.2.s.3.w.11: Geraamte -> geraamte
+[DETECTION WRONG] page1269.text.div.16.p.2.s.3.w.23: Satan -> satan
+[DETECTION WRONG] page1269.text.div.16.p.2.s.3.w.36: Aureolen -> aureolen
+[DETECTION WRONG] page1269.text.div.16.p.2.s.4.w.7: Carnaval -> carnaval
+[DETECTION WRONG] page1269.text.div.16.p.3.s.1.w.14: De -> de
+[DETECTION WRONG] page1269.text.div.16.p.3.s.1.w.28: Maskers -> maskers
+[DETECTION WRONG] page1269.text.div.16.p.3.s.1.w.38: Maskers -> maskers
+[DETECTION WRONG] page1269.text.div.16.p.3.s.1.w.49: feite -> feitje
+[DETECTION WRONG] page1269.text.div.16.p.3.s.1.w.61: De -> de
+[DETECTION WRONG] page1269.text.div.16.p.3.s.1.w.73: De -> de
+[DETECTION WRONG] page1269.text.div.16.p.3.s.1.w.87: De -> de
+[DETECTION WRONG] page1269.text.div.16.p.3.s.1.w.95: De -> de
+[DETECTION WRONG] page1269.text.div.16.p.3.s.1.w.106: Doop -> doop
+[DETECTION WRONG] page1269.text.div.16.p.3.s.1.w.116: De -> de
+[DETECTION WRONG] page1269.text.div.16.p.3.s.1.w.119: Pierrot -> pierrot
+[DETECTION WRONG] page1269.text.div.16.p.3.s.1.w.126: Zelfportret -> zelfportret
+[DETECTION WRONG] page1269.text.div.16.p.4.s.1.w.11: Geraamten -> geraamten
+[DETECTION WRONG] page1269.text.div.16.p.4.s.1.w.26: De -> de
+[DETECTION WRONG] page1269.text.div.16.p.4.s.1.w.30: mensenkudde -> mensenbaby's
+[DETECTION WRONG] page1269.text.div.16.p.4.s.1.w.37: Demonen -> demonen
+[DETECTION WRONG] page1269.text.div.16.p.4.s.1.w.47: De -> de
+[DETECTION WRONG] page1269.text.div.16.p.4.s.1.w.58: Pierrot -> pierrot
+[DETECTION WRONG] page1269.text.div.16.p.4.s.1.w.69: Bebloemde -> bebloemde
+[DETECTION WRONG] page1269.text.div.16.p.5.s.2.w.9: De -> de
+[DETECTION WRONG] page1269.text.div.16.p.5.s.3.w.5: De -> de
+[DETECTION WRONG] page1269.text.div.16.p.5.s.3.w.16: De -> de
+[DETECTION WRONG] page1269.text.div.16.p.5.s.3.w.25: De -> de
+[DETECTION WRONG] page1269.text.div.16.p.5.s.3.w.33: De -> de
+[DETECTION WRONG] page1269.text.div.16.p.5.s.3.w.42: In -> in
+[DETECTION WRONG] page1269.text.div.16.p.5.s.3.w.44: muziekconservatorium -> muziek conservatorium
+[DETECTION WRONG] page1269.text.div.17.head.1.s.1.w.2: gloriejaar -> glorie jaar
+[DETECTION WRONG] page1269.text.div.17.head.1.s.1.w.4: Baron -> baron
+[DETECTION WRONG] page1269.text.div.17.p.1.s.1.w.1: Alhoewel -> alhoewel
+[DETECTION WRONG] page1269.text.div.17.p.1.s.1.w.27: gloriejaar -> glorie jaar
+[DETECTION WRONG] page1269.text.div.17.p.1.s.2.w.11: Paleis -> paleis
+[DETECTION WRONG] page1269.text.div.17.p.1.s.2.w.13: Schone -> schone
+[DETECTION WRONG] page1269.text.div.17.p.1.s.2.w.14: Kunsten -> kunsten
+[DETECTION WRONG] page1269.text.div.17.p.1.s.3.w.8: Intrede -> intrede
+[DETECTION WRONG] page1269.text.div.17.p.1.s.3.w.24: Baron -> baron
+[DETECTION WRONG] page1269.text.div.17.p.1.s.3.w.27: Baron -> baron
+[DETECTION WRONG] page1269.text.div.17.p.1.s.3.w.28: J -> j
+[DETECTION WRONG] page1269.text.div.17.p.1.s.5.w.15: Pro -> pro
+[DETECTION WRONG] page1269.text.div.17.p.1.s.5.w.23: Oostendse -> Oostends
+[DETECTION WRONG] page1269.text.div.17.p.1.s.5.w.24: Kursaal -> kursaal
+[DETECTION WRONG] page1269.text.div.17.p.1.s.8.w.18: Heilig -> heilig
+[DETECTION WRONG] page1269.text.div.17.p.1.s.8.w.19: Hart -> hart
+[DETECTION WRONG] page1269.text.div.17.p.1.s.8.w.33: duinenkerkje -> duinen kerkje
+[DETECTION WRONG] page1269.text.div.17.p.2.s.4.w.6: Licht -> licht
+[DETECTION WRONG] page1269.text.div.18.list.1.item.1.s.1.w.2: Tricot -> tricot
+[DETECTION WRONG] page1269.text.div.18.list.1.item.1.s.1.w.10: Catalogue -> catalogus
+[DETECTION WRONG] page1269.text.div.18.list.1.item.1.s.1.w.13: the -> The
+[DETECTION WRONG] page1269.text.div.18.list.1.item.1.s.1.w.20: MIM -> mix
+[DETECTION WRONG] page1269.text.div.18.list.1.item.2.s.1.w.2: Tricot -> tricot
+[DETECTION WRONG] page1269.text.div.18.list.1.item.3.s.1.w.4: Bussche -> Busscher
+[DETECTION WRONG] page1269.text.div.18.list.1.item.3.s.1.w.11: Catalogus -> catalogus
+[DETECTION WRONG] page1269.text.div.18.list.1.item.4.s.1.w.9: KMSK -> km/h

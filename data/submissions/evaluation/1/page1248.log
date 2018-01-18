@@ -1,0 +1,228 @@
+[DETECTION MISS] INSERTION AFTER page1248.text.div.4.p.1.s.4.w.15: v.Chr.
+[DETECTION MISS] page1248.text.div.5.p.1.s.1.w.6: Westsemietische -> West-Semietische
+[DETECTION MISS] page1248.text.div.5.p.1.s.1.w.10: Mur.tu -> Mur-Tu
+[DETECTION MISS] INSERTION AFTER page1248.text.div.5.p.1.s.3.w.8: v.Chr.
+[DETECTION MISS] INSERTION AFTER page1248.text.div.5.p.1.s.4.w.7: v.Chr.
+[DETECTION MISS] INSERTION AFTER page1248.text.div.5.p.1.s.5.w.16: v.Chr.
+[DETECTION MISS] INSERTION AFTER page1248.text.div.6.p.1.s.5.w.13: v.Chr.
+[DETECTION MISS] page1248.text.div.7.p.1.s.2.w.13: Bab-ilani -> Bab-Ilani
+[DETECTION MISS] INSERTION AFTER page1248.text.div.7.p.1.s.3.w.4: van
+[DETECTION MISS] page1248.text.div.8.p.1.s.2.w.1: Degenen -> Degene
+[DETECTION MISS] page1248.text.div.8.p.1.s.2.w.4: profiteerden -> profiteerde
+[DETECTION MISS] page1248.text.div.8.p.1.s.2.w.5: waren -> was
+[DETECTION MISS] page1248.text.div.8.p.1.s.3.w.5: regeerden -> en regeerden over
+[DETECTION MISS] page1248.text.div.8.p.1.s.3.w.18;page1248.text.div.8.p.1.s.3.w.19: v. Chr. -> v.Chr.
+[DETECTION MISS] page1248.text.div.8.p.1.s.4.w.17: copiëren -> kopiëren
+[DETECTION MISS] page1248.text.div.9.p.1.s.1.w.22;page1248.text.div.9.p.1.s.1.w.23: v. Chr. -> v.Chr.
+[DETECTION MISS] page1248.text.div.17.p.5.s.1.w.8;page1248.text.div.17.p.5.s.1.w.9: Zanj opstand -> Zanj-opstand
+[DETECTION MISS] page1248.text.div.17.p.8.s.1.w.4: Sultan -> sultan
+[DETECTION MATCH] page1248.text.div.19.p.1.s.4.w.10: ottomaanse -> Ottomaanse
+	[CORRECT]
+[DETECTION MISS] page1248.text.div.19.p.1.s.4.w.33: Sanremo -> San Remo
+[DETECTION MISS] page1248.text.div.19.p.1.s.5.w.24: Sjarif -> sjarif
+[DETECTION MISS] page1248.text.div.20.head.1.s.1.w.1: de -> De
+[DETECTION MISS] page1248.text.div.20.p.1.s.2.w.11: locale -> lokale
+[DETECTION MATCH] page1248.text.div.20.p.1.s.3.w.13: Sjiieten -> sjiieten
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.20.p.1.s.3.w.15: Soennieten -> soennieten
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.20.p.1.s.5.w.7: Sjiieten -> sjiieten
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.20.p.1.s.5.w.9: Soennieten -> soennieten
+	[CORRECT]
+[DETECTION MISS] page1248.text.div.20.p.1.s.8.w.17: wat -> dat
+[DETECTION MISS] page1248.text.div.20.p.1.s.8.w.33: Sjiiten -> sjiiten
+[DETECTION MATCH] page1248.text.div.20.list.1.item.1.s.1.w.2: Sjiieten -> sjiieten
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.20.list.1.item.1.s.1.w.9: Christenen -> christenen
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.20.list.1.item.2.s.1.w.2: Soennieten -> soennieten
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.20.p.4.s.1.w.6: Sjiitische -> sjiitische
+	[CORRECT]
+[DETECTION MATCH] page1248.text.div.20.p.4.s.7.w.11: RAFluchtaanvallen -> luchtaanvallen
+	[INCORRECT] Should be: RAF-luchtaanvallen
+[DETECTION MATCH] page1248.text.div.20.p.5.s.3.w.33: Soennieten -> soennieten
+	[CORRECT]
+[DETECTION MISS] page1248.text.div.20.p.5.s.3.w.36: Sjiiten -> sjiiten
+[DETECTION MISS] page1248.text.div.21.p.1.s.2.w.5: officiëel -> officieel
+[DETECTION MATCH] page1248.text.div.23.p.1.s.2.w.5: golfoorlog -> Golfoorlog
+	[CORRECT]
+[DETECTION MISS] page1248.text.div.23.p.2.s.2.w.14;page1248.text.div.23.p.2.s.2.w.15: VN -strijdkrachten -> VN-stdijkrachten
+[DETECTION MATCH] page1248.text.div.23.p.2.s.4.w.11: golfoorlog -> Golfoorlog
+	[CORRECT]
+[DETECTION MISS] page1248.text.div.23.p.3.s.1.w.7;page1248.text.div.23.p.3.s.1.w.8: Scud -raketten -> Scud-raketten
+[DETECTION MISS] page1248.text.div.23.p.3.s.3.w.2;page1248.text.div.23.p.3.s.3.w.3: VN mandaat -> VN-mandaat
+[DETECTION MISS] page1248.text.div.23.p.3.s.4.w.7: wijzen -> wijze
+[DETECTION MATCH] page1248.text.div.23.p.4.s.1.w.20: lange-afstandraketten -> langeafstandsraketten
+	[INCORRECT] Should be: langeafstandraketten
+[DETECTION MISS] page1248.text.div.24.list.1.item.2.s.1.w.9: al -> Al
+[DETECTION MISS] page1248.text.div.24.p.6.s.2.w.4;page1248.text.div.24.p.6.s.2.w.5: interim president -> interim-president
+[DETECTION MISS] page1248.text.div.24.p.8.s.3.w.18;page1248.text.div.24.p.8.s.3.w.20: interim- premier -> interim-premier
+[DETECTION MISS] page1248.text.div.24.p.10.s.1.w.7;page1248.text.div.24.p.10.s.1.w.8: ontwerp grondwet -> ontwerp-grondwet
+[DETECTION MISS] page1248.text.div.26.list.1.item.1.s.1.w.4;page1248.text.div.26.list.1.item.1.s.1.w.5: v. Chr. -> v.Chr.
+[DETECTION MISS] page1248.text.div.26.list.1.item.2.s.1.w.8;page1248.text.div.26.list.1.item.2.s.1.w.9: v. Chr. -> v.Chr.
+[DETECTION MISS] page1248.text.div.26.list.1.item.2.s.1.w.13;page1248.text.div.26.list.1.item.2.s.1.w.14: v. Chr. -> v.Chr.
+[DETECTION MISS] page1248.text.div.26.list.1.item.3.s.1.w.6;page1248.text.div.26.list.1.item.3.s.1.w.7: v. Chr. -> v.Chr.
+[DETECTION MISS] page1248.text.div.26.list.1.item.3.s.1.w.10;page1248.text.div.26.list.1.item.3.s.1.w.11: v. Chr. -> v.Chr.
+[DETECTION MISS] page1248.text.div.26.list.1.item.4.s.2.w.3;page1248.text.div.26.list.1.item.4.s.2.w.4: v. Chr. -> v.Chr.
+[DETECTION WRONG] page1248.text.p.1.s.2.w.11: Tweestromenland -> tweestromenland
+[DETECTION WRONG] page1248.text.div.1.head.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1248.text.div.1.list.1.item.1.s.1.w.1: Kish -> kiyu
+[DETECTION WRONG] page1248.text.div.1.list.1.item.1.s.1.w.5: Ur -> urn
+[DETECTION WRONG] page1248.text.div.1.list.1.item.1.s.1.w.7: Lagash -> Lagas
+[DETECTION WRONG] page1248.text.div.2.head.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1248.text.div.3.head.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1248.text.div.3.head.1.s.1.w.2: Guti -> Guth
+[DETECTION WRONG] page1248.text.div.4.head.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1248.text.div.4.head.1.s.1.w.5: Ur -> urn
+[DETECTION WRONG] page1248.text.div.4.p.1.s.1.w.1: Rond -> rond
+[DETECTION WRONG] page1248.text.div.4.p.1.s.1.w.22: Guti -> Guth
+[DETECTION WRONG] page1248.text.div.4.p.1.s.1.w.23: -vorst -> Vorsts
+[DETECTION WRONG] page1248.text.div.4.p.1.s.3.w.11: Ur -> urn
+[DETECTION WRONG] page1248.text.div.4.p.1.s.4.w.7: Ur -> urn
+[DETECTION WRONG] page1248.text.div.4.p.1.s.4.w.14: ca -> ca.
+[DETECTION WRONG] page1248.text.div.4.p.1.s.6.w.17: Gen -> gen
+[DETECTION WRONG] page1248.text.div.5.head.1.s.1.w.4: Ur -> urn
+[DETECTION WRONG] page1248.text.div.5.p.1.s.1.w.1: Ten -> ten
+[DETECTION WRONG] page1248.text.div.5.p.1.s.2.w.11: Ur -> urn
+[DETECTION WRONG] page1248.text.div.5.p.1.s.4.w.21: Elam -> Ela m
+[DETECTION WRONG] page1248.text.div.5.p.1.s.6.w.7: Elam -> Ela m
+[DETECTION WRONG] page1248.text.div.6.p.1.s.1.w.1: Elam -> Ela m
+[DETECTION WRONG] page1248.text.div.6.p.1.s.3.w.5: Ur -> urn
+[DETECTION WRONG] page1248.text.div.6.p.1.s.4.w.3: Larsa -> Lars'
+[DETECTION WRONG] page1248.text.div.6.p.1.s.5.w.6: Larsa -> Lars'
+[DETECTION WRONG] page1248.text.div.6.p.1.s.5.w.22: machtcentra -> machtscentra
+[DETECTION WRONG] page1248.text.div.7.head.1.s.1.w.1: Babylon -> baby's
+[DETECTION WRONG] page1248.text.div.7.p.1.s.1.w.1: Uit -> uit
+[DETECTION WRONG] page1248.text.div.7.p.1.s.1.w.21: Babylon -> baby's
+[DETECTION WRONG] page1248.text.div.7.p.1.s.2.w.11: hernoemden -> hernoemde
+[DETECTION WRONG] page1248.text.div.8.p.1.s.1.w.1: Na -> na
+[DETECTION WRONG] page1248.text.div.8.p.1.s.1.w.9: Babylon -> baby's
+[DETECTION WRONG] page1248.text.div.8.p.1.s.3.w.16: ca -> ca.
+[DETECTION WRONG] page1248.text.div.8.p.1.s.3.w.20: Er -> er
+[DETECTION WRONG] page1248.text.div.8.p.1.s.6.w.17: Assyriërs -> Assyriër s
+[DETECTION WRONG] page1248.text.div.9.p.1.s.1.w.1: Zie -> zie
+[DETECTION WRONG] page1248.text.div.9.p.1.s.1.w.11: Het -> het
+[DETECTION WRONG] page1248.text.div.10.head.1.s.1.w.1: Neo-Babylonische -> Babylonische
+[DETECTION WRONG] page1248.text.div.11.head.1.s.1.w.1: Meden -> meden
+[DETECTION WRONG] page1248.text.div.11.p.1.s.1.w.1: Zie -> zie
+[DETECTION WRONG] page1248.text.div.11.p.1.s.1.w.5: Meden -> meden
+[DETECTION WRONG] page1248.text.div.12.p.1.s.1.w.1: Zie -> zie
+[DETECTION WRONG] page1248.text.div.13.head.1.s.1.w.3: Grote -> grote
+[DETECTION WRONG] page1248.text.div.13.p.1.s.1.w.1: Zie -> zie
+[DETECTION WRONG] page1248.text.div.13.p.1.s.1.w.6: Grote -> grote
+[DETECTION WRONG] page1248.text.div.14.p.1.s.1.w.1: Zie -> zie
+[DETECTION WRONG] page1248.text.div.15.head.1.s.1.w.1: Tussen -> tussen
+[DETECTION WRONG] page1248.text.div.16.head.1.s.1.w.1: Tussen -> tussen
+[DETECTION WRONG] page1248.text.div.17.head.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1248.text.div.17.p.1.s.1.w.3: Zie -> zie
+[DETECTION WRONG] page1248.text.div.17.p.2.s.1.w.1: Nog -> nog
+[DETECTION WRONG] page1248.text.div.17.p.2.s.1.w.15: Schiereiland -> schiereiland
+[DETECTION WRONG] page1248.text.div.17.p.3.s.1.w.11: Imam -> imam
+[DETECTION WRONG] page1248.text.div.17.p.5.s.1.w.1: Eén -> een
+[DETECTION WRONG] page1248.text.div.17.p.7.s.1.w.8: Kalifaat -> kalifaat
+[DETECTION WRONG] page1248.text.div.17.p.7.s.2.w.11: ilieten -> i lieten
+[DETECTION WRONG] page1248.text.div.17.p.8.s.1.w.6: Beg -> B eg
+[DETECTION WRONG] page1248.text.div.17.p.9.s.1.w.5: Mongolen -> mongolen
+[DETECTION WRONG] page1248.text.div.17.p.9.s.2.w.1: Eén -> een
+[DETECTION WRONG] page1248.text.div.18.p.1.s.1.w.1: Zie -> zie
+[DETECTION WRONG] page1248.text.div.18.p.1.s.1.w.11: In -> in
+[DETECTION WRONG] page1248.text.div.18.p.1.s.2.w.9: Basra -> Bas ra
+[DETECTION WRONG] page1248.text.div.18.p.1.s.3.w.8: Eerste -> eerste
+[DETECTION WRONG] page1248.text.div.18.p.1.s.3.w.9: Wereldoorlog -> wereldoorlog
+[DETECTION WRONG] page1248.text.div.18.p.2.s.2.w.4: Wahabieten -> wahabieten
+[DETECTION WRONG] page1248.text.div.18.p.2.s.2.w.13: Najaf -> Naja f
+[DETECTION WRONG] page1248.text.div.18.p.2.s.2.w.23: Imam -> imam
+[DETECTION WRONG] page1248.text.div.18.p.2.s.2.w.24: Alimoskee -> Ali moskee
+[DETECTION WRONG] page1248.text.div.18.p.2.s.2.w.27: Imam -> imam
+[DETECTION WRONG] page1248.text.div.19.head.1.s.1.w.2: Eerste -> eerste
+[DETECTION WRONG] page1248.text.div.19.head.1.s.1.w.3: Wereldoorlog -> wereldoorlog
+[DETECTION WRONG] page1248.text.div.19.p.1.s.1.w.5: Eerste -> eerste
+[DETECTION WRONG] page1248.text.div.19.p.1.s.1.w.6: Wereldoorlog -> wereldoorlog
+[DETECTION WRONG] page1248.text.div.19.p.1.s.4.w.12: Basra -> Bas ra
+[DETECTION WRONG] page1248.text.div.19.p.1.s.4.w.14: Baghdad -> Bagdad
+[DETECTION WRONG] page1248.text.div.19.p.1.s.4.w.16: Mosul -> Moshe
+[DETECTION WRONG] page1248.text.div.19.p.1.s.4.w.31: Conferentie -> conferentie
+[DETECTION WRONG] page1248.text.div.19.p.1.s.5.w.2: Verenigd -> verenigd
+[DETECTION WRONG] page1248.text.div.19.p.1.s.5.w.3: Koninkrijk -> koninkrijk
+[DETECTION WRONG] page1248.text.div.19.p.1.s.5.w.13: Ibn -> IBM
+[DETECTION WRONG] page1248.text.div.19.p.1.s.5.w.20: ibn -> IBM
+[DETECTION WRONG] page1248.text.div.19.p.1.s.5.w.38: Koninkrijk -> koninkrijk
+[DETECTION WRONG] page1248.text.div.20.head.1.s.1.w.2: Grote -> grote
+[DETECTION WRONG] page1248.text.div.20.head.1.s.1.w.4: Revolutie -> revolutie
+[DETECTION WRONG] page1248.text.div.20.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1248.text.div.20.p.1.s.3.w.20: Grote -> grote
+[DETECTION WRONG] page1248.text.div.20.p.1.s.3.w.22: Revolutie -> revolutie
+[DETECTION WRONG] page1248.text.div.20.p.1.s.6.w.19: Baghdad -> Bagdad
+[DETECTION WRONG] page1248.text.div.20.p.1.s.6.w.20: sir -> Six
+[DETECTION WRONG] page1248.text.div.20.p.1.s.7.w.13: Mandaatgebied -> mandaatgebied
+[DETECTION WRONG] page1248.text.div.20.p.1.s.8.w.7: handful -> handkus
+[DETECTION WRONG] page1248.text.div.20.p.1.s.8.w.10: politicians -> ex-politici
+[DETECTION WRONG] page1248.text.div.20.list.1.item.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1248.text.div.20.list.1.item.2.s.1.w.1: De -> de
+[DETECTION WRONG] page1248.text.div.20.list.1.item.3.s.1.w.1: Veel -> veel
+[DETECTION WRONG] page1248.text.div.20.p.3.s.1.w.1: De -> de
+[DETECTION WRONG] page1248.text.div.20.p.4.s.1.w.11: Imam -> imam
+[DETECTION WRONG] page1248.text.div.20.p.4.s.6.w.9: Brits-Indië -> Brits-Indiër
+[DETECTION WRONG] page1248.text.div.20.p.4.s.8.w.33: not -> Noa
+[DETECTION WRONG] page1248.text.div.20.p.4.s.8.w.34: understand -> onderstand
+[DETECTION WRONG] page1248.text.div.20.p.4.s.8.w.35: this -> Thais
+[DETECTION WRONG] page1248.text.div.20.p.4.s.8.w.37: about -> a bout
+[DETECTION WRONG] page1248.text.div.20.p.4.s.8.w.38: the -> The
+[DETECTION WRONG] page1248.text.div.20.p.4.s.8.w.39: use -> uso
+[DETECTION WRONG] page1248.text.div.20.p.4.s.9.w.2: am -> A4
+[DETECTION WRONG] page1248.text.div.20.p.4.s.9.w.3: strongly -> Strong
+[DETECTION WRONG] page1248.text.div.20.p.4.s.9.w.12: tribes -> t ribes
+[DETECTION WRONG] page1248.text.div.21.p.1.s.1.w.1: Op -> op
+[DETECTION WRONG] page1248.text.div.21.p.1.s.2.w.13: Koninkrijk -> koninkrijk
+[DETECTION WRONG] page1248.text.div.22.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page1248.text.div.22.p.1.s.3.w.10: Ba -> ba
+[DETECTION WRONG] page1248.text.div.23.head.1.s.1.w.1: Golfoorlogen -> Golfoorlog en
+[DETECTION WRONG] page1248.text.div.23.p.1.s.1.w.1: Territoriale -> territoriale
+[DETECTION WRONG] page1248.text.div.23.p.1.s.1.w.28: Iran-Irakoorlog -> Irakoorlog
+[DETECTION WRONG] page1248.text.div.23.p.2.s.2.w.15: -strijdkrachten -> strijdkrachten
+[DETECTION WRONG] page1248.text.div.23.p.2.s.4.w.13: Operation -> operatie
+[DETECTION WRONG] page1248.text.div.23.p.2.s.4.w.14: Desert -> dessert
+[DETECTION WRONG] page1248.text.div.23.p.2.s.4.w.15: Storm -> storm
+[DETECTION WRONG] page1248.text.div.23.p.2.s.4.w.21: Tweede -> tweede
+[DETECTION WRONG] page1248.text.div.23.p.2.s.4.w.26: Iran-Irakoorlog -> Irakoorlog
+[DETECTION WRONG] page1248.text.div.23.p.3.s.1.w.8: -raketten -> raketten
+[DETECTION WRONG] page1248.text.div.23.p.4.s.2.w.5: VN-wapeninspecteurs -> wapeninspecteurs
+[DETECTION WRONG] page1248.text.div.24.head.1.s.1.w.1: 21e -> eenentwintigste
+[DETECTION WRONG] page1248.text.div.24.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page1248.text.div.24.p.1.s.2.w.5: Tweede -> tweede
+[DETECTION WRONG] page1248.text.div.24.p.1.s.2.w.11: Derde -> derde
+[DETECTION WRONG] page1248.text.div.24.p.1.s.2.w.16: Iran-Irakoorlog -> Irakoorlog
+[DETECTION WRONG] page1248.text.div.24.p.1.s.3.w.6: Operation -> operatie
+[DETECTION WRONG] page1248.text.div.24.p.1.s.3.w.7: Iraqi -> Ira's
+[DETECTION WRONG] page1248.text.div.24.p.1.s.3.w.8: Freedom -> Free dom
+[DETECTION WRONG] page1248.text.div.24.p.3.s.1.w.19: Verenigd -> verenigd
+[DETECTION WRONG] page1248.text.div.24.p.3.s.1.w.20: Koninkrijk -> koninkrijk
+[DETECTION WRONG] page1248.text.div.24.p.4.s.2.w.17: Iraq -> IRA
+[DETECTION WRONG] page1248.text.div.24.p.5.s.1.w.12: Coalition -> coalitie
+[DETECTION WRONG] page1248.text.div.24.p.5.s.1.w.14: Authority -> autoritje
+[DETECTION WRONG] page1248.text.div.24.p.5.s.2.w.6: Amerikaans-Britse -> Amerikaanse
+[DETECTION WRONG] page1248.text.div.24.p.6.s.2.w.2: al-Yawar -> awara's
+[DETECTION WRONG] page1248.text.div.24.p.6.s.4.w.22: sjiietische -> sjiitische
+[DETECTION WRONG] page1248.text.div.24.p.7.s.4.w.5: Verenigde -> verenigde
+[DETECTION WRONG] page1248.text.div.24.p.7.s.4.w.7: Alliantie -> alliantie
+[DETECTION WRONG] page1248.text.div.24.p.8.s.1.w.2: coalitie-onderhandelingen -> coalitieonderhandelingen
+[DETECTION WRONG] page1248.text.div.24.p.8.s.3.w.18: interim- -> interims
+[DETECTION WRONG] page1248.text.div.24.p.9.s.1.w.16: vice-premiers -> vicepremiers
+[DETECTION WRONG] page1248.text.div.25.list.1.item.1.s.1.w.1: Koningen -> koningen
+[DETECTION WRONG] page1248.text.div.25.list.1.item.2.s.1.w.1: Koningen -> koningen
+[DETECTION WRONG] page1248.text.div.25.list.1.item.2.s.1.w.3: Perzie -> Per zie
+[DETECTION WRONG] page1248.text.div.25.list.1.item.3.s.1.w.3: Beknopte -> beknopte
+[DETECTION WRONG] page1248.text.div.25.list.1.item.4.s.1.w.1: Geschiedenis -> geschiedenis
+[DETECTION WRONG] page1248.text.div.26.head.1.s.1.w.1: Diverse -> diverse
+[DETECTION WRONG] page1248.text.div.26.list.1.item.4.s.2.w.10: Parthen -> partyen
+[DETECTION WRONG] page1248.text.div.27.head.1.s.1.w.2: Links -> links
+[DETECTION WRONG] page1248.text.div.27.list.1.item.1.s.1.w.2: International -> international
+[DETECTION WRONG] page1248.text.div.27.list.1.item.1.s.1.w.5: Landeninfo -> Landen info
+[DETECTION WRONG] page1248.text.div.27.list.1.item.2.s.1.w.1: Human -> Hu man
+[DETECTION WRONG] page1248.text.div.27.list.1.item.2.s.1.w.5: Genocide -> genocide
+[DETECTION WRONG] page1248.text.div.27.list.1.item.2.s.1.w.7: Iraq -> IRA
+[DETECTION WRONG] page1248.text.div.27.list.1.item.2.s.1.w.11: Campaign -> campagne
+[DETECTION WRONG] page1248.text.div.27.list.1.item.2.s.1.w.13: the -> The
+[DETECTION WRONG] page1248.text.div.27.list.1.item.3.s.1.w.1: Oorlogen -> oorlogen

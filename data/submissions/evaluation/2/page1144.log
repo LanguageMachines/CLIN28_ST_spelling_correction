@@ -1,0 +1,83 @@
+[DETECTION MISS] page1144.text.div.1.p.2.s.1.w.16;page1144.text.div.1.p.2.s.1.w.17: helium kernen -> heliumkernen
+[DETECTION MISS] page1144.text.div.2.p.1.s.1.w.9: balonnen -> ballonnen
+[DETECTION MISS] page1144.text.div.2.p.1.s.2.w.3: balonnen -> ballonnen
+[DETECTION MISS] page1144.text.div.2.p.1.s.4.w.25;page1144.text.div.2.p.1.s.4.w.26: zo zeer -> zozeer
+[DETECTION MISS] page1144.text.div.2.p.6.s.1.w.9: kernfusiereaktie -> kernfusiereactie
+[DETECTION MISS] page1144.text.div.3.p.3.s.2.w.10;page1144.text.div.3.p.3.s.2.w.11: M Pa -> MPa
+[DETECTION MISS] page1144.text.div.3.p.4.s.1.w.8;page1144.text.div.3.p.4.s.1.w.9: M Pa -> MPa
+[DETECTION MISS] page1144.text.div.3.p.4.s.3.w.13;page1144.text.div.3.p.4.s.3.w.14: M Pa -> MPa
+[DETECTION MISS] page1144.text.div.3.p.4.s.3.w.24;page1144.text.div.3.p.4.s.3.w.25: G Pa -> GPa
+[DETECTION MATCH] page1144.text.div.4.p.1.s.2.w.9: and -> andd
+	[INCORRECT] Should be: en
+[DETECTION MATCH] page1144.text.div.4.p.1.s.2.w.20: and -> andd
+	[INCORRECT] Should be: en
+[DETECTION MISS] page1144.text.div.4.p.2.s.3.w.21: energieproduktie -> energieproductie
+[DETECTION MISS] page1144.text.div.5.p.1.s.1.w.3;page1144.text.div.5.p.1.s.1.w.4: He isotoop -> He-isotoop
+[DETECTION MISS] page1144.text.div.5.p.3.s.1.w.10;page1144.text.div.5.p.3.s.1.w.11: kwantum mechanisch -> kwantummechanisch
+[DETECTION MISS] page1144.text.div.5.p.4.s.1.w.4;page1144.text.div.5.p.4.s.1.w.5: He isotoop -> He-isotoop
+[DETECTION MISS] page1144.text.div.5.p.4.s.3.w.3;page1144.text.div.5.p.4.s.3.w.4: He atomen -> He-atomen
+[DETECTION MISS] page1144.text.div.5.p.4.s.3.w.10;page1144.text.div.5.p.4.s.3.w.11: He atomen -> He-atomen
+[DETECTION MISS] page1144.text.div.6.p.1.s.1.w.4;page1144.text.div.6.p.1.s.1.w.5: helium isotoop -> heliumisotoop
+[DETECTION MISS] page1144.text.div.6.p.1.s.2.w.4: ongebuikelijk -> ongebruikelijk
+[DETECTION MISS] page1144.text.div.6.p.2.s.1.w.10;page1144.text.div.6.p.2.s.1.w.11: He kern -> He-kern
+[DETECTION MISS] page1144.text.div.6.p.2.s.1.w.16: alfa-verval -> alfaverval
+[DETECTION MISS] page1144.text.div.6.p.2.s.2.w.1;page1144.text.div.6.p.2.s.2.w.2: Helium kernen -> Heliumkernen
+[DETECTION MISS] page1144.text.div.6.p.3.s.1.w.3: Oerknaltheorie -> oerknaltheorie
+[DETECTION MISS] page1144.text.div.6.p.3.s.1.w.17: Oerknal -> oerknal
+[DETECTION WRONG] page1144.text.p.1.s.1.w.8: He -> het
+[DETECTION WRONG] page1144.text.div.1.p.1.s.4.w.17: zijn -> zijn
+[DETECTION WRONG] page1144.text.div.1.p.1.s.5.w.7: Sir -> sirr
+[DETECTION WRONG] page1144.text.div.1.p.2.s.2.w.22: 0,9 -> @,,
+[DETECTION WRONG] page1144.text.div.1.p.2.s.3.w.7: onderscheiden -> onderscheiden
+[DETECTION WRONG] page1144.text.div.1.p.2.s.4.w.30: vorm -> voom
+[DETECTION WRONG] page1144.text.div.2.p.1.s.3.w.10: tijden -> tijdenn
+[DETECTION WRONG] page1144.text.div.2.p.1.s.4.w.36: lak -> lakk
+[DETECTION WRONG] page1144.text.div.2.p.1.s.5.w.6: 92,64 -> @,,
+[DETECTION WRONG] page1144.text.div.2.p.3.s.1.w.15: inert -> ineer
+[DETECTION WRONG] page1144.text.div.2.p.3.s.1.w.26: 2,5 -> @,,
+[DETECTION WRONG] page1144.text.div.2.p.4.s.2.w.6: inert -> ineer
+[DETECTION WRONG] page1144.text.div.2.p.5.s.2.w.15: inert -> ineer
+[DETECTION WRONG] page1144.text.div.2.p.5.s.2.w.21: inert -> ineer
+[DETECTION WRONG] page1144.text.div.2.p.6.s.1.w.2: vorming -> vooming
+[DETECTION WRONG] page1144.text.div.2.p.6.s.1.w.16: vormt -> voomt
+[DETECTION WRONG] page1144.text.div.3.p.1.s.1.w.15: 4,2 -> @,,
+[DETECTION WRONG] page1144.text.div.3.p.1.s.4.w.5: atomen -> aatmen
+[DETECTION WRONG] page1144.text.div.3.p.2.s.2.w.8: 5,19 -> @,,
+[DETECTION WRONG] page1144.text.div.3.p.3.s.1.w.16: beneden -> beneeen
+[DETECTION WRONG] page1144.text.div.3.p.3.s.2.w.9: 2,6 -> @,,
+[DETECTION WRONG] page1144.text.div.3.p.3.s.3.w.3: He -> het
+[DETECTION WRONG] page1144.text.div.3.p.3.s.3.w.4: and -> andd
+[DETECTION WRONG] page1144.text.div.3.p.3.s.3.w.6: He -> het
+[DETECTION WRONG] page1144.text.div.3.p.4.s.1.w.3: beneden -> beneeen
+[DETECTION WRONG] page1144.text.div.3.p.4.s.1.w.7: 2,6 -> @,,
+[DETECTION WRONG] page1144.text.div.3.p.4.s.5.w.10: vorm -> voom
+[DETECTION WRONG] page1144.text.div.3.p.4.s.5.w.15: atomen -> aatmen
+[DETECTION WRONG] page1144.text.div.3.p.4.s.5.w.22: structuur -> structuur
+[DETECTION WRONG] page1144.text.div.3.p.5.s.1.w.13: inert -> ineer,
+[DETECTION WRONG] page1144.text.div.4.p.1.s.2.w.37: vorm -> voom
+[DETECTION WRONG] page1144.text.div.4.p.2.s.3.w.17: deel -> dezl
+[DETECTION WRONG] page1144.text.div.5.p.1.s.1.w.3: He -> het
+[DETECTION WRONG] page1144.text.div.5.p.1.s.1.w.10: vormen -> voomen
+[DETECTION WRONG] page1144.text.div.5.p.1.s.1.w.14: He -> het
+[DETECTION WRONG] page1144.text.div.5.p.1.s.1.w.18: He -> het
+[DETECTION WRONG] page1144.text.div.5.p.1.s.4.w.4: beneden -> beneeen
+[DETECTION WRONG] page1144.text.div.5.p.1.s.5.w.3: He -> het
+[DETECTION WRONG] page1144.text.div.5.p.1.s.5.w.8: 2,174 -> @,,
+[DETECTION WRONG] page1144.text.div.5.p.2.s.1.w.5: He -> het
+[DETECTION WRONG] page1144.text.div.5.p.2.s.1.w.8: He -> het
+[DETECTION WRONG] page1144.text.div.5.p.2.s.1.w.24: He -> het
+[DETECTION WRONG] page1144.text.div.5.p.2.s.1.w.27: He -> het
+[DETECTION WRONG] page1144.text.div.5.p.4.s.1.w.4: He -> het
+[DETECTION WRONG] page1144.text.div.5.p.4.s.3.w.3: He -> het
+[DETECTION WRONG] page1144.text.div.5.p.4.s.3.w.4: atomen -> aatmen
+[DETECTION WRONG] page1144.text.div.5.p.4.s.3.w.10: He -> het
+[DETECTION WRONG] page1144.text.div.5.p.4.s.3.w.11: atomen -> aatmen
+[DETECTION WRONG] page1144.text.div.5.p.4.s.4.w.13: vormt -> voomt,
+[DETECTION WRONG] page1144.text.div.6.p.2.s.1.w.10: He -> het
+[DETECTION WRONG] page1144.text.div.6.p.2.s.3.w.3: deel -> dezl
+[DETECTION WRONG] page1144.text.div.6.p.2.s.4.w.11: neutron -> neutron
+[DETECTION WRONG] page1144.text.div.6.p.2.s.6.w.2: He -> het
+[DETECTION WRONG] page1144.text.div.6.p.2.s.6.w.16: He -> het
+[DETECTION WRONG] page1144.text.div.6.p.3.s.1.w.6: He -> het
+[DETECTION WRONG] page1144.text.div.6.p.3.s.1.w.9: He -> het
+[DETECTION WRONG] page1144.text.div.7.p.2.s.1.w.25: verwarmd -> verwarmd

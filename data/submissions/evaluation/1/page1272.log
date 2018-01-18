@@ -1,0 +1,169 @@
+[DETECTION MISS] page1272.text.p.1.s.1.w.21: Duits -> Duitse
+[DETECTION MISS] page1272.text.p.2.s.1.w.20;page1272.text.p.2.s.1.w.22: science fiction -> sciencefiction
+[DETECTION MISS] page1272.text.p.2.s.2.w.10;page1272.text.p.2.s.2.w.11: er van -> ervan
+[DETECTION MISS] page1272.text.div.1.div.1.p.1.s.7.w.15;page1272.text.div.1.div.1.p.1.s.7.w.16: Copernicus ' -> Copernicus'
+[DETECTION MATCH] page1272.text.div.1.div.2.p.1.s.2.w.2: schoolwas -> schooltas
+	[INCORRECT] Should be: school was
+[DETECTION MISS] page1272.text.div.1.div.2.p.1.s.3.w.11;page1272.text.div.1.div.2.p.1.s.3.w.12: Copernicus ' -> Copernicus'
+[DETECTION MATCH] page1272.text.div.1.div.2.p.1.s.9.w.11: Kosmos -> kosmos
+	[CORRECT]
+[DETECTION MATCH] page1272.text.div.1.div.2.p.1.s.13.w.4: trouwfe -> trouwst
+	[INCORRECT] Should be: trouwde
+[DETECTION MISS] page1272.text.div.1.div.3.p.3.s.1.w.4: Kepler’s -> Keplers
+[DETECTION MISS] page1272.text.div.1.div.3.p.3.s.2.w.1: Kepler's -> Keplers
+[DETECTION MATCH] page1272.text.div.1.div.3.p.3.s.9.w.6: avantgarde -> avant-garde
+	[CORRECT]
+[DETECTION MATCH] page1272.text.div.1.div.3.p.4.s.1.w.11: Astrologen -> astrologen
+	[CORRECT]
+[DETECTION MISS] page1272.text.div.1.div.3.p.4.s.1.w.14;page1272.text.div.1.div.3.p.4.s.1.w.16: Ram-Leeuw Boogschutter -> Ram-Leeuw-Boogschutter
+[DETECTION MISS] page1272.text.div.1.div.3.p.4.s.5.w.13: aardachtige -> aardachtigen
+[DETECTION MISS] INSERTION AFTER page1272.text.div.1.div.3.p.5.s.1.w.6: in
+[DETECTION MATCH] page1272.text.div.1.div.3.p.5.s.2.w.8: latijns -> Latijns
+	[CORRECT]
+[DETECTION MISS] page1272.text.div.1.div.3.p.5.s.4.w.12;page1272.text.div.1.div.3.p.5.s.4.w.13: daar boven -> daarboven
+[DETECTION MISS] page1272.text.div.1.div.3.p.5.s.5.w.19;page1272.text.div.1.div.3.p.5.s.5.w.20: plaats vindt -> plaatsvindt
+[DETECTION MISS] page1272.text.div.1.div.3.p.7.s.1.w.5: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.1.div.3.p.7.s.4.w.9: Galilei -> Galileï
+[DETECTION MATCH] page1272.text.div.1.div.3.p.7.s.5.w.16: Galilei's -> Galilei
+	[INCORRECT] Should be: Galileï's
+[DETECTION MISS] page1272.text.div.1.div.3.p.7.s.7.w.15: Galilei -> Galileï
+[DETECTION MISS] page1272.text.div.1.div.4.p.1.s.4.w.11: jong -> jonge
+[DETECTION MISS] page1272.text.div.1.div.4.p.1.s.5.w.1: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.1.div.4.p.1.s.5.w.13: Kepler's -> Keplers
+[DETECTION MATCH] page1272.text.div.1.div.4.p.1.s.7.w.18: gedachtenwereld -> gedachtewereld
+	[CORRECT]
+[DETECTION MISS] page1272.text.div.1.div.4.p.1.s.8.w.8: wet -> wet.
+[DETECTION MISS] page1272.text.div.1.div.5.p.1.s.3.w.20: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.1.div.5.p.1.s.7.w.8;page1272.text.div.1.div.5.p.1.s.7.w.9: jaren lang -> jarenlang
+[DETECTION MISS] INSERTION AFTER page1272.text.div.1.div.5.p.1.s.7.w.9: voort
+[DETECTION MISS] page1272.text.div.1.div.6.p.1.s.1.w.6: dertigjarige -> Dertigjarige
+[DETECTION MISS] page1272.text.div.1.div.6.p.1.s.1.w.7: oorlog -> Oorlog
+[DETECTION MISS] page1272.text.div.1.div.7.p.1.s.1.w.10: asroloog -> astroloog
+[DETECTION MATCH] page1272.text.div.1.div.7.p.1.s.4.w.19: dejaren -> de jaren
+	[CORRECT]
+[DETECTION MISS] page1272.text.div.1.div.8.p.1.s.4.w.3: dertigjarige -> Dertigjarige
+[DETECTION MISS] page1272.text.div.1.div.8.p.1.s.4.w.4: oorlog -> Oorlog
+[DETECTION MISS] page1272.text.div.1.div.9.p.1.s.3.w.5: Kepler's -> Keplers
+[DETECTION MISS] INSERTION AFTER page1272.text.div.1.div.9.p.1.s.4.w.33: de
+[DETECTION MATCH] page1272.text.div.1.div.9.p.1.s.4.w.36: Hoe -> hoe
+	[CORRECT]
+[DETECTION MISS] page1272.text.div.1.div.9.p.1.s.5.w.6;page1272.text.div.1.div.9.p.1.s.5.w.7: er uitzien -> eruitzien
+[DETECTION MISS] page1272.text.div.1.div.9.p.1.s.6.w.7;page1272.text.div.1.div.9.p.1.s.6.w.8: science sprookje -> science-sprookje
+[DETECTION MISS] page1272.text.div.1.div.9.p.1.s.6.w.22: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.2.p.4.s.1.w.5: Kepler's -> Keplers
+[DETECTION MISS] page1272.text.div.2.p.5.s.1.w.6: Kepler's -> Keplers
+[DETECTION WRONG] page1272.text.p.1.s.1.w.34: planeetbewegingen -> planeet bewegingen
+[DETECTION WRONG] page1272.text.p.1.s.2.w.12: Wet -> wet
+[DETECTION WRONG] page1272.text.div.1.div.1.head.1.s.1.w.1: Eerste -> eerste
+[DETECTION WRONG] page1272.text.div.1.div.1.p.1.s.1.w.7: Stadt -> stads
+[DETECTION WRONG] page1272.text.div.1.div.1.p.1.s.3.w.11: Leonberg -> Leon berg
+[DETECTION WRONG] page1272.text.div.1.div.1.p.1.s.6.w.10: lutheraanse -> lutheraan se
+[DETECTION WRONG] page1272.text.div.1.div.1.p.1.s.6.w.12: Universiteit -> universiteit
+[DETECTION WRONG] page1272.text.div.1.div.1.p.1.s.9.w.9: Maandroom -> maandroos
+[DETECTION WRONG] page1272.text.div.1.div.1.p.1.s.10.w.2: dispuutleider -> dispuut leider
+[DETECTION WRONG] page1272.text.div.1.div.2.head.1.s.1.w.3: Graz -> Gray
+[DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.1.w.10: Graz -> Gray
+[DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.2.w.7: Katholieke -> katholieke
+[DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.2.w.8: Hogeschool -> hogeschool
+[DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.6.w.20: sterrenuitspansel -> sterren uitspansel
+[DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.7.w.10: gelijkvlakkige -> gelijkhoekige
+[DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.8.w.11: gelijkvlakkige -> gelijkhoekige
+[DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.9.w.15: Cosmograficum -> mammografie
+[DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.12.w.10: Brahe -> Brama
+[DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.16.w.8: Graz -> Gray
+[DETECTION WRONG] page1272.text.div.1.div.3.p.1.s.1.w.14: Brahe -> Brama
+[DETECTION WRONG] page1272.text.div.1.div.3.p.2.s.1.w.5: Brahe -> Brama
+[DETECTION WRONG] page1272.text.div.1.div.3.p.2.s.2.w.3: Astronomia -> astronomie
+[DETECTION WRONG] page1272.text.div.1.div.3.p.2.s.2.w.6: Optica -> optica
+[DETECTION WRONG] page1272.text.div.1.div.3.p.2.s.2.w.25: In -> in
+[DETECTION WRONG] page1272.text.div.1.div.3.p.3.s.1.w.2: Aantekening -> aantekening
+[DETECTION WRONG] page1272.text.div.1.div.3.p.3.s.9.w.10: geleerdenwereld -> geleerden wereld
+[DETECTION WRONG] page1272.text.div.1.div.3.p.4.s.7.w.10: Grote -> grote
+[DETECTION WRONG] page1272.text.div.1.div.3.p.4.s.10.w.12: stella -> Stella
+[DETECTION WRONG] page1272.text.div.1.div.3.p.5.s.2.w.13: De -> de
+[DETECTION WRONG] page1272.text.div.1.div.3.p.5.s.2.w.17: Pede -> pede
+[DETECTION WRONG] page1272.text.div.1.div.3.p.5.s.2.w.20: et -> eto
+[DETECTION WRONG] page1272.text.div.1.div.3.p.5.s.3.w.6: Nieuwe -> nieuwe
+[DETECTION WRONG] page1272.text.div.1.div.3.p.5.s.3.w.7: Ster -> ster
+[DETECTION WRONG] page1272.text.div.1.div.3.p.5.s.3.w.10: Voet -> voet
+[DETECTION WRONG] page1272.text.div.1.div.3.p.5.s.3.w.13: Slang -> slang
+[DETECTION WRONG] page1272.text.div.1.div.3.p.5.s.3.w.19: Vurige -> vurige
+[DETECTION WRONG] page1272.text.div.1.div.3.p.5.s.3.w.20: Driehoek -> driehoek
+[DETECTION WRONG] page1272.text.div.1.div.3.p.5.s.4.w.9: Misschien -> misschien
+[DETECTION WRONG] page1272.text.div.1.div.3.p.5.s.4.w.14: sterrenmateriaal -> sterren materiaal
+[DETECTION WRONG] page1272.text.div.1.div.3.p.5.s.7.w.7: blz -> blz.
+[DETECTION WRONG] page1272.text.div.1.div.3.p.6.s.1.w.1: Opmerking -> opmerking
+[DETECTION WRONG] page1272.text.div.1.div.3.p.6.s.3.w.17: Museum -> museum
+[DETECTION WRONG] page1272.text.div.1.div.3.p.6.s.3.w.30: melkweg -> Melkweg
+[DETECTION WRONG] page1272.text.div.1.div.3.p.6.s.5.w.6: Nevel -> nevel
+[DETECTION WRONG] page1272.text.div.1.div.3.p.7.s.1.w.1: In -> in
+[DETECTION WRONG] page1272.text.div.1.div.3.p.7.s.1.w.9: Astronomia -> astronomie
+[DETECTION WRONG] page1272.text.div.1.div.3.p.7.s.1.w.11: seu -> Seb
+[DETECTION WRONG] page1272.text.div.1.div.3.p.7.s.5.w.5: Dissertatio -> dissertatie
+[DETECTION WRONG] page1272.text.div.1.div.3.p.7.s.5.w.6: cum -> cup
+[DETECTION WRONG] page1272.text.div.1.div.3.p.7.s.6.w.27: Observatis -> observatie
+[DETECTION WRONG] page1272.text.div.1.div.3.p.7.s.6.w.29: Jovis -> Jo vis
+[DETECTION WRONG] page1272.text.div.1.div.4.head.1.s.1.w.1: Linz -> Lino
+[DETECTION WRONG] page1272.text.div.1.div.4.p.1.s.1.w.1: Na -> na
+[DETECTION WRONG] page1272.text.div.1.div.4.p.1.s.1.w.16: Linz -> Lino
+[DETECTION WRONG] page1272.text.div.1.div.4.p.1.s.6.w.9: Astronomiae -> astronomie
+[DETECTION WRONG] page1272.text.div.1.div.4.p.1.s.6.w.10: Copernicanae -> copernicaans
+[DETECTION WRONG] page1272.text.div.1.div.4.p.1.s.7.w.7: Harmonice -> harmonica
+[DETECTION WRONG] page1272.text.div.1.div.4.p.1.s.7.w.9: Dit -> dit
+[DETECTION WRONG] page1272.text.div.1.div.4.p.1.s.8.w.9: Het -> het
+[DETECTION WRONG] page1272.text.div.1.div.4.p.1.s.8.w.19: Harmonices -> harmonica
+[DETECTION WRONG] page1272.text.div.1.div.4.p.1.s.8.w.25: Vijf -> vijf
+[DETECTION WRONG] page1272.text.div.1.div.4.p.1.s.8.w.26: Boeken -> boeken
+[DETECTION WRONG] page1272.text.div.1.div.5.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page1272.text.div.1.div.5.p.1.s.3.w.18: Maandroom -> maandroos
+[DETECTION WRONG] page1272.text.div.1.div.6.head.1.s.1.w.1: Ulm -> ulo
+[DETECTION WRONG] page1272.text.div.1.div.6.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page1272.text.div.1.div.6.p.1.s.1.w.11: Linz -> Lino
+[DETECTION WRONG] page1272.text.div.1.div.6.p.1.s.2.w.9: Tafels -> tafels
+[DETECTION WRONG] page1272.text.div.1.div.6.p.1.s.3.w.4: Ulm -> ulo
+[DETECTION WRONG] page1272.text.div.1.div.6.p.1.s.4.w.10: Brahe -> Brama
+[DETECTION WRONG] page1272.text.div.1.div.6.p.1.s.5.w.2: Brahe -> Brama
+[DETECTION WRONG] page1272.text.div.1.div.6.p.1.s.5.w.4: ca -> ca.
+[DETECTION WRONG] page1272.text.div.1.div.6.p.1.s.6.w.3: Brahe -> Brama
+[DETECTION WRONG] page1272.text.div.1.div.7.p.1.s.4.w.16: efemeridenband -> efemeriden band
+[DETECTION WRONG] page1272.text.div.1.div.8.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page1272.text.div.1.div.8.p.1.s.1.w.6: Linz -> Lino
+[DETECTION WRONG] page1272.text.div.1.div.8.p.2.s.2.w.2: eram -> e ram
+[DETECTION WRONG] page1272.text.div.1.div.8.p.2.s.2.w.5: nunc -> nuf
+[DETECTION WRONG] page1272.text.div.1.div.8.p.2.s.2.w.6: terrae -> terras
+[DETECTION WRONG] page1272.text.div.1.div.8.p.2.s.2.w.7: metior -> Mehmet
+[DETECTION WRONG] page1272.text.div.1.div.8.p.2.s.3.w.3: erat -> e rat
+[DETECTION WRONG] page1272.text.div.1.div.9.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page1272.text.div.1.div.9.p.1.s.3.w.20: Maandroom -> maandroos
+[DETECTION WRONG] page1272.text.div.1.div.9.p.1.s.6.w.2: FOUTJE -> foutje
+[DETECTION WRONG] page1272.text.div.1.div.9.p.2.s.1.w.11: Venusovergang -> Venus overgang
+[DETECTION WRONG] page1272.text.div.2.p.1.s.1.w.1: Een -> een
+[DETECTION WRONG] page1272.text.div.2.p.2.s.1.w.1: Het -> het
+[DETECTION WRONG] page1272.text.div.2.list.1.item.1.s.1.w.7: Stuttgartt -> Stuttgart
+[DETECTION WRONG] page1272.text.div.2.list.1.item.1.s.1.w.13: Blz -> blz.
+[DETECTION WRONG] page1272.text.div.2.list.1.item.2.s.1.w.7: Hypotheses -> hypotheses
+[DETECTION WRONG] page1272.text.div.2.list.1.item.2.s.1.w.23: Uitgave -> uitgave
+[DETECTION WRONG] page1272.text.div.2.list.1.item.2.s.2.w.2: stella -> Stella
+[DETECTION WRONG] page1272.text.div.2.list.1.item.3.s.1.w.3: Astronomia -> astronomie
+[DETECTION WRONG] page1272.text.div.2.list.1.item.3.s.1.w.9: Eerste -> eerste
+[DETECTION WRONG] page1272.text.div.2.list.1.item.3.s.1.w.20: Astronomia -> astronomie
+[DETECTION WRONG] page1272.text.div.2.list.1.item.3.s.1.w.23: seu -> Seb
+[DETECTION WRONG] page1272.text.div.2.list.1.item.3.s.6.w.2: Astronomia -> astronomie
+[DETECTION WRONG] page1272.text.div.2.list.1.item.3.s.9.w.3: Krafft -> Kraft
+[DETECTION WRONG] page1272.text.div.2.list.1.item.3.s.9.w.5: Bibliothek -> bibliotheek
+[DETECTION WRONG] page1272.text.div.2.list.1.item.3.s.9.w.9: Wissens -> wissen
+[DETECTION WRONG] page1272.text.div.2.list.1.item.3.s.10.w.4: S -> s
+[DETECTION WRONG] page1272.text.div.2.list.1.item.4.s.1.w.1: Harmonices -> harmonica
+[DETECTION WRONG] page1272.text.div.2.p.3.s.5.w.5: Harmonice -> harmonica
+[DETECTION WRONG] page1272.text.div.2.p.3.s.5.w.8: Derde -> derde
+[DETECTION WRONG] page1272.text.div.2.list.2.item.1.s.1.w.6: Tabellen -> tabellen
+[DETECTION WRONG] page1272.text.div.2.p.4.s.1.w.1: In -> in
+[DETECTION WRONG] page1272.text.div.2.list.3.item.2.s.1.w.5: Book -> Booy
+[DETECTION WRONG] page1272.text.div.2.list.3.item.2.s.1.w.6: Nobody -> nobody
+[DETECTION WRONG] page1272.text.div.2.list.3.item.2.s.1.w.9: Heinemann -> Heineman
+[DETECTION WRONG] page1272.text.div.2.p.7.s.1.w.1: Er -> er
+[DETECTION WRONG] page1272.text.div.3.list.1.item.1.s.1.w.2: Space -> spa's
+[DETECTION WRONG] page1272.text.div.3.list.1.item.1.s.1.w.3: Observatory -> observator
+[DETECTION WRONG] page1272.text.div.3.list.1.item.1.s.1.w.5: Een -> een
+[DETECTION WRONG] page1272.text.div.3.list.1.item.2.s.1.w.6: Galileï's -> Galilei

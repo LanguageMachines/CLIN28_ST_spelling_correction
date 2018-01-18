@@ -1,0 +1,97 @@
+{
+    "all": {
+        "detection": {
+            "truepos": 10.0,
+            "falseneg": 7.0,
+            "recall": 0.5882352941176471,
+            "falsepos": 85.0,
+            "precision": 0.10526315789473684,
+            "f1score": 0.17857142857142858
+        },
+        "correction": {
+            "correct": 9.0,
+            "incorrect": 1.0,
+            "accuracy": 0.9
+        },
+        "both": {
+            "recall": 0.5294117647058824,
+            "precision": 0.09473684210526316,
+            "f1score": 0.16071428571428573
+        }
+    },
+    "capitalizationerror": {
+        "detection": {
+            "truepos": 2.0,
+            "falseneg": 2.0,
+            "recall": 0.5
+        },
+        "correction": {
+            "correct": 2.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 0.5
+        }
+    },
+    "confusion": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 1.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    },
+    "nonworderror": {
+        "detection": {
+            "truepos": 6.0,
+            "falseneg": 0.0,
+            "recall": 1.0
+        },
+        "correction": {
+            "correct": 5.0,
+            "incorrect": 1.0,
+            "accuracy": 0.8333333333333334
+        },
+        "both": {
+            "recall": 0.8333333333333334
+        }
+    },
+    "redundantpunctuation": {
+        "detection": {
+            "truepos": 2.0,
+            "falseneg": 2.0,
+            "recall": 0.5
+        },
+        "correction": {
+            "correct": 2.0,
+            "incorrect": 0.0,
+            "accuracy": 1.0
+        },
+        "both": {
+            "recall": 0.5
+        }
+    },
+    "spliterror": {
+        "detection": {
+            "truepos": 0.0,
+            "falseneg": 2.0,
+            "recall": 0.0
+        },
+        "correction": {
+            "correct": 0.0,
+            "incorrect": 0.0,
+            "accuracy": 0.0
+        },
+        "both": {
+            "recall": 0.0
+        }
+    }
+}

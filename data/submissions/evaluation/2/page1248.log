@@ -1,0 +1,126 @@
+[DETECTION MISS] INSERTION AFTER page1248.text.div.4.p.1.s.4.w.15: v.Chr.
+[DETECTION MISS] page1248.text.div.5.p.1.s.1.w.6: Westsemietische -> West-Semietische
+[DETECTION MATCH] page1248.text.div.5.p.1.s.1.w.10: Mur.tu -> mur
+	[INCORRECT] Should be: Mur-Tu
+[DETECTION MISS] INSERTION AFTER page1248.text.div.5.p.1.s.3.w.8: v.Chr.
+[DETECTION MISS] INSERTION AFTER page1248.text.div.5.p.1.s.4.w.7: v.Chr.
+[DETECTION MISS] INSERTION AFTER page1248.text.div.5.p.1.s.5.w.16: v.Chr.
+[DETECTION MISS] INSERTION AFTER page1248.text.div.6.p.1.s.5.w.13: v.Chr.
+[DETECTION MISS] page1248.text.div.7.p.1.s.2.w.13: Bab-ilani -> Bab-Ilani
+[DETECTION MISS] INSERTION AFTER page1248.text.div.7.p.1.s.3.w.4: van
+[DETECTION MISS] page1248.text.div.8.p.1.s.2.w.1: Degenen -> Degene
+[DETECTION MISS] page1248.text.div.8.p.1.s.2.w.4: profiteerden -> profiteerde
+[DETECTION MISS] page1248.text.div.8.p.1.s.2.w.5: waren -> was
+[DETECTION MISS] page1248.text.div.8.p.1.s.3.w.5: regeerden -> en regeerden over
+[DETECTION MISS] page1248.text.div.8.p.1.s.3.w.18;page1248.text.div.8.p.1.s.3.w.19: v. Chr. -> v.Chr.
+[DETECTION MISS] page1248.text.div.8.p.1.s.4.w.17: copiëren -> kopiëren
+[DETECTION MISS] page1248.text.div.9.p.1.s.1.w.22;page1248.text.div.9.p.1.s.1.w.23: v. Chr. -> v.Chr.
+[DETECTION MISS] page1248.text.div.17.p.5.s.1.w.8;page1248.text.div.17.p.5.s.1.w.9: Zanj opstand -> Zanj-opstand
+[DETECTION MISS] page1248.text.div.17.p.8.s.1.w.4: Sultan -> sultan
+[DETECTION MATCH] page1248.text.div.19.p.1.s.4.w.10: ottomaanse -> ootomaanse
+	[INCORRECT] Should be: Ottomaanse
+[DETECTION MISS] page1248.text.div.19.p.1.s.4.w.33: Sanremo -> San Remo
+[DETECTION MISS] page1248.text.div.19.p.1.s.5.w.24: Sjarif -> sjarif
+[DETECTION MISS] page1248.text.div.20.head.1.s.1.w.1: de -> De
+[DETECTION MISS] page1248.text.div.20.p.1.s.2.w.11: locale -> lokale
+[DETECTION MISS] page1248.text.div.20.p.1.s.3.w.13: Sjiieten -> sjiieten
+[DETECTION MISS] page1248.text.div.20.p.1.s.3.w.15: Soennieten -> soennieten
+[DETECTION MISS] page1248.text.div.20.p.1.s.5.w.7: Sjiieten -> sjiieten
+[DETECTION MISS] page1248.text.div.20.p.1.s.5.w.9: Soennieten -> soennieten
+[DETECTION MISS] page1248.text.div.20.p.1.s.8.w.17: wat -> dat
+[DETECTION MISS] page1248.text.div.20.p.1.s.8.w.33: Sjiiten -> sjiiten
+[DETECTION MISS] page1248.text.div.20.list.1.item.1.s.1.w.2: Sjiieten -> sjiieten
+[DETECTION MISS] page1248.text.div.20.list.1.item.1.s.1.w.9: Christenen -> christenen
+[DETECTION MISS] page1248.text.div.20.list.1.item.2.s.1.w.2: Soennieten -> soennieten
+[DETECTION MISS] page1248.text.div.20.p.4.s.1.w.6: Sjiitische -> sjiitische
+[DETECTION MISS] page1248.text.div.20.p.4.s.7.w.11: RAFluchtaanvallen -> RAF-luchtaanvallen
+[DETECTION MISS] page1248.text.div.20.p.5.s.3.w.33: Soennieten -> soennieten
+[DETECTION MISS] page1248.text.div.20.p.5.s.3.w.36: Sjiiten -> sjiiten
+[DETECTION MISS] page1248.text.div.21.p.1.s.2.w.5: officiëel -> officieel
+[DETECTION MISS] page1248.text.div.23.p.1.s.2.w.5: golfoorlog -> Golfoorlog
+[DETECTION MISS] page1248.text.div.23.p.2.s.2.w.14;page1248.text.div.23.p.2.s.2.w.15: VN -strijdkrachten -> VN-stdijkrachten
+[DETECTION MISS] page1248.text.div.23.p.2.s.4.w.11: golfoorlog -> Golfoorlog
+[DETECTION MISS] page1248.text.div.23.p.3.s.1.w.7;page1248.text.div.23.p.3.s.1.w.8: Scud -raketten -> Scud-raketten
+[DETECTION MISS] page1248.text.div.23.p.3.s.3.w.2;page1248.text.div.23.p.3.s.3.w.3: VN mandaat -> VN-mandaat
+[DETECTION MISS] page1248.text.div.23.p.3.s.4.w.7: wijzen -> wijze
+[DETECTION MISS] page1248.text.div.23.p.4.s.1.w.20: lange-afstandraketten -> langeafstandraketten
+[DETECTION MISS] page1248.text.div.24.list.1.item.2.s.1.w.9: al -> Al
+[DETECTION MISS] page1248.text.div.24.p.6.s.2.w.4;page1248.text.div.24.p.6.s.2.w.5: interim president -> interim-president
+[DETECTION MISS] page1248.text.div.24.p.8.s.3.w.18;page1248.text.div.24.p.8.s.3.w.20: interim- premier -> interim-premier
+[DETECTION MISS] page1248.text.div.24.p.10.s.1.w.7;page1248.text.div.24.p.10.s.1.w.8: ontwerp grondwet -> ontwerp-grondwet
+[DETECTION MISS] page1248.text.div.26.list.1.item.1.s.1.w.4;page1248.text.div.26.list.1.item.1.s.1.w.5: v. Chr. -> v.Chr.
+[DETECTION MISS] page1248.text.div.26.list.1.item.2.s.1.w.8;page1248.text.div.26.list.1.item.2.s.1.w.9: v. Chr. -> v.Chr.
+[DETECTION MISS] page1248.text.div.26.list.1.item.2.s.1.w.13;page1248.text.div.26.list.1.item.2.s.1.w.14: v. Chr. -> v.Chr.
+[DETECTION MISS] page1248.text.div.26.list.1.item.3.s.1.w.6;page1248.text.div.26.list.1.item.3.s.1.w.7: v. Chr. -> v.Chr.
+[DETECTION MISS] page1248.text.div.26.list.1.item.3.s.1.w.10;page1248.text.div.26.list.1.item.3.s.1.w.11: v. Chr. -> v.Chr.
+[DETECTION MISS] page1248.text.div.26.list.1.item.4.s.2.w.3;page1248.text.div.26.list.1.item.4.s.2.w.4: v. Chr. -> v.Chr.
+[DETECTION WRONG] page1248.text.p.1.s.2.w.6: Akkadië -> aakadie
+[DETECTION WRONG] page1248.text.div.1.list.1.item.1.s.1.w.11: Mari -> maai
+[DETECTION WRONG] page1248.text.div.4.p.1.s.1.w.8: vorst -> voost
+[DETECTION WRONG] page1248.text.div.4.p.1.s.1.w.18: Tiriqan -> tiriyan,
+[DETECTION WRONG] page1248.text.div.4.p.1.s.4.w.15: 2112-2004 -> @-,
+[DETECTION WRONG] page1248.text.div.4.p.1.s.5.w.7: ziqqurats -> zijyurats
+[DETECTION WRONG] page1248.text.div.4.p.1.s.6.w.10: toren -> torrn
+[DETECTION WRONG] page1248.text.div.5.p.1.s.2.w.5: vormden -> voomden
+[DETECTION WRONG] page1248.text.div.5.p.1.s.3.w.6: Ibbi-Sin -> iibi-sin
+[DETECTION WRONG] page1248.text.div.5.p.1.s.5.w.1: Ibbi-Sin -> iibi-sin
+[DETECTION WRONG] page1248.text.div.5.p.1.s.5.w.31: ingenomen -> ingenomen
+[DETECTION WRONG] page1248.text.div.6.p.1.s.2.w.8: Akkadisch -> aakadisch,
+[DETECTION WRONG] page1248.text.div.6.p.1.s.2.w.20: worden -> worden
+[DETECTION WRONG] page1248.text.div.6.p.1.s.5.w.13: 2000-1800 -> @-,
+[DETECTION WRONG] page1248.text.div.7.p.1.s.1.w.17: vorstendom -> voostendom,
+[DETECTION WRONG] page1248.text.div.7.p.1.s.3.w.9: talen -> talen
+[DETECTION WRONG] page1248.text.div.7.p.1.s.4.w.7: Akkadisch-Sumerische -> aakadisch-sumerische
+[DETECTION WRONG] page1248.text.div.7.p.1.s.5.w.5: Akkadisch -> aakadisch
+[DETECTION WRONG] page1248.text.div.7.p.2.s.1.w.3: vorst -> voost
+[DETECTION WRONG] page1248.text.div.8.p.1.s.3.w.17: 1595-1157 -> @-,
+[DETECTION WRONG] page1248.text.div.17.p.3.s.1.w.5: neef -> neeff
+[DETECTION WRONG] page1248.text.div.17.p.4.s.2.w.14: islam -> islam
+[DETECTION WRONG] page1248.text.div.17.p.8.s.2.w.19: Arabieren -> arabieren
+[DETECTION WRONG] page1248.text.div.18.head.1.s.1.w.1: Osmaanse -> oomaanse
+[DETECTION WRONG] page1248.text.div.18.p.1.s.1.w.4: Osmaanse -> oomaanse
+[DETECTION WRONG] page1248.text.div.18.p.1.s.1.w.18: Osmaanse -> oomaanse
+[DETECTION WRONG] page1248.text.div.18.p.1.s.1.w.24: Midden-Oosten -> midden-oosten
+[DETECTION WRONG] page1248.text.div.18.p.2.s.3.w.8: herstellen -> herstellen
+[DETECTION WRONG] page1248.text.div.19.p.1.s.1.w.14: Ottomaanse -> ootomaanse
+[DETECTION WRONG] page1248.text.div.19.p.1.s.2.w.9: deel -> dezl
+[DETECTION WRONG] page1248.text.div.19.p.1.s.3.w.12: Ottomaanse -> ootomaanse
+[DETECTION WRONG] page1248.text.div.19.p.1.s.5.w.13: Ibn -> iin
+[DETECTION WRONG] page1248.text.div.19.p.1.s.5.w.20: ibn -> iin
+[DETECTION WRONG] page1248.text.div.19.p.1.s.5.w.29: Hasjemitische -> hassemitische
+[DETECTION WRONG] page1248.text.div.20.p.1.s.4.w.11: treden -> treden
+[DETECTION WRONG] page1248.text.div.20.p.1.s.6.w.20: sir -> sirr
+[DETECTION WRONG] page1248.text.div.20.p.1.s.8.w.27: vorming -> vooming
+[DETECTION WRONG] page1248.text.div.20.list.1.item.2.s.1.w.7: vorm -> voom
+[DETECTION WRONG] page1248.text.div.20.list.1.item.3.s.1.w.16: innen -> inneen
+[DETECTION WRONG] page1248.text.div.20.list.1.item.3.s.1.w.22: Ottomanen -> ootomanen
+[DETECTION WRONG] page1248.text.div.20.p.4.s.4.w.3: deel -> dezl
+[DETECTION WRONG] page1248.text.div.20.p.4.s.9.w.10: against -> aaainst
+[DETECTION WRONG] page1248.text.div.20.p.4.s.9.w.12: tribes -> tribes
+[DETECTION WRONG] page1248.text.div.20.p.5.s.3.w.14: adviseurs -> aaviseurs
+[DETECTION WRONG] page1248.text.div.20.p.5.s.3.w.22: deel -> dezl
+[DETECTION WRONG] page1248.text.div.20.p.5.s.3.w.40: meeregeren -> meeregeren
+[DETECTION WRONG] page1248.text.div.21.p.1.s.1.w.3: oktober -> ootober
+[DETECTION WRONG] page1248.text.div.22.p.1.s.3.w.12: ath-partij -> aat-partij
+[DETECTION WRONG] page1248.text.div.23.p.2.s.1.w.7: olierijke -> olierijje
+[DETECTION WRONG] page1248.text.div.23.p.2.s.1.w.22: bood -> bood
+[DETECTION WRONG] page1248.text.div.23.p.2.s.2.w.14: VN -> van
+[DETECTION WRONG] page1248.text.div.23.p.2.s.3.w.4: mariniers -> maainiers
+[DETECTION WRONG] page1248.text.div.23.p.2.s.4.w.2: actie -> actiee
+[DETECTION WRONG] page1248.text.div.23.p.3.s.3.w.2: VN -> van
+[DETECTION WRONG] page1248.text.div.24.head.1.s.1.w.1: 21e -> @
+[DETECTION WRONG] page1248.text.div.24.p.1.s.1.w.18: VN -> van
+[DETECTION WRONG] page1248.text.div.24.p.1.s.2.w.2: actie -> actiee
+[DETECTION WRONG] page1248.text.div.24.p.1.s.3.w.7: Iraqi -> irayi
+[DETECTION WRONG] page1248.text.div.24.p.3.s.1.w.22: Italië -> iitlie
+[DETECTION WRONG] page1248.text.div.24.p.3.s.2.w.11: steun -> steun
+[DETECTION WRONG] page1248.text.div.24.p.4.s.2.w.17: Iraq -> iray
+[DETECTION WRONG] page1248.text.div.24.p.4.s.3.w.14: militairen -> militairen
+[DETECTION WRONG] page1248.text.div.24.p.5.s.2.w.11: vorm -> voom
+[DETECTION WRONG] page1248.text.div.24.p.7.s.6.w.17: werken -> werken
+[DETECTION WRONG] page1248.text.div.24.p.8.s.3.w.10: Ibrahim -> iirrhim
+[DETECTION WRONG] page1248.text.div.24.p.9.s.3.w.21: Turkmeen -> turkmeen
+[DETECTION WRONG] page1248.text.div.24.p.10.s.2.w.23: verwerpen -> verwerpen
+[DETECTION WRONG] page1248.text.div.26.list.1.item.1.s.1.w.3: 1792-1750 -> @-,
+[DETECTION WRONG] page1248.text.div.27.list.1.item.2.s.1.w.7: Iraq -> iray
+[DETECTION WRONG] page1248.text.div.27.list.1.item.2.s.1.w.12: Against -> aaainst

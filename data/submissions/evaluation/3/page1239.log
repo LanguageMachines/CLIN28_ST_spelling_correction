@@ -1,0 +1,85 @@
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1239.text.p.1.s.1.w.2'], 'superclass': 'replace', 'text': 'Indo-europese'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.p.1.s.1.w.12'], 'superclass': 'replace', 'text': 'talent'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.p.1.s.1.w.12'], 'superclass': 'replace', 'text': 'talen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.p.2.s.1.w.6'], 'superclass': 'replace', 'text': 'malen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1239.text.p.3.s.1.w.8'], 'superclass': 'replace', 'text': 'Indo-Europese'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1239.text.p.3.s.1.w.17'], 'superclass': 'replace', 'text': 'satemtalen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.p.3.s.1.w.30'], 'superclass': 'replace', 'text': 'centrum'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1239.text.p.4.s.1.w.4'], 'superclass': 'replace', 'text': 'Proto-Indo-Europees'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1239.text.p.4.s.1.w.13'], 'superclass': 'replace', 'text': 'Indo-Europese'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1239.text.p.4.s.1.w.29'], 'superclass': 'replace', 'text': 'kentumtalen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1239.text.p.4.s.1.w.32'], 'superclass': 'replace', 'text': 'satemtalen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.list.1.item.1.s.1.w.6'], 'superclass': 'replace', 'text': '.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.list.1.item.2.s.1.w.2'], 'superclass': 'replace', 'text': '.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.list.1.item.3.p.1.s.1.w.3'], 'superclass': 'replace', 'text': '.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.list.1.item.4.s.1.w.5'], 'superclass': 'replace', 'text': '.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.list.1.item.5.s.1.w.3'], 'superclass': 'replace', 'text': '.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.list.1.item.6.s.1.w.3'], 'superclass': 'replace', 'text': '.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.list.1.item.7.s.1.w.2'], 'superclass': 'replace', 'text': '.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.list.1.item.8.s.1.w.5'], 'superclass': 'replace', 'text': '.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.list.1.item.9.s.1.w.3'], 'superclass': 'replace', 'text': '.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.list.1.item.10.s.1.w.3'], 'superclass': 'replace', 'text': '.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.list.1.item.11.s.1.w.2'], 'superclass': 'replace', 'text': '.'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.p.5.s.1.w.20'], 'superclass': 'replace', 'text': 'bekend'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.p.5.s.1.w.21'], 'superclass': 'replace', 'text': 'of'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.p.5.s.2.w.1'], 'superclass': 'replace', 'text': 'Dat'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.list.2.item.3.s.1.w.1'], 'superclass': 'replace', 'text': 'Genetisch'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1239.text.p.6.s.1.w.8'], 'superclass': 'replace', 'text': 'Proto-Indo-Europees'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1239.text.p.6.s.2.w.14'], 'superclass': 'replace', 'text': 'Proto-Indo-Europees'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1239.text.div.1.list.1.item.1.s.1.w.16'], 'superclass': 'replace', 'text': 'Quentin'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.div.1.list.1.item.2.s.1.w.3'], 'superclass': 'replace', 'text': '2'} will be ignored!
+[DETECTION MISS] page1239.text.p.1.s.2.w.6: Indo-europees -> Indo-Europees
+[DETECTION MISS] page1239.text.p.1.s.2.w.9: Indogermaans -> Indo-Germaans
+[DETECTION MATCH] page1239.text.p.3.s.1.w.8: Indo-europese -> Indo-Europese
+	[CORRECT]
+[DETECTION MATCH] page1239.text.p.3.s.1.w.17: satem-talen -> satemtalen
+	[CORRECT]
+[DETECTION MATCH] page1239.text.p.4.s.1.w.4: Proto-Indo-europees -> Proto-Indo-Europees
+	[CORRECT]
+[DETECTION MATCH] page1239.text.p.4.s.1.w.13: Indo-europese -> Indo-Europese
+	[CORRECT]
+[DETECTION MATCH] page1239.text.p.4.s.1.w.29: kentum-talen -> kentumtalen
+	[CORRECT]
+[DETECTION MATCH] page1239.text.p.4.s.1.w.32: satem-talen -> satemtalen
+	[CORRECT]
+[DETECTION MISS] page1239.text.p.5.s.1.w.4: Indo-europese -> Indo-Europese
+[DETECTION MATCH] page1239.text.p.6.s.1.w.8: Proto-Indo-europees -> Proto-Indo-Europees
+	[CORRECT]
+[DETECTION MATCH] page1239.text.p.6.s.2.w.14: Proto-Indo-europees -> Proto-Indo-Europees
+	[CORRECT]
+[DETECTION MISS] page1239.text.p.6.s.4.w.10: Indo-europees -> Indo-Europees
+[DETECTION WRONG] page1239.text.p.1.s.1.w.2: Indo-Europese -> Indo-europese
+[DETECTION WRONG] page1239.text.p.1.s.1.w.12: talen -> talent
+[DETECTION WRONG] INSERTION AFTER page1239.text.p.1.s.1.w.12: gaan
+[DETECTION WRONG] page1239.text.p.1.s.1.w.12: talen -> talen
+[DETECTION WRONG] page1239.text.p.2.s.1.w.6: talen -> malen
+[DETECTION WRONG] INSERTION AFTER page1239.text.p.2.s.2.w.12: ook
+[DETECTION WRONG] INSERTION AFTER page1239.text.p.2.s.3.w.22: gaat
+[DETECTION WRONG] INSERTION AFTER page1239.text.p.3.s.1.w.22: Griekse
+[DETECTION WRONG] page1239.text.p.3.s.1.w.30: centum -> centrum
+[DETECTION WRONG] INSERTION AFTER page1239.text.p.3.s.2.w.8: meest
+[DETECTION WRONG] page1239.text.list.1.item.1.s.1.w.6: K -> .
+[DETECTION WRONG] page1239.text.list.1.item.2.s.1.w.2: K -> .
+[DETECTION WRONG] page1239.text.list.1.item.3.p.1.s.1.w.3: S -> .
+[DETECTION WRONG] page1239.text.list.1.item.4.s.1.w.5: K -> .
+[DETECTION WRONG] page1239.text.list.1.item.5.s.1.w.3: K -> .
+[DETECTION WRONG] page1239.text.list.1.item.6.s.1.w.3: K -> .
+[DETECTION WRONG] page1239.text.list.1.item.7.s.1.w.2: S -> .
+[DETECTION WRONG] page1239.text.list.1.item.8.s.1.w.5: K -> .
+[DETECTION WRONG] page1239.text.list.1.item.9.s.1.w.3: S -> .
+[DETECTION WRONG] page1239.text.list.1.item.10.s.1.w.3: S -> .
+[DETECTION WRONG] page1239.text.list.1.item.11.s.1.w.2: S -> .
+[DETECTION WRONG] page1239.text.p.5.s.1.w.20: gekend -> bekend
+[DETECTION WRONG] page1239.text.p.5.s.1.w.21: om -> of
+[DETECTION WRONG] INSERTION AFTER page1239.text.p.5.s.1.w.23: is
+[DETECTION WRONG] page1239.text.p.5.s.2.w.1: Dit -> Dat
+[DETECTION WRONG] INSERTION AFTER page1239.text.p.5.s.2.w.2: ook
+[DETECTION WRONG] INSERTION AFTER page1239.text.p.5.s.2.w.3: fitnesscentra
+[DETECTION WRONG] page1239.text.list.2.item.3.s.1.w.1: Venetisch -> Genetisch
+[DETECTION WRONG] INSERTION AFTER page1239.text.list.2.item.3.s.1.w.1: .
+[DETECTION WRONG] INSERTION AFTER page1239.text.p.6.s.4.w.15: veroordeeld
+[DETECTION WRONG] INSERTION AFTER page1239.text.p.6.s.8.w.15: er
+[DETECTION WRONG] page1239.text.div.1.list.1.item.1.s.1.w.16: Quesntin -> Quentin
+[DETECTION WRONG] page1239.text.div.1.list.1.item.2.s.1.w.3;page1239.text.div.1.list.1.item.2.s.1.w.4: V . -> V.
+[DETECTION WRONG] page1239.text.div.1.list.1.item.2.s.1.w.3: V -> 2
+[DETECTION WRONG] INSERTION AFTER page1239.text.div.1.list.1.item.2.s.1.w.3: .

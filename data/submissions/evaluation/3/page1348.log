@@ -1,0 +1,83 @@
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1348.text.p.2.s.2.w.17'], 'superclass': 'replace', 'text': 'beslissingen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1348.text.p.2.s.4.w.6'], 'superclass': 'replace', 'text': 'concilie'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.2.s.4.w.17'], 'superclass': 'replace', 'text': 'maar'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1348.text.p.2.s.4.w.32'], 'superclass': 'replace', 'text': 'christelijke'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.2.s.5.w.8'], 'superclass': 'replace', 'text': 'worden'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.2.s.5.w.23'], 'superclass': 'replace', 'text': 'in'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.3.s.1.w.1'], 'superclass': 'replace', 'text': 'Voor'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.3.s.5.w.7'], 'superclass': 'replace', 'text': 'en'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.4.s.2.w.8'], 'superclass': 'replace', 'text': 'Slagen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.4.s.2.w.17'], 'superclass': 'replace', 'text': 'kunnen'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1348.text.p.5.s.1.w.4'], 'superclass': 'replace', 'text': 'paus'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.5.s.3.w.14'], 'superclass': 'replace', 'text': 'van'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.5.s.3.w.13'], 'superclass': 'replace', 'text': 'afgezakt'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1348.text.p.5.s.3.w.16'], 'superclass': 'replace', 'text': 'paus'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.5.s.3.w.27'], 'superclass': 'replace', 'text': 'Italië'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.6.s.1.w.5'], 'superclass': 'replace', 'text': 'zal'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.6.s.1.w.8'], 'superclass': 'replace', 'text': 'meer'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.6.s.1.w.8'], 'superclass': 'replace', 'text': 'mee'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1348.text.p.6.s.2.w.7'], 'superclass': 'replace', 'text': 'Boerenweg'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.6.s.5.w.8'], 'superclass': 'replace', 'text': 'Tiberios'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.7.s.3.w.11'], 'superclass': 'replace', 'text': 'pijl'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.7.s.3.w.11'], 'superclass': 'replace', 'text': 'pijn'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.8.s.1.w.12'], 'superclass': 'replace', 'text': 'het'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.8.s.1.w.12'], 'superclass': 'replace', 'text': 'met'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.8.s.2.w.10'], 'superclass': 'replace', 'text': 'kort'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.8.s.2.w.15'], 'superclass': 'replace', 'text': 'Cappadocië'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.8.s.5.w.9'], 'superclass': 'replace', 'text': 'Chazaren'} will be ignored!
+WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.8.s.9.w.9'], 'superclass': 'replace', 'text': 'Heraclitus'} will be ignored!
+[DETECTION MATCH] page1348.text.p.2.s.2.w.17: bislissingen -> beslissingen
+	[CORRECT]
+[DETECTION MATCH] page1348.text.p.2.s.4.w.6: Concilie -> concilie
+	[CORRECT]
+[DETECTION MATCH] page1348.text.p.2.s.4.w.32: Christelijke -> christelijke
+	[CORRECT]
+[DETECTION MISS] page1348.text.p.3.s.2.w.3: Kalief -> kalief
+[DETECTION MISS] page1348.text.p.3.s.6.w.8: Kalief -> kalief
+[DETECTION MATCH] page1348.text.p.4.s.2.w.17: kunnnen -> kunnen
+	[CORRECT]
+[DETECTION MISS] page1348.text.p.4.s.5.w.17: Peloponesos -> Peloponnesos
+[DETECTION MISS] page1348.text.p.4.s.6.w.17: Kalief -> kalief
+[DETECTION MATCH] page1348.text.p.5.s.1.w.4: Paus -> paus
+	[CORRECT]
+[DETECTION MATCH] page1348.text.p.5.s.3.w.27: Italë -> Italië
+	[CORRECT]
+[DETECTION MISS] page1348.text.p.7.s.5.w.3: massaexecuties -> massa-executies
+[DETECTION MATCH] page1348.text.p.8.s.2.w.15: Capadocië -> Cappadocië
+	[CORRECT]
+[DETECTION WRONG] page1348.text.p.2.s.4.w.17: naar -> maar
+[DETECTION WRONG] page1348.text.p.2.s.5.w.8: werden -> worden
+[DETECTION WRONG] page1348.text.p.2.s.5.w.23: en -> in
+[DETECTION WRONG] page1348.text.p.3.s.1.w.1: Door -> Voor
+[DETECTION WRONG] INSERTION AFTER page1348.text.p.3.s.1.w.11: Midden
+[DETECTION WRONG] INSERTION AFTER page1348.text.p.3.s.2.w.16: hij
+[DETECTION WRONG] page1348.text.p.3.s.5.w.7: een -> en
+[DETECTION WRONG] page1348.text.p.4.s.2.w.8: Slaven -> Slagen
+[DETECTION WRONG] INSERTION AFTER page1348.text.p.4.s.4.w.3: elf
+[DETECTION WRONG] page1348.text.p.5.s.3.w.14: aan -> van
+[DETECTION WRONG] page1348.text.p.5.s.3.w.13: afgezant -> afgezakt
+[DETECTION WRONG] page1348.text.p.5.s.3.w.16: Paus -> paus
+[DETECTION WRONG] page1348.text.p.6.s.1.w.5: zat -> zal
+[DETECTION WRONG] page1348.text.p.6.s.1.w.8: mee -> meer
+[DETECTION WRONG] INSERTION AFTER page1348.text.p.6.s.1.w.8: eens
+[DETECTION WRONG] page1348.text.p.6.s.1.w.8: mee -> mee
+[DETECTION WRONG] page1348.text.p.6.s.2.w.7: Boerenwet -> Boerenweg
+[DETECTION WRONG] INSERTION AFTER page1348.text.p.6.s.3.w.2: geen
+[DETECTION WRONG] INSERTION AFTER page1348.text.p.6.s.4.w.12: financiële
+[DETECTION WRONG] page1348.text.p.6.s.5.w.8: Tiberius -> Tiberios
+[DETECTION WRONG] INSERTION AFTER page1348.text.p.7.s.2.w.11: Noorse
+[DETECTION WRONG] INSERTION AFTER page1348.text.p.7.s.2.w.12: Oslo
+[DETECTION WRONG] INSERTION AFTER page1348.text.p.7.s.2.w.17: stil
+[DETECTION WRONG] page1348.text.p.7.s.3.w.11: pijp -> pijl
+[DETECTION WRONG] page1348.text.p.7.s.3.w.11: pijp -> pijn
+[DETECTION WRONG] page1348.text.p.7.s.3.w.14;page1348.text.p.7.s.3.w.15: aquaduct en -> aquaducten
+[DETECTION WRONG] INSERTION AFTER page1348.text.p.7.s.4.w.7: ,
+[DETECTION WRONG] page1348.text.p.8.s.1.w.12: met -> het
+[DETECTION WRONG] INSERTION AFTER page1348.text.p.8.s.1.w.12: zijn
+[DETECTION WRONG] page1348.text.p.8.s.1.w.12: met -> met
+[DETECTION WRONG] page1348.text.p.8.s.1.w.14;page1348.text.p.8.s.1.w.15: buit en -> buiten
+[DETECTION WRONG] page1348.text.p.8.s.2.w.10: fort -> kort
+[DETECTION WRONG] page1348.text.p.8.s.4.w.11;page1348.text.p.8.s.4.w.12: opstand en -> opstanden
+[DETECTION WRONG] page1348.text.p.8.s.5.w.4;page1348.text.p.8.s.5.w.5: zij de -> zijde
+[DETECTION WRONG] page1348.text.p.8.s.5.w.9: Khazaren -> Chazaren
+[DETECTION WRONG] page1348.text.p.8.s.9.w.9: Heraclius -> Heraclitus

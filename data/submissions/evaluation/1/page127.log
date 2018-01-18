@@ -1,0 +1,153 @@
+[DETECTION MATCH] page127.text.div.2.div.1.p.1.s.2.w.11: europa -> Europa
+	[CORRECT]
+[DETECTION MATCH] page127.text.div.2.div.2.p.2.s.3.w.11: berbertaal -> berber taal
+	[INCORRECT] Should be: Berbertaal
+[DETECTION MISS] page127.text.div.2.div.3.p.2.s.2.w.5: anno -> anno
+[DETECTION MISS] page127.text.div.4.p.1.s.1.w.17;page127.text.div.4.p.1.s.1.w.18: Sahara - -> Sahara-
+[DETECTION MISS] page127.text.div.4.list.1.item.4.s.1.w.2;page127.text.div.4.list.1.item.4.s.1.w.3: Sahara Atlasgebergte -> Sahara-Atlasgebergte
+[DETECTION MISS] page127.text.div.4.p.5.s.1.w.5;page127.text.div.4.p.5.s.1.w.6: dun bevolkte -> dunbevolkte
+[DETECTION MISS] page127.text.div.4.p.5.s.2.w.1: in -> In
+[DETECTION MISS] page127.text.div.4.div.2.p.1.s.1.w.9: Middellandse-Zeegebied -> Middellandse Zeegebied
+[DETECTION MISS] page127.text.div.7.p.1.s.1.w.21: tot -> aan
+[DETECTION MATCH] page127.text.div.8.p.8.s.2.w.27: indirectgekozen -> indirect gekozen
+	[CORRECT]
+[DETECTION MATCH] page127.text.div.9.p.1.s.1.w.4: Subtropisch -> subtropisch
+	[CORRECT]
+[DETECTION MISS] page127.text.div.9.p.2.s.1.w.6: Hoge -> hoge
+[DETECTION MATCH] page127.text.div.9.p.2.s.1.w.7: Plateaus -> plateaus
+	[CORRECT]
+[DETECTION WRONG] page127.text.p.1.s.1.w.9: ir -> ir.
+[DETECTION WRONG] page127.text.p.1.s.1.w.24: Democratische -> democratische
+[DETECTION WRONG] page127.text.p.1.s.1.w.25: Volksrepubliek -> volksrepubliek
+[DETECTION WRONG] page127.text.p.3.s.1.w.14: Westelijke -> westelijke
+[DETECTION WRONG] page127.text.p.3.s.2.w.3: Zee -> zee
+[DETECTION WRONG] page127.text.div.1.p.1.s.1.w.1: Hoofdartikel -> hoofdartikel
+[DETECTION WRONG] page127.text.div.1.p.1.s.1.w.4: Geschiedenis -> geschiedenis
+[DETECTION WRONG] page127.text.div.1.p.3.s.2.w.7: Front -> front
+[DETECTION WRONG] page127.text.div.1.p.3.s.2.w.10: Nationale -> nationale
+[DETECTION WRONG] page127.text.div.1.p.3.s.2.w.19: FLN -> Flip
+[DETECTION WRONG] page127.text.div.2.div.1.head.1.s.1.w.1: Bevolking -> bevolking
+[DETECTION WRONG] page127.text.div.2.div.1.p.1.s.1.w.1: Het -> het
+[DETECTION WRONG] page127.text.div.2.div.1.list.1.item.2.s.1.w.1: Levensverwachting -> levensverwachting
+[DETECTION WRONG] page127.text.div.2.div.1.list.1.item.3.s.1.w.1: Bevolkingsgroei -> bevolkingsgroei
+[DETECTION WRONG] page127.text.div.2.div.1.list.1.item.3.s.1.w.16: 20e -> twintigste
+[DETECTION WRONG] page127.text.div.2.div.1.list.1.item.4.s.1.w.1: Analfabetisme -> analfabetisme
+[DETECTION WRONG] page127.text.div.2.div.2.head.1.s.1.w.1: Taal -> taal
+[DETECTION WRONG] page127.text.div.2.div.2.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page127.text.div.2.div.2.list.1.item.2.s.1.w.1: Berbertalen -> Berber talen
+[DETECTION WRONG] page127.text.div.2.div.3.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page127.text.div.2.div.3.p.1.s.3.w.15: FIS -> fis
+[DETECTION WRONG] page127.text.div.2.div.3.p.2.s.4.w.13: Vrouw -> vrouw
+[DETECTION WRONG] page127.text.div.2.div.3.p.2.s.5.w.8: Zalige -> zalige
+[DETECTION WRONG] page127.text.div.2.div.3.p.2.s.5.w.18: 20e -> twintigste
+[DETECTION WRONG] page127.text.div.3.list.1.item.2.s.1.w.2: Ain -> aio
+[DETECTION WRONG] page127.text.div.3.list.1.item.3.s.1.w.2: Ain -> aio
+[DETECTION WRONG] page127.text.div.3.list.1.item.4.s.1.w.2: Alger -> Algera
+[DETECTION WRONG] page127.text.div.3.list.1.item.5.s.1.w.2: Annaba -> Anna's
+[DETECTION WRONG] page127.text.div.3.list.1.item.6.s.1.w.2: Batna -> Bayat
+[DETECTION WRONG] page127.text.div.3.list.1.item.11.s.1.w.2: Bordj -> boord
+[DETECTION WRONG] page127.text.div.3.list.1.item.11.s.1.w.3: Bou -> Bo u
+[DETECTION WRONG] page127.text.div.3.list.1.item.15.s.1.w.2: Constantine -> Constantin
+[DETECTION WRONG] page127.text.div.3.list.1.item.17.s.1.w.3: Bayadh -> Badoux
+[DETECTION WRONG] page127.text.div.3.list.1.item.19.s.1.w.3: Tarf -> tarn
+[DETECTION WRONG] page127.text.div.3.list.1.item.23.s.1.w.2: Jijel -> jijen
+[DETECTION WRONG] page127.text.div.3.list.1.item.27.s.1.w.2: Medea -> mede
+[DETECTION WRONG] page127.text.div.3.list.1.item.30.s.1.w.4: Sila -> Sils
+[DETECTION WRONG] page127.text.div.3.list.1.item.31.s.1.w.2: Naama -> Naams
+[DETECTION WRONG] page127.text.div.3.list.1.item.34.s.1.w.2: Oum -> Oud
+[DETECTION WRONG] page127.text.div.3.list.1.item.37.s.1.w.2: Setif -> Setz
+[DETECTION WRONG] page127.text.div.3.list.1.item.38.s.1.w.3: Bel -> bel
+[DETECTION WRONG] page127.text.div.3.list.1.item.40.s.1.w.2: Souk -> So uk
+[DETECTION WRONG] page127.text.div.3.list.1.item.42.s.1.w.2: Tebessa -> Tessa's
+[DETECTION WRONG] page127.text.div.3.list.1.item.47.s.1.w.2: Tizi -> Tibo
+[DETECTION WRONG] page127.text.div.4.head.1.s.1.w.1: Geografie -> geografie
+[DETECTION WRONG] page127.text.div.4.p.2.s.1.w.9: Magreb -> Maghreb
+[DETECTION WRONG] page127.text.div.4.list.1.item.1.s.1.w.3: laaglandstrook -> landstrook
+[DETECTION WRONG] page127.text.div.4.list.1.item.1.s.1.w.16: Mediterrane -> mediterrane
+[DETECTION WRONG] page127.text.div.4.list.1.item.2.s.1.w.12: Mediterraan -> mediterraan
+[DETECTION WRONG] page127.text.div.4.list.1.item.3.s.1.w.6: Plateau -> plateau
+[DETECTION WRONG] page127.text.div.4.list.1.item.3.s.1.w.27: schapen- -> schapen
+[DETECTION WRONG] page127.text.div.4.list.1.item.3.s.1.w.29: geitherders -> geit herders
+[DETECTION WRONG] page127.text.div.4.list.1.item.4.s.1.w.7: bergwaaiers -> berg waaiers
+[DETECTION WRONG] page127.text.div.4.p.5.s.1.w.7: Saharagebied -> Sahara gebied
+[DETECTION WRONG] page127.text.div.4.p.5.s.2.w.11: Tahat -> Taha t
+[DETECTION WRONG] page127.text.div.4.div.1.p.1.s.1.w.1: In -> in
+[DETECTION WRONG] page127.text.div.4.div.2.head.1.s.1.w.1: Rivieren -> rivieren
+[DETECTION WRONG] page127.text.div.4.div.2.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page127.text.div.4.div.3.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page127.text.div.4.div.4.head.1.s.1.w.1: Steden -> steden
+[DETECTION WRONG] page127.text.div.4.div.4.p.1.s.1.w.1: De -> de
+[DETECTION WRONG] page127.text.div.4.div.4.list.1.item.2.s.1.w.1: Constantine -> Constantin
+[DETECTION WRONG] page127.text.div.4.div.4.list.1.item.3.s.1.w.1: Batna -> Bayat
+[DETECTION WRONG] page127.text.div.4.div.4.list.1.item.4.s.1.w.1: Annaba -> Anna's
+[DETECTION WRONG] page127.text.div.4.div.4.list.1.item.5.s.1.w.1: Setif -> Setz
+[DETECTION WRONG] page127.text.div.5.head.1.s.1.w.1: Bezienswaardigheden -> bezienswaardigheden
+[DETECTION WRONG] page127.text.div.5.p.1.s.1.w.1: Zie -> zie
+[DETECTION WRONG] page127.text.div.5.list.1.item.1.s.1.w.1: Monumenten -> monumenten
+[DETECTION WRONG] page127.text.div.5.list.1.item.1.s.1.w.4: Werelderfgoedlijst -> werelderfgoedlijst
+[DETECTION WRONG] page127.text.div.6.head.1.s.1.w.1: Cultuur -> cultuur
+[DETECTION WRONG] page127.text.div.6.div.1.head.1.s.1.w.1: Muziek -> muziek
+[DETECTION WRONG] page127.text.div.6.div.1.p.1.s.1.w.1: Zie -> zie
+[DETECTION WRONG] page127.text.div.6.div.2.head.1.s.1.w.1: Literatuur -> literatuur
+[DETECTION WRONG] page127.text.div.6.div.2.p.1.s.1.w.1: Enkele -> enkele
+[DETECTION WRONG] page127.text.div.7.head.1.s.1.w.1: Economie -> economie
+[DETECTION WRONG] page127.text.div.7.p.1.s.1.w.1: Ongeveer -> ongeveer
+[DETECTION WRONG] page127.text.div.7.p.1.s.1.w.23: BBP -> bbp
+[DETECTION WRONG] page127.text.div.7.p.4.s.2.w.8: Hassi -> Hasse
+[DETECTION WRONG] page127.text.div.7.p.6.s.2.w.5: spoor- -> spoor
+[DETECTION WRONG] page127.text.div.7.p.7.s.2.w.3: invoerproducten -> invoer producten
+[DETECTION WRONG] page127.text.div.7.p.7.s.2.w.15: vervoerapparatuur -> vervoer apparatuur
+[DETECTION WRONG] page127.text.div.7.p.8.s.1.w.12: Verenigde -> verenigde
+[DETECTION WRONG] page127.text.div.7.p.8.s.4.w.8: Liga -> liga
+[DETECTION WRONG] page127.text.div.8.p.1.s.1.w.1: Tegen -> tegen
+[DETECTION WRONG] page127.text.div.8.p.2.s.1.w.9: FLN -> Flip
+[DETECTION WRONG] page127.text.div.8.p.3.s.4.w.3: FLN-leden -> ledenpop
+[DETECTION WRONG] page127.text.div.8.p.4.s.1.w.12: Front -> front
+[DETECTION WRONG] page127.text.div.8.p.4.s.1.w.13: Islamique -> islamist
+[DETECTION WRONG] page127.text.div.8.p.4.s.1.w.14: du -> d u
+[DETECTION WRONG] page127.text.div.8.p.4.s.1.w.15: Salut -> salut
+[DETECTION WRONG] page127.text.div.8.p.4.s.2.w.6: FIS -> fis
+[DETECTION WRONG] page127.text.div.8.p.4.s.3.w.9: FIS -> fis
+[DETECTION WRONG] page127.text.div.8.p.4.s.4.w.6: Liamine -> Li amine
+[DETECTION WRONG] page127.text.div.8.p.6.s.1.w.12: Islamique -> islamist
+[DETECTION WRONG] page127.text.div.8.p.6.s.1.w.13: Armée -> armee
+[DETECTION WRONG] page127.text.div.8.p.7.s.4.w.15: zetelraad -> zetel raad
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.1.s.1.w.1: FLN -> Flip
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.1.s.1.w.3: Front -> front
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.1.s.1.w.6: Nationale -> nationale
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.1.s.1.w.12: nationaalraad -> nationaal
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.2.s.1.w.4: National -> nationaal
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.2.s.1.w.5: Démocratique -> democratieën
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.3.s.1.w.1: MRN -> mr.
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.3.s.1.w.3: Mouvement -> mouvement
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.3.s.1.w.7: Nationale -> nationale
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.3.s.1.w.10: Islamitisch -> islamitisch
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.1: MSP -> M SP
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.3: Mouvement -> mouvement
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.6: Société -> society
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.9: Paix -> pa's
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.12: Islamitisch -> islamitisch
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.5.s.1.w.1: PT -> p.
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.5.s.1.w.3: Parti -> partij
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.5.s.1.w.5: Travailleurs -> Travaille
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.6.s.1.w.1: Overige -> overige
+[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.7.s.1.w.1: Onafhankelijken -> onafhankelijken
+[DETECTION WRONG] page127.text.div.8.p.9.s.1.w.1: Zie -> zie
+[DETECTION WRONG] page127.text.div.8.div.1.head.1.s.1.w.1: Economie -> economie
+[DETECTION WRONG] page127.text.div.8.div.1.list.1.item.1.s.1.w.1: BNP -> bnp
+[DETECTION WRONG] page127.text.div.8.div.1.list.1.item.2.s.1.w.1: Groei -> groei
+[DETECTION WRONG] page127.text.div.8.div.1.list.1.item.2.s.1.w.2: BNP -> bnp
+[DETECTION WRONG] page127.text.div.8.div.1.list.1.item.3.s.1.w.1: Landbouw -> landbouw
+[DETECTION WRONG] page127.text.div.8.div.1.list.1.item.4.s.1.w.1: Grondstoffen -> grondstoffen
+[DETECTION WRONG] page127.text.div.8.div.1.list.1.item.5.s.1.w.1: Exportproducten -> exportproducten
+[DETECTION WRONG] page127.text.div.8.div.1.list.1.item.6.s.1.w.1: Exportpartners -> ex-partners
+[DETECTION WRONG] page127.text.div.8.div.1.list.1.item.6.s.1.w.7: Verenigde -> verenigde
+[DETECTION WRONG] page127.text.div.8.div.1.list.1.item.7.s.1.w.1: Importproducten -> importproducten
+[DETECTION WRONG] page127.text.div.8.div.1.list.1.item.8.s.1.w.7: Verenigde -> verenigde
+[DETECTION WRONG] page127.text.div.9.head.1.s.1.w.1: Klimaat -> klimaat
+[DETECTION WRONG] page127.text.div.9.p.2.s.1.w.2: steppeklimaat -> steppe klimaat
+[DETECTION WRONG] page127.text.div.10.p.1.s.1.w.1: Zie -> zie
+[DETECTION WRONG] page127.text.div.11.head.1.s.1.w.1: Bekende -> bekende
+[DETECTION WRONG] page127.text.div.11.list.1.item.1.s.1.w.1: Minister -> minister
+[DETECTION WRONG] page127.text.div.11.list.1.item.3.s.1.w.1: Regeringsleider -> regeringsleider
+[DETECTION WRONG] page127.text.div.12.head.1.s.1.w.1: Externe -> externe
