@@ -8,7 +8,7 @@ for f in ../goldstandard/*.json; do
             nr=$(basename $d)
             echo $nr>&2
             mkdir -p evaluation/$nr 2>/dev/null
-            clin28-evaluate --out $d/$filename --ref ../goldstandard/$filename > evaluation/$nr/$filename 2>evaluation/$nr/${filename/json/log}
+            clin28-evaluate --noconfidence --out $d/$filename --ref ../goldstandard/$filename > evaluation/$nr/$filename 2>evaluation/$nr/${filename/json/log}
             if [ $? -ne 0 ]; then
                 echo "Failed, check: evaluation/$nr/${filename/json/log}">&2
                 exit 2
