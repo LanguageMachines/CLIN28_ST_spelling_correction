@@ -167,13 +167,13 @@ We provide the following tools for validation, evaluation and conversion:
 The tools are written in Python (3.4 or above!) and available from the Python Package Index, download and install with a
 simple:
 
-    ``pip3 install clin28tools``
+    pip3 install clin28tools
 
 For global installation, provided you have administrative rights, you can prepend ``sudo``, but we recommend using a Python virtual environment instead.
 
 Alternatively, you can install the tools after having cloned this git repository:
 
-    ``python3 setup.py install``
+    python3 setup.py install
 
 ## Good Software development
 
