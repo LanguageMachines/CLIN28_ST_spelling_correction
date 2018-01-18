@@ -7,7 +7,7 @@ class ValidationError(Exception):
     pass
 
 class CLIN28JSON:
-    def __init__(self, filename, validation=True):
+    def __init__(self, filename, validation=True, words=None, allowwordfail=False):
         if not os.path.exists(filename):
             raise FileExistsError("File not found: " + filename)
 
@@ -19,6 +19,9 @@ class CLIN28JSON:
                 raise ValidationError("File is not valid JSON! " + str(e))
 
         self.index = {}
+        if words is not None:
+            self.data['words'] = words
+        self.allowwordfail = allowwordfail
         if validation:
             self.validate()
 
@@ -31,25 +34,27 @@ class CLIN28JSON:
         for key in self.data:
             if key not in ('words','corrections'):
                 print("WARNING: Unknown key '" + key + "' will be ignored!",file=sys.stderr)
-        for word in self.words():
-            if 'id' not in word or not word['id']:
-                raise ValidationError("Word does not have an ID! " + repr(word))
-            self.index[word['id']] = word
-            if 'text' not in word or not word['text']:
-                raise ValidationError("Word does not have a text! " + repr(word))
-            for key in word:
-                if key not in ('text','id','space','in'):
-                    print("WARNING: Unknown key '" + key + "' for word " + repr(word) + " will be ignored!",file=sys.stderr)
+        if not self.allowwordfail:
+            for word in self.words():
+                if 'id' not in word or not word['id']:
+                    raise ValidationError("Word does not have an ID! " + repr(word))
+                self.index[word['id']] = word
+                if 'text' not in word or not word['text']:
+                    raise ValidationError("Word does not have a text! " + repr(word))
+                for key in word:
+                    if key not in ('text','id','space','in'):
+                        print("WARNING: Unknown key '" + key + "' for word " + repr(word) + " will be ignored!",file=sys.stderr)
         for correction in self.corrections():
-            if 'span' not in correction or not correction['span']:
-                if 'after' not in correction or not correction['after']:
-                    raise ValidationError("Correction does not have a 'span' (or 'after') property! " + repr(correction))
-                elif correction['after'] not in self.index:
-                    raise ValidationError("Correction's 'after' property refers to a non-existing word ID! (" + correction['after'] + ") " + repr(correction))
-            else:
-                for wordid in correction['span']:
-                    if wordid not in self.index:
-                        raise ValidationError("Correction's 'span' property refers to a non-existing word ID! (" + wordid + ") " + repr(correction))
+            if not self.allowwordfail:
+                if 'span' not in correction or not correction['span']:
+                    if 'after' not in correction or not correction['after']:
+                        raise ValidationError("Correction does not have a 'span' (or 'after') property! " + repr(correction))
+                    elif correction['after'] not in self.index:
+                        raise ValidationError("Correction's 'after' property refers to a non-existing word ID! (" + correction['after'] + ") " + repr(correction))
+                else:
+                    for wordid in correction['span']:
+                        if wordid not in self.index:
+                            raise ValidationError("Correction's 'span' property refers to a non-existing word ID! (" + wordid + ") " + repr(correction))
             for key in correction:
                 if key not in ('text','span','after','confidence','class'):
                     print("WARNING: Unknown key '" + key + "' for correction " + repr(correction) + " will be ignored!",file=sys.stderr)

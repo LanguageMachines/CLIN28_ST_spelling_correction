@@ -7,13 +7,14 @@ from clin28tools.format import CLIN28JSON
 def main():
     parser = argparse.ArgumentParser(description="Validates the JSON format for the CLIN 28 shared task", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('files', nargs='+', help='JSON files to validate')
+    parser.add_argument('--allowwordfail',dest='allowwordfail',help="Allow failures in 'words' attribute", action='store_true',default=False)
     args = parser.parse_args()
 
     valid = True
     for filename in args.files:
         thisvalid = True
         try:
-            data = CLIN28JSON(filename) #validation is implied
+            data = CLIN28JSON(filename, allowwordfail=args.allowwordfail) #validation is implied
         except Exception as e:
             print("INVALID! <- " + filename + ": ", str(e),file=sys.stderr)
             valid = False
