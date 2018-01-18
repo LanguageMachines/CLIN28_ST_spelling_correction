@@ -96,10 +96,10 @@ WARNING: Unknown key 'superclass' for correction {'text': "'", 'span': ['page124
 [DETECTION WRONG] page124.text.div.3.list.1.item.2.s.1.w.9: O -> )
 [DETECTION WRONG] page124.text.div.3.list.1.item.2.s.1.w.8: ° -> e
 [DETECTION WRONG] page124.text.div.3.list.1.item.2.s.1.w.7;page124.text.div.3.list.1.item.2.s.1.w.8: 142 ° -> 142e
-[DETECTION WRONG] page124.text.div.3.list.1.item.2.s.1.w.7: 142 -> 1425
+[DETECTION SKIPPED] 1425
 [DETECTION WRONG] page124.text.div.3.list.1.item.2.s.1.w.13: O -> C
 [DETECTION WRONG] page124.text.div.3.list.1.item.3.s.1.w.4: ° -> -
-[DETECTION WRONG] page124.text.div.3.list.1.item.3.s.1.w.5: W -> 2
+[DETECTION SKIPPED] 2
 [DETECTION WRONG] page124.text.div.3.list.1.item.3.s.1.w.9: W -> )
 [DETECTION WRONG] page124.text.div.3.list.1.item.3.s.1.w.8: ° -> '
 [DETECTION WRONG] INSERTION AFTER page124.text.div.3.list.1.item.3.s.1.w.8: C
@@ -113,7 +113,7 @@ WARNING: Unknown key 'superclass' for correction {'text': "'", 'span': ['page124
 [DETECTION WRONG] page124.text.div.3.list.1.item.7.s.1.w.6: W -> C
 [DETECTION WRONG] INSERTION AFTER page124.text.div.3.list.1.item.7.s.1.w.7: +
 [DETECTION WRONG] page124.text.div.3.list.1.item.7.s.1.w.9: ° -> '
-[DETECTION WRONG] page124.text.div.3.list.1.item.7.s.1.w.10: W -> 2
+[DETECTION SKIPPED] 2
 [DETECTION WRONG] page124.text.div.3.list.1.item.7.s.1.w.13;page124.text.div.3.list.1.item.7.s.1.w.14: Argentijns en -> Argentijnsen
 [DETECTION WRONG] page124.text.div.3.list.1.item.7.s.1.w.22: zie -> zij
 [DETECTION WRONG] page124.text.div.3.p.3.s.1.w.6;page124.text.div.3.p.3.s.1.w.7: W en -> Wen
@@ -122,13 +122,13 @@ WARNING: Unknown key 'superclass' for correction {'text': "'", 'span': ['page124
 [DETECTION WRONG] page124.text.div.3.p.3.s.1.w.10;page124.text.div.3.p.3.s.1.w.11: W is -> Wis
 [DETECTION WRONG] page124.text.div.3.p.3.s.1.w.10: W -> C
 [DETECTION WRONG] page124.text.div.3.div.1.list.1.item.1.s.1.w.4: ° -> ,
-[DETECTION WRONG] page124.text.div.3.div.1.list.1.item.1.s.1.w.5: O -> 2
+[DETECTION SKIPPED] 2
 [DETECTION WRONG] page124.text.div.3.div.1.list.1.item.1.s.1.w.8: ° -> N
 [DETECTION WRONG] page124.text.div.3.div.1.list.1.item.1.s.1.w.8;page124.text.div.3.div.1.list.1.item.1.s.1.w.9: ° W -> NW
 [DETECTION WRONG] page124.text.div.3.div.1.list.1.item.3.s.1.w.4: ° -> '
 [DETECTION WRONG] page124.text.div.3.div.1.list.1.item.3.s.1.w.5: W -> (
 [DETECTION WRONG] page124.text.div.3.div.1.list.1.item.3.s.1.w.8: ° -> -
-[DETECTION WRONG] page124.text.div.3.div.1.list.1.item.3.s.1.w.9: W -> 2
+[DETECTION SKIPPED] 2
 [DETECTION WRONG] page124.text.div.3.div.1.list.1.item.3.s.1.w.14: Brits -> Britse
 [DETECTION WRONG] INSERTION AFTER page124.text.div.4.head.1.s.1.w.1: .
 [DETECTION WRONG] page124.text.div.4.p.1.s.1.w.8;page124.text.div.4.p.1.s.1.w.9: ten minste -> tenminste

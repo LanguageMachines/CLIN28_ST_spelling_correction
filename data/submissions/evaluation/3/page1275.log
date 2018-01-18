@@ -1226,7 +1226,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
 [DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
 [DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] INSERTION AFTER page1275.text.div.1.div.2.p.2.s.7.w.11: 954
+[DETECTION SKIPPED] 954
 [DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.7.w.14: Mysteriun -> Mysterion
 [DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.10.w.1: Zie -> Wie
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.1.div.2.p.2.s.10.w.1: je
@@ -1832,7 +1832,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1275.text.div.2.p.6.s.1.w.1: “ -> M
 [DETECTION WRONG] page1275.text.div.2.p.6.s.1.w.2: .. -> .
 [DETECTION WRONG] page1275.text.div.2.p.6.s.1.w.1;page1275.text.div.2.p.6.s.1.w.2: “ .. -> M.
-[DETECTION WRONG] page1275.text.div.2.p.6.s.1.w.1: “ -> 2
+[DETECTION SKIPPED] 2
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.6.s.1.w.1: .
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.6.s.2.w.1: verstandige
 [DETECTION WRONG] page1275.text.div.2.p.6.s.2.w.14: navorst -> na vorst
@@ -1852,13 +1852,13 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1275.text.div.2.p.7.s.2.w.1: Serie -> Serie
 [DETECTION WRONG] page1275.text.div.2.p.7.s.2.w.3: II -> I
 [DETECTION WRONG] page1275.text.div.2.p.7.s.2.w.3;page1275.text.div.2.p.7.s.2.w.4: II . -> I.
-[DETECTION WRONG] page1275.text.div.2.p.7.s.2.w.3: II -> 2
+[DETECTION SKIPPED] 2
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.7.s.2.w.3: .
 [DETECTION WRONG] page1275.text.div.2.p.7.s.3.w.1: Bd -> d
-[DETECTION WRONG] page1275.text.div.2.p.7.s.3.w.1: Bd -> 2
+[DETECTION SKIPPED] 2
 [DETECTION WRONG] page1275.text.div.2.p.7.s.4.w.1: Nr -> N
 [DETECTION WRONG] page1275.text.div.2.p.7.s.4.w.1;page1275.text.div.2.p.7.s.4.w.2: Nr . -> N.
-[DETECTION WRONG] page1275.text.div.2.p.7.s.4.w.1: Nr -> 2
+[DETECTION SKIPPED] 2
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.7.s.4.w.1: .
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.8.s.1.w.6: '
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.8.s.2.w.2: een
@@ -1869,7 +1869,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1275.text.div.3.list.1.item.1.s.1.w.24: Uitgave -> Uitgaven
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.3.list.1.item.2.s.1.w.14: opgaat
 [DETECTION WRONG] page1275.text.div.3.list.1.item.2.s.1.w.17: Uitgave -> Uitgaven
-[DETECTION WRONG] page1275.text.div.3.list.1.item.2.s.7.w.1: u -> 2
+[DETECTION SKIPPED] 2
 [DETECTION WRONG] page1275.text.div.3.list.1.item.2.s.8.w.1: eingel -> engel
 [DETECTION WRONG] page1275.text.div.3.list.1.item.2.s.8.w.1: eingel -> Angel
 [DETECTION WRONG] page1275.text.div.3.list.1.item.2.s.9.w.8: gegangenen -> gevangenen

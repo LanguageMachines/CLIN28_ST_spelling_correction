@@ -40,7 +40,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] INSERTION AFTER page1253.text.p.6.s.5.w.20: te
 [DETECTION WRONG] page1253.text.p.6.s.5.w.20: troon -> troon
 [DETECTION WRONG] page1253.text.div.1.p.1.s.1.w.8: d -> i
-[DETECTION WRONG] page1253.text.div.1.p.1.s.2.w.1: i -> 2
+[DETECTION SKIPPED] 2
 [DETECTION WRONG] page1253.text.div.1.list.1.item.1.s.1.w.7: III -> II
 [DETECTION WRONG] page1253.text.div.1.list.2.item.1.s.1.w.11: Syrmië -> Syrië
 [DETECTION WRONG] page1253.text.div.1.list.2.item.1.s.1.w.13: Bač -> Ba

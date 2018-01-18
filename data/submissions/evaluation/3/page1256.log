@@ -75,49 +75,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.13.p.3.s.1.w.16'], 'superclass': 'replace', 'text': 'voortbestaan'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.13.p.3.s.2.w.9'], 'superclass': 'replace', 'text': 'eeuw'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.14.p.1.s.2.w.17'], 'superclass': 'replace', 'text': 'gezamenlijk'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.14.p.1.s.2.w.29'], 'superclass': 'replace', 'text': 'Blue'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.14.p.1.s.3.w.12'], 'superclass': 'replace', 'text': 'koren'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.14.p.2.s.2.w.19'], 'superclass': 'replace', 'text': 'een'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.14.p.2.s.2.w.25'], 'superclass': 'replace', 'text': 'een'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.2.div.14.p.2.s.2.w.26'], 'superclass': 'replace', 'text': 'Van'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.3.p.1.s.4.w.11'], 'superclass': 'replace', 'text': 'de'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.3.p.1.s.4.w.10'], 'superclass': 'replace', 'text': 'in'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'Harmonisch'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.1.s.1.w.18'], 'superclass': 'replace', 'text': 'hernieuwde'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.1.s.1.w.36'], 'superclass': 'replace', 'text': 'non'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.1.s.1.w.36'], 'superclass': 'replace', 'text': 'nou'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1256.text.div.4.p.1.s.1.w.40'], 'superclass': 'replace', 'text': 'tredecim'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.4.p.1.s.2.w.2'], 'superclass': 'replace', 'text': 'kale'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.2.s.2.w.5'], 'superclass': 'replace', 'text': 'loopje'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.2.s.2.w.12'], 'superclass': 'replace', 'text': 'een'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.2.s.2.w.31'], 'superclass': 'replace', 'text': 'je'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.2.s.3.w.10'], 'superclass': 'replace', 'text': 'jaren'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.4.p.3.s.3.w.28'], 'superclass': 'replace', 'text': 'de'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.1.s.1.w.23'], 'superclass': 'replace', 'text': 'voor'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.5.p.1.s.1.w.41'], 'superclass': 'replace', 'text': ':'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.2.s.1.w.4'], 'superclass': 'replace', 'text': ','} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.2.s.1.w.14'], 'superclass': 'replace', 'text': ','} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.2.s.1.w.16'], 'superclass': 'replace', 'text': ','} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.2.s.1.w.18'], 'superclass': 'replace', 'text': ','} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.2.s.1.w.23'], 'superclass': 'replace', 'text': ','} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.2.s.1.w.25'], 'superclass': 'replace', 'text': ','} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.5.p.2.s.1.w.27'], 'superclass': 'replace', 'text': '.'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.7.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'jazzstijlen'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.8.p.1.s.1.w.17'], 'superclass': 'replace', 'text': ','} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.8.p.1.s.1.w.22'], 'superclass': 'replace', 'text': 'Gamblers'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1256.text.div.9.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'jazzcomponisten'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.7'], 'superclass': 'replace', 'text': ','} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.15'], 'superclass': 'replace', 'text': ','} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.26'], 'superclass': 'replace', 'text': ','} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.40'], 'superclass': 'replace', 'text': 'Nl'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.43'], 'superclass': 'replace', 'text': ','} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.55'], 'superclass': 'replace', 'text': ','} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.10.p.1.s.1.w.53'], 'superclass': 'replace', 'text': 'Ned'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.63'], 'superclass': 'replace', 'text': ','} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.10.p.1.s.1.w.61'], 'superclass': 'replace', 'text': 'Ned'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.70'], 'superclass': 'replace', 'text': ','} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.71'], 'superclass': 'replace', 'text': 'Matthew'} will be ignored!
-WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.10.p.1.s.1.w.77'], 'superclass': 'replace', 'text': ','} will be ignored!
+Attempting to load 3//page1256.json in spite of validation error
 [DETECTION MISS] page1256.text.div.1.p.1.s.4.w.11: stromnigen -> stromingen
 [DETECTION MATCH] page1256.text.div.2.div.1.p.1.s.3.w.25;page1256.text.div.2.div.1.p.1.s.3.w.26: voodoo -praktijken -> voodoo-praktijken
 	[CORRECT]
@@ -400,7 +358,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1256.text.div.7.head.1.s.1.w.1: Jazzstijlen -> jazzstijlen
 [DETECTION WRONG] page1256.text.div.8.p.1.s.1.w.17: – -> ,
 [DETECTION WRONG] page1256.text.div.8.p.1.s.1.w.22: Ramblers -> Gamblers
-[DETECTION WRONG] INSERTION AFTER page1256.text.div.8.p.1.s.1.w.22: 1750
+[DETECTION SKIPPED] 1750
 [DETECTION WRONG] page1256.text.div.9.head.1.s.1.w.1: Jazzcomponisten -> jazzcomponisten
 [DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.7: – -> ,
 [DETECTION WRONG] page1256.text.div.10.p.1.s.1.w.15: – -> ,

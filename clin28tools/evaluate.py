@@ -87,7 +87,7 @@ def main():
 
     for outcorrection in outdata.corrections():
         if 'found' not in outcorrection:
-            if  not args.withnumbers and (outcorrection['text'].isdigit() or ('span' in outcorrection and " ".join([ refdata[wordid]['text'] for wordid in outcorrection['span'] ]).isdigit())):
+            if  not args.withnumbers and (outcorrection['text'].isdigit() or ('span' in outcorrection and " ".join([ refdata[wordid]['text'] for wordid in outcorrection['span'] if wordid in refdata ]).isdigit())):
                 print("[DETECTION SKIPPED] " + outcorrection['text'],file=sys.stderr)
                 continue
             confidence = outcorrection['confidence'] if 'confidence' in outcorrection and not args.noconfidence else 1.0

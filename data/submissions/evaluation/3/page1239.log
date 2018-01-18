@@ -81,5 +81,5 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] INSERTION AFTER page1239.text.p.6.s.8.w.15: er
 [DETECTION WRONG] page1239.text.div.1.list.1.item.1.s.1.w.16: Quesntin -> Quentin
 [DETECTION WRONG] page1239.text.div.1.list.1.item.2.s.1.w.3;page1239.text.div.1.list.1.item.2.s.1.w.4: V . -> V.
-[DETECTION WRONG] page1239.text.div.1.list.1.item.2.s.1.w.3: V -> 2
+[DETECTION SKIPPED] 2
 [DETECTION WRONG] INSERTION AFTER page1239.text.div.1.list.1.item.2.s.1.w.3: .

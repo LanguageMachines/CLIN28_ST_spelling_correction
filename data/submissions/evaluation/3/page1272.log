@@ -1020,7 +1020,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.5.w.7: denken -> denken
 [DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.5.w.7: denken -> danken
 [DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.5.w.7: denken -> denken
-[DETECTION WRONG] INSERTION AFTER page1272.text.div.1.div.2.p.1.s.9.w.11: 954
+[DETECTION SKIPPED] 954
 [DETECTION WRONG] page1272.text.div.1.div.2.p.1.s.15.w.6: haar -> maar
 [DETECTION WRONG] INSERTION AFTER page1272.text.div.1.div.2.p.1.s.15.w.9: zoon
 [DETECTION WRONG] INSERTION AFTER page1272.text.div.1.div.2.p.1.s.15.w.11: eerste
@@ -1419,7 +1419,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1272.text.div.2.list.1.item.2.s.1.w.23: Uitgave -> Uitgaven
 [DETECTION WRONG] INSERTION AFTER page1272.text.div.2.list.1.item.3.s.1.w.14: opgaat
 [DETECTION WRONG] page1272.text.div.2.list.1.item.3.s.1.w.17: Uitgave -> Uitgaven
-[DETECTION WRONG] page1272.text.div.2.list.1.item.3.s.7.w.1: u -> 2
+[DETECTION SKIPPED] 2
 [DETECTION WRONG] page1272.text.div.2.list.1.item.3.s.8.w.1: eingel -> engel
 [DETECTION WRONG] page1272.text.div.2.list.1.item.3.s.8.w.1: eingel -> Angel
 [DETECTION WRONG] page1272.text.div.2.list.1.item.3.s.9.w.8: gegangenen -> gevangenen

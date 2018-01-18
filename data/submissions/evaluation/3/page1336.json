@@ -4,9 +4,9 @@
             "truepos": 3.0,
             "falseneg": 7.0,
             "recall": 0.3,
-            "falsepos": 125.0,
-            "precision": 0.0234375,
-            "f1score": 0.043478260869565216
+            "falsepos": 124.0,
+            "precision": 0.023622047244094488,
+            "f1score": 0.043795620437956206
         },
         "correction": {
             "correct": 0.0,

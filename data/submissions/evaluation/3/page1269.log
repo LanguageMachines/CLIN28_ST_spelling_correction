@@ -265,7 +265,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] page1269.text.div.1.p.4.s.6.w.1: Zij -> Hij
 [DETECTION WRONG] page1269.text.div.1.p.4.s.6.w.4: trouwen -> trouwens
 [DETECTION WRONG] page1269.text.div.1.p.4.s.6.w.7: 15e -> 19e
-[DETECTION WRONG] page1269.text.div.1.p.4.s.6.w.7: 15e -> 19
+[DETECTION SKIPPED] 19
 [DETECTION WRONG] page1269.text.div.2.p.1.s.1.w.7: school -> schoot
 [DETECTION WRONG] page1269.text.div.2.p.1.s.2.w.5: tuchtloos -> tuchteloos
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.2.p.1.s.2.w.12: zich
@@ -331,7 +331,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] page1269.text.div.3.p.7.s.6.w.6: Salon -> salon
 [DETECTION WRONG] page1269.text.div.3.p.7.s.7.w.20;page1269.text.div.3.p.7.s.7.w.21: techniek en -> technieken
 [DETECTION WRONG] page1269.text.div.4.head.1.s.1.w.4: etser -> etter
-[DETECTION WRONG] page1269.text.div.4.p.1.s.1.w.3: 25e -> 25
+[DETECTION SKIPPED] 25
 [DETECTION WRONG] page1269.text.div.4.p.1.s.1.w.7;page1269.text.div.4.p.1.s.1.w.8: op en -> open
 [DETECTION WRONG] page1269.text.div.4.p.1.s.1.w.9: dat -> dag
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.4.p.1.s.2.w.6: .
@@ -454,7 +454,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] page1269.text.div.10.p.4.s.6.w.1: Zij -> Hij
 [DETECTION WRONG] page1269.text.div.10.p.4.s.6.w.4: trouwen -> trouwens
 [DETECTION WRONG] page1269.text.div.10.p.4.s.6.w.7: 15e -> 19e
-[DETECTION WRONG] page1269.text.div.10.p.4.s.6.w.7: 15e -> 19
+[DETECTION SKIPPED] 19
 [DETECTION WRONG] page1269.text.div.11.p.1.s.1.w.7: school -> schoot
 [DETECTION WRONG] page1269.text.div.11.p.1.s.2.w.5: tuchtloos -> tuchteloos
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.11.p.1.s.2.w.12: zich
@@ -489,7 +489,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.11.p.6.s.2.w.13: .
 [DETECTION WRONG] page1269.text.div.12.head.1.s.1.w.2: vingt -> Vingt
 [DETECTION WRONG] page1269.text.div.12.head.1.s.1.w.4: XX -> X
-[DETECTION WRONG] page1269.text.div.12.head.1.s.1.w.4: XX -> 2
+[DETECTION SKIPPED] 2
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.12.p.1.s.1.w.2: ze
 [DETECTION WRONG] page1269.text.div.12.p.1.s.1.w.21: koloriste -> koloniste
 [DETECTION WRONG] page1269.text.div.12.p.1.s.1.w.21: koloriste -> kolonisten
@@ -525,7 +525,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] page1269.text.div.13.head.1.s.1.w.4: etser -> etter
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.13.head.1.s.1.w.4: .
 [DETECTION WRONG] page1269.text.div.13.head.1.s.1.w.4: etser -> etser
-[DETECTION WRONG] page1269.text.div.13.p.1.s.1.w.3: 25e -> 25
+[DETECTION SKIPPED] 25
 [DETECTION WRONG] page1269.text.div.13.p.1.s.1.w.7;page1269.text.div.13.p.1.s.1.w.8: op en -> open
 [DETECTION WRONG] page1269.text.div.13.p.1.s.1.w.9: dat -> dag
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.13.p.1.s.2.w.6: .

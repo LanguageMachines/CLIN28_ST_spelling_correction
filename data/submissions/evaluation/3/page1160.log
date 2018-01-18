@@ -1166,8 +1166,8 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 [DETECTION WRONG] INSERTION AFTER page1160.text.div.3.p.1.s.3.w.21: geopend
 [DETECTION WRONG] INSERTION AFTER page1160.text.div.5.list.1.item.1.s.1.w.1: is
 [DETECTION WRONG] page1160.text.div.5.list.1.item.1.s.1.w.5: Z -> ?
-[DETECTION WRONG] page1160.text.div.5.list.1.item.1.s.1.w.3: A -> 9
-[DETECTION WRONG] INSERTION AFTER page1160.text.div.5.list.1.item.1.s.1.w.4: 18
+[DETECTION SKIPPED] 9
+[DETECTION SKIPPED] 18
 [DETECTION WRONG] INSERTION AFTER page1160.text.div.5.div.2.head.1.s.1.w.1: en
 [DETECTION WRONG] page1160.text.div.5.div.2.list.1.item.1.s.1.w.1: Netwerk -> Netwerk-
 [DETECTION WRONG] INSERTION AFTER page1160.text.div.5.div.2.list.1.item.2.s.1.w.8: .

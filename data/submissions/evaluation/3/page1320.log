@@ -78,7 +78,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1320.text.div.2.p.1.s.1.w.11;page1320.text.div.2.p.1.s.1.w.12: F-16 's -> F-16's
 [DETECTION WRONG] INSERTION AFTER page1320.text.div.2.p.1.s.3.w.18: Aviation
 [DETECTION WRONG] page1320.text.div.2.p.1.s.3.w.30;page1320.text.div.2.p.1.s.3.w.31: project en -> projecten
-[DETECTION WRONG] page1320.text.div.2.p.1.s.3.w.44: F -> 1
+[DETECTION SKIPPED] 1
 [DETECTION WRONG] page1320.text.div.2.p.1.s.3.w.49: F -> u
 [DETECTION WRONG] page1320.text.div.2.p.1.s.3.w.56: JSF -> FSF
 [DETECTION WRONG] INSERTION AFTER page1320.text.div.2.p.1.s.4.w.4: kennis

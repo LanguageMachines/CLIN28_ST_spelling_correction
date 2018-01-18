@@ -150,7 +150,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 [DETECTION WRONG] page1337.text.div.3.div.1.div.6.list.1.item.2.s.1.w.1;page1337.text.div.3.div.1.div.6.list.1.item.2.s.1.w.3: klank en -> Klanken
 [DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.6.list.1.item.3.s.1.w.3: .
 [DETECTION WRONG] page1337.text.div.3.div.1.div.6.list.1.item.5.s.1.w.1: ervaring -> Ervaring
-[DETECTION WRONG] page1337.text.div.3.div.1.div.6.list.1.item.5.s.2.w.1: a -> 2
+[DETECTION SKIPPED] 2
 [DETECTION WRONG] page1337.text.div.3.div.1.div.6.list.1.item.5.s.3.w.1: boeken -> zoeken
 [DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.3.s.1.w.9: rijkgeïllustreerd -> rijk geïllustreerd
 [DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.4.s.1.w.6;page1337.text.div.3.div.1.div.6.p.4.s.1.w.7: er voor -> ervoor

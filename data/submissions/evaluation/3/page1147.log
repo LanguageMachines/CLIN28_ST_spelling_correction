@@ -148,7 +148,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1147.text.div.5.p.2.s.1.w.6: tweeen -> tweeën
 [DETECTION WRONG] INSERTION AFTER page1147.text.div.5.p.2.s.1.w.15: in
 [DETECTION WRONG] page1147.text.div.5.p.2.s.2.w.9: Dráva -> Drava
-[DETECTION WRONG] INSERTION AFTER page1147.text.div.5.p.2.s.3.w.12: 11
+[DETECTION SKIPPED] 11
 [DETECTION WRONG] page1147.text.div.5.div.1.list.1.item.2.s.1.w.4: Donau -> Danau
 [DETECTION WRONG] page1147.text.div.5.div.1.list.1.item.2.s.1.w.8: Duna -> Dua
 [DETECTION WRONG] page1147.text.div.5.div.1.list.1.item.4.s.1.w.1: hoogste -> Hoogste
@@ -174,5 +174,5 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] INSERTION AFTER page1147.text.div.7.list.1.item.4.s.1.w.4: .
 [DETECTION WRONG] INSERTION AFTER page1147.text.div.7.list.1.item.5.s.1.w.1: deed
 [DETECTION WRONG] page1147.text.div.7.list.1.item.5.s.1.w.5: Z -> ?
-[DETECTION WRONG] page1147.text.div.7.list.1.item.5.s.1.w.3: A -> 9
-[DETECTION WRONG] INSERTION AFTER page1147.text.div.7.list.1.item.5.s.1.w.4: 18
+[DETECTION SKIPPED] 9
+[DETECTION SKIPPED] 18
