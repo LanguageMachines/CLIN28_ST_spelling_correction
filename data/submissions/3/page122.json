@@ -1,0 +1,1546 @@
+{
+    "corrections": [
+        {
+            "class": "replace",
+            "span": [
+                "page122.text.p.1.s.1.w.1"
+            ],
+            "superclass": "replace",
+            "text": "do"
+        },
+        {
+            "after": "page122.text.p.1.s.1.w.1",
+            "class": "missingword",
+            "text": "verdieping"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page122.text.p.1.s.1.w.1"
+            ],
+            "superclass": "replace",
+            "text": "de"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page122.text.list.1.item.1.s.1.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Het"
+        },
+        {
+            "after": "page122.text.list.1.item.1.s.1.w.1",
+            "class": "missingword",
+            "text": "Australisch"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page122.text.list.1.item.2.s.1.w.1"
+            ],
+            "superclass": "replace",
+            "text": "De"
+        },
+        {
+            "after": "page122.text.list.1.item.2.s.1.w.2",
+            "class": "missingword",
+            "text": "liggen"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page122.text.list.1.item.3.s.1.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Eilanden"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page122.text.p.4.s.1.w.5"
+            ],
+            "superclass": "replace",
+            "text": "tanden"
+        },
+        {
+            "class": "spliterror",
+            "confidence": 0.5,
+            "span": [
+                "page122.text.p.4.s.2.w.11",
+                "page122.text.p.4.s.2.w.12"
+            ],
+            "text": "opdelen"
+        },
+        {
+            "after": "page122.text.p.5.s.1.w.2",
+            "class": "missingword",
+            "text": "president"
+        },
+        {
+            "class": "spliterror",
+            "confidence": 1,
+            "span": [
+                "page122.text.p.7.s.3.w.31",
+                "page122.text.p.7.s.3.w.32"
+            ],
+            "text": "erin"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page122.text.p.7.s.4.w.6"
+            ],
+            "superclass": "replace",
+            "text": "in"
+        },
+        {
+            "after": "page122.text.p.7.s.4.w.6",
+            "class": "missingword",
+            "text": "werking"
+        },
+        {
+            "after": "page122.text.p.7.s.4.w.8",
+            "class": "missingword",
+            "text": "is"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page122.text.p.7.s.4.w.15"
+            ],
+            "superclass": "replace",
+            "text": "ministerie"
+        }
+    ],
+    "words": [
+        {
+            "id": "page122.text.p.1.s.1.w.1",
+            "in": "page122.text.p.1.s.1",
+            "space": false,
+            "text": "de"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.2",
+            "in": "page122.text.p.1.s.1",
+            "space": false,
+            "text": ":"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.3",
+            "in": "page122.text.p.1.s.1",
+            "space": false,
+            "text": "Antarktisen"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.4",
+            "in": "page122.text.p.1.s.1",
+            "space": false,
+            "text": ":"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.5",
+            "in": "page122.text.p.1.s.1",
+            "space": false,
+            "text": "Antarcticaeo"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.6",
+            "in": "page122.text.p.1.s.1",
+            "space": false,
+            "text": ":"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.7",
+            "in": "page122.text.p.1.s.1",
+            "space": true,
+            "text": "Antarkto"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.8",
+            "in": "page122.text.p.1.s.1",
+            "space": true,
+            "text": "Antarctica"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.9",
+            "in": "page122.text.p.1.s.1",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.10",
+            "in": "page122.text.p.1.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.11",
+            "in": "page122.text.p.1.s.1",
+            "space": true,
+            "text": "naam"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.12",
+            "in": "page122.text.p.1.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.13",
+            "in": "page122.text.p.1.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.14",
+            "in": "page122.text.p.1.s.1",
+            "space": true,
+            "text": "meest"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.15",
+            "in": "page122.text.p.1.s.1",
+            "space": true,
+            "text": "zuidelijke"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.16",
+            "in": "page122.text.p.1.s.1",
+            "space": true,
+            "text": "continent"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.17",
+            "in": "page122.text.p.1.s.1",
+            "space": true,
+            "text": "ter"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.18",
+            "in": "page122.text.p.1.s.1",
+            "space": false,
+            "text": "wereld"
+        },
+        {
+            "id": "page122.text.p.1.s.1.w.19",
+            "in": "page122.text.p.1.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page122.text.p.1.s.2.w.1",
+            "in": "page122.text.p.1.s.2",
+            "space": true,
+            "text": "Het"
+        },
+        {
+            "id": "page122.text.p.1.s.2.w.2",
+            "in": "page122.text.p.1.s.2",
+            "space": true,
+            "text": "wordt"
+        },
+        {
+            "id": "page122.text.p.1.s.2.w.3",
+            "in": "page122.text.p.1.s.2",
+            "space": true,
+            "text": "omringd"
+        },
+        {
+            "id": "page122.text.p.1.s.2.w.4",
+            "in": "page122.text.p.1.s.2",
+            "space": true,
+            "text": "door"
+        },
+        {
+            "id": "page122.text.p.1.s.2.w.5",
+            "in": "page122.text.p.1.s.2",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page122.text.p.1.s.2.w.6",
+            "in": "page122.text.p.1.s.2",
+            "space": true,
+            "text": "Zuidelijke"
+        },
+        {
+            "id": "page122.text.p.1.s.2.w.7",
+            "in": "page122.text.p.1.s.2",
+            "space": true,
+            "text": "Oceaan"
+        },
+        {
+            "id": "page122.text.p.1.s.2.w.8",
+            "in": "page122.text.p.1.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page122.text.p.2.s.1.w.1",
+            "in": "page122.text.p.2.s.1",
+            "space": true,
+            "text": "Antarctica"
+        },
+        {
+            "id": "page122.text.p.2.s.1.w.2",
+            "in": "page122.text.p.2.s.1",
+            "space": true,
+            "text": "wordt"
+        },
+        {
+            "id": "page122.text.p.2.s.1.w.3",
+            "in": "page122.text.p.2.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page122.text.p.2.s.1.w.4",
+            "in": "page122.text.p.2.s.1",
+            "space": true,
+            "text": "dit"
+        },
+        {
+            "id": "page122.text.p.2.s.1.w.5",
+            "in": "page122.text.p.2.s.1",
+            "space": true,
+            "text": "artikel"
+        },
+        {
+            "id": "page122.text.p.2.s.1.w.6",
+            "in": "page122.text.p.2.s.1",
+            "space": true,
+            "text": "gedefinieerd"
+        },
+        {
+            "id": "page122.text.p.2.s.1.w.7",
+            "in": "page122.text.p.2.s.1",
+            "space": false,
+            "text": "als"
+        },
+        {
+            "id": "page122.text.p.2.s.1.w.8",
+            "in": "page122.text.p.2.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page122.text.list.1.item.1.s.1.w.1",
+            "in": "page122.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page122.text.list.1.item.1.s.1.w.2",
+            "in": "page122.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "Antarctisch"
+        },
+        {
+            "id": "page122.text.list.1.item.1.s.1.w.3",
+            "in": "page122.text.list.1.item.1.s.1",
+            "space": false,
+            "text": "vasteland"
+        },
+        {
+            "id": "page122.text.list.1.item.1.s.1.w.4",
+            "in": "page122.text.list.1.item.1.s.1",
+            "space": true,
+            "text": ";"
+        },
+        {
+            "id": "page122.text.list.1.item.2.s.1.w.1",
+            "in": "page122.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page122.text.list.1.item.2.s.1.w.2",
+            "in": "page122.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "eilanden"
+        },
+        {
+            "id": "page122.text.list.1.item.2.s.1.w.3",
+            "in": "page122.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "op"
+        },
+        {
+            "id": "page122.text.list.1.item.2.s.1.w.4",
+            "in": "page122.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page122.text.list.1.item.2.s.1.w.5",
+            "in": "page122.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "Antarctisch"
+        },
+        {
+            "id": "page122.text.list.1.item.2.s.1.w.6",
+            "in": "page122.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "continentaal"
+        },
+        {
+            "id": "page122.text.list.1.item.2.s.1.w.7",
+            "in": "page122.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "plat"
+        },
+        {
+            "id": "page122.text.list.1.item.2.s.1.w.8",
+            "in": "page122.text.list.1.item.2.s.1",
+            "space": true,
+            "text": ";"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.1",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "eilanden"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.2",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.3",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "niet"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.4",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "op"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.5",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.6",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "Antarctisch"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.7",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "continentaal"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.8",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "plat"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.9",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "liggen"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.10",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "maar"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.11",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "gewoonlijk"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.12",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "beschouwd"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.13",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "worden"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.14",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "als"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.15",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "behorend"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.16",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "tot"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.17",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": false,
+            "text": "Antarctica"
+        },
+        {
+            "id": "page122.text.list.1.item.3.s.1.w.18",
+            "in": "page122.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page122.text.p.3.s.1.w.1",
+            "in": "page122.text.p.3.s.1",
+            "space": true,
+            "text": "http://www.wikipedia.org/upload/7/7e/Antarctica.jpg"
+        },
+        {
+            "id": "page122.text.p.3.s.1.w.2",
+            "in": "page122.text.p.3.s.1",
+            "space": false,
+            "text": "Kaart"
+        },
+        {
+            "id": "page122.text.p.3.s.1.w.3",
+            "in": "page122.text.p.3.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page122.text.p.3.s.1.w.4",
+            "in": "page122.text.p.3.s.1",
+            "space": true,
+            "text": "The"
+        },
+        {
+            "id": "page122.text.p.3.s.1.w.5",
+            "in": "page122.text.p.3.s.1",
+            "space": true,
+            "text": "World"
+        },
+        {
+            "id": "page122.text.p.3.s.1.w.6",
+            "in": "page122.text.p.3.s.1",
+            "space": true,
+            "text": "Factbook"
+        },
+        {
+            "id": "page122.text.p.3.s.1.w.7",
+            "in": "page122.text.p.3.s.1",
+            "space": true,
+            "text": "CIA"
+        },
+        {
+            "id": "page122.text.p.4.s.1.w.1",
+            "in": "page122.text.p.4.s.1",
+            "space": true,
+            "text": "In"
+        },
+        {
+            "id": "page122.text.p.4.s.1.w.2",
+            "in": "page122.text.p.4.s.1",
+            "space": true,
+            "text": "Antarctica"
+        },
+        {
+            "id": "page122.text.p.4.s.1.w.3",
+            "in": "page122.text.p.4.s.1",
+            "space": true,
+            "text": "liggen"
+        },
+        {
+            "id": "page122.text.p.4.s.1.w.4",
+            "in": "page122.text.p.4.s.1",
+            "space": true,
+            "text": "geen"
+        },
+        {
+            "id": "page122.text.p.4.s.1.w.5",
+            "in": "page122.text.p.4.s.1",
+            "space": true,
+            "text": "landen"
+        },
+        {
+            "id": "page122.text.p.4.s.1.w.6",
+            "in": "page122.text.p.4.s.1",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page122.text.p.4.s.1.w.7",
+            "in": "page122.text.p.4.s.1",
+            "space": true,
+            "text": "Antarctica"
+        },
+        {
+            "id": "page122.text.p.4.s.1.w.8",
+            "in": "page122.text.p.4.s.1",
+            "space": true,
+            "text": "behoort"
+        },
+        {
+            "id": "page122.text.p.4.s.1.w.9",
+            "in": "page122.text.p.4.s.1",
+            "space": true,
+            "text": "tot"
+        },
+        {
+            "id": "page122.text.p.4.s.1.w.10",
+            "in": "page122.text.p.4.s.1",
+            "space": true,
+            "text": "geen"
+        },
+        {
+            "id": "page122.text.p.4.s.1.w.11",
+            "in": "page122.text.p.4.s.1",
+            "space": true,
+            "text": "enkel"
+        },
+        {
+            "id": "page122.text.p.4.s.1.w.12",
+            "in": "page122.text.p.4.s.1",
+            "space": false,
+            "text": "land"
+        },
+        {
+            "id": "page122.text.p.4.s.1.w.13",
+            "in": "page122.text.p.4.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.1",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "Toch"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.2",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "zijn"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.3",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "er"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.4",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.5",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "aantal"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.6",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "landen"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.7",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.8",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "territoriale"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.9",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "aanspraken"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.10",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "maken"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.11",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "op"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.12",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "delen"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.13",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.14",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.15",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "continent"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.16",
+            "in": "page122.text.p.4.s.2",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.17",
+            "in": "page122.text.p.4.s.2",
+            "space": false,
+            "text": "alfabetisch"
+        },
+        {
+            "id": "page122.text.p.4.s.2.w.18",
+            "in": "page122.text.p.4.s.2",
+            "space": true,
+            "text": "):"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.1",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": "De"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.2",
+            "in": "page122.text.p.5.s.1",
+            "space": false,
+            "text": "Argentijnse"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.3",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.4",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": "Chileense"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.5",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.6",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": "Britse"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.7",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": "claims"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.8",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": "overlappen"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.9",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": "elkaar"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.10",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.11",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.12",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": "gebied"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.13",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.14",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.15",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": "Antarctisch"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.16",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": "schiereiland"
+        },
+        {
+            "id": "page122.text.p.5.s.1.w.17",
+            "in": "page122.text.p.5.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page122.text.p.6.s.1.w.1",
+            "in": "page122.text.p.6.s.1",
+            "space": true,
+            "text": "Andere"
+        },
+        {
+            "id": "page122.text.p.6.s.1.w.2",
+            "in": "page122.text.p.6.s.1",
+            "space": false,
+            "text": "continenten"
+        },
+        {
+            "id": "page122.text.p.6.s.1.w.3",
+            "in": "page122.text.p.6.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.1",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "Beheer"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.2",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.3",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "Antarctica"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.4",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "Sommige"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.5",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "landen"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.6",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "menen"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.7",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "speciale"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.8",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "rechten"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.9",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "te"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.10",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "hebben"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.11",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "op"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.12",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.13",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "deel"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.14",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.15",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "dit"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.16",
+            "in": "page122.text.p.7.s.1",
+            "space": false,
+            "text": "gebied"
+        },
+        {
+            "id": "page122.text.p.7.s.1.w.17",
+            "in": "page122.text.p.7.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.1",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "Anderen"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.2",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "beschouwen"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.3",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "Antarctica"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.4",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "als"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.5",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "gemeenschappelijk"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.6",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "erfgoed"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.7",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.8",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.9",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "mensheid"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.10",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "("
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.11",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "Common"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.12",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "Heritage"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.13",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.14",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "of"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.15",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "gewoon"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.16",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "als"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.17",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.18",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "natuurgebied"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.19",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.20",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "met"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.21",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "rust"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.22",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "moet"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.23",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "worden"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.24",
+            "in": "page122.text.p.7.s.2",
+            "space": false,
+            "text": "gelaten"
+        },
+        {
+            "id": "page122.text.p.7.s.2.w.25",
+            "in": "page122.text.p.7.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.1",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "De"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.2",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "territoriale"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.3",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "aanspraken"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.4",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.5",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "sommige"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.6",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "landen"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.7",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "maken"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.8",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "worden"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.9",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "dan"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.10",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "ook"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.11",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "niet"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.12",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "erkend"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.13",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "door"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.15",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "ondermeer"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.17",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.18",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "Verenigde"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.19",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "Naties"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.20",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.21",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "Nederland"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.22",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.23",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.24",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "VS."
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.25",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "Ondanks"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.26",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "dit"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.27",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "verschil"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.28",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.29",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "inzicht"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.30",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.31",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "er"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.32",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.33",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.34",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "1959"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.35",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.36",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "Verdrag"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.37",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "inzake"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.38",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "Antarctica"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.39",
+            "in": "page122.text.p.7.s.3",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.40",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "Antarctic"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.41",
+            "in": "page122.text.p.7.s.3",
+            "space": false,
+            "text": "Treaty"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.42",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.43",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "gesloten"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.44",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "door"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.45",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.46",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "meest"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.47",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "betrokken"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.48",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "landen"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.49",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "over"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.50",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.51",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "gebruik"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.52",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.53",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.54",
+            "in": "page122.text.p.7.s.3",
+            "space": false,
+            "text": "gebied"
+        },
+        {
+            "id": "page122.text.p.7.s.3.w.55",
+            "in": "page122.text.p.7.s.3",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.1",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "Meer"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.2",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "informatie"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.3",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "over"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.4",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.5",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "verdrag"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.6",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.7",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "te"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.8",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "vinden"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.9",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "op"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.10",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.11",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "webpagina"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.12",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.13",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.14",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "Nederlandse"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.15",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "Ministerie"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.16",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.17",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "Buitenlandse"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.18",
+            "in": "page122.text.p.7.s.4",
+            "space": false,
+            "text": "Zaken"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.19",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page122.text.p.7.s.4.w.20",
+            "in": "page122.text.p.7.s.4",
+            "space": true,
+            "text": "http://www.minbuza.nl/SubSites/milieu/c_antarc.htm"
+        }
+    ]
+}

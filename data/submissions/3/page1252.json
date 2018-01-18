@@ -1,0 +1,795 @@
+{
+    "corrections": [
+        {
+            "class": "spliterror",
+            "confidence": 0.5,
+            "span": [
+                "page1252.text.p.3.s.1.w.7",
+                "page1252.text.p.3.s.1.w.8"
+            ],
+            "text": "achtergestelden"
+        },
+        {
+            "after": "page1252.text.p.3.s.1.w.7",
+            "class": "missingword",
+            "text": "voelen"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1252.text.p.3.s.2.w.22"
+            ],
+            "superclass": "replace",
+            "text": "dulden"
+        },
+        {
+            "after": "page1252.text.p.4.s.1.w.12",
+            "class": "missingword",
+            "text": "orthodoxe"
+        }
+    ],
+    "words": [
+        {
+            "id": "page1252.text.p.1.s.1.w.1",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "Isa\u00e4k"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.2",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "I"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.3",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "Komnenos"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.4",
+            "in": "page1252.text.p.1.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.5",
+            "in": "page1252.text.p.1.s.1",
+            "space": false,
+            "text": "Grieks"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.6",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.7",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "\u0399\u03c3\u03b1\u03ac\u03ba\u03b9\u03bf\u03c2"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.8",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "\u0391\u0384"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.9",
+            "in": "page1252.text.p.1.s.1",
+            "space": false,
+            "text": "\u039a\u03bf\u03bc\u03bd\u03b7\u03bd\u03cc\u03c2"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.10",
+            "in": "page1252.text.p.1.s.1",
+            "space": false,
+            "text": "/"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.11",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "Isaakios"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.12",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "I"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.13",
+            "in": "page1252.text.p.1.s.1",
+            "space": false,
+            "text": "Komn\u0113nos"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.14",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.15",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "was"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.16",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "keizer"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.17",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.18",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "Byzantium"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.19",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.20",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "1057"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.21",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "-"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.22",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "1059"
+        },
+        {
+            "id": "page1252.text.p.1.s.1.w.23",
+            "in": "page1252.text.p.1.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1252.text.p.1.s.2.w.1",
+            "in": "page1252.text.p.1.s.2",
+            "space": true,
+            "text": "Isa\u00e4k"
+        },
+        {
+            "id": "page1252.text.p.1.s.2.w.2",
+            "in": "page1252.text.p.1.s.2",
+            "space": true,
+            "text": "was"
+        },
+        {
+            "id": "page1252.text.p.1.s.2.w.3",
+            "in": "page1252.text.p.1.s.2",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1252.text.p.1.s.2.w.4",
+            "in": "page1252.text.p.1.s.2",
+            "space": true,
+            "text": "eerste"
+        },
+        {
+            "id": "page1252.text.p.1.s.2.w.5",
+            "in": "page1252.text.p.1.s.2",
+            "space": true,
+            "text": "telg"
+        },
+        {
+            "id": "page1252.text.p.1.s.2.w.6",
+            "in": "page1252.text.p.1.s.2",
+            "space": true,
+            "text": "uit"
+        },
+        {
+            "id": "page1252.text.p.1.s.2.w.7",
+            "in": "page1252.text.p.1.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1252.text.p.1.s.2.w.8",
+            "in": "page1252.text.p.1.s.2",
+            "space": true,
+            "text": "Komnenengeslacht"
+        },
+        {
+            "id": "page1252.text.p.1.s.2.w.9",
+            "in": "page1252.text.p.1.s.2",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1252.text.p.1.s.2.w.10",
+            "in": "page1252.text.p.1.s.2",
+            "space": true,
+            "text": "keizer"
+        },
+        {
+            "id": "page1252.text.p.1.s.2.w.11",
+            "in": "page1252.text.p.1.s.2",
+            "space": false,
+            "text": "werd"
+        },
+        {
+            "id": "page1252.text.p.1.s.2.w.12",
+            "in": "page1252.text.p.1.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.1",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "Zijn"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.2",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "voorganger"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.3",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "Michael"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.4",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "VI"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.5",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "was"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.6",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.7",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "miserabele"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.8",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "keizer"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.9",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.10",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "aan"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.11",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "alle"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.12",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "eisen"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.13",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.14",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.15",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "verwende"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.16",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "hofhouding"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.17",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "probeerde"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.18",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "te"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.19",
+            "in": "page1252.text.p.2.s.1",
+            "space": false,
+            "text": "voldoen"
+        },
+        {
+            "id": "page1252.text.p.2.s.1.w.20",
+            "in": "page1252.text.p.2.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1252.text.p.3.s.1.w.1",
+            "in": "page1252.text.p.3.s.1",
+            "space": true,
+            "text": "Isa\u00e4k"
+        },
+        {
+            "id": "page1252.text.p.3.s.1.w.2",
+            "in": "page1252.text.p.3.s.1",
+            "space": true,
+            "text": "vertegenwoordigde"
+        },
+        {
+            "id": "page1252.text.p.3.s.1.w.3",
+            "in": "page1252.text.p.3.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1252.text.p.3.s.1.w.4",
+            "in": "page1252.text.p.3.s.1",
+            "space": true,
+            "text": "legerleiding"
+        },
+        {
+            "id": "page1252.text.p.3.s.1.w.5",
+            "in": "page1252.text.p.3.s.1",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1252.text.p.3.s.1.w.6",
+            "in": "page1252.text.p.3.s.1",
+            "space": true,
+            "text": "zich"
+        },
+        {
+            "id": "page1252.text.p.3.s.1.w.7",
+            "in": "page1252.text.p.3.s.1",
+            "space": true,
+            "text": "achtergesteld"
+        },
+        {
+            "id": "page1252.text.p.3.s.1.w.8",
+            "in": "page1252.text.p.3.s.1",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1252.text.p.3.s.1.w.9",
+            "in": "page1252.text.p.3.s.1",
+            "space": true,
+            "text": "miskend"
+        },
+        {
+            "id": "page1252.text.p.3.s.1.w.10",
+            "in": "page1252.text.p.3.s.1",
+            "space": false,
+            "text": "voelde"
+        },
+        {
+            "id": "page1252.text.p.3.s.1.w.11",
+            "in": "page1252.text.p.3.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.1",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "Hij"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.2",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "kwam"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.3",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "al"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.4",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "snel"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.5",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.6",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "conflict"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.7",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "met"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.8",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.9",
+            "in": "page1252.text.p.3.s.2",
+            "space": false,
+            "text": "Patriarch"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.10",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.11",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.12",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "geen"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.13",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "enkele"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.14",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "inmenging"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.15",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.16",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "kerkzaken"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.17",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.18",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "enige"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.19",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "keizer"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.20",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "meer"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.22",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "dulde"
+        },
+        {
+            "id": "page1252.text.p.3.s.2.w.24",
+            "in": "page1252.text.p.3.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1252.text.p.3.s.3.w.1",
+            "in": "page1252.text.p.3.s.3",
+            "space": true,
+            "text": "Uiteindelijk"
+        },
+        {
+            "id": "page1252.text.p.3.s.3.w.2",
+            "in": "page1252.text.p.3.s.3",
+            "space": true,
+            "text": "wist"
+        },
+        {
+            "id": "page1252.text.p.3.s.3.w.3",
+            "in": "page1252.text.p.3.s.3",
+            "space": true,
+            "text": "Psellus"
+        },
+        {
+            "id": "page1252.text.p.3.s.3.w.4",
+            "in": "page1252.text.p.3.s.3",
+            "space": true,
+            "text": "hem"
+        },
+        {
+            "id": "page1252.text.p.3.s.3.w.5",
+            "in": "page1252.text.p.3.s.3",
+            "space": true,
+            "text": "ervan"
+        },
+        {
+            "id": "page1252.text.p.3.s.3.w.6",
+            "in": "page1252.text.p.3.s.3",
+            "space": true,
+            "text": "te"
+        },
+        {
+            "id": "page1252.text.p.3.s.3.w.7",
+            "in": "page1252.text.p.3.s.3",
+            "space": true,
+            "text": "overtuigen"
+        },
+        {
+            "id": "page1252.text.p.3.s.3.w.8",
+            "in": "page1252.text.p.3.s.3",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1252.text.p.3.s.3.w.9",
+            "in": "page1252.text.p.3.s.3",
+            "space": true,
+            "text": "hij"
+        },
+        {
+            "id": "page1252.text.p.3.s.3.w.10",
+            "in": "page1252.text.p.3.s.3",
+            "space": true,
+            "text": "beter"
+        },
+        {
+            "id": "page1252.text.p.3.s.3.w.11",
+            "in": "page1252.text.p.3.s.3",
+            "space": true,
+            "text": "kon"
+        },
+        {
+            "id": "page1252.text.p.3.s.3.w.12",
+            "in": "page1252.text.p.3.s.3",
+            "space": false,
+            "text": "aftreden"
+        },
+        {
+            "id": "page1252.text.p.3.s.3.w.13",
+            "in": "page1252.text.p.3.s.3",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1252.text.p.3.s.4.w.1",
+            "in": "page1252.text.p.3.s.4",
+            "space": true,
+            "text": "Hij"
+        },
+        {
+            "id": "page1252.text.p.3.s.4.w.2",
+            "in": "page1252.text.p.3.s.4",
+            "space": true,
+            "text": "verdween"
+        },
+        {
+            "id": "page1252.text.p.3.s.4.w.3",
+            "in": "page1252.text.p.3.s.4",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1252.text.p.3.s.4.w.4",
+            "in": "page1252.text.p.3.s.4",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1252.text.p.3.s.4.w.5",
+            "in": "page1252.text.p.3.s.4",
+            "space": false,
+            "text": "klooster"
+        },
+        {
+            "id": "page1252.text.p.3.s.4.w.6",
+            "in": "page1252.text.p.3.s.4",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.1",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "Na"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.2",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "hem"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.3",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "zette"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.4",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.5",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "burgerlijke"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.6",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "partij"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.7",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.8",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "Psellus"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.9",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.10",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "samenwerking"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.11",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "met"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.12",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.13",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "kerk"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.14",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "Constantijn"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.15",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "X"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.16",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "Doukas"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.17",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "op"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.18",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.19",
+            "in": "page1252.text.p.4.s.1",
+            "space": false,
+            "text": "troon"
+        },
+        {
+            "id": "page1252.text.p.4.s.1.w.20",
+            "in": "page1252.text.p.4.s.1",
+            "space": true,
+            "text": "."
+        }
+    ]
+}

@@ -1,0 +1,1150 @@
+{
+    "corrections": [
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1351.text.list.1.item.1.s.1.w.2"
+            ],
+            "superclass": "replace",
+            "text": "Krijt"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1351.text.list.1.item.1.s.1.w.25"
+            ],
+            "superclass": "replace",
+            "text": "krijt"
+        },
+        {
+            "class": "nonworderror",
+            "span": [
+                "page1351.text.list.1.item.2.s.1.w.11"
+            ],
+            "superclass": "replace",
+            "text": "COCO"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1351.text.list.1.item.5.s.1.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Krijt"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1351.text.list.1.item.7.s.1.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Krijt"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1351.text.list.1.item.8.s.1.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Een"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1351.text.list.1.item.9.s.1.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Synoniem"
+        },
+        {
+            "class": "nonworderror",
+            "span": [
+                "page1351.text.list.1.item.9.s.1.w.10"
+            ],
+            "superclass": "replace",
+            "text": "krijt"
+        }
+    ],
+    "words": [
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.2",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "krijt"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.4",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.5",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": false,
+            "text": "periode"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.6",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.7",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.8",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.9",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "geologisch"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.10",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "tijdvak"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.11",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.12",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "ongeveer"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.13",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "135"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.14",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "tot"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.15",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "65"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.16",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "miljoen"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.17",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "jaar"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.18",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": false,
+            "text": "geleden"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.19",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.20",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "gebieden"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.21",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "waar"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.22",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "grondlagen"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.23",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "uit"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.24",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.25",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "Krijt"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.26",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "aan"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.27",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.28",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "oppervlakte"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.29",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "liggen"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.30",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "worden"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.31",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "wel"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.32",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "Krijtgebied"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.33",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": false,
+            "text": "genoemd"
+        },
+        {
+            "id": "page1351.text.list.1.item.1.s.1.w.34",
+            "in": "page1351.text.list.1.item.1.s.1",
+            "space": true,
+            "text": ";"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.1",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "krijtgesteente"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.2",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.3",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.4",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "vast"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.5",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "materiaal"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.6",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.7",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "voornamelijk"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.8",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "uit"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.9",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "calciumcarbonaat"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.10",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.11",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": false,
+            "text": "CaCO"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.12",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": false,
+            "text": ":"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.13",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": false,
+            "text": "sub"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.14",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.15",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "3"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.16",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.17",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": false,
+            "text": "bestaat"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.1.w.18",
+            "in": "page1351.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.2.w.1",
+            "in": "page1351.text.list.1.item.2.s.2",
+            "space": true,
+            "text": "Het"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.2.w.2",
+            "in": "page1351.text.list.1.item.2.s.2",
+            "space": true,
+            "text": "vormt"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.2.w.3",
+            "in": "page1351.text.list.1.item.2.s.2",
+            "space": true,
+            "text": "aardlagen"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.2.w.4",
+            "in": "page1351.text.list.1.item.2.s.2",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.2.w.5",
+            "in": "page1351.text.list.1.item.2.s.2",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.2.w.6",
+            "in": "page1351.text.list.1.item.2.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.2.w.7",
+            "in": "page1351.text.list.1.item.2.s.2",
+            "space": true,
+            "text": "Krijt"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.2.w.8",
+            "in": "page1351.text.list.1.item.2.s.2",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.2.w.9",
+            "in": "page1351.text.list.1.item.2.s.2",
+            "space": true,
+            "text": "zie"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.2.w.10",
+            "in": "page1351.text.list.1.item.2.s.2",
+            "space": false,
+            "text": "boven"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.2.w.11",
+            "in": "page1351.text.list.1.item.2.s.2",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.2.w.12",
+            "in": "page1351.text.list.1.item.2.s.2",
+            "space": true,
+            "text": "zijn"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.2.w.13",
+            "in": "page1351.text.list.1.item.2.s.2",
+            "space": false,
+            "text": "ontstaan"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.2.w.14",
+            "in": "page1351.text.list.1.item.2.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.3.w.1",
+            "in": "page1351.text.list.1.item.2.s.3",
+            "space": true,
+            "text": "Het"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.3.w.2",
+            "in": "page1351.text.list.1.item.2.s.3",
+            "space": true,
+            "text": "woord"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.3.w.3",
+            "in": "page1351.text.list.1.item.2.s.3",
+            "space": true,
+            "text": "krijt"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.3.w.4",
+            "in": "page1351.text.list.1.item.2.s.3",
+            "space": true,
+            "text": "komt"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.3.w.5",
+            "in": "page1351.text.list.1.item.2.s.3",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.3.w.6",
+            "in": "page1351.text.list.1.item.2.s.3",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.3.w.7",
+            "in": "page1351.text.list.1.item.2.s.3",
+            "space": true,
+            "text": "eiland"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.3.w.8",
+            "in": "page1351.text.list.1.item.2.s.3",
+            "space": true,
+            "text": "Kreta"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.3.w.9",
+            "in": "page1351.text.list.1.item.2.s.3",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.3.w.10",
+            "in": "page1351.text.list.1.item.2.s.3",
+            "space": true,
+            "text": "voornamelijk"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.3.w.11",
+            "in": "page1351.text.list.1.item.2.s.3",
+            "space": true,
+            "text": "uit"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.3.w.12",
+            "in": "page1351.text.list.1.item.2.s.3",
+            "space": true,
+            "text": "krijtrotsen"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.3.w.13",
+            "in": "page1351.text.list.1.item.2.s.3",
+            "space": false,
+            "text": "bestaat"
+        },
+        {
+            "id": "page1351.text.list.1.item.2.s.3.w.14",
+            "in": "page1351.text.list.1.item.2.s.3",
+            "space": true,
+            "text": ";"
+        },
+        {
+            "id": "page1351.text.list.1.item.3.s.1.w.1",
+            "in": "page1351.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "Limburgs"
+        },
+        {
+            "id": "page1351.text.list.1.item.3.s.1.w.2",
+            "in": "page1351.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "Krijt"
+        },
+        {
+            "id": "page1351.text.list.1.item.3.s.1.w.3",
+            "in": "page1351.text.list.1.item.3.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1351.text.list.1.item.3.s.1.w.4",
+            "in": "page1351.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1351.text.list.1.item.3.s.1.w.5",
+            "in": "page1351.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "krijtgesteente"
+        },
+        {
+            "id": "page1351.text.list.1.item.3.s.1.w.6",
+            "in": "page1351.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1351.text.list.1.item.3.s.1.w.7",
+            "in": "page1351.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1351.text.list.1.item.3.s.1.w.8",
+            "in": "page1351.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "Limburg"
+        },
+        {
+            "id": "page1351.text.list.1.item.3.s.1.w.9",
+            "in": "page1351.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "aan"
+        },
+        {
+            "id": "page1351.text.list.1.item.3.s.1.w.10",
+            "in": "page1351.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1351.text.list.1.item.3.s.1.w.11",
+            "in": "page1351.text.list.1.item.3.s.1",
+            "space": true,
+            "text": "oppervlak"
+        },
+        {
+            "id": "page1351.text.list.1.item.3.s.1.w.12",
+            "in": "page1351.text.list.1.item.3.s.1",
+            "space": false,
+            "text": "ligt"
+        },
+        {
+            "id": "page1351.text.list.1.item.3.s.1.w.13",
+            "in": "page1351.text.list.1.item.3.s.1",
+            "space": true,
+            "text": ";"
+        },
+        {
+            "id": "page1351.text.list.1.item.4.s.1.w.1",
+            "in": "page1351.text.list.1.item.4.s.1",
+            "space": true,
+            "text": "krijtje"
+        },
+        {
+            "id": "page1351.text.list.1.item.4.s.1.w.2",
+            "in": "page1351.text.list.1.item.4.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1351.text.list.1.item.4.s.1.w.3",
+            "in": "page1351.text.list.1.item.4.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1351.text.list.1.item.4.s.1.w.4",
+            "in": "page1351.text.list.1.item.4.s.1",
+            "space": true,
+            "text": "voorwerp"
+        },
+        {
+            "id": "page1351.text.list.1.item.4.s.1.w.5",
+            "in": "page1351.text.list.1.item.4.s.1",
+            "space": true,
+            "text": "gebruikt"
+        },
+        {
+            "id": "page1351.text.list.1.item.4.s.1.w.6",
+            "in": "page1351.text.list.1.item.4.s.1",
+            "space": true,
+            "text": "om"
+        },
+        {
+            "id": "page1351.text.list.1.item.4.s.1.w.7",
+            "in": "page1351.text.list.1.item.4.s.1",
+            "space": true,
+            "text": "op"
+        },
+        {
+            "id": "page1351.text.list.1.item.4.s.1.w.8",
+            "in": "page1351.text.list.1.item.4.s.1",
+            "space": true,
+            "text": "schoolborden"
+        },
+        {
+            "id": "page1351.text.list.1.item.4.s.1.w.9",
+            "in": "page1351.text.list.1.item.4.s.1",
+            "space": true,
+            "text": "te"
+        },
+        {
+            "id": "page1351.text.list.1.item.4.s.1.w.10",
+            "in": "page1351.text.list.1.item.4.s.1",
+            "space": false,
+            "text": "schrijven"
+        },
+        {
+            "id": "page1351.text.list.1.item.4.s.1.w.11",
+            "in": "page1351.text.list.1.item.4.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.1",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": true,
+            "text": "krijt"
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.2",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.3",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": true,
+            "text": "grafisch"
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.4",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": false,
+            "text": "materiaal"
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.5",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.6",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.7",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.8",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": true,
+            "text": "krijtje"
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.9",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.10",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": true,
+            "text": "voornamelijk"
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.11",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": true,
+            "text": "uit"
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.12",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": true,
+            "text": "gips"
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.13",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.14",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": false,
+            "text": "calciumsulfaat"
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.15",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.16",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": false,
+            "text": "bestaat"
+        },
+        {
+            "id": "page1351.text.list.1.item.5.s.1.w.17",
+            "in": "page1351.text.list.1.item.5.s.1",
+            "space": true,
+            "text": ";"
+        },
+        {
+            "id": "page1351.text.list.1.item.6.s.1.w.1",
+            "in": "page1351.text.list.1.item.6.s.1",
+            "space": true,
+            "text": "waskrijt"
+        },
+        {
+            "id": "page1351.text.list.1.item.6.s.1.w.2",
+            "in": "page1351.text.list.1.item.6.s.1",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1351.text.list.1.item.6.s.1.w.3",
+            "in": "page1351.text.list.1.item.6.s.1",
+            "space": true,
+            "text": "vetkrijt"
+        },
+        {
+            "id": "page1351.text.list.1.item.6.s.1.w.4",
+            "in": "page1351.text.list.1.item.6.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1351.text.list.1.item.6.s.1.w.5",
+            "in": "page1351.text.list.1.item.6.s.1",
+            "space": true,
+            "text": "uit"
+        },
+        {
+            "id": "page1351.text.list.1.item.6.s.1.w.6",
+            "in": "page1351.text.list.1.item.6.s.1",
+            "space": true,
+            "text": "talg"
+        },
+        {
+            "id": "page1351.text.list.1.item.6.s.1.w.7",
+            "in": "page1351.text.list.1.item.6.s.1",
+            "space": true,
+            "text": "of"
+        },
+        {
+            "id": "page1351.text.list.1.item.6.s.1.w.8",
+            "in": "page1351.text.list.1.item.6.s.1",
+            "space": true,
+            "text": "was"
+        },
+        {
+            "id": "page1351.text.list.1.item.6.s.1.w.9",
+            "in": "page1351.text.list.1.item.6.s.1",
+            "space": true,
+            "text": "vervaardigde"
+        },
+        {
+            "id": "page1351.text.list.1.item.6.s.1.w.10",
+            "in": "page1351.text.list.1.item.6.s.1",
+            "space": false,
+            "text": "schrijfmiddelen"
+        },
+        {
+            "id": "page1351.text.list.1.item.6.s.1.w.11",
+            "in": "page1351.text.list.1.item.6.s.1",
+            "space": true,
+            "text": ";"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.1",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "krijt"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.2",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.3",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": false,
+            "text": "biljart"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.4",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.5",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.6",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.7",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "voorwerp"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.8",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.9",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "wordt"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.10",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "gebruikt"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.11",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.12",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.13",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "biljartsport"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.14",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "om"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.15",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.16",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "top"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.17",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.18",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.19",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "keu"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.20",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "minder"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.21",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "glad"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.22",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "te"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.23",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": false,
+            "text": "maken"
+        },
+        {
+            "id": "page1351.text.list.1.item.7.s.1.w.24",
+            "in": "page1351.text.list.1.item.7.s.1",
+            "space": true,
+            "text": ";"
+        },
+        {
+            "id": "page1351.text.list.1.item.8.s.1.w.1",
+            "in": "page1351.text.list.1.item.8.s.1",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1351.text.list.1.item.8.s.1.w.2",
+            "in": "page1351.text.list.1.item.8.s.1",
+            "space": true,
+            "text": "bedrag"
+        },
+        {
+            "id": "page1351.text.list.1.item.8.s.1.w.3",
+            "in": "page1351.text.list.1.item.8.s.1",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1351.text.list.1.item.8.s.1.w.4",
+            "in": "page1351.text.list.1.item.8.s.1",
+            "space": true,
+            "text": "men"
+        },
+        {
+            "id": "page1351.text.list.1.item.8.s.1.w.5",
+            "in": "page1351.text.list.1.item.8.s.1",
+            "space": true,
+            "text": "nog"
+        },
+        {
+            "id": "page1351.text.list.1.item.8.s.1.w.6",
+            "in": "page1351.text.list.1.item.8.s.1",
+            "space": true,
+            "text": "schuldig"
+        },
+        {
+            "id": "page1351.text.list.1.item.8.s.1.w.7",
+            "in": "page1351.text.list.1.item.8.s.1",
+            "space": false,
+            "text": "is"
+        },
+        {
+            "id": "page1351.text.list.1.item.8.s.1.w.8",
+            "in": "page1351.text.list.1.item.8.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1351.text.list.1.item.8.s.1.w.9",
+            "in": "page1351.text.list.1.item.8.s.1",
+            "space": false,
+            "text": "\""
+        },
+        {
+            "id": "page1351.text.list.1.item.8.s.1.w.10",
+            "in": "page1351.text.list.1.item.8.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1351.text.list.1.item.8.s.1.w.11",
+            "in": "page1351.text.list.1.item.8.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1351.text.list.1.item.8.s.1.w.12",
+            "in": "page1351.text.list.1.item.8.s.1",
+            "space": true,
+            "text": "krijt"
+        },
+        {
+            "id": "page1351.text.list.1.item.8.s.1.w.13",
+            "in": "page1351.text.list.1.item.8.s.1",
+            "space": false,
+            "text": "staan"
+        },
+        {
+            "id": "page1351.text.list.1.item.8.s.1.w.14",
+            "in": "page1351.text.list.1.item.8.s.1",
+            "space": false,
+            "text": "\""
+        },
+        {
+            "id": "page1351.text.list.1.item.8.s.1.w.15",
+            "in": "page1351.text.list.1.item.8.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1351.text.list.1.item.9.s.1.w.1",
+            "in": "page1351.text.list.1.item.9.s.1",
+            "space": true,
+            "text": "synoniem"
+        },
+        {
+            "id": "page1351.text.list.1.item.9.s.1.w.2",
+            "in": "page1351.text.list.1.item.9.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1351.text.list.1.item.9.s.1.w.3",
+            "in": "page1351.text.list.1.item.9.s.1",
+            "space": false,
+            "text": "\""
+        },
+        {
+            "id": "page1351.text.list.1.item.9.s.1.w.4",
+            "in": "page1351.text.list.1.item.9.s.1",
+            "space": false,
+            "text": "strijdperk"
+        },
+        {
+            "id": "page1351.text.list.1.item.9.s.1.w.5",
+            "in": "page1351.text.list.1.item.9.s.1",
+            "space": false,
+            "text": "\""
+        },
+        {
+            "id": "page1351.text.list.1.item.9.s.1.w.6",
+            "in": "page1351.text.list.1.item.9.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1351.text.list.1.item.9.s.1.w.7",
+            "in": "page1351.text.list.1.item.9.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1351.text.list.1.item.9.s.1.w.8",
+            "in": "page1351.text.list.1.item.9.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1351.text.list.1.item.9.s.1.w.10",
+            "in": "page1351.text.list.1.item.9.s.1",
+            "space": true,
+            "text": "krijd"
+        },
+        {
+            "id": "page1351.text.list.1.item.9.s.1.w.12",
+            "in": "page1351.text.list.1.item.9.s.1",
+            "space": false,
+            "text": "treden"
+        },
+        {
+            "id": "page1351.text.list.1.item.9.s.1.w.13",
+            "in": "page1351.text.list.1.item.9.s.1",
+            "space": true,
+            "text": "."
+        }
+    ]
+}

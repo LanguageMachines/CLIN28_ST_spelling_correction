@@ -1,0 +1,3141 @@
+{
+    "corrections": [
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1239.text.p.1.s.1.w.2"
+            ],
+            "superclass": "replace",
+            "text": "Indo-europese"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.p.1.s.1.w.12"
+            ],
+            "superclass": "replace",
+            "text": "talent"
+        },
+        {
+            "after": "page1239.text.p.1.s.1.w.12",
+            "class": "missingword",
+            "text": "gaan"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.p.1.s.1.w.12"
+            ],
+            "superclass": "replace",
+            "text": "talen"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.p.2.s.1.w.6"
+            ],
+            "superclass": "replace",
+            "text": "malen"
+        },
+        {
+            "after": "page1239.text.p.2.s.2.w.12",
+            "class": "missingword",
+            "text": "ook"
+        },
+        {
+            "after": "page1239.text.p.2.s.3.w.22",
+            "class": "missingword",
+            "text": "gaat"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1239.text.p.3.s.1.w.8"
+            ],
+            "superclass": "replace",
+            "text": "Indo-Europese"
+        },
+        {
+            "class": "redundantpunctuation",
+            "span": [
+                "page1239.text.p.3.s.1.w.17"
+            ],
+            "superclass": "replace",
+            "text": "satemtalen"
+        },
+        {
+            "after": "page1239.text.p.3.s.1.w.22",
+            "class": "missingword",
+            "text": "Griekse"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.p.3.s.1.w.30"
+            ],
+            "superclass": "replace",
+            "text": "centrum"
+        },
+        {
+            "after": "page1239.text.p.3.s.2.w.8",
+            "class": "missingword",
+            "text": "meest"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1239.text.p.4.s.1.w.4"
+            ],
+            "superclass": "replace",
+            "text": "Proto-Indo-Europees"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1239.text.p.4.s.1.w.13"
+            ],
+            "superclass": "replace",
+            "text": "Indo-Europese"
+        },
+        {
+            "class": "redundantpunctuation",
+            "span": [
+                "page1239.text.p.4.s.1.w.29"
+            ],
+            "superclass": "replace",
+            "text": "kentumtalen"
+        },
+        {
+            "class": "redundantpunctuation",
+            "span": [
+                "page1239.text.p.4.s.1.w.32"
+            ],
+            "superclass": "replace",
+            "text": "satemtalen"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.list.1.item.1.s.1.w.6"
+            ],
+            "superclass": "replace",
+            "text": "."
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.list.1.item.2.s.1.w.2"
+            ],
+            "superclass": "replace",
+            "text": "."
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.list.1.item.3.p.1.s.1.w.3"
+            ],
+            "superclass": "replace",
+            "text": "."
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.list.1.item.4.s.1.w.5"
+            ],
+            "superclass": "replace",
+            "text": "."
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.list.1.item.5.s.1.w.3"
+            ],
+            "superclass": "replace",
+            "text": "."
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.list.1.item.6.s.1.w.3"
+            ],
+            "superclass": "replace",
+            "text": "."
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.list.1.item.7.s.1.w.2"
+            ],
+            "superclass": "replace",
+            "text": "."
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.list.1.item.8.s.1.w.5"
+            ],
+            "superclass": "replace",
+            "text": "."
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.list.1.item.9.s.1.w.3"
+            ],
+            "superclass": "replace",
+            "text": "."
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.list.1.item.10.s.1.w.3"
+            ],
+            "superclass": "replace",
+            "text": "."
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.list.1.item.11.s.1.w.2"
+            ],
+            "superclass": "replace",
+            "text": "."
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.p.5.s.1.w.20"
+            ],
+            "superclass": "replace",
+            "text": "bekend"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.p.5.s.1.w.21"
+            ],
+            "superclass": "replace",
+            "text": "of"
+        },
+        {
+            "after": "page1239.text.p.5.s.1.w.23",
+            "class": "missingword",
+            "text": "is"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.p.5.s.2.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Dat"
+        },
+        {
+            "after": "page1239.text.p.5.s.2.w.2",
+            "class": "missingword",
+            "text": "ook"
+        },
+        {
+            "after": "page1239.text.p.5.s.2.w.3",
+            "class": "missingword",
+            "text": "fitnesscentra"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.list.2.item.3.s.1.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Genetisch"
+        },
+        {
+            "after": "page1239.text.list.2.item.3.s.1.w.1",
+            "class": "missingword",
+            "text": "."
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1239.text.p.6.s.1.w.8"
+            ],
+            "superclass": "replace",
+            "text": "Proto-Indo-Europees"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1239.text.p.6.s.2.w.14"
+            ],
+            "superclass": "replace",
+            "text": "Proto-Indo-Europees"
+        },
+        {
+            "after": "page1239.text.p.6.s.4.w.15",
+            "class": "missingword",
+            "text": "veroordeeld"
+        },
+        {
+            "after": "page1239.text.p.6.s.8.w.15",
+            "class": "missingword",
+            "text": "er"
+        },
+        {
+            "class": "nonworderror",
+            "span": [
+                "page1239.text.div.1.list.1.item.1.s.1.w.16"
+            ],
+            "superclass": "replace",
+            "text": "Quentin"
+        },
+        {
+            "class": "spliterror",
+            "confidence": 0.5,
+            "span": [
+                "page1239.text.div.1.list.1.item.2.s.1.w.3",
+                "page1239.text.div.1.list.1.item.2.s.1.w.4"
+            ],
+            "text": "V."
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1239.text.div.1.list.1.item.2.s.1.w.3"
+            ],
+            "superclass": "replace",
+            "text": "2"
+        },
+        {
+            "after": "page1239.text.div.1.list.1.item.2.s.1.w.3",
+            "class": "missingword",
+            "text": "."
+        }
+    ],
+    "words": [
+        {
+            "id": "page1239.text.p.1.s.1.w.1",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "De"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.2",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "Indo-Europese"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.3",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.4",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "vormen"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.5",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.6",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "grote"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.7",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "taalfamilie"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.8",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.9",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "waartoe"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.10",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.11",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "meeste"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.12",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.13",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.14",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "Europa"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.15",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.16",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "West-Azi\u00eb"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.17",
+            "in": "page1239.text.p.1.s.1",
+            "space": false,
+            "text": "behoren"
+        },
+        {
+            "id": "page1239.text.p.1.s.1.w.18",
+            "in": "page1239.text.p.1.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.1.s.2.w.1",
+            "in": "page1239.text.p.1.s.2",
+            "space": true,
+            "text": "Een"
+        },
+        {
+            "id": "page1239.text.p.1.s.2.w.2",
+            "in": "page1239.text.p.1.s.2",
+            "space": true,
+            "text": "verouderde"
+        },
+        {
+            "id": "page1239.text.p.1.s.2.w.3",
+            "in": "page1239.text.p.1.s.2",
+            "space": true,
+            "text": "benaming"
+        },
+        {
+            "id": "page1239.text.p.1.s.2.w.4",
+            "in": "page1239.text.p.1.s.2",
+            "space": true,
+            "text": "voor"
+        },
+        {
+            "id": "page1239.text.p.1.s.2.w.6",
+            "in": "page1239.text.p.1.s.2",
+            "space": true,
+            "text": "Indo-europees"
+        },
+        {
+            "id": "page1239.text.p.1.s.2.w.8",
+            "in": "page1239.text.p.1.s.2",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1239.text.p.1.s.2.w.9",
+            "in": "page1239.text.p.1.s.2",
+            "space": true,
+            "text": "Indogermaans"
+        },
+        {
+            "id": "page1239.text.p.1.s.2.w.10",
+            "in": "page1239.text.p.1.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.2.s.1.w.1",
+            "in": "page1239.text.p.2.s.1",
+            "space": true,
+            "text": "Er"
+        },
+        {
+            "id": "page1239.text.p.2.s.1.w.2",
+            "in": "page1239.text.p.2.s.1",
+            "space": true,
+            "text": "zijn"
+        },
+        {
+            "id": "page1239.text.p.2.s.1.w.3",
+            "in": "page1239.text.p.2.s.1",
+            "space": true,
+            "text": "maar"
+        },
+        {
+            "id": "page1239.text.p.2.s.1.w.4",
+            "in": "page1239.text.p.2.s.1",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1239.text.p.2.s.1.w.5",
+            "in": "page1239.text.p.2.s.1",
+            "space": true,
+            "text": "paar"
+        },
+        {
+            "id": "page1239.text.p.2.s.1.w.6",
+            "in": "page1239.text.p.2.s.1",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.p.2.s.1.w.7",
+            "in": "page1239.text.p.2.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1239.text.p.2.s.1.w.8",
+            "in": "page1239.text.p.2.s.1",
+            "space": true,
+            "text": "Europa"
+        },
+        {
+            "id": "page1239.text.p.2.s.1.w.9",
+            "in": "page1239.text.p.2.s.1",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1239.text.p.2.s.1.w.10",
+            "in": "page1239.text.p.2.s.1",
+            "space": true,
+            "text": "niet"
+        },
+        {
+            "id": "page1239.text.p.2.s.1.w.11",
+            "in": "page1239.text.p.2.s.1",
+            "space": true,
+            "text": "tot"
+        },
+        {
+            "id": "page1239.text.p.2.s.1.w.12",
+            "in": "page1239.text.p.2.s.1",
+            "space": true,
+            "text": "deze"
+        },
+        {
+            "id": "page1239.text.p.2.s.1.w.13",
+            "in": "page1239.text.p.2.s.1",
+            "space": true,
+            "text": "taalfamilie"
+        },
+        {
+            "id": "page1239.text.p.2.s.1.w.14",
+            "in": "page1239.text.p.2.s.1",
+            "space": false,
+            "text": "behoren"
+        },
+        {
+            "id": "page1239.text.p.2.s.1.w.15",
+            "in": "page1239.text.p.2.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.1",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "De"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.2",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "belangrijkste"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.3",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "zijn"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.4",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.5",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "Baskisch"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.6",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.7",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.8",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.9",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "Finoegrische"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.10",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.11",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.12",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "waartoe"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.13",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.14",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "Fins"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.15",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.16",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.17",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "Hongaars"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.18",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.19",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.20",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "Estisch"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.21",
+            "in": "page1239.text.p.2.s.2",
+            "space": false,
+            "text": "behoren"
+        },
+        {
+            "id": "page1239.text.p.2.s.2.w.22",
+            "in": "page1239.text.p.2.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.1",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "In"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.2",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "vroeger"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.3",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "tijden"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.4",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "werden"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.5",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "er"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.6",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "veel"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.7",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "meer"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.8",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "niet-Indo-Europese"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.9",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.10",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "gesproken"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.11",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.12",
+            "in": "page1239.text.p.2.s.3",
+            "space": false,
+            "text": "Europa"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.13",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.14",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "zoals"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.15",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.16",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "Etruskisch"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.17",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.18",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.19",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "Rhaetisch"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.20",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.21",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "volgens"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.22",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "sommigen"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.23",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.24",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "Pictisch"
+        },
+        {
+            "id": "page1239.text.p.2.s.3.w.25",
+            "in": "page1239.text.p.2.s.3",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.1",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "De"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.2",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "meest"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.3",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "elementaire"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.4",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "tweedeling"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.5",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.6",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.8",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "Indo-europese"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.10",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.11",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.12",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.13",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "indeling"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.14",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.15",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "kentum-"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.16",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.17",
+            "in": "page1239.text.p.3.s.1",
+            "space": false,
+            "text": "satem-talen"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.18",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.19",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "respectievelijk"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.20",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "genoemd"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.21",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "naar"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.22",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.23",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "woord"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.24",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "voor"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.25",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "100"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.26",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.27",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.28",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "Latijn"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.29",
+            "in": "page1239.text.p.3.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.30",
+            "in": "page1239.text.p.3.s.1",
+            "space": false,
+            "text": "centum"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.31",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.32",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.33",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.34",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.35",
+            "in": "page1239.text.p.3.s.1",
+            "space": false,
+            "text": "Perzisch"
+        },
+        {
+            "id": "page1239.text.p.3.s.1.w.36",
+            "in": "page1239.text.p.3.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.3.s.2.w.1",
+            "in": "page1239.text.p.3.s.2",
+            "space": true,
+            "text": "Dit"
+        },
+        {
+            "id": "page1239.text.p.3.s.2.w.2",
+            "in": "page1239.text.p.3.s.2",
+            "space": false,
+            "text": "k"
+        },
+        {
+            "id": "page1239.text.p.3.s.2.w.3",
+            "in": "page1239.text.p.3.s.2",
+            "space": false,
+            "text": "/"
+        },
+        {
+            "id": "page1239.text.p.3.s.2.w.4",
+            "in": "page1239.text.p.3.s.2",
+            "space": true,
+            "text": "s-verschil"
+        },
+        {
+            "id": "page1239.text.p.3.s.2.w.5",
+            "in": "page1239.text.p.3.s.2",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1239.text.p.3.s.2.w.6",
+            "in": "page1239.text.p.3.s.2",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1239.text.p.3.s.2.w.7",
+            "in": "page1239.text.p.3.s.2",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1239.text.p.3.s.2.w.8",
+            "in": "page1239.text.p.3.s.2",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.3.s.2.w.9",
+            "in": "page1239.text.p.3.s.2",
+            "space": true,
+            "text": "kenmerkende"
+        },
+        {
+            "id": "page1239.text.p.3.s.2.w.10",
+            "in": "page1239.text.p.3.s.2",
+            "space": true,
+            "text": "verschillen"
+        },
+        {
+            "id": "page1239.text.p.3.s.2.w.11",
+            "in": "page1239.text.p.3.s.2",
+            "space": true,
+            "text": "tussen"
+        },
+        {
+            "id": "page1239.text.p.3.s.2.w.12",
+            "in": "page1239.text.p.3.s.2",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.3.s.2.w.13",
+            "in": "page1239.text.p.3.s.2",
+            "space": true,
+            "text": "beide"
+        },
+        {
+            "id": "page1239.text.p.3.s.2.w.14",
+            "in": "page1239.text.p.3.s.2",
+            "space": false,
+            "text": "taalgroepen"
+        },
+        {
+            "id": "page1239.text.p.3.s.2.w.15",
+            "in": "page1239.text.p.3.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.1",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "Uit"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.2",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.4",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "Proto-Indo-europees"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.5",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.7",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.8",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "gereconstrueerde"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.9",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "voorouder"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.10",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.11",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.13",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "Indo-europese"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.15",
+            "in": "page1239.text.p.4.s.1",
+            "space": false,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.16",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.17",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "zijn"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.18",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "deze"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.19",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "taalfamilies"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.20",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "ontstaan"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.21",
+            "in": "page1239.text.p.4.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.22",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "volgens"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.23",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "chronologische"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.24",
+            "in": "page1239.text.p.4.s.1",
+            "space": false,
+            "text": "attestering"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.25",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.26",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "("
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.27",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "K"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.28",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "toont"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.29",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "kentum-talen"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.30",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.31",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "S"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.32",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "satem-talen"
+        },
+        {
+            "id": "page1239.text.p.4.s.1.w.33",
+            "in": "page1239.text.p.4.s.1",
+            "space": true,
+            "text": "):"
+        },
+        {
+            "id": "page1239.text.list.1.item.1.s.1.w.1",
+            "in": "page1239.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "Anatolische"
+        },
+        {
+            "id": "page1239.text.list.1.item.1.s.1.w.2",
+            "in": "page1239.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.list.1.item.1.s.1.w.3",
+            "in": "page1239.text.list.1.item.1.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1239.text.list.1.item.1.s.1.w.4",
+            "in": "page1239.text.list.1.item.1.s.1",
+            "space": false,
+            "text": "uitgestorven"
+        },
+        {
+            "id": "page1239.text.list.1.item.1.s.1.w.5",
+            "in": "page1239.text.list.1.item.1.s.1",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1239.text.list.1.item.1.s.1.w.6",
+            "in": "page1239.text.list.1.item.1.s.1",
+            "space": true,
+            "text": "K"
+        },
+        {
+            "id": "page1239.text.list.1.item.2.s.1.w.1",
+            "in": "page1239.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "Grieks"
+        },
+        {
+            "id": "page1239.text.list.1.item.2.s.1.w.2",
+            "in": "page1239.text.list.1.item.2.s.1",
+            "space": true,
+            "text": "K"
+        },
+        {
+            "id": "page1239.text.list.1.item.3.p.1.s.1.w.1",
+            "in": "page1239.text.list.1.item.3.p.1.s.1",
+            "space": true,
+            "text": "Indo-Iraanse"
+        },
+        {
+            "id": "page1239.text.list.1.item.3.p.1.s.1.w.2",
+            "in": "page1239.text.list.1.item.3.p.1.s.1",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.list.1.item.3.p.1.s.1.w.3",
+            "in": "page1239.text.list.1.item.3.p.1.s.1",
+            "space": true,
+            "text": "S"
+        },
+        {
+            "id": "page1239.text.list.1.item.3.list.1.item.1.s.1.w.1",
+            "in": "page1239.text.list.1.item.3.list.1.item.1.s.1",
+            "space": true,
+            "text": "Indische"
+        },
+        {
+            "id": "page1239.text.list.1.item.3.list.1.item.1.s.1.w.2",
+            "in": "page1239.text.list.1.item.3.list.1.item.1.s.1",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.list.1.item.3.list.1.item.2.s.1.w.1",
+            "in": "page1239.text.list.1.item.3.list.1.item.2.s.1",
+            "space": true,
+            "text": "Iraanse"
+        },
+        {
+            "id": "page1239.text.list.1.item.3.list.1.item.2.s.1.w.2",
+            "in": "page1239.text.list.1.item.3.list.1.item.2.s.1",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.list.1.item.4.s.1.w.1",
+            "in": "page1239.text.list.1.item.4.s.1",
+            "space": true,
+            "text": "Italische"
+        },
+        {
+            "id": "page1239.text.list.1.item.4.s.1.w.2",
+            "in": "page1239.text.list.1.item.4.s.1",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1239.text.list.1.item.4.s.1.w.3",
+            "in": "page1239.text.list.1.item.4.s.1",
+            "space": true,
+            "text": "Romaanse"
+        },
+        {
+            "id": "page1239.text.list.1.item.4.s.1.w.4",
+            "in": "page1239.text.list.1.item.4.s.1",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.list.1.item.4.s.1.w.5",
+            "in": "page1239.text.list.1.item.4.s.1",
+            "space": true,
+            "text": "K"
+        },
+        {
+            "id": "page1239.text.list.1.item.5.s.1.w.1",
+            "in": "page1239.text.list.1.item.5.s.1",
+            "space": true,
+            "text": "Keltische"
+        },
+        {
+            "id": "page1239.text.list.1.item.5.s.1.w.2",
+            "in": "page1239.text.list.1.item.5.s.1",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.list.1.item.5.s.1.w.3",
+            "in": "page1239.text.list.1.item.5.s.1",
+            "space": true,
+            "text": "K"
+        },
+        {
+            "id": "page1239.text.list.1.item.6.s.1.w.1",
+            "in": "page1239.text.list.1.item.6.s.1",
+            "space": true,
+            "text": "Germaanse"
+        },
+        {
+            "id": "page1239.text.list.1.item.6.s.1.w.2",
+            "in": "page1239.text.list.1.item.6.s.1",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.list.1.item.6.s.1.w.3",
+            "in": "page1239.text.list.1.item.6.s.1",
+            "space": true,
+            "text": "K"
+        },
+        {
+            "id": "page1239.text.list.1.item.7.s.1.w.1",
+            "in": "page1239.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "Armeens"
+        },
+        {
+            "id": "page1239.text.list.1.item.7.s.1.w.2",
+            "in": "page1239.text.list.1.item.7.s.1",
+            "space": true,
+            "text": "S"
+        },
+        {
+            "id": "page1239.text.list.1.item.8.s.1.w.1",
+            "in": "page1239.text.list.1.item.8.s.1",
+            "space": true,
+            "text": "Tochaars"
+        },
+        {
+            "id": "page1239.text.list.1.item.8.s.1.w.2",
+            "in": "page1239.text.list.1.item.8.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1239.text.list.1.item.8.s.1.w.3",
+            "in": "page1239.text.list.1.item.8.s.1",
+            "space": false,
+            "text": "uitgestorven"
+        },
+        {
+            "id": "page1239.text.list.1.item.8.s.1.w.4",
+            "in": "page1239.text.list.1.item.8.s.1",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1239.text.list.1.item.8.s.1.w.5",
+            "in": "page1239.text.list.1.item.8.s.1",
+            "space": true,
+            "text": "K"
+        },
+        {
+            "id": "page1239.text.list.1.item.9.s.1.w.1",
+            "in": "page1239.text.list.1.item.9.s.1",
+            "space": true,
+            "text": "Slavische"
+        },
+        {
+            "id": "page1239.text.list.1.item.9.s.1.w.2",
+            "in": "page1239.text.list.1.item.9.s.1",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.list.1.item.9.s.1.w.3",
+            "in": "page1239.text.list.1.item.9.s.1",
+            "space": true,
+            "text": "S"
+        },
+        {
+            "id": "page1239.text.list.1.item.10.s.1.w.1",
+            "in": "page1239.text.list.1.item.10.s.1",
+            "space": true,
+            "text": "Baltische"
+        },
+        {
+            "id": "page1239.text.list.1.item.10.s.1.w.2",
+            "in": "page1239.text.list.1.item.10.s.1",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.list.1.item.10.s.1.w.3",
+            "in": "page1239.text.list.1.item.10.s.1",
+            "space": true,
+            "text": "S"
+        },
+        {
+            "id": "page1239.text.list.1.item.11.s.1.w.1",
+            "in": "page1239.text.list.1.item.11.s.1",
+            "space": true,
+            "text": "Albanees"
+        },
+        {
+            "id": "page1239.text.list.1.item.11.s.1.w.2",
+            "in": "page1239.text.list.1.item.11.s.1",
+            "space": true,
+            "text": "S"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.1",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "Een"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.2",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "aantal"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.4",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "Indo-europese"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.5",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.6",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.8",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.9",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.10",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "oudheid"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.11",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "werd"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.15",
+            "in": "page1239.text.p.5.s.1",
+            "space": false,
+            "text": "gesproken"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.16",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.18",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.19",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "onvoldoende"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.20",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "gekend"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.21",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "om"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.22",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "ze"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.23",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "goed"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.24",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.25",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "dit"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.26",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "schema"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.27",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "te"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.28",
+            "in": "page1239.text.p.5.s.1",
+            "space": false,
+            "text": "passen"
+        },
+        {
+            "id": "page1239.text.p.5.s.1.w.29",
+            "in": "page1239.text.p.5.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.5.s.2.w.1",
+            "in": "page1239.text.p.5.s.2",
+            "space": true,
+            "text": "Dit"
+        },
+        {
+            "id": "page1239.text.p.5.s.2.w.2",
+            "in": "page1239.text.p.5.s.2",
+            "space": true,
+            "text": "geldt"
+        },
+        {
+            "id": "page1239.text.p.5.s.2.w.3",
+            "in": "page1239.text.p.5.s.2",
+            "space": false,
+            "text": "voor"
+        },
+        {
+            "id": "page1239.text.p.5.s.2.w.4",
+            "in": "page1239.text.p.5.s.2",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1239.text.list.2.item.1.s.1.w.1",
+            "in": "page1239.text.list.2.item.1.s.1",
+            "space": true,
+            "text": "Illyrisch"
+        },
+        {
+            "id": "page1239.text.list.2.item.2.s.1.w.1",
+            "in": "page1239.text.list.2.item.2.s.1",
+            "space": true,
+            "text": "Messapisch"
+        },
+        {
+            "id": "page1239.text.list.2.item.3.s.1.w.1",
+            "in": "page1239.text.list.2.item.3.s.1",
+            "space": true,
+            "text": "Venetisch"
+        },
+        {
+            "id": "page1239.text.list.2.item.4.s.1.w.1",
+            "in": "page1239.text.list.2.item.4.s.1",
+            "space": true,
+            "text": "Thracisch"
+        },
+        {
+            "id": "page1239.text.list.2.item.5.s.1.w.1",
+            "in": "page1239.text.list.2.item.5.s.1",
+            "space": true,
+            "text": "Phrygisch"
+        },
+        {
+            "id": "page1239.text.list.2.item.6.s.1.w.1",
+            "in": "page1239.text.list.2.item.6.s.1",
+            "space": true,
+            "text": "Oud-Macedonisch"
+        },
+        {
+            "id": "page1239.text.p.6.s.1.w.1",
+            "in": "page1239.text.p.6.s.1",
+            "space": true,
+            "text": "Het"
+        },
+        {
+            "id": "page1239.text.p.6.s.1.w.2",
+            "in": "page1239.text.p.6.s.1",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1239.text.p.6.s.1.w.3",
+            "in": "page1239.text.p.6.s.1",
+            "space": true,
+            "text": "niet"
+        },
+        {
+            "id": "page1239.text.p.6.s.1.w.4",
+            "in": "page1239.text.p.6.s.1",
+            "space": true,
+            "text": "zeker"
+        },
+        {
+            "id": "page1239.text.p.6.s.1.w.5",
+            "in": "page1239.text.p.6.s.1",
+            "space": true,
+            "text": "waar"
+        },
+        {
+            "id": "page1239.text.p.6.s.1.w.6",
+            "in": "page1239.text.p.6.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.6.s.1.w.8",
+            "in": "page1239.text.p.6.s.1",
+            "space": true,
+            "text": "Proto-Indo-europees"
+        },
+        {
+            "id": "page1239.text.p.6.s.1.w.10",
+            "in": "page1239.text.p.6.s.1",
+            "space": true,
+            "text": "zijn"
+        },
+        {
+            "id": "page1239.text.p.6.s.1.w.11",
+            "in": "page1239.text.p.6.s.1",
+            "space": true,
+            "text": "oorsprong"
+        },
+        {
+            "id": "page1239.text.p.6.s.1.w.12",
+            "in": "page1239.text.p.6.s.1",
+            "space": false,
+            "text": "heeft"
+        },
+        {
+            "id": "page1239.text.p.6.s.1.w.13",
+            "in": "page1239.text.p.6.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.1",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "De"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.2",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "meeste"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.3",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "theorie\u00ebn"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.4",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "daarover"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.5",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "plaatsen"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.6",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.7",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "woonplaats"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.8",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.9",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.10",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "sprekers"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.11",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.12",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.14",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "Proto-Indo-europees"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.16",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "ergens"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.17",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "ten"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.18",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "noorden"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.19",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.20",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.21",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "Zwarte"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.22",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "Zee"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.23",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "rond"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.24",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "6000"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.25",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "jaar"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.26",
+            "in": "page1239.text.p.6.s.2",
+            "space": false,
+            "text": "geleden"
+        },
+        {
+            "id": "page1239.text.p.6.s.2.w.27",
+            "in": "page1239.text.p.6.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.6.s.3.w.1",
+            "in": "page1239.text.p.6.s.3",
+            "space": true,
+            "text": "Men"
+        },
+        {
+            "id": "page1239.text.p.6.s.3.w.2",
+            "in": "page1239.text.p.6.s.3",
+            "space": true,
+            "text": "spreekt"
+        },
+        {
+            "id": "page1239.text.p.6.s.3.w.3",
+            "in": "page1239.text.p.6.s.3",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1239.text.p.6.s.3.w.4",
+            "in": "page1239.text.p.6.s.3",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1239.text.p.6.s.3.w.5",
+            "in": "page1239.text.p.6.s.3",
+            "space": true,
+            "text": "verband"
+        },
+        {
+            "id": "page1239.text.p.6.s.3.w.6",
+            "in": "page1239.text.p.6.s.3",
+            "space": true,
+            "text": "wel"
+        },
+        {
+            "id": "page1239.text.p.6.s.3.w.7",
+            "in": "page1239.text.p.6.s.3",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1239.text.p.6.s.3.w.8",
+            "in": "page1239.text.p.6.s.3",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.6.s.3.w.9",
+            "in": "page1239.text.p.6.s.3",
+            "space": false,
+            "text": "Kurgan-expansie"
+        },
+        {
+            "id": "page1239.text.p.6.s.3.w.10",
+            "in": "page1239.text.p.6.s.3",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.1",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "Er"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.2",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.3",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "echter"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.4",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "ook"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.5",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.6",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "hypothese"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.7",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.8",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.10",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "Indo-europees"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.12",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "er"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.13",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "al"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.14",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "eerder"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.15",
+            "in": "page1239.text.p.6.s.4",
+            "space": false,
+            "text": "was"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.16",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.17",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "zo"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.18",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "rond"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.19",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "9000"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.20",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "jaar"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.21",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "geleden"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.22",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.23",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.24",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.25",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "groei"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.26",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.27",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "taal"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.28",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "te"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.29",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "danken"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.30",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.31",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "aan"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.32",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.33",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "ontdekking"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.34",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.35",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.36",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "landbouw"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.37",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.38",
+            "in": "page1239.text.p.6.s.4",
+            "space": false,
+            "text": "Anatoli\u00eb"
+        },
+        {
+            "id": "page1239.text.p.6.s.4.w.39",
+            "in": "page1239.text.p.6.s.4",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.1",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "Een"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.2",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "glottochronologisch"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.3",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "onderzoek"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.4",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.5",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "2003"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.6",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.7",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "Russel"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.8",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "D."
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.9",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "Gray"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.10",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.11",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "Quentin"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.12",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "D."
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.13",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "Atkinson"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.14",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "heeft"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.15",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.16",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "stamboom"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.17",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.18",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.19",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "taalfamilie"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.20",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "opgeleverd"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.21",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "met"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.22",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "schattingen"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.23",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "voor"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.24",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.25",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "verschillende"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.26",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "aftakkingen"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.27",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.28",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.29",
+            "in": "page1239.text.p.6.s.5",
+            "space": false,
+            "text": "boom"
+        },
+        {
+            "id": "page1239.text.p.6.s.5.w.30",
+            "in": "page1239.text.p.6.s.5",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.1",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": "De"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.2",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": "schattingen"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.3",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": "voor"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.4",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.5",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": "oudste"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.6",
+            "in": "page1239.text.p.6.s.6",
+            "space": false,
+            "text": "aftakking"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.7",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.8",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.9",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": "naar"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.10",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.11",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": "Anatolische"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.12",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": "groep"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.13",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": "ondersteunt"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.14",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": "duidelijk"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.15",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.16",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": "Anatolische"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.17",
+            "in": "page1239.text.p.6.s.6",
+            "space": false,
+            "text": "hypothese"
+        },
+        {
+            "id": "page1239.text.p.6.s.6.w.18",
+            "in": "page1239.text.p.6.s.6",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.6.s.7.w.1",
+            "in": "page1239.text.p.6.s.7",
+            "space": true,
+            "text": "Er"
+        },
+        {
+            "id": "page1239.text.p.6.s.7.w.2",
+            "in": "page1239.text.p.6.s.7",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1239.text.p.6.s.7.w.3",
+            "in": "page1239.text.p.6.s.7",
+            "space": true,
+            "text": "echter"
+        },
+        {
+            "id": "page1239.text.p.6.s.7.w.4",
+            "in": "page1239.text.p.6.s.7",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1239.text.p.6.s.7.w.5",
+            "in": "page1239.text.p.6.s.7",
+            "space": true,
+            "text": "aantal"
+        },
+        {
+            "id": "page1239.text.p.6.s.7.w.6",
+            "in": "page1239.text.p.6.s.7",
+            "space": true,
+            "text": "aftakkingen"
+        },
+        {
+            "id": "page1239.text.p.6.s.7.w.7",
+            "in": "page1239.text.p.6.s.7",
+            "space": true,
+            "text": "rond"
+        },
+        {
+            "id": "page1239.text.p.6.s.7.w.8",
+            "in": "page1239.text.p.6.s.7",
+            "space": true,
+            "text": "7000-6000"
+        },
+        {
+            "id": "page1239.text.p.6.s.7.w.9",
+            "in": "page1239.text.p.6.s.7",
+            "space": true,
+            "text": "jaar"
+        },
+        {
+            "id": "page1239.text.p.6.s.7.w.10",
+            "in": "page1239.text.p.6.s.7",
+            "space": false,
+            "text": "geleden"
+        },
+        {
+            "id": "page1239.text.p.6.s.7.w.11",
+            "in": "page1239.text.p.6.s.7",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.1",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "Het"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.2",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.3",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "daarom"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.4",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "goed"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.5",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "mogelijk"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.6",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.7",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.8",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "familie"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.9",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "eerst"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.10",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.11",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "Anatoli\u00eb"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.12",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "ontstaan"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.13",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.14",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "maar"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.15",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.16",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.17",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "groep"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.18",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.19",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.20",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "gebied"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.21",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "later"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.22",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "verlaten"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.23",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "heeft"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.24",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "verantwoordelijk"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.25",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "was"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.26",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "voor"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.27",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.28",
+            "in": "page1239.text.p.6.s.8",
+            "space": false,
+            "text": "Kurgan-expansie"
+        },
+        {
+            "id": "page1239.text.p.6.s.8.w.29",
+            "in": "page1239.text.p.6.s.8",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.1",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "Volgens"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.2",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.3",
+            "in": "page1239.text.p.6.s.9",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.4",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "niet"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.5",
+            "in": "page1239.text.p.6.s.9",
+            "space": false,
+            "text": "onomstreden"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.6",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.7",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "theorie"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.8",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.9",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.10",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "Proto-Indo-Europees"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.11",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "ontstaan"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.12",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "als"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.13",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "tak"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.14",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.15",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.16",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "oudere"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.17",
+            "in": "page1239.text.p.6.s.9",
+            "space": false,
+            "text": "supertaalfamilie"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.18",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.19",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.20",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "Nostratisch"
+        },
+        {
+            "id": "page1239.text.p.6.s.9.w.21",
+            "in": "page1239.text.p.6.s.9",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.div.1.head.1.s.1.w.1",
+            "in": "page1239.text.div.1.head.1.s.1",
+            "space": true,
+            "text": "Literatuur"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.1",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "Language-tree"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.2",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "divergence"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.3",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "times"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.4",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "support"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.5",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "the"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.6",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "Anatolian"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.7",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "theory"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.8",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "of"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.9",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "Indo-European"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.10",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": false,
+            "text": "origin"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.11",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.12",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "Russel"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.13",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "D."
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.14",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "Gray"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.15",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "&"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.16",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "Quesntin"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.17",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "D."
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.18",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": false,
+            "text": "Atkinson"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.19",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.20",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "Nature"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.21",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": false,
+            "text": "426"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.22",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.1.s.1.w.23",
+            "in": "page1239.text.div.1.list.1.item.1.s.1",
+            "space": true,
+            "text": "435-439"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.2.s.1.w.1",
+            "in": "page1239.text.div.1.list.1.item.2.s.1",
+            "space": false,
+            "text": "Stevenson"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.2.s.1.w.2",
+            "in": "page1239.text.div.1.list.1.item.2.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.2.s.1.w.3",
+            "in": "page1239.text.div.1.list.1.item.2.s.1",
+            "space": false,
+            "text": "V"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.2.s.1.w.4",
+            "in": "page1239.text.div.1.list.1.item.2.s.1",
+            "space": false,
+            "text": "."
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.2.s.2.w.1",
+            "in": "page1239.text.div.1.list.1.item.2.s.2",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.2.s.2.w.2",
+            "in": "page1239.text.div.1.list.1.item.2.s.2",
+            "space": true,
+            "text": "Atlas"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.2.s.2.w.3",
+            "in": "page1239.text.div.1.list.1.item.2.s.2",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.2.s.2.w.4",
+            "in": "page1239.text.div.1.list.1.item.2.s.2",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.2.s.2.w.5",
+            "in": "page1239.text.div.1.list.1.item.2.s.2",
+            "space": true,
+            "text": "Europese"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.2.s.2.w.6",
+            "in": "page1239.text.div.1.list.1.item.2.s.2",
+            "space": true,
+            "text": "talen"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.2.s.2.w.7",
+            "in": "page1239.text.div.1.list.1.item.2.s.2",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.2.s.2.w.8",
+            "in": "page1239.text.div.1.list.1.item.2.s.2",
+            "space": true,
+            "text": "Het"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.2.s.2.w.9",
+            "in": "page1239.text.div.1.list.1.item.2.s.2",
+            "space": true,
+            "text": "Spectrum"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.2.s.2.w.10",
+            "in": "page1239.text.div.1.list.1.item.2.s.2",
+            "space": false,
+            "text": "1989"
+        },
+        {
+            "id": "page1239.text.div.1.list.1.item.2.s.2.w.11",
+            "in": "page1239.text.div.1.list.1.item.2.s.2",
+            "space": true,
+            "text": "."
+        }
+    ]
+}

@@ -1,0 +1,5665 @@
+{
+    "corrections": [
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.1.head.1.s.1.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Wol"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1170.text.div.1.p.1.s.1.w.28"
+            ],
+            "superclass": "replace",
+            "text": "internet"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.1.p.2.s.1.w.5"
+            ],
+            "superclass": "replace",
+            "text": "werden"
+        },
+        {
+            "class": "spliterror",
+            "confidence": 0.5,
+            "span": [
+                "page1170.text.div.1.p.2.s.1.w.13",
+                "page1170.text.div.1.p.2.s.1.w.14"
+            ],
+            "text": "Internetprotocol"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1170.text.div.1.p.2.s.1.w.13"
+            ],
+            "superclass": "replace",
+            "text": "internet"
+        },
+        {
+            "class": "spliterror",
+            "confidence": 1,
+            "span": [
+                "page1170.text.div.1.p.2.s.2.w.7",
+                "page1170.text.div.1.p.2.s.2.w.8"
+            ],
+            "text": "gebruikmaken"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.1.p.4.s.1.w.10"
+            ],
+            "superclass": "replace",
+            "text": "stank"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.1.p.4.s.3.w.5"
+            ],
+            "superclass": "replace",
+            "text": "dat"
+        },
+        {
+            "after": "page1170.text.div.1.p.4.s.3.w.11",
+            "class": "missingword",
+            "text": ","
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.1.p.5.s.1.w.11"
+            ],
+            "superclass": "replace",
+            "text": "met"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.1.p.5.s.3.w.12"
+            ],
+            "superclass": "replace",
+            "text": "DAT"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.2.p.1.s.1.w.22"
+            ],
+            "superclass": "replace",
+            "text": "geval"
+        },
+        {
+            "class": "spliterror",
+            "confidence": 0.5,
+            "span": [
+                "page1170.text.div.2.p.1.s.2.w.9",
+                "page1170.text.div.2.p.1.s.2.w.10"
+            ],
+            "text": "netwerknummer"
+        },
+        {
+            "class": "spliterror",
+            "confidence": 0.5,
+            "span": [
+                "page1170.text.div.2.p.1.s.3.w.9",
+                "page1170.text.div.2.p.1.s.3.w.10"
+            ],
+            "text": "netwerknummer"
+        },
+        {
+            "after": "page1170.text.div.2.p.1.s.3.w.14",
+            "class": "missingword",
+            "text": "modellen"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.2.p.1.s.4.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Hoste"
+        },
+        {
+            "after": "page1170.text.div.2.p.1.s.4.w.25",
+            "class": "missingword",
+            "text": "we"
+        },
+        {
+            "class": "nonworderror",
+            "span": [
+                "page1170.text.div.3.p.2.s.1.w.3"
+            ],
+            "superclass": "replace",
+            "text": "leaders"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.1.s.1.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Verse"
+        },
+        {
+            "after": "page1170.text.div.3.list.1.item.1.s.1.w.1",
+            "class": "missingword",
+            "text": "4.0"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.1.s.1.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Versie"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.1.s.1.w.4"
+            ],
+            "superclass": "replace",
+            "text": "buts"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.2.s.1.w.4"
+            ],
+            "superclass": "replace",
+            "text": "buts"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.2.s.2.w.4"
+            ],
+            "superclass": "replace",
+            "text": "herders"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.2.s.4.w.3"
+            ],
+            "superclass": "replace",
+            "text": "geld"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1170.text.div.3.list.1.item.3.p.1.s.1.w.1"
+            ],
+            "superclass": "replace",
+            "text": "differentiated"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.3.p.1.s.2.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Dat"
+        },
+        {
+            "after": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.1",
+            "class": "missingword",
+            "text": "weekend"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.3.p.1.s.2.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Dit"
+        },
+        {
+            "class": "nonworderror",
+            "span": [
+                "page1170.text.div.3.list.1.item.3.p.1.s.3.w.10"
+            ],
+            "superclass": "replace",
+            "text": "Oos"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1170.text.div.3.list.1.item.3.list.1.item.4.s.1.w.3"
+            ],
+            "superclass": "replace",
+            "text": "doorvoersnelheid"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1170.text.div.3.list.1.item.3.list.1.item.6.s.1.w.3"
+            ],
+            "superclass": "replace",
+            "text": "beveiliging"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.6.s.1.w.2"
+            ],
+            "superclass": "replace",
+            "text": "Vluggen"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.6.s.2.w.3"
+            ],
+            "superclass": "replace",
+            "text": "slag"
+        },
+        {
+            "class": "spliterror",
+            "confidence": 0.5,
+            "span": [
+                "page1170.text.div.3.list.1.item.6.s.2.w.11",
+                "page1170.text.div.3.list.1.item.6.s.2.w.12"
+            ],
+            "text": "moet0"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.6.s.2.w.11"
+            ],
+            "superclass": "replace",
+            "text": "met"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.6.s.2.w.13"
+            ],
+            "superclass": "replace",
+            "text": "wijn"
+        },
+        {
+            "after": "page1170.text.div.3.list.1.item.6.s.2.w.13",
+            "class": "missingword",
+            "text": "gezondheid"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.6.s.2.w.13"
+            ],
+            "superclass": "replace",
+            "text": "zijn"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.6.s.4.w.1"
+            ],
+            "superclass": "replace",
+            "text": "In"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.7.s.1.w.4"
+            ],
+            "superclass": "replace",
+            "text": "bis"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.7.s.2.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Maar"
+        },
+        {
+            "after": "page1170.text.div.3.list.1.item.7.s.2.w.1",
+            "class": "missingword",
+            "text": "is"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.8.s.1.w.3"
+            ],
+            "superclass": "replace",
+            "text": "Love"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1170.text.div.3.list.1.item.8.s.1.w.2"
+            ],
+            "superclass": "replace",
+            "text": "to"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1170.text.div.3.list.1.item.8.s.1.w.3"
+            ],
+            "superclass": "replace",
+            "text": "love"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.8.s.2.w.5"
+            ],
+            "superclass": "replace",
+            "text": "parket"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.8.s.3.w.5"
+            ],
+            "superclass": "replace",
+            "text": "TT"
+        },
+        {
+            "after": "page1170.text.div.3.list.1.item.8.s.3.w.6",
+            "class": "missingword",
+            "text": "Assen"
+        },
+        {
+            "after": "page1170.text.div.3.list.1.item.8.s.3.w.18",
+            "class": "missingword",
+            "text": "complete"
+        },
+        {
+            "class": "runonerror",
+            "span": [
+                "page1170.text.div.3.list.1.item.8.s.3.w.22"
+            ],
+            "text": "verder gestuurd"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.9.s.1.w.10"
+            ],
+            "superclass": "replace",
+            "text": "dat"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.9.s.1.w.18"
+            ],
+            "superclass": "replace",
+            "text": "WDP"
+        },
+        {
+            "class": "runonerror",
+            "span": [
+                "page1170.text.div.3.list.1.item.10.s.1.w.1"
+            ],
+            "text": "Controles om"
+        },
+        {
+            "after": "page1170.text.div.3.list.1.item.10.s.2.w.1",
+            "class": "missingword",
+            "text": "seks"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.11.s.1.w.2"
+            ],
+            "superclass": "replace",
+            "text": "Brown"
+        },
+        {
+            "after": "page1170.text.div.3.list.1.item.12.s.1.w.2",
+            "class": "missingword",
+            "text": "Onbekend"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.3.list.1.item.12.s.2.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Maar"
+        },
+        {
+            "after": "page1170.text.div.3.list.1.item.12.s.2.w.1",
+            "class": "missingword",
+            "text": "is"
+        },
+        {
+            "class": "nonworderror",
+            "span": [
+                "page1170.text.div.3.p.3.s.1.w.4"
+            ],
+            "superclass": "replace",
+            "text": "kata-gedeelte"
+        },
+        {
+            "class": "redundantpunctuation",
+            "span": [
+                "page1170.text.div.4.p.1.s.1.w.14"
+            ],
+            "superclass": "replace",
+            "text": "bron"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.4.p.1.s.3.w.32"
+            ],
+            "superclass": "replace",
+            "text": "de"
+        },
+        {
+            "class": "nonworderror",
+            "span": [
+                "page1170.text.div.4.p.1.s.4.w.14"
+            ],
+            "superclass": "replace",
+            "text": "subnet"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.4.p.1.s.5.w.7"
+            ],
+            "superclass": "replace",
+            "text": "adressen"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.4.p.2.s.2.w.1"
+            ],
+            "superclass": "replace",
+            "text": "Ik"
+        },
+        {
+            "after": "page1170.text.div.4.p.2.s.2.w.15",
+            "class": "missingword",
+            "text": "single"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.4.p.2.s.2.w.17"
+            ],
+            "superclass": "replace",
+            "text": "op"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.4.p.2.s.2.w.17"
+            ],
+            "superclass": "replace",
+            "text": "of"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.4.p.2.s.3.w.5"
+            ],
+            "superclass": "replace",
+            "text": "shop"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.4.p.2.s.3.w.6"
+            ],
+            "superclass": "replace",
+            "text": "en"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.4.p.2.s.3.w.5"
+            ],
+            "superclass": "replace",
+            "text": "show"
+        },
+        {
+            "class": "replace",
+            "span": [
+                "page1170.text.div.4.p.2.s.3.w.6"
+            ],
+            "superclass": "replace",
+            "text": "een"
+        },
+        {
+            "class": "redundantpunctuation",
+            "span": [
+                "page1170.text.div.4.p.2.s.3.w.14"
+            ],
+            "superclass": "replace",
+            "text": "datalink"
+        },
+        {
+            "class": "spliterror",
+            "confidence": 1,
+            "span": [
+                "page1170.text.div.4.p.2.s.3.w.14",
+                "page1170.text.div.4.p.2.s.3.w.15"
+            ],
+            "text": "datalinklaag"
+        },
+        {
+            "class": "capitalizationerror",
+            "span": [
+                "page1170.text.div.6.head.1.s.1.w.2"
+            ],
+            "superclass": "replace",
+            "text": "links"
+        }
+    ],
+    "words": [
+        {
+            "id": "page1170.text.div.1.head.1.s.1.w.1",
+            "in": "page1170.text.div.1.head.1.s.1",
+            "space": true,
+            "text": "Rol"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.1",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "Het"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.2",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "Internet"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.3",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "Protocol"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.4",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.5",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "meestal"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.6",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "afgekort"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.7",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "als"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.8",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "IP"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.9",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.10",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.11",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.12",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "deel"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.13",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.14",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.15",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "systeem"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.16",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.17",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "gebruikt"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.18",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "wordt"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.19",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "om"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.20",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "computernetwerken"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.21",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "met"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.22",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "elkaar"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.23",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "te"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.24",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "laten"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.25",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "communiceren"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.26",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "op"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.27",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.28",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "Internet"
+        },
+        {
+            "id": "page1170.text.div.1.p.1.s.1.w.29",
+            "in": "page1170.text.div.1.p.1.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.1",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "Sinds"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.2",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "20"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.3",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "juli"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.4",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "2004"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.5",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "worden"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.6",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "binnen"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.7",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.8",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "internet"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.9",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "twee"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.10",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "versies"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.11",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.12",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.13",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "Internet"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.14",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "protocol"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.15",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": false,
+            "text": "ondersteund"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.16",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.17",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.18",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "versies"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.19",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "IPv4"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.20",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.21",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "IPv6"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.1.w.22",
+            "in": "page1170.text.div.1.p.2.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.2.w.1",
+            "in": "page1170.text.div.1.p.2.s.2",
+            "space": true,
+            "text": "De"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.2.w.2",
+            "in": "page1170.text.div.1.p.2.s.2",
+            "space": true,
+            "text": "eerste"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.2.w.3",
+            "in": "page1170.text.div.1.p.2.s.2",
+            "space": true,
+            "text": "domeinen"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.2.w.4",
+            "in": "page1170.text.div.1.p.2.s.2",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.2.w.5",
+            "in": "page1170.text.div.1.p.2.s.2",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.2.w.6",
+            "in": "page1170.text.div.1.p.2.s.2",
+            "space": true,
+            "text": "IPv6"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.2.w.7",
+            "in": "page1170.text.div.1.p.2.s.2",
+            "space": true,
+            "text": "gebruik"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.2.w.8",
+            "in": "page1170.text.div.1.p.2.s.2",
+            "space": true,
+            "text": "maken"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.2.w.9",
+            "in": "page1170.text.div.1.p.2.s.2",
+            "space": true,
+            "text": "zijn"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.2.w.10",
+            "in": "page1170.text.div.1.p.2.s.2",
+            "space": true,
+            "text": "Japan"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.2.w.11",
+            "in": "page1170.text.div.1.p.2.s.2",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.2.w.12",
+            "in": "page1170.text.div.1.p.2.s.2",
+            "space": true,
+            "text": "Korea"
+        },
+        {
+            "id": "page1170.text.div.1.p.2.s.2.w.13",
+            "in": "page1170.text.div.1.p.2.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.1",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": true,
+            "text": "IPv4"
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.2",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": true,
+            "text": "wordt"
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.3",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.4",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": true,
+            "text": "tegenstelling"
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.5",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": true,
+            "text": "tot"
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.6",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": true,
+            "text": "veel"
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.7",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": true,
+            "text": "andere"
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.8",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": false,
+            "text": "protocollen"
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.9",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.10",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": true,
+            "text": "door"
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.11",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": true,
+            "text": "alle"
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.12",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": true,
+            "text": "computers"
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.13",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": true,
+            "text": "op"
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.14",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.15",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": true,
+            "text": "internet"
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.16",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": false,
+            "text": "ondersteund"
+        },
+        {
+            "id": "page1170.text.div.1.p.3.s.1.w.17",
+            "in": "page1170.text.div.1.p.3.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.1",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": true,
+            "text": "Het"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.2",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": true,
+            "text": "Internet"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.3",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": false,
+            "text": "Protocol"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.4",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.5",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.6",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.7",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": true,
+            "text": "onderdeel"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.8",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.9",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.10",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": true,
+            "text": "stack"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.11",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.12",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": true,
+            "text": "nodig"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.13",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.14",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": true,
+            "text": "voor"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.15",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": false,
+            "text": "communicatie"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.1.w.16",
+            "in": "page1170.text.div.1.p.4.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.2.w.1",
+            "in": "page1170.text.div.1.p.4.s.2",
+            "space": true,
+            "text": "In"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.2.w.2",
+            "in": "page1170.text.div.1.p.4.s.2",
+            "space": true,
+            "text": "combinatie"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.2.w.3",
+            "in": "page1170.text.div.1.p.4.s.2",
+            "space": true,
+            "text": "met"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.2.w.4",
+            "in": "page1170.text.div.1.p.4.s.2",
+            "space": true,
+            "text": "Transmission"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.2.w.5",
+            "in": "page1170.text.div.1.p.4.s.2",
+            "space": true,
+            "text": "Control"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.2.w.6",
+            "in": "page1170.text.div.1.p.4.s.2",
+            "space": true,
+            "text": "Protocol"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.2.w.7",
+            "in": "page1170.text.div.1.p.4.s.2",
+            "space": true,
+            "text": "wordt"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.2.w.8",
+            "in": "page1170.text.div.1.p.4.s.2",
+            "space": true,
+            "text": "wel"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.2.w.9",
+            "in": "page1170.text.div.1.p.4.s.2",
+            "space": true,
+            "text": "over"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.2.w.11",
+            "in": "page1170.text.div.1.p.4.s.2",
+            "space": false,
+            "text": "TCP"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.2.w.12",
+            "in": "page1170.text.div.1.p.4.s.2",
+            "space": false,
+            "text": "/"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.2.w.13",
+            "in": "page1170.text.div.1.p.4.s.2",
+            "space": true,
+            "text": "IP"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.2.w.21",
+            "in": "page1170.text.div.1.p.4.s.2",
+            "space": false,
+            "text": "gesproken"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.2.w.22",
+            "in": "page1170.text.div.1.p.4.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.1",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "Een"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.2",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "ander"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.3",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "veelgebruikt"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.4",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "protocol"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.5",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "wat"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.6",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "samen"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.7",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "met"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.8",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "IP"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.9",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "gebruikt"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.10",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "kan"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.11",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "worden"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.12",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.13",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.14",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "User"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.15",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "Datagram"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.16",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "Protocol"
+        },
+        {
+            "id": "page1170.text.div.1.p.4.s.3.w.17",
+            "in": "page1170.text.div.1.p.4.s.3",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.1",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": true,
+            "text": "Iedere"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.2",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": true,
+            "text": "afzonderlijke"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.3",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": true,
+            "text": "computer"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.4",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.5",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": true,
+            "text": "via"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.6",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": true,
+            "text": "IP"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.7",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": true,
+            "text": "communiceert"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.8",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": true,
+            "text": "met"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.9",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": true,
+            "text": "andere"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.10",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": true,
+            "text": "computers"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.11",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": true,
+            "text": "moet"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.12",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.13",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": true,
+            "text": "uniek"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.14",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": true,
+            "text": "adres"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.15",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": false,
+            "text": "hebben"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.1.w.16",
+            "in": "page1170.text.div.1.p.5.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.2.w.1",
+            "in": "page1170.text.div.1.p.5.s.2",
+            "space": true,
+            "text": "Aanvankelijk"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.2.w.2",
+            "in": "page1170.text.div.1.p.5.s.2",
+            "space": true,
+            "text": "had"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.2.w.3",
+            "in": "page1170.text.div.1.p.5.s.2",
+            "space": true,
+            "text": "iedere"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.2.w.4",
+            "in": "page1170.text.div.1.p.5.s.2",
+            "space": true,
+            "text": "netwerkkaart"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.2.w.5",
+            "in": "page1170.text.div.1.p.5.s.2",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.2.w.6",
+            "in": "page1170.text.div.1.p.5.s.2",
+            "space": true,
+            "text": "vast"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.2.w.7",
+            "in": "page1170.text.div.1.p.5.s.2",
+            "space": false,
+            "text": "adres"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.2.w.8",
+            "in": "page1170.text.div.1.p.5.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.1",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "Door"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.2",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.3",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "gebrek"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.4",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "aan"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.5",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": false,
+            "text": "adressen"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.6",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.7",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "wordt"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.8",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "nu"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.9",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "door"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.10",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "gebruikmaking"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.11",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.12",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "NAT"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.13",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.14",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "DHCP"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.15",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "meestal"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.16",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.17",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "tijdelijk"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.18",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "of"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.19",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.20",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "intern"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.21",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "IP-adres"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.22",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.23",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": false,
+            "text": "IP-nummer"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.24",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.25",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": false,
+            "text": "toegewezen"
+        },
+        {
+            "id": "page1170.text.div.1.p.5.s.3.w.26",
+            "in": "page1170.text.div.1.p.5.s.3",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.2.head.1.s.1.w.1",
+            "in": "page1170.text.div.2.head.1.s.1",
+            "space": true,
+            "text": "IPv4"
+        },
+        {
+            "id": "page1170.text.div.2.head.1.s.1.w.2",
+            "in": "page1170.text.div.2.head.1.s.1",
+            "space": true,
+            "text": "adres"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.1",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "Een"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.2",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "IPv4"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.3",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "adres"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.4",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "bestaat"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.5",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "uit"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.6",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "32"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.7",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": false,
+            "text": "bits"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.8",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.9",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "meestal"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.10",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "weergegeven"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.11",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "als"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.12",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "vier"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.13",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "8"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.14",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "bit"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.15",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "getallen"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.16",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "gescheiden"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.17",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "door"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.18",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": false,
+            "text": "punten"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.19",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.20",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "waarbij"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.21",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "ieder"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.22",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "getal"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.23",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.24",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "waarde"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.25",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "0"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.26",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": false,
+            "text": "t"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.27",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": false,
+            "text": "/"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.28",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "m"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.29",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "255"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.30",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "kan"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.31",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": false,
+            "text": "bevatten"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.1.w.32",
+            "in": "page1170.text.div.2.p.1.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.1",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "Een"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.2",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "deel"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.3",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.4",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "deze"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.5",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "32"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.6",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "bits"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.7",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "geeft"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.8",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.9",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "netwerk"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.10",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "nummer"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.11",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": false,
+            "text": "aan"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.12",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.13",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.14",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "andere"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.15",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "deel"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.16",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "geeft"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.17",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.18",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "host"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.19",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "nummer"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.20",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": false,
+            "text": "aan"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.2.w.21",
+            "in": "page1170.text.div.2.p.1.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.1",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "Een"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.2",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "apart"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.3",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "netmasker"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.4",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "bepaalt"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.5",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "welke"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.6",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "bits"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.7",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "bij"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.8",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.9",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "netwerk"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.10",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "nummer"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.11",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": false,
+            "text": "horen"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.12",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.13",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.14",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "welke"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.15",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "bij"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.16",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.17",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "host"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.18",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": false,
+            "text": "nummer"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.3.w.19",
+            "in": "page1170.text.div.2.p.1.s.3",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.1",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "Hosts"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.2",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.3",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": false,
+            "text": "computers"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.4",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.5",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "met"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.7",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "hezelfde"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.9",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "netwerknummer"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.10",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "kunnen"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.11",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "direct"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.12",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "met"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.13",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "elkaar"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.14",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": false,
+            "text": "communiceren"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.15",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.16",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "hosts"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.17",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "met"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.18",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.19",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "verschillend"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.20",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "netwerknummer"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.21",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "kunnen"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.22",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.23",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": false,
+            "text": "niet"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.24",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.25",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.26",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "maken"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.27",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "gebruik"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.28",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.29",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.30",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "of"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.31",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "meerdere"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.32",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "tussenliggende"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.33",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "routers"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.34",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "om"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.35",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "hun"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.36",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "doel"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.37",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "te"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.38",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": false,
+            "text": "bereiken"
+        },
+        {
+            "id": "page1170.text.div.2.p.1.s.4.w.39",
+            "in": "page1170.text.div.2.p.1.s.4",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.head.1.s.1.w.1",
+            "in": "page1170.text.div.3.head.1.s.1",
+            "space": true,
+            "text": "Structuur"
+        },
+        {
+            "id": "page1170.text.div.3.head.1.s.1.w.2",
+            "in": "page1170.text.div.3.head.1.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.3.head.1.s.1.w.3",
+            "in": "page1170.text.div.3.head.1.s.1",
+            "space": true,
+            "text": "IPv4"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.1.w.1",
+            "in": "page1170.text.div.3.p.1.s.1",
+            "space": true,
+            "text": "Een"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.1.w.2",
+            "in": "page1170.text.div.3.p.1.s.1",
+            "space": true,
+            "text": "IPv4-pakket"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.1.w.3",
+            "in": "page1170.text.div.3.p.1.s.1",
+            "space": true,
+            "text": "moet"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.1.w.4",
+            "in": "page1170.text.div.3.p.1.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.1.w.5",
+            "in": "page1170.text.div.3.p.1.s.1",
+            "space": true,
+            "text": "volgende"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.1.w.6",
+            "in": "page1170.text.div.3.p.1.s.1",
+            "space": true,
+            "text": "onderdelen"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.1.w.7",
+            "in": "page1170.text.div.3.p.1.s.1",
+            "space": false,
+            "text": "hebben"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.1.w.8",
+            "in": "page1170.text.div.3.p.1.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.2.w.1",
+            "in": "page1170.text.div.3.p.1.s.2",
+            "space": true,
+            "text": "De"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.2.w.2",
+            "in": "page1170.text.div.3.p.1.s.2",
+            "space": true,
+            "text": "hoeveelheid"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.2.w.3",
+            "in": "page1170.text.div.3.p.1.s.2",
+            "space": true,
+            "text": "ruimte"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.2.w.4",
+            "in": "page1170.text.div.3.p.1.s.2",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.2.w.5",
+            "in": "page1170.text.div.3.p.1.s.2",
+            "space": true,
+            "text": "voor"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.2.w.6",
+            "in": "page1170.text.div.3.p.1.s.2",
+            "space": true,
+            "text": "ieder"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.2.w.7",
+            "in": "page1170.text.div.3.p.1.s.2",
+            "space": true,
+            "text": "onderdeel"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.2.w.8",
+            "in": "page1170.text.div.3.p.1.s.2",
+            "space": true,
+            "text": "gereserveerd"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.2.w.9",
+            "in": "page1170.text.div.3.p.1.s.2",
+            "space": false,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.2.w.10",
+            "in": "page1170.text.div.3.p.1.s.2",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.2.w.11",
+            "in": "page1170.text.div.3.p.1.s.2",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.2.w.12",
+            "in": "page1170.text.div.3.p.1.s.2",
+            "space": true,
+            "text": "tussen"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.2.w.13",
+            "in": "page1170.text.div.3.p.1.s.2",
+            "space": true,
+            "text": "haakjes"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.2.w.14",
+            "in": "page1170.text.div.3.p.1.s.2",
+            "space": false,
+            "text": "gegeven"
+        },
+        {
+            "id": "page1170.text.div.3.p.1.s.2.w.15",
+            "in": "page1170.text.div.3.p.1.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.p.2.s.1.w.1",
+            "in": "page1170.text.div.3.p.2.s.1",
+            "space": true,
+            "text": "De"
+        },
+        {
+            "id": "page1170.text.div.3.p.2.s.1.w.2",
+            "in": "page1170.text.div.3.p.2.s.1",
+            "space": true,
+            "text": "zogenaamde"
+        },
+        {
+            "id": "page1170.text.div.3.p.2.s.1.w.3",
+            "in": "page1170.text.div.3.p.2.s.1",
+            "space": true,
+            "text": "Headers"
+        },
+        {
+            "id": "page1170.text.div.3.p.2.s.1.w.4",
+            "in": "page1170.text.div.3.p.2.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.1.s.1.w.1",
+            "in": "page1170.text.div.3.list.1.item.1.s.1",
+            "space": true,
+            "text": "Versie"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.1.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.1.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.1.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.1.s.1",
+            "space": true,
+            "text": "4"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.1.s.1.w.4",
+            "in": "page1170.text.div.3.list.1.item.1.s.1",
+            "space": false,
+            "text": "bits"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.1.s.1.w.5",
+            "in": "page1170.text.div.3.list.1.item.1.s.1",
+            "space": false,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.1.s.1.w.6",
+            "in": "page1170.text.div.3.list.1.item.1.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.1.s.2.w.1",
+            "in": "page1170.text.div.3.list.1.item.1.s.2",
+            "space": true,
+            "text": "In"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.1.s.2.w.2",
+            "in": "page1170.text.div.3.list.1.item.1.s.2",
+            "space": true,
+            "text": "dit"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.1.s.2.w.3",
+            "in": "page1170.text.div.3.list.1.item.1.s.2",
+            "space": true,
+            "text": "geval"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.1.s.2.w.4",
+            "in": "page1170.text.div.3.list.1.item.1.s.2",
+            "space": true,
+            "text": "4"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.1.w.1",
+            "in": "page1170.text.div.3.list.1.item.2.s.1",
+            "space": true,
+            "text": "Headerlengte"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.2.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.2.s.1",
+            "space": true,
+            "text": "4"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.1.w.4",
+            "in": "page1170.text.div.3.list.1.item.2.s.1",
+            "space": false,
+            "text": "bits"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.1.w.5",
+            "in": "page1170.text.div.3.list.1.item.2.s.1",
+            "space": false,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.1.w.6",
+            "in": "page1170.text.div.3.list.1.item.2.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.2.w.1",
+            "in": "page1170.text.div.3.list.1.item.2.s.2",
+            "space": true,
+            "text": "Lengte"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.2.w.2",
+            "in": "page1170.text.div.3.list.1.item.2.s.2",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.2.w.3",
+            "in": "page1170.text.div.3.list.1.item.2.s.2",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.2.w.4",
+            "in": "page1170.text.div.3.list.1.item.2.s.2",
+            "space": false,
+            "text": "headers"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.2.w.5",
+            "in": "page1170.text.div.3.list.1.item.2.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.3.w.1",
+            "in": "page1170.text.div.3.list.1.item.2.s.3",
+            "space": true,
+            "text": "Het"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.3.w.2",
+            "in": "page1170.text.div.3.list.1.item.2.s.3",
+            "space": true,
+            "text": "minimum"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.3.w.3",
+            "in": "page1170.text.div.3.list.1.item.2.s.3",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.3.w.4",
+            "in": "page1170.text.div.3.list.1.item.2.s.3",
+            "space": true,
+            "text": "20"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.3.w.5",
+            "in": "page1170.text.div.3.list.1.item.2.s.3",
+            "space": false,
+            "text": "bytes"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.3.w.6",
+            "in": "page1170.text.div.3.list.1.item.2.s.3",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.3.w.7",
+            "in": "page1170.text.div.3.list.1.item.2.s.3",
+            "space": true,
+            "text": "dus"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.3.w.8",
+            "in": "page1170.text.div.3.list.1.item.2.s.3",
+            "space": true,
+            "text": "wordt"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.3.w.9",
+            "in": "page1170.text.div.3.list.1.item.2.s.3",
+            "space": true,
+            "text": "daar"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.3.w.10",
+            "in": "page1170.text.div.3.list.1.item.2.s.3",
+            "space": true,
+            "text": "vanaf"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.3.w.11",
+            "in": "page1170.text.div.3.list.1.item.2.s.3",
+            "space": true,
+            "text": "geteld"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.3.w.12",
+            "in": "page1170.text.div.3.list.1.item.2.s.3",
+            "space": true,
+            "text": "voor"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.3.w.13",
+            "in": "page1170.text.div.3.list.1.item.2.s.3",
+            "space": false,
+            "text": "ruimtebesparing"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.3.w.14",
+            "in": "page1170.text.div.3.list.1.item.2.s.3",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.1",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": true,
+            "text": "Als"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.2",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": true,
+            "text": "dit"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.3",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": true,
+            "text": "veld"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.4",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": true,
+            "text": "bijvoorbeeld"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.5",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": true,
+            "text": "0001"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.6",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": false,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.7",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.8",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.9",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.10",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": true,
+            "text": "grootte"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.11",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.12",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.13",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": true,
+            "text": "headers"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.14",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": true,
+            "text": "21"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.15",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": false,
+            "text": "bytes"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.2.s.4.w.16",
+            "in": "page1170.text.div.3.list.1.item.2.s.4",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.1.w.1",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.1",
+            "space": true,
+            "text": "Differentiated"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.1",
+            "space": false,
+            "text": "Service"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.1",
+            "space": false,
+            "text": "/"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.1.w.4",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.1",
+            "space": true,
+            "text": "Type"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.1.w.5",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.1",
+            "space": true,
+            "text": "Of"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.1.w.6",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.1",
+            "space": true,
+            "text": "Service"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.1.w.7",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.1.w.8",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.1",
+            "space": true,
+            "text": "1"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.1.w.9",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.1",
+            "space": false,
+            "text": "byte"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.1.w.10",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.1",
+            "space": false,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.1.w.11",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.1",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.2",
+            "space": true,
+            "text": "Dit"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.2",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.2",
+            "space": true,
+            "text": "speelt"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.3",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.2",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.4",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.2",
+            "space": true,
+            "text": "rol"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.5",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.2",
+            "space": true,
+            "text": "bij"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.6",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.7",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.2",
+            "space": true,
+            "text": "bepalen"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.8",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.2",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.9",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.2",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.10",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.2",
+            "space": true,
+            "text": "route"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.11",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.2",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.12",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.13",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.2",
+            "space": true,
+            "text": "pakket"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.14",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.2",
+            "space": false,
+            "text": "aflegt"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.2.w.15",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.3.w.1",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.3",
+            "space": true,
+            "text": "Het"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.3.w.2",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.3",
+            "space": true,
+            "text": "wordt"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.3.w.3",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.3",
+            "space": true,
+            "text": "tegenwoordig"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.3.w.4",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.3",
+            "space": true,
+            "text": "gebruikt"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.3.w.5",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.3",
+            "space": true,
+            "text": "voor"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.3.w.6",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.3",
+            "space": true,
+            "text": "Quality"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.3.w.7",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.3",
+            "space": true,
+            "text": "of"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.3.w.8",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.3",
+            "space": true,
+            "text": "Service"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.3.w.9",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.3",
+            "space": true,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.3.w.10",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.3",
+            "space": true,
+            "text": "Qos"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.3.w.11",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.3",
+            "space": false,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.3.w.12",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.3",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.4.w.1",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.4",
+            "space": true,
+            "text": "Het"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.4.w.2",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.4",
+            "space": false,
+            "text": "TOS-veld"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.4.w.3",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.4",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.4.w.4",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.4",
+            "space": true,
+            "text": "4"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.4.w.5",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.4",
+            "space": false,
+            "text": "bits"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.4.w.6",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.4",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.4.w.7",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.4",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.4.w.8",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.4",
+            "space": true,
+            "text": "sinds"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.4.w.9",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.4",
+            "space": true,
+            "text": "RFC"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.4.w.10",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.4",
+            "space": true,
+            "text": "791"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.4.w.11",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.4",
+            "space": true,
+            "text": "als"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.4.w.12",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.4",
+            "space": true,
+            "text": "volgt"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.4.w.13",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.4",
+            "space": false,
+            "text": "gedefinieerd"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.p.1.s.4.w.14",
+            "in": "page1170.text.div.3.list.1.item.3.p.1.s.4",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.1.s.1.w.1",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.1.s.1",
+            "space": true,
+            "text": "0000"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.1.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.1.s.1",
+            "space": true,
+            "text": "Standaard"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1.w.1",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1",
+            "space": true,
+            "text": "0001"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1",
+            "space": true,
+            "text": "Minimale"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1",
+            "space": false,
+            "text": "\""
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1.w.4",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1",
+            "space": false,
+            "text": "Kosten"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1.w.5",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1",
+            "space": false,
+            "text": "\""
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1.w.6",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1.w.7",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1",
+            "space": true,
+            "text": "lage"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1.w.8",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.2.s.1",
+            "space": true,
+            "text": "prioriteit"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.3.s.1.w.1",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.3.s.1",
+            "space": true,
+            "text": "0010"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.3.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.3.s.1",
+            "space": true,
+            "text": "Maximale"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.3.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.3.s.1",
+            "space": true,
+            "text": "Betrouwbaarheid"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.4.s.1.w.1",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "0100"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.4.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "Maximale"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.4.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "Doorvoersnelheid"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.5.s.1.w.1",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.5.s.1",
+            "space": true,
+            "text": "1000"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.5.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.5.s.1",
+            "space": true,
+            "text": "Minimale"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.5.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.5.s.1",
+            "space": true,
+            "text": "Wachttijd"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.6.s.1.w.1",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.6.s.1",
+            "space": true,
+            "text": "1111"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.6.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.6.s.1",
+            "space": true,
+            "text": "Maximale"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.3.list.1.item.6.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.3.list.1.item.6.s.1",
+            "space": true,
+            "text": "Beveiliging"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.1",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "Totale"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "lengte"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.4",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "bytes"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.5",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.6",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "2"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.7",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": false,
+            "text": "bytes"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.8",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "):"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.9",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.10",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "grootte"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.11",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.12",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.13",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "pakket"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.14",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.15",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "gebruikt"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.16",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "om"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.17",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "vast"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.18",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "te"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.19",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "stellen"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.20",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "of"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.21",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "er"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.22",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "iets"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.23",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "verloren"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.24",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.25",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "gegaan"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.26",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.27",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "om"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.28",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "te"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.29",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "weten"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.30",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "waar"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.31",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.32",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": "pakket"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.33",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": false,
+            "text": "ophoudt"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.4.s.1.w.34",
+            "in": "page1170.text.div.3.list.1.item.4.s.1",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.1.w.1",
+            "in": "page1170.text.div.3.list.1.item.5.s.1",
+            "space": true,
+            "text": "Identificatie"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.5.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.5.s.1",
+            "space": true,
+            "text": "2"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.1.w.4",
+            "in": "page1170.text.div.3.list.1.item.5.s.1",
+            "space": false,
+            "text": "bytes"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.1.w.5",
+            "in": "page1170.text.div.3.list.1.item.5.s.1",
+            "space": false,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.1.w.6",
+            "in": "page1170.text.div.3.list.1.item.5.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.1",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": true,
+            "text": "Nodig"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.2",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": true,
+            "text": "voor"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.3",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.4",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": true,
+            "text": "uitfilteren"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.5",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.6",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": true,
+            "text": "foute"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.7",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": true,
+            "text": "pakketen"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.8",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.9",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.10",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": true,
+            "text": "aan"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.11",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": true,
+            "text": "elkaar"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.12",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": true,
+            "text": "plakken"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.13",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.14",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": true,
+            "text": "gefragmenteerde"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.15",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": false,
+            "text": "data"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.5.s.2.w.16",
+            "in": "page1170.text.div.3.list.1.item.5.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.6.s.1",
+            "space": false,
+            "text": "Vlaggen"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.6.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.1.w.4",
+            "in": "page1170.text.div.3.list.1.item.6.s.1",
+            "space": true,
+            "text": "3"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.1.w.6",
+            "in": "page1170.text.div.3.list.1.item.6.s.1",
+            "space": false,
+            "text": "bits"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.1.w.7",
+            "in": "page1170.text.div.3.list.1.item.6.s.1",
+            "space": false,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.1.w.8",
+            "in": "page1170.text.div.3.list.1.item.6.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.2.w.1",
+            "in": "page1170.text.div.3.list.1.item.6.s.2",
+            "space": true,
+            "text": "De"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.2.w.2",
+            "in": "page1170.text.div.3.list.1.item.6.s.2",
+            "space": true,
+            "text": "eerste"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.2.w.3",
+            "in": "page1170.text.div.3.list.1.item.6.s.2",
+            "space": true,
+            "text": "vlag"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.2.w.4",
+            "in": "page1170.text.div.3.list.1.item.6.s.2",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.2.w.5",
+            "in": "page1170.text.div.3.list.1.item.6.s.2",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.2.w.6",
+            "in": "page1170.text.div.3.list.1.item.6.s.2",
+            "space": false,
+            "text": "nog"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.2.w.7",
+            "in": "page1170.text.div.3.list.1.item.6.s.2",
+            "space": true,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.2.w.8",
+            "in": "page1170.text.div.3.list.1.item.6.s.2",
+            "space": false,
+            "text": "ongebruikt"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.2.w.9",
+            "in": "page1170.text.div.3.list.1.item.6.s.2",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.2.w.10",
+            "in": "page1170.text.div.3.list.1.item.6.s.2",
+            "space": true,
+            "text": "hij"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.2.w.11",
+            "in": "page1170.text.div.3.list.1.item.6.s.2",
+            "space": true,
+            "text": "moet"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.2.w.12",
+            "in": "page1170.text.div.3.list.1.item.6.s.2",
+            "space": true,
+            "text": "0"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.2.w.13",
+            "in": "page1170.text.div.3.list.1.item.6.s.2",
+            "space": false,
+            "text": "zijn"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.2.w.14",
+            "in": "page1170.text.div.3.list.1.item.6.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.3.w.1",
+            "in": "page1170.text.div.3.list.1.item.6.s.3",
+            "space": false,
+            "text": "Verder"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.3.w.2",
+            "in": "page1170.text.div.3.list.1.item.6.s.3",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.3.w.3",
+            "in": "page1170.text.div.3.list.1.item.6.s.3",
+            "space": true,
+            "text": "mag"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.3.w.4",
+            "in": "page1170.text.div.3.list.1.item.6.s.3",
+            "space": true,
+            "text": "dit"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.3.w.5",
+            "in": "page1170.text.div.3.list.1.item.6.s.3",
+            "space": true,
+            "text": "pakket"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.3.w.6",
+            "in": "page1170.text.div.3.list.1.item.6.s.3",
+            "space": true,
+            "text": "gefragmenteerd"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.3.w.7",
+            "in": "page1170.text.div.3.list.1.item.6.s.3",
+            "space": false,
+            "text": "worden"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.3.w.8",
+            "in": "page1170.text.div.3.list.1.item.6.s.3",
+            "space": true,
+            "text": "?"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.4.w.1",
+            "in": "page1170.text.div.3.list.1.item.6.s.4",
+            "space": true,
+            "text": "Is"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.4.w.2",
+            "in": "page1170.text.div.3.list.1.item.6.s.4",
+            "space": true,
+            "text": "dit"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.4.w.3",
+            "in": "page1170.text.div.3.list.1.item.6.s.4",
+            "space": true,
+            "text": "pakket"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.4.w.4",
+            "in": "page1170.text.div.3.list.1.item.6.s.4",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.4.w.5",
+            "in": "page1170.text.div.3.list.1.item.6.s.4",
+            "space": false,
+            "text": "fragment"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.6.s.4.w.6",
+            "in": "page1170.text.div.3.list.1.item.6.s.4",
+            "space": true,
+            "text": "?"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.7.s.1.w.1",
+            "in": "page1170.text.div.3.list.1.item.7.s.1",
+            "space": true,
+            "text": "Fragmentbegin"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.7.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.7.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.7.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.7.s.1",
+            "space": true,
+            "text": "13"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.7.s.1.w.4",
+            "in": "page1170.text.div.3.list.1.item.7.s.1",
+            "space": false,
+            "text": "bits"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.7.s.1.w.5",
+            "in": "page1170.text.div.3.list.1.item.7.s.1",
+            "space": false,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.7.s.1.w.6",
+            "in": "page1170.text.div.3.list.1.item.7.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.7.s.2.w.1",
+            "in": "page1170.text.div.3.list.1.item.7.s.2",
+            "space": true,
+            "text": "Waar"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.7.s.2.w.2",
+            "in": "page1170.text.div.3.list.1.item.7.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.7.s.2.w.3",
+            "in": "page1170.text.div.3.list.1.item.7.s.2",
+            "space": true,
+            "text": "fragment"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.7.s.2.w.4",
+            "in": "page1170.text.div.3.list.1.item.7.s.2",
+            "space": true,
+            "text": "begint"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.1.w.1",
+            "in": "page1170.text.div.3.list.1.item.8.s.1",
+            "space": true,
+            "text": "Time"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.8.s.1",
+            "space": true,
+            "text": "To"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.8.s.1",
+            "space": true,
+            "text": "Live"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.1.w.4",
+            "in": "page1170.text.div.3.list.1.item.8.s.1",
+            "space": true,
+            "text": "-"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.1.w.5",
+            "in": "page1170.text.div.3.list.1.item.8.s.1",
+            "space": false,
+            "text": "TTL"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.1.w.6",
+            "in": "page1170.text.div.3.list.1.item.8.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.1.w.7",
+            "in": "page1170.text.div.3.list.1.item.8.s.1",
+            "space": true,
+            "text": "1"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.1.w.8",
+            "in": "page1170.text.div.3.list.1.item.8.s.1",
+            "space": false,
+            "text": "byte"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.1.w.9",
+            "in": "page1170.text.div.3.list.1.item.8.s.1",
+            "space": false,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.1.w.10",
+            "in": "page1170.text.div.3.list.1.item.8.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.2.w.1",
+            "in": "page1170.text.div.3.list.1.item.8.s.2",
+            "space": true,
+            "text": "Aantal"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.2.w.2",
+            "in": "page1170.text.div.3.list.1.item.8.s.2",
+            "space": true,
+            "text": "hops"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.2.w.3",
+            "in": "page1170.text.div.3.list.1.item.8.s.2",
+            "space": true,
+            "text": "waarna"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.2.w.4",
+            "in": "page1170.text.div.3.list.1.item.8.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.2.w.5",
+            "in": "page1170.text.div.3.list.1.item.8.s.2",
+            "space": true,
+            "text": "pakket"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.2.w.6",
+            "in": "page1170.text.div.3.list.1.item.8.s.2",
+            "space": true,
+            "text": "moet"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.2.w.7",
+            "in": "page1170.text.div.3.list.1.item.8.s.2",
+            "space": false,
+            "text": "verdwijnen"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.2.w.8",
+            "in": "page1170.text.div.3.list.1.item.8.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.1",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "Iedere"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.2",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "hop"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.3",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "verlaagt"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.4",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.5",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "TTL"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.6",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.7",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.8",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "pakket"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.9",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "met"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.10",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "1"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.11",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.12",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "als"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.13",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "TTL"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.14",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "0"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.15",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": false,
+            "text": "wordt"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.16",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.17",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "zal"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.18",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.19",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "pakket"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.20",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "niet"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.22",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "verdergestuurd"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.24",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": false,
+            "text": "worden"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.8.s.3.w.25",
+            "in": "page1170.text.div.3.list.1.item.8.s.3",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": false,
+            "text": "Protocol"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.4",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": true,
+            "text": "1"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.6",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": false,
+            "text": "byte"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.7",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": true,
+            "text": "):"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.8",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.9",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": true,
+            "text": "protocol"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.10",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": true,
+            "text": "wat"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.11",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": true,
+            "text": "binnen"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.12",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": true,
+            "text": "dit"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.13",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": true,
+            "text": "IP-pakket"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.14",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": true,
+            "text": "gebruikt"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.15",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": false,
+            "text": "wordt"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.16",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.17",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": true,
+            "text": "zoals"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.18",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": true,
+            "text": "UDP"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.19",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": true,
+            "text": "of"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.9.s.1.w.20",
+            "in": "page1170.text.div.3.list.1.item.9.s.1",
+            "space": true,
+            "text": "TCP"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.10.s.1.w.1",
+            "in": "page1170.text.div.3.list.1.item.10.s.1",
+            "space": true,
+            "text": "Controlesom"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.10.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.10.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.10.s.1.w.4",
+            "in": "page1170.text.div.3.list.1.item.10.s.1",
+            "space": false,
+            "text": "headers"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.10.s.1.w.5",
+            "in": "page1170.text.div.3.list.1.item.10.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.10.s.1.w.6",
+            "in": "page1170.text.div.3.list.1.item.10.s.1",
+            "space": true,
+            "text": "2"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.10.s.1.w.8",
+            "in": "page1170.text.div.3.list.1.item.10.s.1",
+            "space": false,
+            "text": "bytes"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.10.s.1.w.9",
+            "in": "page1170.text.div.3.list.1.item.10.s.1",
+            "space": false,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.10.s.1.w.10",
+            "in": "page1170.text.div.3.list.1.item.10.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.10.s.2.w.1",
+            "in": "page1170.text.div.3.list.1.item.10.s.2",
+            "space": true,
+            "text": "Gebruikt"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.10.s.2.w.2",
+            "in": "page1170.text.div.3.list.1.item.10.s.2",
+            "space": true,
+            "text": "om"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.10.s.2.w.3",
+            "in": "page1170.text.div.3.list.1.item.10.s.2",
+            "space": true,
+            "text": "corrupte"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.10.s.2.w.4",
+            "in": "page1170.text.div.3.list.1.item.10.s.2",
+            "space": true,
+            "text": "pakketen"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.10.s.2.w.5",
+            "in": "page1170.text.div.3.list.1.item.10.s.2",
+            "space": true,
+            "text": "te"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.10.s.2.w.6",
+            "in": "page1170.text.div.3.list.1.item.10.s.2",
+            "space": false,
+            "text": "filteren"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.10.s.2.w.7",
+            "in": "page1170.text.div.3.list.1.item.10.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.11.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.11.s.1",
+            "space": false,
+            "text": "Bron"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.11.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.11.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.11.s.1.w.4",
+            "in": "page1170.text.div.3.list.1.item.11.s.1",
+            "space": true,
+            "text": "4"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.11.s.1.w.6",
+            "in": "page1170.text.div.3.list.1.item.11.s.1",
+            "space": false,
+            "text": "bytes"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.11.s.1.w.7",
+            "in": "page1170.text.div.3.list.1.item.11.s.1",
+            "space": true,
+            "text": "):"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.11.s.1.w.8",
+            "in": "page1170.text.div.3.list.1.item.11.s.1",
+            "space": true,
+            "text": "waar"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.11.s.1.w.9",
+            "in": "page1170.text.div.3.list.1.item.11.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.11.s.1.w.10",
+            "in": "page1170.text.div.3.list.1.item.11.s.1",
+            "space": true,
+            "text": "IP-pakket"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.11.s.1.w.11",
+            "in": "page1170.text.div.3.list.1.item.11.s.1",
+            "space": true,
+            "text": "vandaan"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.11.s.1.w.12",
+            "in": "page1170.text.div.3.list.1.item.11.s.1",
+            "space": true,
+            "text": "komt"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.12.s.1.w.2",
+            "in": "page1170.text.div.3.list.1.item.12.s.1",
+            "space": false,
+            "text": "Bestemming"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.12.s.1.w.3",
+            "in": "page1170.text.div.3.list.1.item.12.s.1",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.12.s.1.w.4",
+            "in": "page1170.text.div.3.list.1.item.12.s.1",
+            "space": true,
+            "text": "4"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.12.s.1.w.6",
+            "in": "page1170.text.div.3.list.1.item.12.s.1",
+            "space": false,
+            "text": "bytes"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.12.s.1.w.7",
+            "in": "page1170.text.div.3.list.1.item.12.s.1",
+            "space": false,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.12.s.1.w.8",
+            "in": "page1170.text.div.3.list.1.item.12.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.12.s.2.w.1",
+            "in": "page1170.text.div.3.list.1.item.12.s.2",
+            "space": true,
+            "text": "Waar"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.12.s.2.w.2",
+            "in": "page1170.text.div.3.list.1.item.12.s.2",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.12.s.2.w.3",
+            "in": "page1170.text.div.3.list.1.item.12.s.2",
+            "space": true,
+            "text": "pakket"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.12.s.2.w.4",
+            "in": "page1170.text.div.3.list.1.item.12.s.2",
+            "space": true,
+            "text": "naartoe"
+        },
+        {
+            "id": "page1170.text.div.3.list.1.item.12.s.2.w.5",
+            "in": "page1170.text.div.3.list.1.item.12.s.2",
+            "space": true,
+            "text": "moet"
+        },
+        {
+            "id": "page1170.text.div.3.p.3.s.1.w.1",
+            "in": "page1170.text.div.3.p.3.s.1",
+            "space": true,
+            "text": "Hierna"
+        },
+        {
+            "id": "page1170.text.div.3.p.3.s.1.w.2",
+            "in": "page1170.text.div.3.p.3.s.1",
+            "space": true,
+            "text": "volgt"
+        },
+        {
+            "id": "page1170.text.div.3.p.3.s.1.w.3",
+            "in": "page1170.text.div.3.p.3.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.3.p.3.s.1.w.4",
+            "in": "page1170.text.div.3.p.3.s.1",
+            "space": false,
+            "text": "data-gedeelte"
+        },
+        {
+            "id": "page1170.text.div.3.p.3.s.1.w.5",
+            "in": "page1170.text.div.3.p.3.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.3.p.3.s.1.w.6",
+            "in": "page1170.text.div.3.p.3.s.1",
+            "space": true,
+            "text": "wat"
+        },
+        {
+            "id": "page1170.text.div.3.p.3.s.1.w.7",
+            "in": "page1170.text.div.3.p.3.s.1",
+            "space": true,
+            "text": "bijvoorbeeld"
+        },
+        {
+            "id": "page1170.text.div.3.p.3.s.1.w.8",
+            "in": "page1170.text.div.3.p.3.s.1",
+            "space": true,
+            "text": "TCP"
+        },
+        {
+            "id": "page1170.text.div.3.p.3.s.1.w.9",
+            "in": "page1170.text.div.3.p.3.s.1",
+            "space": true,
+            "text": "of"
+        },
+        {
+            "id": "page1170.text.div.3.p.3.s.1.w.10",
+            "in": "page1170.text.div.3.p.3.s.1",
+            "space": true,
+            "text": "UDP"
+        },
+        {
+            "id": "page1170.text.div.3.p.3.s.1.w.11",
+            "in": "page1170.text.div.3.p.3.s.1",
+            "space": false,
+            "text": "bevat"
+        },
+        {
+            "id": "page1170.text.div.3.p.3.s.1.w.12",
+            "in": "page1170.text.div.3.p.3.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.4.head.1.s.1.w.1",
+            "in": "page1170.text.div.4.head.1.s.1",
+            "space": true,
+            "text": "IPv6"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.1",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": true,
+            "text": "Onder"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.2",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": true,
+            "text": "IPv6"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.3",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": true,
+            "text": "zijn"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.4",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.5",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": true,
+            "text": "aantal"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.6",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": true,
+            "text": "dingen"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.7",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": false,
+            "text": "anders"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.8",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.9",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": true,
+            "text": "waaronder"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.10",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.11",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": true,
+            "text": "grootte"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.12",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.13",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.14",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": true,
+            "text": "bron-"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.15",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.16",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": false,
+            "text": "bestemmings-adressen"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.1.w.17",
+            "in": "page1170.text.div.4.p.1.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.2.w.1",
+            "in": "page1170.text.div.4.p.1.s.2",
+            "space": true,
+            "text": "Deze"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.2.w.2",
+            "in": "page1170.text.div.4.p.1.s.2",
+            "space": true,
+            "text": "bestaan"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.2.w.3",
+            "in": "page1170.text.div.4.p.1.s.2",
+            "space": true,
+            "text": "uit"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.2.w.4",
+            "in": "page1170.text.div.4.p.1.s.2",
+            "space": true,
+            "text": "zestien"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.2.w.5",
+            "in": "page1170.text.div.4.p.1.s.2",
+            "space": false,
+            "text": "bytes"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.2.w.6",
+            "in": "page1170.text.div.4.p.1.s.2",
+            "space": false,
+            "text": "("
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.2.w.7",
+            "in": "page1170.text.div.4.p.1.s.2",
+            "space": false,
+            "text": "!"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.2.w.8",
+            "in": "page1170.text.div.4.p.1.s.2",
+            "space": false,
+            "text": ")"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.2.w.9",
+            "in": "page1170.text.div.4.p.1.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.1",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "Dat"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.2",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.3",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "ook"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.4",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.5",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "reden"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.6",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "waarom"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.7",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "IPv6"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.8",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "steeds"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.9",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "meer"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.10",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.11",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "zwang"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.12",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": false,
+            "text": "komt"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.13",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.14",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "IPv6"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.15",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "biedt"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.16",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.17",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "vrijwel"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.18",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "oneindig"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.19",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "aantal"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.20",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "mogelijke"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.21",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": false,
+            "text": "adressen"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.22",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.23",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "terwijl"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.24",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "IPv4"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.25",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "met"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.26",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "4"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.27",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "bytes"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.28",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "slechts"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.29",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "255"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.30",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "tot"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.31",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.32",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "4e"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.33",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "mogelijkheden"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.34",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": false,
+            "text": "geeft"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.35",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.36",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "dat"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.37",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.38",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "grofweg"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.39",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "4.2"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.40",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": false,
+            "text": "miljard"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.3.w.41",
+            "in": "page1170.text.div.4.p.1.s.3",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.1",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "Dat"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.2",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "lijkt"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.3",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": false,
+            "text": "veel"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.4",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.5",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "maar"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.6",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.7",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "groot"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.8",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "deel"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.9",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.10",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "al"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.11",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "gereserveerd"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.12",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "voor"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.13",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "allerlei"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.14",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": false,
+            "text": "subnets"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.15",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.16",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.17",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "daar"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.18",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "weer"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.19",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "gedeeltes"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.20",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.21",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": false,
+            "text": "gebruiken"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.4.w.22",
+            "in": "page1170.text.div.4.p.1.s.4",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.1",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": "Bovendien"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.2",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": "mag"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.3",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.4",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": "groot"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.5",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": "aantal"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.7",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": "addressen"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.9",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": "niet"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.10",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": "gebruikt"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.11",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": false,
+            "text": "worden"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.12",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.13",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": "zoals"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.14",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.15",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": "adressen"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.16",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.17",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": "beginnen"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.18",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": "met"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.19",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": false,
+            "text": "10"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.5.w.20",
+            "in": "page1170.text.div.4.p.1.s.5",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.6.w.1",
+            "in": "page1170.text.div.4.p.1.s.6",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.6.w.2",
+            "in": "page1170.text.div.4.p.1.s.6",
+            "space": false,
+            "text": "192.168"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.6.w.3",
+            "in": "page1170.text.div.4.p.1.s.6",
+            "space": false,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.7.w.1",
+            "in": "page1170.text.div.4.p.1.s.7",
+            "space": true,
+            "text": ","
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.7.w.2",
+            "in": "page1170.text.div.4.p.1.s.7",
+            "space": true,
+            "text": "aangezien"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.7.w.3",
+            "in": "page1170.text.div.4.p.1.s.7",
+            "space": true,
+            "text": "die"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.7.w.4",
+            "in": "page1170.text.div.4.p.1.s.7",
+            "space": true,
+            "text": "gereserveerd"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.7.w.5",
+            "in": "page1170.text.div.4.p.1.s.7",
+            "space": true,
+            "text": "zijn"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.7.w.6",
+            "in": "page1170.text.div.4.p.1.s.7",
+            "space": true,
+            "text": "voor"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.7.w.7",
+            "in": "page1170.text.div.4.p.1.s.7",
+            "space": true,
+            "text": "lokaal"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.7.w.8",
+            "in": "page1170.text.div.4.p.1.s.7",
+            "space": false,
+            "text": "gebruik"
+        },
+        {
+            "id": "page1170.text.div.4.p.1.s.7.w.9",
+            "in": "page1170.text.div.4.p.1.s.7",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.1.w.1",
+            "in": "page1170.text.div.4.p.2.s.1",
+            "space": true,
+            "text": "De"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.1.w.2",
+            "in": "page1170.text.div.4.p.2.s.1",
+            "space": true,
+            "text": "eerder"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.1.w.3",
+            "in": "page1170.text.div.4.p.2.s.1",
+            "space": true,
+            "text": "genoemde"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.1.w.4",
+            "in": "page1170.text.div.4.p.2.s.1",
+            "space": true,
+            "text": "onderdelen"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.1.w.5",
+            "in": "page1170.text.div.4.p.2.s.1",
+            "space": true,
+            "text": "vormen"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.1.w.6",
+            "in": "page1170.text.div.4.p.2.s.1",
+            "space": true,
+            "text": "niet"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.1.w.7",
+            "in": "page1170.text.div.4.p.2.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.1.w.8",
+            "in": "page1170.text.div.4.p.2.s.1",
+            "space": true,
+            "text": "gehele"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.1.w.9",
+            "in": "page1170.text.div.4.p.2.s.1",
+            "space": false,
+            "text": "pakket"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.1.w.10",
+            "in": "page1170.text.div.4.p.2.s.1",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.1",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "IP"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.2",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "kan"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.3",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "niet"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.4",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.5",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "zijn"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.6",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "eentje"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.7",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "voor"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.8",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.9",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "verbinding"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.10",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "tussen"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.11",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.12",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "ene"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.13",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "en"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.14",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.15",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "volgende"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.16",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": false,
+            "text": "\""
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.17",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": false,
+            "text": "hop"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.18",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "\""
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.19",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": false,
+            "text": "vormen"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.2.w.20",
+            "in": "page1170.text.div.4.p.2.s.2",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.1",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": true,
+            "text": "Hiervoor"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.2",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": true,
+            "text": "is"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.3",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": true,
+            "text": "voor"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.4",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": true,
+            "text": "iedere"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.5",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": true,
+            "text": "hop"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.6",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": true,
+            "text": "een"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.7",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": true,
+            "text": "andere"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.8",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": false,
+            "text": "\""
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.9",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": false,
+            "text": "envelop"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.10",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": true,
+            "text": "\""
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.11",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": false,
+            "text": "nodig"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.12",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.13",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": true,
+            "text": "de"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.14",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": true,
+            "text": "data-link"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.15",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": false,
+            "text": "laag"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.3.w.16",
+            "in": "page1170.text.div.4.p.2.s.3",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.4.w.1",
+            "in": "page1170.text.div.4.p.2.s.4",
+            "space": true,
+            "text": "Dit"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.4.w.2",
+            "in": "page1170.text.div.4.p.2.s.4",
+            "space": true,
+            "text": "kan"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.4.w.3",
+            "in": "page1170.text.div.4.p.2.s.4",
+            "space": true,
+            "text": "bijvoorbeeld"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.4.w.4",
+            "in": "page1170.text.div.4.p.2.s.4",
+            "space": true,
+            "text": "TCP"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.4.w.5",
+            "in": "page1170.text.div.4.p.2.s.4",
+            "space": true,
+            "text": "of"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.4.w.6",
+            "in": "page1170.text.div.4.p.2.s.4",
+            "space": true,
+            "text": "UDP"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.4.w.7",
+            "in": "page1170.text.div.4.p.2.s.4",
+            "space": false,
+            "text": "zijn"
+        },
+        {
+            "id": "page1170.text.div.4.p.2.s.4.w.8",
+            "in": "page1170.text.div.4.p.2.s.4",
+            "space": true,
+            "text": "."
+        },
+        {
+            "id": "page1170.text.div.5.head.1.s.1.w.1",
+            "in": "page1170.text.div.5.head.1.s.1",
+            "space": true,
+            "text": "Zie"
+        },
+        {
+            "id": "page1170.text.div.5.head.1.s.1.w.2",
+            "in": "page1170.text.div.5.head.1.s.1",
+            "space": true,
+            "text": "ook"
+        },
+        {
+            "id": "page1170.text.div.5.list.1.item.1.s.1.w.1",
+            "in": "page1170.text.div.5.list.1.item.1.s.1",
+            "space": true,
+            "text": "Internet"
+        },
+        {
+            "id": "page1170.text.div.5.list.1.item.1.s.1.w.2",
+            "in": "page1170.text.div.5.list.1.item.1.s.1",
+            "space": true,
+            "text": "Protocol"
+        },
+        {
+            "id": "page1170.text.div.5.list.1.item.1.s.1.w.3",
+            "in": "page1170.text.div.5.list.1.item.1.s.1",
+            "space": true,
+            "text": "Version"
+        },
+        {
+            "id": "page1170.text.div.5.list.1.item.1.s.1.w.4",
+            "in": "page1170.text.div.5.list.1.item.1.s.1",
+            "space": true,
+            "text": "6"
+        },
+        {
+            "id": "page1170.text.div.6.head.1.s.1.w.1",
+            "in": "page1170.text.div.6.head.1.s.1",
+            "space": true,
+            "text": "Externe"
+        },
+        {
+            "id": "page1170.text.div.6.head.1.s.1.w.2",
+            "in": "page1170.text.div.6.head.1.s.1",
+            "space": true,
+            "text": "Links"
+        },
+        {
+            "id": "page1170.text.div.6.p.1.s.1.w.1",
+            "in": "page1170.text.div.6.p.1.s.1",
+            "space": true,
+            "text": "Technische"
+        },
+        {
+            "id": "page1170.text.div.6.p.1.s.1.w.2",
+            "in": "page1170.text.div.6.p.1.s.1",
+            "space": true,
+            "text": "specificatie"
+        },
+        {
+            "id": "page1170.text.div.6.p.1.s.1.w.3",
+            "in": "page1170.text.div.6.p.1.s.1",
+            "space": true,
+            "text": "van"
+        },
+        {
+            "id": "page1170.text.div.6.p.1.s.1.w.4",
+            "in": "page1170.text.div.6.p.1.s.1",
+            "space": true,
+            "text": "het"
+        },
+        {
+            "id": "page1170.text.div.6.p.1.s.1.w.5",
+            "in": "page1170.text.div.6.p.1.s.1",
+            "space": true,
+            "text": "Internet"
+        },
+        {
+            "id": "page1170.text.div.6.p.1.s.1.w.6",
+            "in": "page1170.text.div.6.p.1.s.1",
+            "space": true,
+            "text": "Protocol"
+        },
+        {
+            "id": "page1170.text.div.6.p.1.s.1.w.7",
+            "in": "page1170.text.div.6.p.1.s.1",
+            "space": true,
+            "text": "in"
+        },
+        {
+            "id": "page1170.text.div.6.p.1.s.1.w.8",
+            "in": "page1170.text.div.6.p.1.s.1",
+            "space": true,
+            "text": "RFC"
+        },
+        {
+            "id": "page1170.text.div.6.p.1.s.1.w.9",
+            "in": "page1170.text.div.6.p.1.s.1",
+            "space": false,
+            "text": "791"
+        },
+        {
+            "id": "page1170.text.div.6.p.1.s.1.w.10",
+            "in": "page1170.text.div.6.p.1.s.1",
+            "space": true,
+            "text": ":"
+        },
+        {
+            "id": "page1170.text.div.6.p.1.s.1.w.11",
+            "in": "page1170.text.div.6.p.1.s.1",
+            "space": true,
+            "text": "http://www.ietf.org/rfc/rfc0791.txt"
+        },
+        {
+            "id": "page1170.text.div.6.list.1.item.1.s.1.w.1",
+            "in": "page1170.text.div.6.list.1.item.1.s.1",
+            "space": true,
+            "text": "Bekijk"
+        },
+        {
+            "id": "page1170.text.div.6.list.1.item.1.s.1.w.2",
+            "in": "page1170.text.div.6.list.1.item.1.s.1",
+            "space": true,
+            "text": "je"
+        },
+        {
+            "id": "page1170.text.div.6.list.1.item.1.s.1.w.3",
+            "in": "page1170.text.div.6.list.1.item.1.s.1",
+            "space": true,
+            "text": "eigen"
+        },
+        {
+            "id": "page1170.text.div.6.list.1.item.1.s.1.w.4",
+            "in": "page1170.text.div.6.list.1.item.1.s.1",
+            "space": true,
+            "text": "IP-adres"
+        }
+    ]
+}
