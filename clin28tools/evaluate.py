@@ -11,7 +11,6 @@ def main():
     parser = argparse.ArgumentParser(description="CLIN 28 Evaluation script", formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     parser.add_argument('--ref', type=str,help="Reference output (JSON)", action='store',required=True)
     parser.add_argument('--out', type=str,help="System output to evaluate (JSON)", action='store',required=True)
-    parser.add_argument('--noconfidence', help="Do not do take into account confidence scores (no weighting)", action='store_true', default=False)
     parser.add_argument('--withnumbers', help="Do not skip corrections on numbers", action='store_true', default=False)
     parser.add_argument('--ignoreclasses', type=str,help="Correction classes to ignore (comma-separated list)", action='store', default=False)
     args = parser.parse_args()
@@ -28,6 +27,9 @@ def main():
     truepos = defaultdict(float)
     falsepos = 0.0
     falseneg = defaultdict(float)
+    truepos_correction = defaultdict(float)
+    falsepos_correction = 0.0
+    falseneg_correction = defaultdict(float)
     #correction
     correct = defaultdict(float)
     incorrect = defaultdict(float)
@@ -49,12 +51,10 @@ def main():
             if 'span' in refcorrection and 'span' in outcorrection:
                 if refcorrection['span'] == outcorrection['span']:
                     outcorrection['found'] = found = True
-                    confidence = outcorrection['confidence'] if 'confidence' in outcorrection and not args.noconfidence else 1.0
                     span = True
             elif 'after' in refcorrection and 'after' in outcorrection:
                 if refcorrection['after'] == outcorrection['after']:
                     outcorrection['found'] = found = True
-                    confidence = outcorrection['confidence'] if 'confidence' in outcorrection and not args.noconfidence else 1.0
                     span = False
             if found: break #no need to look further
 
@@ -69,15 +69,16 @@ def main():
 
                 if refcorrection['text'] == outcorrection['text']: #case sensitive!
                     for corclass in ('all',refcorrection['class']):
-                        correct[corclass] += confidence
+                        truepos_correction[corclass] += 1
                     print("\t[CORRECT]",file=sys.stderr)
                 else:
                     for corclass in ('all',refcorrection['class']):
-                        incorrect[corclass] += confidence
+                        falseneg_correction[corclass] += 1
                     print("\t[INCORRECT] Should be: " + refcorrection['text'],file=sys.stderr)
             else:
                 for corclass in ('all',refcorrection['class']):
                     falseneg[corclass] += 1
+                    falseneg_correction[corclass] += 1 #a missed detection is a missed correction too
                 if 'span' in refcorrection:
                     print("[DETECTION MISS] " + ";".join(refcorrection['span']) + ": " + " ".join([ refdata[wordid]['text'] for wordid in refcorrection['span'] ]) + " -> " + refcorrection['text'],file=sys.stderr)
                 else:
@@ -90,7 +91,6 @@ def main():
             if  not args.withnumbers and (outcorrection['text'].isdigit() or ('span' in outcorrection and " ".join([ refdata[wordid]['text'] for wordid in outcorrection['span'] if wordid in refdata ]).isdigit())):
                 print("[DETECTION SKIPPED] " + outcorrection['text'],file=sys.stderr)
                 continue
-            confidence = outcorrection['confidence'] if 'confidence' in outcorrection and not args.noconfidence else 1.0
             falsepos += 1
             if 'span' in outcorrection:
                 try:
@@ -109,22 +109,20 @@ def main():
                 'recall': truepos[corclass] / (truepos[corclass] + falseneg[corclass]) if truepos[corclass]+falseneg[corclass] else 0.0
             },
             'correction': {
-                'correct': correct[corclass],
-                'incorrect': incorrect[corclass],
-                'accuracy': correct[corclass] / (correct[corclass] + incorrect[corclass]) if correct[corclass]+incorrect[corclass] else 0.0
-            },
-            'both': {
-                'recall': correct[corclass] / (truepos[corclass] + falseneg[corclass]) if truepos[corclass]+falseneg[corclass] else 0.0
+                'truepos': truepos_correction[corclass],
+                'falseneg': falseneg_correction[corclass],
+                'recall': truepos_correction[corclass] / (truepos_correction[corclass] + falseneg_correction[corclass]) if truepos_correction[corclass]+falseneg_correction[corclass] else 0.0
             }
         }
         if corclass == 'all':
             evaluation[corclass]['detection']['falsepos'] = falsepos
+            evaluation[corclass]['correction']['falsepos'] = falsepos
             evaluation[corclass]['detection']['precision'] =  truepos[corclass] / (truepos[corclass] + falsepos) if truepos[corclass] + falsepos else 0.0
-            evaluation[corclass]['both']['precision'] =  correct[corclass] / (truepos[corclass] + falsepos) if truepos[corclass] + falsepos else 0.0
+            evaluation[corclass]['correction']['precision'] =  truepos_correction[corclass] / (truepos_correction[corclass] + falsepos) if truepos_correction[corclass] + falsepos else 0.0
             if evaluation[corclass]['detection']['precision'] + evaluation[corclass]['detection']['recall'] > 0:
                 evaluation[corclass]['detection']['f1score'] = 2 * ((evaluation[corclass]['detection']['precision'] * evaluation[corclass]['detection']['recall']) / (evaluation[corclass]['detection']['precision'] + evaluation[corclass]['detection']['recall']))
-            if evaluation[corclass]['both']['precision'] + evaluation[corclass]['both']['recall'] > 0:
-                evaluation[corclass]['both']['f1score'] = 2 * ((evaluation[corclass]['both']['precision'] * evaluation[corclass]['both']['recall']) / (evaluation[corclass]['both']['precision'] + evaluation[corclass]['both']['recall']))
+            if evaluation[corclass]['correction']['precision'] + evaluation[corclass]['correction']['recall'] > 0:
+                evaluation[corclass]['correction']['f1score'] = 2 * ((evaluation[corclass]['correction']['precision'] * evaluation[corclass]['correction']['recall']) / (evaluation[corclass]['correction']['precision'] + evaluation[corclass]['correction']['recall']))
 
     print(json.dumps(evaluation, indent=4))
 
