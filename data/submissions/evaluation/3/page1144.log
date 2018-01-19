@@ -42,6 +42,8 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1144.text.div.6.p.3.s.1.w.17'], 'superclass': 'replace', 'text': 'oerknal'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1144.text.div.8.list.1.item.2.list.1.item.1.s.1.w.1'], 'superclass': 'replace', 'text': 'Standard'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1144.text.div.8.list.1.item.3.list.1.item.2.s.1.w.1'], 'superclass': 'replace', 'text': 'Babel'} will be ignored!
+WARNING: Duplicate entry for span  page1144.text.div.5.p.4.s.3.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1144.text.div.5.p.4.s.4.w.18 .. ignoring all but the first one!
 [DETECTION MATCH] page1144.text.div.1.p.2.s.1.w.16;page1144.text.div.1.p.2.s.1.w.17: helium kernen -> heliumkernen
 	[CORRECT]
 [DETECTION MATCH] page1144.text.div.2.p.1.s.1.w.9: balonnen -> ballonnen
@@ -144,14 +146,12 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1144.text.div.5.p.4.s.2.w.1: Dit -> Dat
 [DETECTION WRONG] page1144.text.div.5.p.4.s.3.w.1: En -> en
 [DETECTION WRONG] INSERTION AFTER page1144.text.div.5.p.4.s.3.w.1: op
-[DETECTION WRONG] page1144.text.div.5.p.4.s.3.w.1: En -> En
 [DETECTION WRONG] page1144.text.div.5.p.4.s.3.w.2;page1144.text.div.5.p.4.s.3.w.3: 4 He -> 4He
 [DETECTION WRONG] page1144.text.div.5.p.4.s.3.w.9;page1144.text.div.5.p.4.s.3.w.10: 3 He -> 3He
 [DETECTION WRONG] page1144.text.div.5.p.4.s.3.w.18: paren -> parken
 [DETECTION WRONG] page1144.text.div.5.p.4.s.4.w.2: paar -> jaar
 [DETECTION WRONG] INSERTION AFTER page1144.text.div.5.p.4.s.4.w.1: tien
 [DETECTION WRONG] page1144.text.div.5.p.4.s.4.w.18: boson -> boon
-[DETECTION WRONG] page1144.text.div.5.p.4.s.4.w.18: boson -> zoon
 [DETECTION WRONG] page1144.text.div.6.p.1.s.1.w.7;page1144.text.div.6.p.1.s.1.w.8: 4 He -> 4He
 [DETECTION WRONG] INSERTION AFTER page1144.text.div.6.p.1.s.2.w.3: zeer
 [DETECTION WRONG] INSERTION AFTER page1144.text.div.6.p.1.s.2.w.10: van

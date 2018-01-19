@@ -18,6 +18,9 @@ WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text
 WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'NM', 'span': ['page1353.text.div.3.list.1.item.1.s.1.w.6'], 'class': 'replace'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'NY', 'span': ['page1353.text.div.3.list.1.item.1.s.1.w.6'], 'class': 'replace'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text': 'Ltd', 'span': ['page1353.text.div.3.list.2.item.3.s.1.w.22'], 'class': 'redundantpunctuation'} will be ignored!
+WARNING: Duplicate entry for span  page1353.text.div.1.p.5.s.1.w.14 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1353.text.div.1.div.1.p.1.s.3.w.21 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1353.text.div.3.list.1.item.1.s.1.w.6 .. ignoring all but the first one!
 [DETECTION MATCH] page1353.text.div.1.p.6.s.1.w.10: Jumbojet -> jumbojet
 	[CORRECT]
 [DETECTION MISS] page1353.text.div.1.p.6.s.2.w.22: Jumbojet -> jumbojet
@@ -41,11 +44,9 @@ WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text
 [DETECTION WRONG] INSERTION AFTER page1353.text.div.1.p.4.s.1.w.16: een
 [DETECTION WRONG] INSERTION AFTER page1353.text.div.1.p.4.s.1.w.17: generatie
 [DETECTION WRONG] page1353.text.div.1.p.5.s.1.w.14: NLM -> NLD
-[DETECTION WRONG] page1353.text.div.1.p.5.s.1.w.14: NLM -> VLD
 [DETECTION WRONG] page1353.text.div.1.p.6.s.2.w.27;page1353.text.div.1.p.6.s.2.w.28: Am -toestel -> Am-toestel
 [DETECTION WRONG] page1353.text.div.1.p.6.s.2.w.26;page1353.text.div.1.p.6.s.2.w.27: Pan Am -> PanAm-toestel
 [DETECTION WRONG] page1353.text.div.1.div.1.p.1.s.3.w.21: hub -> dub
-[DETECTION WRONG] page1353.text.div.1.div.1.p.1.s.3.w.21: hub -> duo
 [DETECTION WRONG] page1353.text.div.1.div.1.p.1.s.5.w.23: die -> de
 [DETECTION WRONG] page1353.text.div.1.div.1.p.1.s.7.w.16: moest -> moet
 [DETECTION WRONG] INSERTION AFTER page1353.text.div.1.div.1.p.1.s.7.w.19: de
@@ -63,6 +64,5 @@ WARNING: Unknown key 'superclass' for correction {'superclass': 'replace', 'text
 [DETECTION WRONG] page1353.text.div.2.div.2.p.1.s.1.w.5: KLM -> KM
 [DETECTION WRONG] page1353.text.div.2.div.2.p.1.s.1.w.15: 777-vloot -> 737-vloot
 [DETECTION WRONG] page1353.text.div.3.list.1.item.1.s.1.w.6: NLM -> NM
-[DETECTION WRONG] page1353.text.div.3.list.1.item.1.s.1.w.6: NLM -> NY
 [DETECTION WRONG] page1353.text.div.3.list.2.item.3.s.1.w.22: Ltd. -> Ltd
 [DETECTION WRONG] INSERTION AFTER page1353.text.div.4.list.1.item.2.s.1.w.2: en

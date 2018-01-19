@@ -28,6 +28,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1239.text.p.6.s.2.w.14'], 'superclass': 'replace', 'text': 'Proto-Indo-Europees'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1239.text.div.1.list.1.item.1.s.1.w.16'], 'superclass': 'replace', 'text': 'Quentin'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1239.text.div.1.list.1.item.2.s.1.w.3'], 'superclass': 'replace', 'text': '2'} will be ignored!
+WARNING: Duplicate entry for span  page1239.text.p.1.s.1.w.12 .. ignoring all but the first one!
 [DETECTION MISS] page1239.text.p.1.s.2.w.6: Indo-europees -> Indo-Europees
 [DETECTION MISS] page1239.text.p.1.s.2.w.9: Indogermaans -> Indo-Germaans
 [DETECTION MATCH] page1239.text.p.3.s.1.w.8: Indo-europese -> Indo-Europese
@@ -51,7 +52,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1239.text.p.1.s.1.w.2: Indo-Europese -> Indo-europese
 [DETECTION WRONG] page1239.text.p.1.s.1.w.12: talen -> talent
 [DETECTION WRONG] INSERTION AFTER page1239.text.p.1.s.1.w.12: gaan
-[DETECTION WRONG] page1239.text.p.1.s.1.w.12: talen -> talen
 [DETECTION WRONG] page1239.text.p.2.s.1.w.6: talen -> malen
 [DETECTION WRONG] INSERTION AFTER page1239.text.p.2.s.2.w.12: ook
 [DETECTION WRONG] INSERTION AFTER page1239.text.p.2.s.3.w.22: gaat

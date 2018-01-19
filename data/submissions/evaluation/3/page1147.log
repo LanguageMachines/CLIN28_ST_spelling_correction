@@ -64,6 +64,12 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1147.text.div.6.list.1.item.35.s.1.w.1'], 'superclass': 'replace', 'text': 'Victor'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1147.text.div.7.list.1.item.5.s.1.w.5'], 'superclass': 'replace', 'text': '?'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1147.text.div.7.list.1.item.5.s.1.w.3'], 'superclass': 'replace', 'text': '9'} will be ignored!
+WARNING: Duplicate entry for span  page1147.text.div.1.p.5.s.2.w.14 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1147.text.div.2.div.3.quote.1.p.1.s.1.w.3 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1147.text.div.2.div.3.quote.1.p.1.s.1.w.26 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1147.text.div.2.div.3.quote.1.p.1.s.1.w.35 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1147.text.div.5.p.2.s.1.w.6 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1147.text.div.6.list.1.item.25.s.1.w.1 .. ignoring all but the first one!
 [DETECTION MATCH] page1147.text.div.1.p.2.s.1.w.8: eiggennaam -> eigennaam
 	[CORRECT]
 [DETECTION MISS] page1147.text.div.1.p.3.s.1.w.21: Christelijke -> christelijke
@@ -104,7 +110,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1147.text.div.1.p.5.s.2.w.4;page1147.text.div.1.p.5.s.2.w.5: onder koning -> onderkoning
 [DETECTION WRONG] page1147.text.div.1.p.5.s.2.w.14: Muhi -> Muri
 [DETECTION WRONG] page1147.text.div.1.p.5.s.2.w.15: en -> in
-[DETECTION WRONG] page1147.text.div.1.p.5.s.2.w.14: Muhi -> Mori
 [DETECTION WRONG] page1147.text.div.1.p.5.s.4.w.18: blijken -> blijven
 [DETECTION WRONG] page1147.text.div.1.p.6.s.1.w.6: 14e -> 16e
 [DETECTION WRONG] INSERTION AFTER page1147.text.div.1.p.6.s.1.w.7: ,
@@ -125,11 +130,8 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1147.text.div.2.div.2.list.1.item.4.s.1.w.5: MDF -> MIF
 [DETECTION WRONG] page1147.text.div.2.div.2.list.1.item.4.s.1.w.8: Dávid -> David
 [DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.3: Baranya -> Baranja
-[DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.3: Baranya -> Baraja
 [DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.26: Fejér -> Fehér
-[DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.26: Fejér -> Feher
 [DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.35: Heves -> Hever
-[DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.35: Heves -> Dever
 [DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.64: Pest -> mest
 [DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.88: Tolna -> Tolsa
 [DETECTION WRONG] page1147.text.div.2.div.3.quote.1.p.1.s.1.w.90: Vas -> Bas
@@ -145,7 +147,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1147.text.div.5.p.1.s.1.w.20: karpaten -> Karpaten
 [DETECTION WRONG] INSERTION AFTER page1147.text.div.5.p.1.s.2.w.3: ,
 [DETECTION WRONG] INSERTION AFTER page1147.text.div.5.p.1.s.2.w.15: moet
-[DETECTION WRONG] page1147.text.div.5.p.2.s.1.w.6: tweeen -> tweeën
 [DETECTION WRONG] INSERTION AFTER page1147.text.div.5.p.2.s.1.w.15: in
 [DETECTION WRONG] page1147.text.div.5.p.2.s.2.w.9: Dráva -> Drava
 [DETECTION SKIPPED] 11
@@ -165,7 +166,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1147.text.div.6.list.1.item.16.s.1.w.1: Miklós -> Miklos
 [DETECTION WRONG] page1147.text.div.6.list.1.item.25.s.1.w.1: Ferenc -> Ferenci
 [DETECTION WRONG] INSERTION AFTER page1147.text.div.6.list.1.item.25.s.1.w.1: Puskas
-[DETECTION WRONG] page1147.text.div.6.list.1.item.25.s.1.w.1: Ferenc -> Ferenc
 [DETECTION WRONG] page1147.text.div.6.list.1.item.25.s.1.w.3: Franz -> Frans
 [DETECTION WRONG] page1147.text.div.6.list.1.item.30.s.1.w.3: Margittai -> Margitta
 [DETECTION WRONG] page1147.text.div.6.list.1.item.33.s.1.w.1: Márta -> Marta

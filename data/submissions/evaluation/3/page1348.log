@@ -26,6 +26,9 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.8.s.2.w.15'], 'superclass': 'replace', 'text': 'Cappadocië'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.8.s.5.w.9'], 'superclass': 'replace', 'text': 'Chazaren'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1348.text.p.8.s.9.w.9'], 'superclass': 'replace', 'text': 'Heraclitus'} will be ignored!
+WARNING: Duplicate entry for span  page1348.text.p.6.s.1.w.8 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1348.text.p.7.s.3.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1348.text.p.8.s.1.w.12 .. ignoring all but the first one!
 [DETECTION MATCH] page1348.text.p.2.s.2.w.17: bislissingen -> beslissingen
 	[CORRECT]
 [DETECTION MATCH] page1348.text.p.2.s.4.w.6: Concilie -> concilie
@@ -60,7 +63,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1348.text.p.6.s.1.w.5: zat -> zal
 [DETECTION WRONG] page1348.text.p.6.s.1.w.8: mee -> meer
 [DETECTION WRONG] INSERTION AFTER page1348.text.p.6.s.1.w.8: eens
-[DETECTION WRONG] page1348.text.p.6.s.1.w.8: mee -> mee
 [DETECTION WRONG] page1348.text.p.6.s.2.w.7: Boerenwet -> Boerenweg
 [DETECTION WRONG] INSERTION AFTER page1348.text.p.6.s.3.w.2: geen
 [DETECTION WRONG] INSERTION AFTER page1348.text.p.6.s.4.w.12: financiële
@@ -69,12 +71,10 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] INSERTION AFTER page1348.text.p.7.s.2.w.12: Oslo
 [DETECTION WRONG] INSERTION AFTER page1348.text.p.7.s.2.w.17: stil
 [DETECTION WRONG] page1348.text.p.7.s.3.w.11: pijp -> pijl
-[DETECTION WRONG] page1348.text.p.7.s.3.w.11: pijp -> pijn
 [DETECTION WRONG] page1348.text.p.7.s.3.w.14;page1348.text.p.7.s.3.w.15: aquaduct en -> aquaducten
 [DETECTION WRONG] INSERTION AFTER page1348.text.p.7.s.4.w.7: ,
 [DETECTION WRONG] page1348.text.p.8.s.1.w.12: met -> het
 [DETECTION WRONG] INSERTION AFTER page1348.text.p.8.s.1.w.12: zijn
-[DETECTION WRONG] page1348.text.p.8.s.1.w.12: met -> met
 [DETECTION WRONG] page1348.text.p.8.s.1.w.14;page1348.text.p.8.s.1.w.15: buit en -> buiten
 [DETECTION WRONG] page1348.text.p.8.s.2.w.10: fort -> kort
 [DETECTION WRONG] page1348.text.p.8.s.4.w.11;page1348.text.p.8.s.4.w.12: opstand en -> opstanden

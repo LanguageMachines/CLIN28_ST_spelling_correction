@@ -544,6 +544,518 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1161.text.div.5.div.2.list.1.item.1.s.1.w.1'], 'superclass': 'replace', 'text': 'Netwerk-'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1161.text.div.5.div.3.list.1.item.1.s.1.w.1'], 'superclass': 'replace', 'text': 'FrP'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1161.text.div.5.div.3.list.1.item.2.s.1.w.1'], 'superclass': 'replace', 'text': 'IOC'} will be ignored!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.1.s.4.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.p.2.s.2.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.div.1.p.3.s.5.w.6 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.div.2.p.4.s.1.w.23 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.div.2.p.5.s.1.w.26 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1161.text.div.2.p.5.s.4.w.13 .. ignoring all but the first one!
 [DETECTION MISS] page1161.text.p.2.s.5.w.8;page1161.text.p.2.s.5.w.9: Inter connected -> Interconnected
 [DETECTION MATCH] page1161.text.p.2.s.5.w.10;page1161.text.p.2.s.5.w.11: Net works -> Networks
 	[CORRECT]
@@ -561,516 +1073,8 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] INSERTION AFTER page1161.text.p.1.s.3.w.7: ,
 [DETECTION WRONG] INSERTION AFTER page1161.text.p.1.s.3.w.15: officiële
 [DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> SP
-[DETECTION WRONG] page1161.text.p.1.s.4.w.11: IP -> IP
 [DETECTION WRONG] page1161.text.p.1.s.5.w.7: die -> de
 [DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> en
-[DETECTION WRONG] page1161.text.p.2.s.2.w.12: een -> een
 [DETECTION WRONG] page1161.text.p.2.s.4.w.22: weldegelijk -> wel degelijk
 [DETECTION WRONG] INSERTION AFTER page1161.text.p.2.s.4.w.25: gevonden
 [DETECTION WRONG] INSERTION AFTER page1161.text.p.2.s.5.w.1: wetenschappelijke
@@ -1085,7 +1089,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1161.text.div.1.p.3.s.2.w.10: Web-project -> WeG-project
 [DETECTION WRONG] page1161.text.div.1.p.3.s.4.w.7;page1161.text.div.1.p.3.s.4.w.8: webpagina 's -> webpagina's
 [DETECTION WRONG] page1161.text.div.1.p.3.s.5.w.6: -webbrowser -> - webbrowser
-[DETECTION WRONG] page1161.text.div.1.p.3.s.5.w.6: -webbrowser -> webbrowser
 [DETECTION WRONG] INSERTION AFTER page1161.text.div.1.p.3.s.5.w.19: het
 [DETECTION WRONG] page1161.text.div.1.p.3.s.6.w.26: .. -> .
 [DETECTION WRONG] INSERTION AFTER page1161.text.div.2.p.1.s.1.w.10: het
@@ -1098,19 +1101,16 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1161.text.div.2.p.3.s.4.w.11: IAB -> AB
 [DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.17: DNS -> DNA
 [DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.23: ICMP -> ICM
-[DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.23: ICMP -> IBM
 [DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.33: HTTPS -> HTTP
 [DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.37: Telnet -> Telenet
 [DETECTION WRONG] page1161.text.div.2.p.4.s.1.w.45: TLS -> TBS
 [DETECTION WRONG] page1161.text.div.2.p.5.s.1.w.26: MUD -> MD
-[DETECTION WRONG] page1161.text.div.2.p.5.s.1.w.26: MUD -> BD
 [DETECTION WRONG] page1161.text.div.2.p.5.s.2.w.5;page1161.text.div.2.p.5.s.2.w.6: e-mail en -> e-mailen
 [DETECTION WRONG] INSERTION AFTER page1161.text.div.2.p.5.s.2.w.10: ,
 [DETECTION WRONG] page1161.text.div.2.p.5.s.4.w.1;page1161.text.div.2.p.5.s.4.w.2: e-mail en -> e-mailen
 [DETECTION WRONG] page1161.text.div.2.p.5.s.4.w.1: e-mail -> E-mail
 [DETECTION WRONG] page1161.text.div.2.p.5.s.4.w.14: kan -> van
 [DETECTION WRONG] page1161.text.div.2.p.5.s.4.w.13: je -> de
-[DETECTION WRONG] page1161.text.div.2.p.5.s.4.w.13: je -> die
 [DETECTION WRONG] INSERTION AFTER page1161.text.div.2.p.5.s.4.w.15: plaats
 [DETECTION WRONG] page1161.text.div.2.p.5.s.4.w.21: .. -> .
 [DETECTION WRONG] page1161.text.div.2.p.6.s.2.w.7: ICQ -> ICT

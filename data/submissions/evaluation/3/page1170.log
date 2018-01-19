@@ -52,6 +52,13 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1170.text.div.4.p.2.s.3.w.6'], 'superclass': 'replace', 'text': 'een'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1170.text.div.4.p.2.s.3.w.14'], 'superclass': 'replace', 'text': 'datalink'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1170.text.div.6.head.1.s.1.w.2'], 'superclass': 'replace', 'text': 'links'} will be ignored!
+WARNING: Duplicate entry for span  page1170.text.div.3.list.1.item.1.s.1.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1170.text.div.3.list.1.item.3.p.1.s.2.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1170.text.div.3.list.1.item.6.s.2.w.13 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1170.text.div.3.list.1.item.8.s.1.w.3 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1170.text.div.4.p.2.s.2.w.17 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1170.text.div.4.p.2.s.3.w.5 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1170.text.div.4.p.2.s.3.w.6 .. ignoring all but the first one!
 [DETECTION MISS] page1170.text.div.1.p.1.s.1.w.2;page1170.text.div.1.p.1.s.1.w.3: Internet Protocol -> internetprotocol
 [DETECTION MATCH] page1170.text.div.1.p.1.s.1.w.28: Internet -> internet
 	[CORRECT]
@@ -99,7 +106,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 [DETECTION WRONG] INSERTION AFTER page1170.text.div.2.p.1.s.4.w.25: we
 [DETECTION WRONG] page1170.text.div.3.list.1.item.1.s.1.w.1: Versie -> Verse
 [DETECTION WRONG] INSERTION AFTER page1170.text.div.3.list.1.item.1.s.1.w.1: 4.0
-[DETECTION WRONG] page1170.text.div.3.list.1.item.1.s.1.w.1: Versie -> Versie
 [DETECTION WRONG] page1170.text.div.3.list.1.item.1.s.1.w.4: bits -> buts
 [DETECTION WRONG] page1170.text.div.3.list.1.item.2.s.1.w.4: bits -> buts
 [DETECTION WRONG] page1170.text.div.3.list.1.item.2.s.2.w.4: headers -> herders
@@ -107,21 +113,18 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 [DETECTION WRONG] page1170.text.div.3.list.1.item.3.p.1.s.1.w.1: Differentiated -> differentiated
 [DETECTION WRONG] page1170.text.div.3.list.1.item.3.p.1.s.2.w.1: Dit -> Dat
 [DETECTION WRONG] INSERTION AFTER page1170.text.div.3.list.1.item.3.p.1.s.2.w.1: weekend
-[DETECTION WRONG] page1170.text.div.3.list.1.item.3.p.1.s.2.w.1: Dit -> Dit
 [DETECTION WRONG] page1170.text.div.3.list.1.item.6.s.1.w.2: Vlaggen -> Vluggen
 [DETECTION WRONG] page1170.text.div.3.list.1.item.6.s.2.w.3: vlag -> slag
 [DETECTION WRONG] page1170.text.div.3.list.1.item.6.s.2.w.11;page1170.text.div.3.list.1.item.6.s.2.w.12: moet 0 -> moet0
 [DETECTION WRONG] page1170.text.div.3.list.1.item.6.s.2.w.11: moet -> met
 [DETECTION WRONG] page1170.text.div.3.list.1.item.6.s.2.w.13: zijn -> wijn
 [DETECTION WRONG] INSERTION AFTER page1170.text.div.3.list.1.item.6.s.2.w.13: gezondheid
-[DETECTION WRONG] page1170.text.div.3.list.1.item.6.s.2.w.13: zijn -> zijn
 [DETECTION WRONG] page1170.text.div.3.list.1.item.6.s.4.w.1: Is -> In
 [DETECTION WRONG] page1170.text.div.3.list.1.item.7.s.1.w.4: bits -> bis
 [DETECTION WRONG] page1170.text.div.3.list.1.item.7.s.2.w.1: Waar -> Maar
 [DETECTION WRONG] INSERTION AFTER page1170.text.div.3.list.1.item.7.s.2.w.1: is
 [DETECTION WRONG] page1170.text.div.3.list.1.item.8.s.1.w.3: Live -> Love
 [DETECTION WRONG] page1170.text.div.3.list.1.item.8.s.1.w.2: To -> to
-[DETECTION WRONG] page1170.text.div.3.list.1.item.8.s.1.w.3: Live -> love
 [DETECTION WRONG] page1170.text.div.3.list.1.item.8.s.2.w.5: pakket -> parket
 [DETECTION WRONG] page1170.text.div.3.list.1.item.8.s.3.w.5: TTL -> TT
 [DETECTION WRONG] INSERTION AFTER page1170.text.div.3.list.1.item.8.s.3.w.6: Assen
@@ -142,11 +145,8 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 [DETECTION WRONG] page1170.text.div.4.p.2.s.2.w.1: IP -> Ik
 [DETECTION WRONG] INSERTION AFTER page1170.text.div.4.p.2.s.2.w.15: single
 [DETECTION WRONG] page1170.text.div.4.p.2.s.2.w.17: hop -> op
-[DETECTION WRONG] page1170.text.div.4.p.2.s.2.w.17: hop -> of
 [DETECTION WRONG] page1170.text.div.4.p.2.s.3.w.5: hop -> shop
 [DETECTION WRONG] page1170.text.div.4.p.2.s.3.w.6: een -> en
-[DETECTION WRONG] page1170.text.div.4.p.2.s.3.w.5: hop -> show
-[DETECTION WRONG] page1170.text.div.4.p.2.s.3.w.6: een -> een
 [DETECTION WRONG] page1170.text.div.4.p.2.s.3.w.14: data-link -> datalink
 [DETECTION WRONG] page1170.text.div.4.p.2.s.3.w.14;page1170.text.div.4.p.2.s.3.w.15: data-link laag -> datalinklaag
 [DETECTION WRONG] page1170.text.div.6.head.1.s.1.w.2: Links -> links

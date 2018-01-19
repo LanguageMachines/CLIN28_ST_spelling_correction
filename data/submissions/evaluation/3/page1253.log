@@ -13,6 +13,8 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1253.text.div.1.list.1.item.1.s.1.w.7'], 'superclass': 'replace', 'text': 'II'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1253.text.div.1.list.2.item.1.s.1.w.11'], 'superclass': 'replace', 'text': 'Syrië'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1253.text.div.1.list.2.item.1.s.1.w.13'], 'superclass': 'replace', 'text': 'Ba'} will be ignored!
+WARNING: Duplicate entry for span  page1253.text.p.5.s.2.w.21 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1253.text.p.6.s.5.w.20 .. ignoring all but the first one!
 [DETECTION MATCH] page1253.text.p.3.s.1.w.5;page1253.text.p.3.s.1.w.7: te vergeefs -> tevergeefs
 	[CORRECT]
 [DETECTION MISS] page1253.text.p.3.s.2.w.14: ondragelijk -> ondraaglijk
@@ -30,7 +32,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1253.text.p.4.s.3.w.17;page1253.text.p.4.s.3.w.18: opstand en -> opstanden
 [DETECTION WRONG] page1253.text.p.5.s.2.w.9;page1253.text.p.5.s.2.w.10: land en -> landen
 [DETECTION WRONG] page1253.text.p.5.s.2.w.21: Serven -> werven
-[DETECTION WRONG] page1253.text.p.5.s.2.w.21: Serven -> werken
 [DETECTION WRONG] INSERTION AFTER page1253.text.p.5.s.4.w.2: zelfs
 [DETECTION WRONG] page1253.text.p.6.s.1.w.11;page1253.text.p.6.s.1.w.12: bezig houden -> bezighouden
 [DETECTION WRONG] page1253.text.p.6.s.3.w.1: Hem -> Het
@@ -38,7 +39,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1253.text.p.6.s.5.w.19: te -> de
 [DETECTION WRONG] page1253.text.p.6.s.5.w.20: troon -> toon
 [DETECTION WRONG] INSERTION AFTER page1253.text.p.6.s.5.w.20: te
-[DETECTION WRONG] page1253.text.p.6.s.5.w.20: troon -> troon
 [DETECTION WRONG] page1253.text.div.1.p.1.s.1.w.8: d -> i
 [DETECTION SKIPPED] 2
 [DETECTION WRONG] page1253.text.div.1.list.1.item.1.s.1.w.7: III -> II

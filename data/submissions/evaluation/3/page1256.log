@@ -76,6 +76,11 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1256.text.div.2.div.13.p.3.s.2.w.9'], 'superclass': 'replace', 'text': 'eeuw'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1256.text.div.2.div.14.p.1.s.2.w.17'], 'superclass': 'replace', 'text': 'gezamenlijk'} will be ignored!
 Attempting to load 3//page1256.json in spite of validation error
+WARNING: Duplicate entry for span  page1256.text.div.1.p.1.s.1.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1256.text.div.2.div.1.p.2.s.5.w.5 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1256.text.div.2.div.5.p.2.s.4.w.12 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1256.text.div.2.div.6.p.3.s.1.w.37 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1256.text.div.4.p.1.s.1.w.36 .. ignoring all but the first one!
 [DETECTION MISS] page1256.text.div.1.p.1.s.4.w.11: stromnigen -> stromingen
 [DETECTION MATCH] page1256.text.div.2.div.1.p.1.s.3.w.25;page1256.text.div.2.div.1.p.1.s.3.w.26: voodoo -praktijken -> voodoo-praktijken
 	[CORRECT]
@@ -184,14 +189,12 @@ Attempting to load 3//page1256.json in spite of validation error
 [DETECTION WRONG] page1256.text.p.1.s.1.w.8: improvisatie -> improvisaties
 [DETECTION WRONG] page1256.text.p.1.s.1.w.26: negrospiritual -> negrospirituals
 [DETECTION WRONG] page1256.text.div.1.p.1.s.1.w.11: -er -> - er
-[DETECTION WRONG] page1256.text.div.1.p.1.s.1.w.11: -er -> en
 [DETECTION WRONG] page1256.text.div.1.p.1.s.1.w.24;page1256.text.div.1.p.1.s.1.w.25: vorm en -> vormen
 [DETECTION WRONG] INSERTION AFTER page1256.text.div.1.p.1.s.2.w.1: de
 [DETECTION WRONG] INSERTION AFTER page1256.text.div.1.p.1.s.4.w.34: meer
 [DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.1.p.1.s.1.w.8: door
 [DETECTION WRONG] page1256.text.div.2.div.1.p.2.s.5.w.5: meest -> feest
 [DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.1.p.2.s.5.w.5: waardevol
-[DETECTION WRONG] page1256.text.div.2.div.1.p.2.s.5.w.5: meest -> meest
 [DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.1.p.3.s.2.w.1: wetenschappelijke
 [DETECTION WRONG] page1256.text.div.2.div.1.p.3.s.3.w.3: heiden -> heide
 [DETECTION WRONG] page1256.text.div.2.div.1.p.3.s.3.w.1: Voor -> Door
@@ -256,7 +259,6 @@ Attempting to load 3//page1256.json in spite of validation error
 [DETECTION WRONG] page1256.text.div.2.div.5.p.2.s.2.w.6: word -> wordt
 [DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.5.p.2.s.2.w.7: gelinkt
 [DETECTION WRONG] page1256.text.div.2.div.5.p.2.s.4.w.12: -be- -> be-
-[DETECTION WRONG] page1256.text.div.2.div.5.p.2.s.4.w.12: -be- -> bel
 [DETECTION WRONG] page1256.text.div.2.div.6.p.1.s.1.w.4: – -> ,
 [DETECTION WRONG] page1256.text.div.2.div.6.p.1.s.1.w.11: – -> ,
 [DETECTION WRONG] page1256.text.div.2.div.6.p.1.s.1.w.32;page1256.text.div.2.div.6.p.1.s.1.w.33: Cool en -> Coolen
@@ -265,7 +267,6 @@ Attempting to load 3//page1256.json in spite of validation error
 [DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.6.p.3.s.1.w.10: November
 [DETECTION WRONG] page1256.text.div.2.div.6.p.3.s.1.w.34: -zo -> zo
 [DETECTION WRONG] page1256.text.div.2.div.6.p.3.s.1.w.37: verhaal- -> verhaal -
-[DETECTION WRONG] page1256.text.div.2.div.6.p.3.s.1.w.37: verhaal- -> verhaal
 [DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.6.p.5.s.1.w.13: dagvaarden
 [DETECTION WRONG] INSERTION AFTER page1256.text.div.2.div.6.p.5.s.2.w.12: de
 [DETECTION WRONG] page1256.text.div.2.div.6.p.5.s.2.w.40: De -> de
@@ -334,7 +335,6 @@ Attempting to load 3//page1256.json in spite of validation error
 [DETECTION WRONG] page1256.text.div.4.head.1.s.1.w.1: Harmonische -> Harmonisch
 [DETECTION WRONG] page1256.text.div.4.p.1.s.1.w.18: hernieuwd -> hernieuwde
 [DETECTION WRONG] page1256.text.div.4.p.1.s.1.w.36: none -> non
-[DETECTION WRONG] page1256.text.div.4.p.1.s.1.w.36: none -> nou
 [DETECTION WRONG] page1256.text.div.4.p.1.s.1.w.40: tredeciem -> tredecim
 [DETECTION WRONG] page1256.text.div.4.p.1.s.2.w.2: Kale -> kale
 [DETECTION WRONG] page1256.text.div.4.p.2.s.2.w.5: loopjes -> loopje

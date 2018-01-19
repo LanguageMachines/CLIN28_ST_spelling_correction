@@ -41,6 +41,9 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1146.text.div.6.p.2.s.2.w.1'], 'superclass': 'replace', 'text': 'heliumkernen'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1146.text.div.6.p.3.s.1.w.5'], 'superclass': 'replace', 'text': '3e'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1146.text.div.6.p.3.s.1.w.17'], 'superclass': 'replace', 'text': 'oerknal'} will be ignored!
+WARNING: Duplicate entry for span  page1146.text.div.2.p.1.s.1.w.13 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1146.text.div.5.p.4.s.3.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1146.text.div.5.p.4.s.4.w.18 .. ignoring all but the first one!
 [DETECTION MATCH] page1146.text.div.2.p.2.s.6.w.8: geubliceerd -> gepubliceerd
 	[CORRECT]
 [DETECTION MATCH] page1146.text.div.2.p.2.s.7.w.15: toeepast -> toegepast
@@ -72,7 +75,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 [DETECTION WRONG] page1146.text.div.1.p.3.s.1.w.15: daar -> waar
 [DETECTION WRONG] page1146.text.div.2.p.1.s.1.w.13: lichter -> dichter
 [DETECTION WRONG] INSERTION AFTER page1146.text.div.2.p.1.s.1.w.13: zijn
-[DETECTION WRONG] page1146.text.div.2.p.1.s.1.w.13: lichter -> lichter
 [DETECTION WRONG] INSERTION AFTER page1146.text.div.2.p.2.s.6.w.3: geschreven
 [DETECTION WRONG] INSERTION AFTER page1146.text.div.2.p.3.s.1.w.1: het
 [DETECTION WRONG] INSERTION AFTER page1146.text.div.2.p.3.s.1.w.22: de
@@ -124,14 +126,12 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 [DETECTION WRONG] page1146.text.div.5.p.4.s.1.w.3;page1146.text.div.5.p.4.s.1.w.4: 3 He -> 3He
 [DETECTION WRONG] page1146.text.div.5.p.4.s.3.w.1: En -> en
 [DETECTION WRONG] INSERTION AFTER page1146.text.div.5.p.4.s.3.w.1: op
-[DETECTION WRONG] page1146.text.div.5.p.4.s.3.w.1: En -> En
 [DETECTION WRONG] page1146.text.div.5.p.4.s.3.w.3: He-atomen -> H-atomen
 [DETECTION WRONG] page1146.text.div.5.p.4.s.3.w.9: He-atomen -> H-atomen
 [DETECTION WRONG] page1146.text.div.5.p.4.s.3.w.16: paren -> parken
 [DETECTION WRONG] page1146.text.div.5.p.4.s.4.w.2: paar -> jaar
 [DETECTION WRONG] INSERTION AFTER page1146.text.div.5.p.4.s.4.w.1: tien
 [DETECTION WRONG] page1146.text.div.5.p.4.s.4.w.18: boson -> boon
-[DETECTION WRONG] page1146.text.div.5.p.4.s.4.w.18: boson -> zoon
 [DETECTION WRONG] page1146.text.div.6.p.1.s.1.w.6;page1146.text.div.6.p.1.s.1.w.7: 4 He -> 4He
 [DETECTION WRONG] INSERTION AFTER page1146.text.div.6.p.1.s.2.w.3: zeer
 [DETECTION WRONG] INSERTION AFTER page1146.text.div.6.p.1.s.2.w.10: van

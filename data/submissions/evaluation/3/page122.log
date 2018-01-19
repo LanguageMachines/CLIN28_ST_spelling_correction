@@ -6,10 +6,10 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page122.text.p.4.s.1.w.5'], 'superclass': 'replace', 'text': 'tanden'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page122.text.p.7.s.4.w.6'], 'superclass': 'replace', 'text': 'in'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page122.text.p.7.s.4.w.15'], 'superclass': 'replace', 'text': 'ministerie'} will be ignored!
+WARNING: Duplicate entry for span  page122.text.p.1.s.1.w.1 .. ignoring all but the first one!
 [DETECTION MISS] page122.text.p.7.s.3.w.15: ondermeer -> onder meer
 [DETECTION WRONG] page122.text.p.1.s.1.w.1: de -> do
 [DETECTION WRONG] INSERTION AFTER page122.text.p.1.s.1.w.1: verdieping
-[DETECTION WRONG] page122.text.p.1.s.1.w.1: de -> de
 [DETECTION WRONG] page122.text.list.1.item.1.s.1.w.1: het -> Het
 [DETECTION WRONG] INSERTION AFTER page122.text.list.1.item.1.s.1.w.1: Australisch
 [DETECTION WRONG] page122.text.list.1.item.2.s.1.w.1: de -> De

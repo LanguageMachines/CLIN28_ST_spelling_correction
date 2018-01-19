@@ -4,14 +4,14 @@
             "truepos": 0.0,
             "falseneg": 1.0,
             "recall": 0.0,
-            "falsepos": 16.0,
+            "falsepos": 15.0,
             "precision": 0.0
         },
         "correction": {
             "truepos": 0.0,
             "falseneg": 1.0,
             "recall": 0.0,
-            "falsepos": 16.0,
+            "falsepos": 15.0,
             "precision": 0.0
         }
     },

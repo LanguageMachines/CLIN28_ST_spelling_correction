@@ -22,8 +22,26 @@ class CLIN28JSON:
         if words is not None:
             self.data['words'] = words
         self.allowwordfail = allowwordfail
+
         if validation:
             self.validate()
+        foundspans = set()
+        foundafter = set()
+        newcorrections = []
+        for correction in self.corrections():
+            if 'span' not in correction or not correction['span']:
+                if correction['after'] in foundafter:
+                    print("WARNING: Duplicate entry for ", correction['after'], ".. ignoring all but the first one!", file=sys.stderr)
+                    continue
+                foundafter.add(correction['after'])
+            else:
+                if ';'.join(correction['span']) in foundspans:
+                    print("WARNING: Duplicate entry for span ", "; ".join(correction['span']), ".. ignoring all but the first one!", file=sys.stderr)
+                    continue
+                foundspans.add(';'.join(correction['span']))
+            newcorrections.append(correction)
+        self.data['corrections'] = newcorrections
+
 
     def validate(self):
         self.index = {}

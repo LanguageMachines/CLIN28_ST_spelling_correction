@@ -139,7 +139,8 @@ Some things to keep in mind:
 
 ## Evaluation
 
-Detection and correction of spelling errors in the test documents are evaluated separately, in the following way:
+Detection and correction of spelling errors in the test documents are evaluated separately (although correction
+necessarily implies detection as well), in the following way:
 
 * Matching the detected errors to the marked errors in the gold standard annotation:
   * Precision will be measured as the proportion of correctly detected errors by the corrector in all test documents.  (i.e. irregardless of the actual correction)

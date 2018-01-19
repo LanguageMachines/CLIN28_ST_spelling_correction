@@ -57,6 +57,10 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1337.text.div.4.list.1.item.2.s.1.w.15'], 'superclass': 'replace', 'text': 'Kinderboek'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1337.text.div.4.list.2.item.1.s.3.w.1'], 'superclass': 'replace', 'text': 'gr.'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1337.text.div.4.list.2.item.1.s.4.w.2'], 'superclass': 'replace', 'text': 'literatuurwetenschappelijk'} will be ignored!
+WARNING: Duplicate entry for span  page1337.text.div.3.div.1.div.5.p.1.s.7.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1337.text.div.3.div.1.div.5.p.1.s.7.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1337.text.div.3.div.1.div.6.p.4.s.2.w.25 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1337.text.div.3.div.1.div.7.p.6.s.2.w.14 .. ignoring all but the first one!
 [DETECTION MISS] page1337.text.div.1.p.1.s.1.w.3: Jeugdliteratuur -> jeugdliteratuur
 [DETECTION MATCH] page1337.text.div.1.p.1.s.1.w.23: -en -> - en
 	[INCORRECT] Should be: en
@@ -127,9 +131,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 [DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.1.s.7.w.1;page1337.text.div.3.div.1.div.5.p.1.s.7.w.2: Woord - -> Woord-
 [DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.1.s.7.w.1: Woord -> Noord
 [DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.1.s.7.w.1;page1337.text.div.3.div.1.div.5.p.1.s.7.w.3: Woord en -> Noorden
-[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.1.s.7.w.1: Woord -> moord
 [DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.5.p.1.s.7.w.1: -
-[DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.1.s.7.w.1: Woord -> Noord
 [DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.1.s.8.w.7;page1337.text.div.3.div.1.div.5.p.1.s.8.w.8: angst en -> angsten
 [DETECTION WRONG] page1337.text.div.3.div.1.div.5.p.2.s.1.w.18: dit -> dat
 [DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.5.p.3.s.1.w.10: Romain
@@ -156,7 +158,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 [DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.4.s.1.w.6;page1337.text.div.3.div.1.div.6.p.4.s.1.w.7: er voor -> ervoor
 [DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.4.s.2.w.8: Lora -> Lord
 [DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.4.s.2.w.25: kast -> kust
-[DETECTION WRONG] page1337.text.div.3.div.1.div.6.p.4.s.2.w.25: kast -> rust
 [DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.1.s.2.w.14: d -> .
 [DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.7.p.1.s.2.w.13: Jonah
 [DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.1.s.2.w.17: e -> De
@@ -179,7 +180,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 [DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.5.s.1.w.29: kan -> aan
 [DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.6.s.2.w.14: de -> me
 [DETECTION WRONG] INSERTION AFTER page1337.text.div.3.div.1.div.7.p.6.s.2.w.14: kosten
-[DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.6.s.2.w.14: de -> de
 [DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.17: Een -> een
 [DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.34: Het -> het
 [DETECTION WRONG] page1337.text.div.3.div.1.div.7.p.7.s.1.w.50: De -> je

@@ -886,6 +886,755 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1275.text.div.4.list.3.item.1.s.1.w.6'], 'superclass': 'replace', 'text': 'Nederland'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1275.text.div.4.list.3.item.1.s.1.w.9'], 'superclass': 'replace', 'text': 'Van'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1275.text.div.4.list.3.item.1.s.1.w.15'], 'superclass': 'replace', 'text': 'Meulenhoff'} will be ignored!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.3.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.2.p.2.s.10.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.4.p.4.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.4 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.5.p.3.s.6.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.6.p.1.s.11.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.8.p.1.s.6.w.19 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.9.p.2.s.1.w.9 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.9.p.2.s.2.w.2 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.1.div.10.p.1.s.7.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.2.p.2.s.2.w.14 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.2.p.4.s.2.w.26 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.2.p.6.s.1.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.2.p.6.s.2.w.14 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.2.p.7.s.2.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.2.p.7.s.2.w.3 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.2.p.7.s.3.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.2.p.7.s.4.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.3.list.1.item.2.s.8.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.3.list.2.item.4.s.1.w.2 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1275.text.div.4.p.2.s.1.w.1 .. ignoring all but the first one!
 [DETECTION MISS] page1275.text.p.1.s.1.w.21: Duits -> Duitse
 [DETECTION MATCH] page1275.text.div.1.div.1.p.1.s.7.w.15;page1275.text.div.1.div.1.p.1.s.7.w.16: Copernicus ' -> Copernicus'
 	[CORRECT]
@@ -939,298 +1688,10 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.2: ziet -> zit
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.1.div.2.p.2.s.3.w.5: aan
 [DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> danken
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.3.w.7: denken -> denken
 [DETECTION SKIPPED] 954
 [DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.7.w.14: Mysteriun -> Mysterion
 [DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.10.w.1: Zie -> Wie
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.1.div.2.p.2.s.10.w.1: je
-[DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.10.w.1: Zie -> Wil
 [DETECTION WRONG] page1275.text.div.1.div.2.p.2.s.10.w.3: hoofdartkel -> hoofdartikel
 [DETECTION WRONG] page1275.text.div.1.div.2.p.3.s.6.w.6: haar -> maar
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.1.div.2.p.3.s.6.w.9: zoon
@@ -1266,253 +1727,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.4: Kepler -> Kesler
 [DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.17: treft -> trekt
 [DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boog
-[DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.1.w.20: oog -> boom
 [DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.2.w.11: zo -> ze
 [DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.2.w.14: valt -> vast
 [DETECTION WRONG] page1275.text.div.1.div.4.p.4.s.2.w.15;page1275.text.div.1.div.4.p.4.s.2.w.16: achter op -> achterop
@@ -1550,205 +1764,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.3.w.2: geeft -> heeft
 [DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.4.w.1: Kepler -> Keller
 [DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.4: relieuze -> religeuze
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.4: relieuze -> religieuze
 [DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> set
-[DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.6.w.15: wet -> wet
 [DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.7.w.21: Wereldharmonie -> wereldharmonie
 [DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.9.w.8: Harmonice -> Harmonie
 [DETECTION WRONG] page1275.text.div.1.div.5.p.3.s.9.w.11: Zie -> die
@@ -1762,7 +1778,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.1.div.6.p.1.s.10.w.6: ,
 [DETECTION WRONG] page1275.text.div.1.div.6.p.1.s.11.w.1: Zie -> Wie
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.1.div.6.p.1.s.11.w.1: je
-[DETECTION WRONG] page1275.text.div.1.div.6.p.1.s.11.w.1: Zie -> Wil
 [DETECTION WRONG] page1275.text.div.1.div.7.head.1.s.1.w.1: Ulm -> Uhm
 [DETECTION WRONG] page1275.text.div.1.div.7.p.1.s.3.w.5;page1275.text.div.1.div.7.p.1.s.3.w.6: waar in -> waarin
 [DETECTION WRONG] page1275.text.div.1.div.7.p.1.s.3.w.11;page1275.text.div.1.div.7.p.1.s.3.w.12: klaar komt -> klaarkomt
@@ -1776,7 +1791,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.1.div.8.p.1.s.5.w.16: vraag
 [DETECTION WRONG] page1275.text.div.1.div.8.p.1.s.6.w.19: dat -> dan
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.1.div.8.p.1.s.6.w.19: is
-[DETECTION WRONG] page1275.text.div.1.div.8.p.1.s.6.w.19: dat -> dat
 [DETECTION WRONG] page1275.text.div.1.div.9.p.1.s.3.w.1: Door -> Voor
 [DETECTION WRONG] page1275.text.div.1.div.9.p.1.s.3.w.9;page1275.text.div.1.div.9.p.1.s.3.w.10: ziek en -> zieken
 [DETECTION WRONG] page1275.text.div.1.div.9.p.1.s.4.w.1: Door -> Voor
@@ -1784,11 +1798,9 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1275.text.div.1.div.9.p.2.s.1.w.8: lang -> land
 [DETECTION WRONG] page1275.text.div.1.div.9.p.2.s.1.w.9: van -> aan
 [DETECTION WRONG] page1275.text.div.1.div.9.p.2.s.1.w.10;page1275.text.div.1.div.9.p.2.s.1.w.11: te voren -> tevoren
-[DETECTION WRONG] page1275.text.div.1.div.9.p.2.s.1.w.9: van -> van
 [DETECTION WRONG] page1275.text.div.1.div.9.p.2.s.1.w.12;page1275.text.div.1.div.9.p.2.s.1.w.13: bekend gemaakt -> bekendgemaakt
 [DETECTION WRONG] page1275.text.div.1.div.9.p.2.s.2.w.1: Mensus -> Census
 [DETECTION WRONG] page1275.text.div.1.div.9.p.2.s.2.w.2: eram -> er am
-[DETECTION WRONG] page1275.text.div.1.div.9.p.2.s.2.w.2: eram -> Bram
 [DETECTION WRONG] page1275.text.div.1.div.9.p.2.s.2.w.3: coelos -> coelus
 [DETECTION WRONG] page1275.text.div.1.div.9.p.2.s.2.w.7: metior -> metier
 [DETECTION WRONG] page1275.text.div.1.div.9.p.2.s.4.w.9: meet -> moet
@@ -1806,7 +1818,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1275.text.div.1.div.10.p.1.s.5.w.6: er -> eruitziet
 [DETECTION WRONG] page1275.text.div.1.div.10.p.1.s.7.w.1: Zie -> Wie
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.1.div.10.p.1.s.7.w.1: je
-[DETECTION WRONG] page1275.text.div.1.div.10.p.1.s.7.w.1: Zie -> Wil
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.1.div.10.p.2.s.1.w.4: men
 [DETECTION WRONG] page1275.text.div.2.head.1.s.1.w.1: Kepler -> Keller
 [DETECTION WRONG] page1275.text.div.2.p.1.s.1.w.11: Fundamentis -> Fundament is
@@ -1816,7 +1827,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1275.text.div.2.p.1.s.2.w.13: Astrologie -> astrologie
 [DETECTION WRONG] page1275.text.div.2.p.2.s.1.w.3: astronomie -> gastronomie
 [DETECTION WRONG] page1275.text.div.2.p.2.s.2.w.14: magie -> Magie
-[DETECTION WRONG] page1275.text.div.2.p.2.s.2.w.14: magie -> Marie
 [DETECTION WRONG] page1275.text.div.2.p.3.s.1.w.28: vak -> zak
 [DETECTION WRONG] page1275.text.div.2.p.4.s.1.w.9: ” -> ,
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.4.s.1.w.8: geschreven
@@ -1826,17 +1836,14 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1275.text.div.2.p.4.s.2.w.13;page1275.text.div.2.p.4.s.2.w.14: zon en -> zonen
 [DETECTION WRONG] page1275.text.div.2.p.4.s.2.w.21: je -> de
 [DETECTION WRONG] page1275.text.div.2.p.4.s.2.w.22: klant -> plant
-[DETECTION WRONG] page1275.text.div.2.p.4.s.2.w.26: eborene -> geboren
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.4.s.3.w.7: af
 [DETECTION WRONG] page1275.text.div.2.p.4.s.3.w.9: die -> de
 [DETECTION WRONG] page1275.text.div.2.p.6.s.1.w.1: “ -> M
 [DETECTION WRONG] page1275.text.div.2.p.6.s.1.w.2: .. -> .
 [DETECTION WRONG] page1275.text.div.2.p.6.s.1.w.1;page1275.text.div.2.p.6.s.1.w.2: “ .. -> M.
-[DETECTION SKIPPED] 2
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.6.s.1.w.1: .
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.6.s.2.w.1: verstandige
 [DETECTION WRONG] page1275.text.div.2.p.6.s.2.w.14: navorst -> na vorst
-[DETECTION WRONG] page1275.text.div.2.p.6.s.2.w.14: navorst -> nadorst
 [DETECTION WRONG] page1275.text.div.2.p.6.s.2.w.58: wijzend -> wijzen
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.6.s.2.w.75: van
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.6.s.2.w.103: aan
@@ -1849,16 +1856,12 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1275.text.div.2.p.7.s.1.w.32: VII -> VJI
 [DETECTION WRONG] page1275.text.div.2.p.7.s.2.w.1: Serie -> Serge
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.7.s.2.w.1: B
-[DETECTION WRONG] page1275.text.div.2.p.7.s.2.w.1: Serie -> Serie
 [DETECTION WRONG] page1275.text.div.2.p.7.s.2.w.3: II -> I
 [DETECTION WRONG] page1275.text.div.2.p.7.s.2.w.3;page1275.text.div.2.p.7.s.2.w.4: II . -> I.
-[DETECTION SKIPPED] 2
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.7.s.2.w.3: .
 [DETECTION WRONG] page1275.text.div.2.p.7.s.3.w.1: Bd -> d
-[DETECTION SKIPPED] 2
 [DETECTION WRONG] page1275.text.div.2.p.7.s.4.w.1: Nr -> N
 [DETECTION WRONG] page1275.text.div.2.p.7.s.4.w.1;page1275.text.div.2.p.7.s.4.w.2: Nr . -> N.
-[DETECTION SKIPPED] 2
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.7.s.4.w.1: .
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.8.s.1.w.6: '
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.2.p.8.s.2.w.2: een
@@ -1871,7 +1874,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1275.text.div.3.list.1.item.2.s.1.w.17: Uitgave -> Uitgaven
 [DETECTION SKIPPED] 2
 [DETECTION WRONG] page1275.text.div.3.list.1.item.2.s.8.w.1: eingel -> engel
-[DETECTION WRONG] page1275.text.div.3.list.1.item.2.s.8.w.1: eingel -> Angel
 [DETECTION WRONG] page1275.text.div.3.list.1.item.2.s.9.w.8: gegangenen -> gevangenen
 [DETECTION WRONG] page1275.text.div.3.list.1.item.2.s.10.w.1: LVIII -> XVIII
 [DETECTION WRONG] page1275.text.div.3.list.1.item.2.s.10.w.4;page1275.text.div.3.list.1.item.2.s.10.w.5: S . -> S.
@@ -1879,7 +1881,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1275.text.div.3.list.2.item.1.s.1.w.3: Oldenbourg -> Oldenburg
 [DETECTION WRONG] page1275.text.div.3.list.2.item.1.s.1.w.10;page1275.text.div.3.list.2.item.1.s.1.w.11: ISBN 13 -> ISBN13
 [DETECTION WRONG] page1275.text.div.3.list.2.item.4.s.1.w.2: Rosen -> Roosen
-[DETECTION WRONG] page1275.text.div.3.list.2.item.4.s.1.w.2: Rosen -> Roosens
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.3.list.2.item.4.s.1.w.8: Girls
 [DETECTION WRONG] page1275.text.div.3.list.2.item.4.s.1.w.15: Asronomy -> Astronomy
 [DETECTION WRONG] page1275.text.div.3.list.2.item.5.s.1.w.14: Uitgave -> uitgave
@@ -1888,7 +1889,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1275.text.div.4.p.1.s.1.w.4: Kepler -> Keller
 [DETECTION WRONG] page1275.text.div.4.p.2.s.1.w.1: Nederlands -> Nederland
 [DETECTION WRONG] INSERTION AFTER page1275.text.div.4.p.2.s.1.w.1: Architectuurinstituut
-[DETECTION WRONG] page1275.text.div.4.p.2.s.1.w.1: Nederlands -> Nederlands
 [DETECTION WRONG] page1275.text.div.4.list.3.item.1.s.1.w.8: R -> ,
 [DETECTION WRONG] page1275.text.div.4.list.3.item.1.s.1.w.7: van -> kan
 [DETECTION WRONG] page1275.text.div.4.list.3.item.1.s.1.w.6: Nederlands -> Nederland

@@ -4,17 +4,17 @@
             "truepos": 28.0,
             "falseneg": 26.0,
             "recall": 0.5185185185185185,
-            "falsepos": 184.0,
-            "precision": 0.1320754716981132,
-            "f1score": 0.21052631578947367
+            "falsepos": 169.0,
+            "precision": 0.14213197969543148,
+            "f1score": 0.22310756972111553
         },
         "correction": {
             "truepos": 25.0,
             "falseneg": 29.0,
             "recall": 0.46296296296296297,
-            "falsepos": 184.0,
-            "precision": 0.11961722488038277,
-            "f1score": 0.19011406844106463
+            "falsepos": 169.0,
+            "precision": 0.12886597938144329,
+            "f1score": 0.2016129032258064
         }
     },
     "capitalizationerror": {

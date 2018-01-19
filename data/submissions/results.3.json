@@ -4,17 +4,17 @@
             "truepos": 203.0,
             "falseneg": 296.0,
             "recall": 0.40681362725450904,
-            "falsepos": 5388.0,
-            "precision": 0.036308352709712034,
-            "f1score": 0.06666666666666667
+            "falsepos": 2559.0,
+            "precision": 0.07349746560463433,
+            "f1score": 0.1245016865992027
         },
         "correction": {
             "truepos": 180.0,
             "falseneg": 319.0,
             "recall": 0.36072144288577157,
-            "falsepos": 5388.0,
-            "precision": 0.032327586206896554,
-            "f1score": 0.059337399044008574
+            "falsepos": 2559.0,
+            "precision": 0.06571741511500548,
+            "f1score": 0.11117974058060531
         }
     },
     "archaic": {

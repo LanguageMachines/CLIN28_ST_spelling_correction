@@ -105,6 +105,11 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1254.text.div.7.quote.1.p.1.s.1.w.12'], 'superclass': 'replace', 'text': '.'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1254.text.div.7.quote.1.p.1.s.1.w.13'], 'superclass': 'replace', 'text': '’'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1254.text.div.7.quote.1.p.1.s.1.w.21'], 'superclass': 'replace', 'text': "'"} will be ignored!
+WARNING: Duplicate entry for span  page1254.text.p.5.s.1.w.33 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1254.text.p.5.s.1.w.33 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1254.text.p.19.s.1.w.13 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1254.text.p.21.s.1.w.30 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1254.text.div.5.head.1.s.1.w.1 .. ignoring all but the first one!
 [DETECTION MATCH] page1254.text.p.4.s.1.w.6;page1254.text.p.4.s.1.w.7: jazz band -> jazzband
 	[CORRECT]
 [DETECTION MATCH] page1254.text.p.4.s.1.w.11: instumenten -> instrumenten
@@ -175,9 +180,7 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] INSERTION AFTER page1254.text.p.5.s.1.w.25: "
 [DETECTION WRONG] page1254.text.p.5.s.1.w.33: ss -> s
 [DETECTION WRONG] page1254.text.p.5.s.1.w.32: “ -> .
-[DETECTION WRONG] page1254.text.p.5.s.1.w.33: ss -> ”
 [DETECTION WRONG] page1254.text.p.5.s.1.w.34: ” -> (
-[DETECTION WRONG] page1254.text.p.5.s.1.w.33: ss -> "
 [DETECTION WRONG] INSERTION AFTER page1254.text.p.6.s.1.w.4: politiek
 [DETECTION WRONG] page1254.text.p.6.s.1.w.8: eerder -> verder
 [DETECTION WRONG] page1254.text.p.6.s.1.w.10: dit -> die
@@ -232,7 +235,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1254.text.p.19.s.1.w.14: ” -> '
 [DETECTION WRONG] page1254.text.p.19.s.1.w.13: jazz -> Jazz
 [DETECTION WRONG] INSERTION AFTER page1254.text.p.19.s.1.w.13: (
-[DETECTION WRONG] page1254.text.p.19.s.1.w.13: jazz -> jazz
 [DETECTION WRONG] INSERTION AFTER page1254.text.p.19.s.1.w.16: ,
 [DETECTION WRONG] page1254.text.p.20.s.1.w.3: — -> ,
 [DETECTION WRONG] page1254.text.p.20.s.1.w.7;page1254.text.p.20.s.1.w.8: eeuw en -> eeuwen
@@ -241,7 +243,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1254.text.p.20.s.1.w.29: kan -> dan
 [DETECTION WRONG] page1254.text.p.21.s.1.w.12: hernieuwd -> hernieuwde
 [DETECTION WRONG] page1254.text.p.21.s.1.w.30: none -> non
-[DETECTION WRONG] page1254.text.p.21.s.1.w.30: none -> nou
 [DETECTION WRONG] page1254.text.p.21.s.1.w.34: tredeciem -> tredecim
 [DETECTION WRONG] page1254.text.p.21.s.2.w.1: ‘ -> -
 [DETECTION WRONG] page1254.text.div.1.head.1.s.1.w.1: Jazzinstrumenten -> jazzinstrumenten
@@ -267,7 +268,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 [DETECTION WRONG] page1254.text.div.4.quote.1.p.1.s.1.w.36: – -> ,
 [DETECTION WRONG] page1254.text.div.4.quote.1.p.1.s.1.w.39: – -> ,
 [DETECTION WRONG] page1254.text.div.5.head.1.s.1.w.1: Jazzcomponisten -> Jazzcomponist en
-[DETECTION WRONG] page1254.text.div.5.head.1.s.1.w.1: Jazzcomponisten -> jazzcomponisten
 [DETECTION WRONG] page1254.text.div.5.quote.1.p.1.s.1.w.3: – -> ,
 [DETECTION WRONG] page1254.text.div.5.quote.1.p.1.s.1.w.6: – -> ,
 [DETECTION WRONG] page1254.text.div.5.quote.1.p.1.s.1.w.9: – -> ,

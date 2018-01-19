@@ -82,6 +82,16 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page127.text.div.9.p.1.s.1.w.8'], 'superclass': 'replace', 'text': 'rust'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.10.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'sport'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page127.text.div.11.list.1.item.2.s.1.w.1'], 'superclass': 'replace', 'text': 'President'} will be ignored!
+WARNING: Duplicate entry for span  page127.text.div.2.div.2.list.1.item.2.s.2.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page127.text.div.4.div.4.list.1.item.7.s.1.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page127.text.div.4.div.4.list.1.item.7.s.1.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page127.text.div.7.p.1.s.1.w.27 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page127.text.div.7.p.2.s.1.w.18 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page127.text.div.8.p.4.s.1.w.10 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page127.text.div.8.list.1.item.4.list.1.item.1.s.1.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page127.text.div.8.list.1.item.4.list.1.item.2.s.1.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page127.text.div.8.list.1.item.4.list.1.item.5.s.1.w.1 .. ignoring all but the first one!
 [DETECTION MATCH] page127.text.div.2.div.1.p.1.s.2.w.11: europa -> Europa
 	[CORRECT]
 [DETECTION MATCH] page127.text.div.2.div.2.p.2.s.3.w.11: berbertaal -> Berbertaal
@@ -113,7 +123,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 [DETECTION WRONG] page127.text.div.2.div.2.list.1.item.2.s.1.w.5: Kabyl -> Kabul
 [DETECTION WRONG] page127.text.div.2.div.2.list.1.item.2.s.2.w.1: a -> v
 [DETECTION WRONG] page127.text.div.2.div.2.list.1.item.2.s.2.w.1;page127.text.div.2.div.2.list.1.item.2.s.2.w.2: a . -> v.
-[DETECTION WRONG] page127.text.div.2.div.2.list.1.item.2.s.2.w.1: a -> .
 [DETECTION WRONG] INSERTION AFTER page127.text.div.2.div.2.list.1.item.2.s.2.w.1: Vlaanderen
 [DETECTION WRONG] page127.text.div.2.div.2.p.2.s.2.w.8: taal -> taak
 [DETECTION WRONG] INSERTION AFTER page127.text.div.2.div.2.p.2.s.4.w.12: ,
@@ -162,8 +171,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 [DETECTION WRONG] page127.text.div.4.div.4.list.1.item.5.s.1.w.1: Setif -> Setia
 [DETECTION WRONG] INSERTION AFTER page127.text.div.4.div.4.list.1.item.5.s.1.w.1: Budi
 [DETECTION WRONG] page127.text.div.4.div.4.list.1.item.7.s.1.w.1: Beskra -> Besra
-[DETECTION WRONG] page127.text.div.4.div.4.list.1.item.7.s.1.w.1: Beskra -> Bera
-[DETECTION WRONG] page127.text.div.4.div.4.list.1.item.7.s.1.w.1: Beskra -> Bert
 [DETECTION WRONG] INSERTION AFTER page127.text.div.4.div.4.list.1.item.7.s.1.w.1: Grabsch
 [DETECTION WRONG] page127.text.div.4.div.4.list.1.item.9.s.1.w.1: Tbessa -> Tessa
 [DETECTION WRONG] INSERTION AFTER page127.text.div.4.div.4.list.1.item.9.s.1.w.1: Vandoorne
@@ -172,14 +179,12 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 [DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.1.s.1.w.26: ,
 [DETECTION WRONG] page127.text.div.7.p.1.s.1.w.27: dan -> aan
 [DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.1.s.1.w.27: is
-[DETECTION WRONG] page127.text.div.7.p.1.s.1.w.27: dan -> dan
 [DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.1.s.1.w.30: de
 [DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.1.s.2.w.1: soort
 [DETECTION WRONG] page127.text.div.7.p.1.s.3.w.10;page127.text.div.7.p.1.s.3.w.11: plaats en -> plaatsen
 [DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.2.s.1.w.3: vooral
 [DETECTION WRONG] page127.text.div.7.p.2.s.1.w.18: oasen -> fasen
 [DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.2.s.1.w.17: beslissende
-[DETECTION WRONG] page127.text.div.7.p.2.s.1.w.18: oasen -> fase
 [DETECTION WRONG] page127.text.div.7.p.2.s.4.w.5: schapen -> schepen
 [DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.2.s.4.w.10: ander
 [DETECTION WRONG] INSERTION AFTER page127.text.div.7.p.3.s.2.w.18: donderdag
@@ -199,7 +204,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 [DETECTION WRONG] page127.text.div.8.p.3.s.4.w.3: FLN-leden -> LN-leden
 [DETECTION WRONG] page127.text.div.8.p.4.s.1.w.10: islamistische -> islamitische
 [DETECTION WRONG] INSERTION AFTER page127.text.div.8.p.4.s.1.w.10: "
-[DETECTION WRONG] page127.text.div.8.p.4.s.1.w.10: islamistische -> islamistische
 [DETECTION WRONG] INSERTION AFTER page127.text.div.8.p.4.s.1.w.15: )
 [DETECTION WRONG] INSERTION AFTER page127.text.div.8.p.4.s.3.w.3: daarop
 [DETECTION WRONG] page127.text.div.8.p.4.s.3.w.11;page127.text.div.8.p.4.s.3.w.12: werd en -> werden
@@ -218,17 +222,13 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 [DETECTION WRONG] page127.text.div.8.list.1.item.4.p.1.s.1.w.8: ): -> )
 [DETECTION WRONG] INSERTION AFTER page127.text.div.8.list.1.item.4.p.1.s.1.w.8: 16,8
 [DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.1.s.1.w.1: FLN -> FN
-[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.1.s.1.w.1: FLN -> IN
 [DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.1.s.1.w.12: nationaalraad -> nationaal raad
 [DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.2.s.1.w.1: RND -> IND
-[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.2.s.1.w.1: RND -> IN
 [DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.3.s.1.w.1: MRN -> MR
 [DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.1: MSP -> ESP
-[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.1: MSP -> ESB
 [DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.6: Société -> société
 [DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.4.s.1.w.9: Paix -> paix
 [DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.5.s.1.w.1: PT -> P
-[DETECTION WRONG] page127.text.div.8.list.1.item.4.list.1.item.5.s.1.w.1: PT -> '
 [DETECTION WRONG] INSERTION AFTER page127.text.div.8.list.1.item.4.list.1.item.5.s.1.w.9: .
 [DETECTION WRONG] INSERTION AFTER page127.text.div.8.list.1.item.4.list.1.item.6.s.1.w.5: .
 [DETECTION WRONG] page127.text.div.8.div.1.head.1.s.1.w.1: Economie -> economie

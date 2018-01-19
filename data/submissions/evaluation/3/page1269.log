@@ -229,6 +229,21 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1269.text.div.17.p.2.s.1.w.20'], 'superclass': 'replace', 'text': 'en'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1269.text.div.18.head.1.s.1.w.1'], 'superclass': 'replace', 'text': 'referentiewerken'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1269.text.div.18.list.1.item.1.s.1.w.11'], 'superclass': 'replace', 'text': 'Raisonné'} will be ignored!
+WARNING: Duplicate entry for span  page1269.text.div.1.p.4.s.1.w.6 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1269.text.div.1.p.4.s.6.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1269.text.div.2.p.2.s.2.w.16 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1269.text.div.2.p.3.s.7.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1269.text.div.4.p.2.s.4.w.13 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1269.text.div.5.p.5.s.1.w.15 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1269.text.div.10.p.4.s.1.w.6 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1269.text.div.10.p.4.s.6.w.7 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1269.text.div.11.p.2.s.2.w.16 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1269.text.div.11.p.3.s.7.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1269.text.div.12.head.1.s.1.w.4 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1269.text.div.12.p.1.s.1.w.21 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1269.text.div.13.head.1.s.1.w.4 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1269.text.div.13.p.2.s.4.w.13 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1269.text.div.14.p.5.s.1.w.15 .. ignoring all but the first one!
 [DETECTION MATCH] page1269.text.div.2.p.2.s.2.w.16: duin-en -> duin- en
 	[CORRECT]
 [DETECTION MISS] page1269.text.div.3.p.6.s.1.w.30: enigzins -> enigszins
@@ -255,7 +270,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.1.p.2.s.7.w.14: zal
 [DETECTION WRONG] page1269.text.div.1.p.3.s.2.w.12: Sirène -> Sirènes
 [DETECTION WRONG] page1269.text.div.1.p.4.s.1.w.6: Mietje -> Pietje
-[DETECTION WRONG] page1269.text.div.1.p.4.s.1.w.6: Mietje -> Piette
 [DETECTION WRONG] page1269.text.div.1.p.4.s.1.w.8: Mitche -> Mitch
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.1.p.4.s.2.w.3: bevel
 [DETECTION WRONG] page1269.text.div.1.p.4.s.4.w.3: geen -> een
@@ -265,7 +279,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] page1269.text.div.1.p.4.s.6.w.1: Zij -> Hij
 [DETECTION WRONG] page1269.text.div.1.p.4.s.6.w.4: trouwen -> trouwens
 [DETECTION WRONG] page1269.text.div.1.p.4.s.6.w.7: 15e -> 19e
-[DETECTION SKIPPED] 19
 [DETECTION WRONG] page1269.text.div.2.p.1.s.1.w.7: school -> schoot
 [DETECTION WRONG] page1269.text.div.2.p.1.s.2.w.5: tuchtloos -> tuchteloos
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.2.p.1.s.2.w.12: zich
@@ -281,12 +294,10 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] page1269.text.div.2.p.2.s.1.w.14: aan -> van
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.2.p.2.s.1.w.16: Biljart
 [DETECTION WRONG] page1269.text.div.2.p.2.s.2.w.13;page1269.text.div.2.p.2.s.2.w.14: strand en -> stranden
-[DETECTION WRONG] page1269.text.div.2.p.2.s.2.w.16: duin-en -> duinen
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.2.p.2.s.2.w.51: .
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.2.p.3.s.2.w.7: in
 [DETECTION WRONG] page1269.text.div.2.p.3.s.7.w.11: leraars -> leraar
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.2.p.3.s.7.w.11: overhoop
-[DETECTION WRONG] page1269.text.div.2.p.3.s.7.w.11: leraars -> leraars
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.2.p.5.s.2.w.6: hij
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.2.p.5.s.4.w.2: terug
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.2.p.5.s.6.w.6: prachtig
@@ -348,7 +359,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] page1269.text.div.4.p.2.s.2.w.8: interieurs -> interieur
 [DETECTION WRONG] page1269.text.div.4.p.2.s.3.w.5: etsen -> eisen
 [DETECTION WRONG] page1269.text.div.4.p.2.s.4.w.13: roos -> rood
-[DETECTION WRONG] page1269.text.div.4.p.2.s.4.w.13: roos -> rond
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.5.p.1.s.3.w.4: paar
 [DETECTION WRONG] page1269.text.div.5.p.2.s.1.w.13: m. -> m
 [DETECTION WRONG] page1269.text.div.5.p.2.s.2.w.6;page1269.text.div.5.p.2.s.2.w.7: genoeg en -> genoegen
@@ -363,7 +373,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] page1269.text.div.5.p.3.s.5.w.10;page1269.text.div.5.p.3.s.5.w.11: hemd en -> hemden
 [DETECTION WRONG] page1269.text.div.5.p.4.s.2.w.2: kon -> kan
 [DETECTION WRONG] page1269.text.div.5.p.4.s.5.w.1: Dit -> Die
-[DETECTION WRONG] page1269.text.div.5.p.5.s.1.w.15: enschreef -> inschreef
 [DETECTION WRONG] page1269.text.div.5.p.6.s.1.w.2: doek -> boek
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.5.p.6.s.2.w.32: gegeven
 [DETECTION WRONG] page1269.text.div.5.p.6.s.2.w.51: Künsthaus -> Kunsthaus
@@ -444,7 +453,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.10.p.2.s.7.w.14: zal
 [DETECTION WRONG] page1269.text.div.10.p.3.s.2.w.12: Sirène -> Sirènes
 [DETECTION WRONG] page1269.text.div.10.p.4.s.1.w.6: Mietje -> Pietje
-[DETECTION WRONG] page1269.text.div.10.p.4.s.1.w.6: Mietje -> Piette
 [DETECTION WRONG] page1269.text.div.10.p.4.s.1.w.8: Mitche -> Mitch
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.10.p.4.s.2.w.3: bevel
 [DETECTION WRONG] page1269.text.div.10.p.4.s.4.w.3: geen -> een
@@ -454,7 +462,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] page1269.text.div.10.p.4.s.6.w.1: Zij -> Hij
 [DETECTION WRONG] page1269.text.div.10.p.4.s.6.w.4: trouwen -> trouwens
 [DETECTION WRONG] page1269.text.div.10.p.4.s.6.w.7: 15e -> 19e
-[DETECTION SKIPPED] 19
 [DETECTION WRONG] page1269.text.div.11.p.1.s.1.w.7: school -> schoot
 [DETECTION WRONG] page1269.text.div.11.p.1.s.2.w.5: tuchtloos -> tuchteloos
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.11.p.1.s.2.w.12: zich
@@ -470,12 +477,10 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] page1269.text.div.11.p.2.s.1.w.14: aan -> van
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.11.p.2.s.1.w.16: Biljart
 [DETECTION WRONG] page1269.text.div.11.p.2.s.2.w.13;page1269.text.div.11.p.2.s.2.w.14: strand en -> stranden
-[DETECTION WRONG] page1269.text.div.11.p.2.s.2.w.16: duin-en -> duinen
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.11.p.2.s.2.w.51: .
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.11.p.3.s.2.w.7: in
 [DETECTION WRONG] page1269.text.div.11.p.3.s.7.w.11: leraars -> leraar
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.11.p.3.s.7.w.11: overhoop
-[DETECTION WRONG] page1269.text.div.11.p.3.s.7.w.11: leraars -> leraars
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.11.p.5.s.2.w.6: hij
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.11.p.5.s.4.w.2: terug
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.11.p.5.s.6.w.6: prachtig
@@ -489,10 +494,8 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.11.p.6.s.2.w.13: .
 [DETECTION WRONG] page1269.text.div.12.head.1.s.1.w.2: vingt -> Vingt
 [DETECTION WRONG] page1269.text.div.12.head.1.s.1.w.4: XX -> X
-[DETECTION SKIPPED] 2
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.12.p.1.s.1.w.2: ze
 [DETECTION WRONG] page1269.text.div.12.p.1.s.1.w.21: koloriste -> koloniste
-[DETECTION WRONG] page1269.text.div.12.p.1.s.1.w.21: koloriste -> kolonisten
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.12.p.1.s.1.w.36: verrees
 [DETECTION WRONG] page1269.text.div.12.p.1.s.1.w.44: naar -> Maar
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.12.p.1.s.1.w.50: "
@@ -524,7 +527,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] page1269.text.div.12.p.7.s.7.w.20;page1269.text.div.12.p.7.s.7.w.21: techniek en -> technieken
 [DETECTION WRONG] page1269.text.div.13.head.1.s.1.w.4: etser -> etter
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.13.head.1.s.1.w.4: .
-[DETECTION WRONG] page1269.text.div.13.head.1.s.1.w.4: etser -> etser
 [DETECTION SKIPPED] 25
 [DETECTION WRONG] page1269.text.div.13.p.1.s.1.w.7;page1269.text.div.13.p.1.s.1.w.8: op en -> open
 [DETECTION WRONG] page1269.text.div.13.p.1.s.1.w.9: dat -> dag
@@ -542,7 +544,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] page1269.text.div.13.p.2.s.2.w.8: interieurs -> interieur
 [DETECTION WRONG] page1269.text.div.13.p.2.s.3.w.5: etsen -> eisen
 [DETECTION WRONG] page1269.text.div.13.p.2.s.4.w.13: roos -> rood
-[DETECTION WRONG] page1269.text.div.13.p.2.s.4.w.13: roos -> rond
 [DETECTION WRONG] page1269.text.div.14.head.1.s.1.w.1: Ensor's -> Ensors
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.14.p.1.s.3.w.4: paar
 [DETECTION WRONG] page1269.text.div.14.p.2.s.1.w.13: m. -> m
@@ -559,7 +560,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] page1269.text.div.14.p.4.s.2.w.2: kon -> kan
 [DETECTION WRONG] page1269.text.div.14.p.4.s.5.w.1: Dit -> Die
 [DETECTION WRONG] page1269.text.div.14.p.5.s.1.w.15: enschreef -> en schreef
-[DETECTION WRONG] page1269.text.div.14.p.5.s.1.w.15: enschreef -> inschreef
 [DETECTION WRONG] page1269.text.div.14.p.6.s.1.w.2: doek -> boek
 [DETECTION WRONG] INSERTION AFTER page1269.text.div.14.p.6.s.2.w.32: gegeven
 [DETECTION WRONG] page1269.text.div.14.p.6.s.2.w.51: Künsthaus -> Kunsthaus

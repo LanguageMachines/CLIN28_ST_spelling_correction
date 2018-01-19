@@ -49,6 +49,11 @@ WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1354.text.div.3.list.1.item.1.s.1.w.6'], 'superclass': 'replace', 'text': 'NM'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1354.text.div.3.list.1.item.1.s.1.w.6'], 'superclass': 'replace', 'text': 'NY'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation', 'span': ['page1354.text.div.3.list.2.item.3.s.1.w.20'], 'superclass': 'replace', 'text': 'Ltd'} will be ignored!
+WARNING: Duplicate entry for span  page1354.text.div.1.p.5.s.1.w.14 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1354.text.div.1.div.1.p.1.s.3.w.21 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1354.text.div.2.div.2.p.3.s.1.w.27 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1354.text.div.2.div.2.p.3.s.1.w.28 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1354.text.div.3.list.1.item.1.s.1.w.6 .. ignoring all but the first one!
 [DETECTION MISS] page1354.text.p.1.s.5.w.5: predikaat -> predicaat
 [DETECTION MISS] page1354.text.p.1.s.5.w.7: Koninklijke -> koninklijke
 [DETECTION MISS] page1354.text.div.1.p.1.s.4.w.10: predikaat -> predicaat
@@ -75,11 +80,9 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] INSERTION AFTER page1354.text.div.1.p.4.s.1.w.16: een
 [DETECTION WRONG] INSERTION AFTER page1354.text.div.1.p.4.s.1.w.17: generatie
 [DETECTION WRONG] page1354.text.div.1.p.5.s.1.w.14: NLM -> NLD
-[DETECTION WRONG] page1354.text.div.1.p.5.s.1.w.14: NLM -> VLD
 [DETECTION WRONG] page1354.text.div.1.p.6.s.2.w.27;page1354.text.div.1.p.6.s.2.w.28: Am -toestel -> Am-toestel
 [DETECTION WRONG] page1354.text.div.1.p.6.s.2.w.26;page1354.text.div.1.p.6.s.2.w.27: Pan Am -> PanAm-toestel
 [DETECTION WRONG] page1354.text.div.1.div.1.p.1.s.3.w.21: hub -> dub
-[DETECTION WRONG] page1354.text.div.1.div.1.p.1.s.3.w.21: hub -> duo
 [DETECTION WRONG] page1354.text.div.1.div.2.p.1.s.2.w.16: nam -> na
 [DETECTION WRONG] page1354.text.div.1.div.2.p.1.s.2.w.23: die -> de
 [DETECTION WRONG] page1354.text.div.1.div.2.p.1.s.2.w.26: Norhtwest -> Nortwest
@@ -135,13 +138,10 @@ WARNING: Unknown key 'superclass' for correction {'class': 'redundantpunctuation
 [DETECTION WRONG] page1354.text.div.2.div.2.p.3.s.1.w.8: laatse -> laatste
 [DETECTION WRONG] page1354.text.div.2.div.2.p.3.s.1.w.27: worden -> werden
 [DETECTION WRONG] page1354.text.div.2.div.2.p.3.s.1.w.28: maar -> daar
-[DETECTION WRONG] page1354.text.div.2.div.2.p.3.s.1.w.27: worden -> worden
-[DETECTION WRONG] page1354.text.div.2.div.2.p.3.s.1.w.28: maar -> naar
 [DETECTION WRONG] page1354.text.div.2.div.2.p.3.s.1.w.43: langer -> lager
 [DETECTION WRONG] page1354.text.div.2.div.3.head.1.s.1.w.1: BBJ -> BBR
 [DETECTION WRONG] INSERTION AFTER page1354.text.div.2.div.3.p.1.s.1.w.7: in
 [DETECTION WRONG] page1354.text.div.2.div.3.p.1.s.1.w.21: BBJ -> BBT
 [DETECTION WRONG] page1354.text.div.3.list.1.item.1.s.1.w.6: NLM -> NM
-[DETECTION WRONG] page1354.text.div.3.list.1.item.1.s.1.w.6: NLM -> NY
 [DETECTION WRONG] page1354.text.div.3.list.2.item.3.s.1.w.20: Ltd. -> Ltd
 [DETECTION WRONG] INSERTION AFTER page1354.text.div.4.list.1.item.2.s.1.w.2: en

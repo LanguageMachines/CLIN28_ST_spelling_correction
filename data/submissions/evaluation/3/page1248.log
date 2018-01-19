@@ -94,6 +94,21 @@ WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror'
 WARNING: Unknown key 'superclass' for correction {'class': 'capitalizationerror', 'span': ['page1248.text.div.27.list.1.item.1.s.1.w.5'], 'superclass': 'replace', 'text': 'landeninfo'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'replace', 'span': ['page1248.text.div.27.list.1.item.2.s.1.w.7'], 'superclass': 'replace', 'text': 'Irak'} will be ignored!
 WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span': ['page1248.text.div.27.list.1.item.2.s.1.w.14'], 'superclass': 'replace', 'text': 'Kuros'} will be ignored!
+WARNING: Duplicate entry for span  page1248.text.div.4.p.1.s.1.w.18 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1248.text.div.4.p.1.s.1.w.23 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1248.text.div.4.p.1.s.3.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1248.text.div.4.p.1.s.3.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1248.text.div.5.head.1.s.1.w.4 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1248.text.div.5.p.1.s.2.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1248.text.div.5.p.1.s.2.w.11 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1248.text.div.6.p.1.s.4.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1248.text.div.6.p.1.s.4.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1248.text.div.11.head.1.s.1.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1248.text.div.11.head.1.s.1.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1248.text.div.17.p.1.s.1.w.3 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1248.text.div.20.p.1.s.3.w.1 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1248.text.div.20.list.1.item.3.s.1.w.20 .. ignoring all but the first one!
+WARNING: Duplicate entry for span  page1248.text.div.23.p.4.s.1.w.13 .. ignoring all but the first one!
 [DETECTION MISS] INSERTION AFTER page1248.text.div.4.p.1.s.4.w.15: v.Chr.
 [DETECTION MISS] page1248.text.div.5.p.1.s.1.w.6: Westsemietische -> West-Semietische
 [DETECTION MISS] page1248.text.div.5.p.1.s.1.w.10: Mur.tu -> Mur-Tu
@@ -188,24 +203,17 @@ WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.4.head.1.s.1.w.5: .
 [DETECTION WRONG] page1248.text.div.4.p.1.s.1.w.11: Uruk -> Urk
 [DETECTION WRONG] page1248.text.div.4.p.1.s.1.w.18: Tiriqan -> Tirian
-[DETECTION WRONG] page1248.text.div.4.p.1.s.1.w.18: Tiriqan -> Tirion
 [DETECTION WRONG] page1248.text.div.4.p.1.s.1.w.23: -vorst -> - vorst
-[DETECTION WRONG] page1248.text.div.4.p.1.s.1.w.23: -vorst -> vorst
 [DETECTION WRONG] page1248.text.div.4.p.1.s.3.w.11: Ur -> mr
 [DETECTION WRONG] page1248.text.div.4.p.1.s.3.w.11;page1248.text.div.4.p.1.s.3.w.12: Ur . -> mr.
-[DETECTION WRONG] page1248.text.div.4.p.1.s.3.w.11: Ur -> me
-[DETECTION WRONG] page1248.text.div.4.p.1.s.3.w.11: Ur -> de
 [DETECTION WRONG] page1248.text.div.4.p.1.s.6.w.1: Zij -> Wij
 [DETECTION WRONG] page1248.text.div.5.head.1.s.1.w.4: Ur -> U
-[DETECTION WRONG] page1248.text.div.5.head.1.s.1.w.4: Ur -> .
 [DETECTION WRONG] page1248.text.div.5.head.1.s.1.w.3: van -> aan
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.5.head.1.s.1.w.3: Icarus
 [DETECTION WRONG] page1248.text.div.5.head.1.s.1.w.2: val -> bal
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.5.head.1.s.1.w.2: ging
 [DETECTION WRONG] page1248.text.div.5.p.1.s.2.w.11: Ur -> mr
 [DETECTION WRONG] page1248.text.div.5.p.1.s.2.w.11;page1248.text.div.5.p.1.s.2.w.12: Ur . -> mr.
-[DETECTION WRONG] page1248.text.div.5.p.1.s.2.w.11: Ur -> me
-[DETECTION WRONG] page1248.text.div.5.p.1.s.2.w.11: Ur -> de
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.5.p.1.s.2.w.11: jaren
 [DETECTION WRONG] page1248.text.div.5.p.1.s.3.w.10: drongen -> dwongen
 [DETECTION WRONG] page1248.text.div.5.p.1.s.3.w.11: zij -> mij
@@ -220,8 +228,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span
 [DETECTION WRONG] page1248.text.div.6.p.1.s.1.w.8: Sumer -> Summer
 [DETECTION WRONG] page1248.text.div.6.p.1.s.2.w.1: Zij -> Wij
 [DETECTION WRONG] page1248.text.div.6.p.1.s.4.w.1: Isin -> Iain
-[DETECTION WRONG] page1248.text.div.6.p.1.s.4.w.1: Isin -> Ian
-[DETECTION WRONG] page1248.text.div.6.p.1.s.4.w.1: Isin -> Man
 [DETECTION WRONG] page1248.text.div.6.p.1.s.4.w.3: Larsa -> Lara
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.6.p.1.s.5.w.10: duurden
 [DETECTION WRONG] page1248.text.div.6.p.1.s.5.w.22: machtcentra -> machtscentra
@@ -238,8 +244,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.9.head.1.s.1.w.2: .
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.9.p.1.s.1.w.1: ook
 [DETECTION WRONG] page1248.text.div.11.head.1.s.1.w.1: Meden -> Menen
-[DETECTION WRONG] page1248.text.div.11.head.1.s.1.w.1: Meden -> Mensen
-[DETECTION WRONG] page1248.text.div.11.head.1.s.1.w.1: Meden -> mensen
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.11.p.1.s.1.w.1: ook
 [DETECTION WRONG] page1248.text.div.11.p.1.s.1.w.5: Meden -> leden
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.12.p.1.s.1.w.1: ook
@@ -247,7 +251,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.13.p.1.s.1.w.6: .
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.14.p.1.s.1.w.1: ook
 [DETECTION WRONG] page1248.text.div.17.p.1.s.1.w.3: Zie -> Zij
-[DETECTION WRONG] page1248.text.div.17.p.1.s.1.w.3: Zie -> bij
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.17.p.1.s.1.w.7: .
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.17.p.3.s.1.w.1: hij
 [DETECTION WRONG] page1248.text.div.17.p.3.s.1.w.24: regeert -> reageert
@@ -276,7 +279,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span
 [DETECTION WRONG] page1248.text.div.20.p.1.s.2.w.8: en -> in
 [DETECTION WRONG] page1248.text.div.20.p.1.s.3.w.1: In -> En
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.20.p.1.s.3.w.1: het
-[DETECTION WRONG] page1248.text.div.20.p.1.s.3.w.1: In -> In
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.20.p.1.s.3.w.2: van
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.20.p.1.s.3.w.15: ,
 [DETECTION WRONG] page1248.text.div.20.p.1.s.6.w.8: verwerpen -> verwerken
@@ -290,7 +292,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span
 [DETECTION WRONG] page1248.text.div.20.list.1.item.3.s.1.w.10: dezen -> deze
 [DETECTION WRONG] page1248.text.div.20.list.1.item.3.s.1.w.20: dan -> van
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.20.list.1.item.3.s.1.w.20: over
-[DETECTION WRONG] page1248.text.div.20.list.1.item.3.s.1.w.20: dan -> dan
 [DETECTION WRONG] page1248.text.div.20.p.4.s.1.w.19: Riza -> Reza
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.20.p.4.s.2.w.11: is
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.20.p.4.s.8.w.14: ,
@@ -316,7 +317,6 @@ WARNING: Unknown key 'superclass' for correction {'class': 'nonworderror', 'span
 [DETECTION WRONG] page1248.text.div.23.p.4.s.1.w.9: van -> aan
 [DETECTION WRONG] page1248.text.div.23.p.4.s.1.w.13: alle -> alles
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.23.p.4.s.1.w.13: troeven
-[DETECTION WRONG] page1248.text.div.23.p.4.s.1.w.13: alle -> alle
 [DETECTION WRONG] page1248.text.div.23.p.4.s.1.w.17: zijnde -> zijn de
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.23.p.4.s.1.w.17: aan
 [DETECTION WRONG] INSERTION AFTER page1248.text.div.23.p.4.s.2.w.17: aan

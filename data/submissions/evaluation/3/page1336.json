@@ -4,15 +4,15 @@
             "truepos": 3.0,
             "falseneg": 7.0,
             "recall": 0.3,
-            "falsepos": 124.0,
-            "precision": 0.023622047244094488,
-            "f1score": 0.043795620437956206
+            "falsepos": 119.0,
+            "precision": 0.02459016393442623,
+            "f1score": 0.045454545454545456
         },
         "correction": {
             "truepos": 0.0,
             "falseneg": 10.0,
             "recall": 0.0,
-            "falsepos": 124.0,
+            "falsepos": 119.0,
             "precision": 0.0
         }
     },
