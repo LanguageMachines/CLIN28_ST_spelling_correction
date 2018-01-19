@@ -9,14 +9,12 @@
             "f1score": 0.26666666666666666
         },
         "correction": {
-            "correct": 17.0,
-            "incorrect": 1.0,
-            "accuracy": 0.9444444444444444
-        },
-        "both": {
+            "truepos": 17.0,
+            "falseneg": 10.0,
             "recall": 0.6296296296296297,
-            "precision": 0.1574074074074074,
-            "f1score": 0.2518518518518519
+            "falsepos": 90.0,
+            "precision": 0.1588785046728972,
+            "f1score": 0.2537313432835821
         }
     },
     "capitalizationerror": {
@@ -26,11 +24,8 @@
             "recall": 0.8421052631578947
         },
         "correction": {
-            "correct": 16.0,
-            "incorrect": 0.0,
-            "accuracy": 1.0
-        },
-        "both": {
+            "truepos": 16.0,
+            "falseneg": 3.0,
             "recall": 0.8421052631578947
         }
     },
@@ -41,11 +36,8 @@
             "recall": 0.0
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 0.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 1.0,
             "recall": 0.0
         }
     },
@@ -56,11 +48,8 @@
             "recall": 0.5
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 1.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 2.0,
             "recall": 0.0
         }
     },
@@ -71,11 +60,8 @@
             "recall": 0.5
         },
         "correction": {
-            "correct": 1.0,
-            "incorrect": 0.0,
-            "accuracy": 1.0
-        },
-        "both": {
+            "truepos": 1.0,
+            "falseneg": 1.0,
             "recall": 0.5
         }
     },
@@ -86,11 +72,8 @@
             "recall": 0.0
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 0.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 3.0,
             "recall": 0.0
         }
     }

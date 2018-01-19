@@ -9,12 +9,10 @@
             "f1score": 0.2962962962962963
         },
         "correction": {
-            "correct": 8.0,
-            "incorrect": 0.0,
-            "accuracy": 1.0
-        },
-        "both": {
+            "truepos": 8.0,
+            "falseneg": 4.0,
             "recall": 0.6666666666666666,
+            "falsepos": 34.0,
             "precision": 0.19047619047619047,
             "f1score": 0.2962962962962963
         }
@@ -26,11 +24,8 @@
             "recall": 0.625
         },
         "correction": {
-            "correct": 5.0,
-            "incorrect": 0.0,
-            "accuracy": 1.0
-        },
-        "both": {
+            "truepos": 5.0,
+            "falseneg": 3.0,
             "recall": 0.625
         }
     },
@@ -41,11 +36,8 @@
             "recall": 0.0
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 0.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 1.0,
             "recall": 0.0
         }
     },
@@ -56,11 +48,8 @@
             "recall": 1.0
         },
         "correction": {
-            "correct": 3.0,
-            "incorrect": 0.0,
-            "accuracy": 1.0
-        },
-        "both": {
+            "truepos": 3.0,
+            "falseneg": 0.0,
             "recall": 1.0
         }
     }

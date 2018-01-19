@@ -9,12 +9,10 @@
             "f1score": 0.043795620437956206
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 3.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 10.0,
             "recall": 0.0,
+            "falsepos": 124.0,
             "precision": 0.0
         }
     },
@@ -25,11 +23,8 @@
             "recall": 0.0
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 0.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 1.0,
             "recall": 0.0
         }
     },
@@ -40,11 +35,8 @@
             "recall": 0.0
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 0.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 2.0,
             "recall": 0.0
         }
     },
@@ -55,11 +47,8 @@
             "recall": 0.42857142857142855
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 3.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 7.0,
             "recall": 0.0
         }
     }

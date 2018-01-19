@@ -9,14 +9,12 @@
             "f1score": 0.47058823529411764
         },
         "correction": {
-            "correct": 9.0,
-            "incorrect": 3.0,
-            "accuracy": 0.75
-        },
-        "both": {
+            "truepos": 9.0,
+            "falseneg": 3.0,
             "recall": 0.75,
-            "precision": 0.23076923076923078,
-            "f1score": 0.3529411764705882
+            "falsepos": 27.0,
+            "precision": 0.25,
+            "f1score": 0.375
         }
     },
     "capitalizationerror": {
@@ -26,11 +24,8 @@
             "recall": 1.0
         },
         "correction": {
-            "correct": 6.0,
-            "incorrect": 0.0,
-            "accuracy": 1.0
-        },
-        "both": {
+            "truepos": 6.0,
+            "falseneg": 0.0,
             "recall": 1.0
         }
     },
@@ -41,11 +36,8 @@
             "recall": 1.0
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 1.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 1.0,
             "recall": 0.0
         }
     },
@@ -56,11 +48,8 @@
             "recall": 1.0
         },
         "correction": {
-            "correct": 3.0,
-            "incorrect": 2.0,
-            "accuracy": 0.6
-        },
-        "both": {
+            "truepos": 3.0,
+            "falseneg": 2.0,
             "recall": 0.6
         }
     }

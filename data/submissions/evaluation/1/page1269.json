@@ -9,14 +9,12 @@
             "f1score": 0.016460905349794237
         },
         "correction": {
-            "correct": 2.0,
-            "incorrect": 2.0,
-            "accuracy": 0.5
-        },
-        "both": {
+            "truepos": 2.0,
+            "falseneg": 8.0,
             "recall": 0.2,
-            "precision": 0.004201680672268907,
-            "f1score": 0.008230452674897118
+            "falsepos": 472.0,
+            "precision": 0.004219409282700422,
+            "f1score": 0.008264462809917356
         }
     },
     "capitalizationerror": {
@@ -26,11 +24,8 @@
             "recall": 0.0
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 0.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 1.0,
             "recall": 0.0
         }
     },
@@ -41,11 +36,8 @@
             "recall": 0.0
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 0.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 1.0,
             "recall": 0.0
         }
     },
@@ -56,11 +48,8 @@
             "recall": 0.75
         },
         "correction": {
-            "correct": 2.0,
-            "incorrect": 1.0,
-            "accuracy": 0.6666666666666666
-        },
-        "both": {
+            "truepos": 2.0,
+            "falseneg": 2.0,
             "recall": 0.5
         }
     },
@@ -71,11 +60,8 @@
             "recall": 0.0
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 0.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 1.0,
             "recall": 0.0
         }
     },
@@ -86,11 +72,8 @@
             "recall": 0.3333333333333333
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 1.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 3.0,
             "recall": 0.0
         }
     }

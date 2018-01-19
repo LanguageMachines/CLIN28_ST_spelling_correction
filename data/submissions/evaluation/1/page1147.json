@@ -9,12 +9,10 @@
             "f1score": 0.2047244094488189
         },
         "correction": {
-            "correct": 13.0,
-            "incorrect": 0.0,
-            "accuracy": 1.0
-        },
-        "both": {
+            "truepos": 13.0,
+            "falseneg": 4.0,
             "recall": 0.7647058823529411,
+            "falsepos": 97.0,
             "precision": 0.11818181818181818,
             "f1score": 0.2047244094488189
         }
@@ -26,11 +24,8 @@
             "recall": 1.0
         },
         "correction": {
-            "correct": 4.0,
-            "incorrect": 0.0,
-            "accuracy": 1.0
-        },
-        "both": {
+            "truepos": 4.0,
+            "falseneg": 0.0,
             "recall": 1.0
         }
     },
@@ -41,11 +36,8 @@
             "recall": 0.0
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 0.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 1.0,
             "recall": 0.0
         }
     },
@@ -56,11 +48,8 @@
             "recall": 0.8333333333333334
         },
         "correction": {
-            "correct": 5.0,
-            "incorrect": 0.0,
-            "accuracy": 1.0
-        },
-        "both": {
+            "truepos": 5.0,
+            "falseneg": 1.0,
             "recall": 0.8333333333333334
         }
     },
@@ -71,11 +60,8 @@
             "recall": 1.0
         },
         "correction": {
-            "correct": 4.0,
-            "incorrect": 0.0,
-            "accuracy": 1.0
-        },
-        "both": {
+            "truepos": 4.0,
+            "falseneg": 0.0,
             "recall": 1.0
         }
     },
@@ -86,11 +72,8 @@
             "recall": 0.0
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 0.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 2.0,
             "recall": 0.0
         }
     }

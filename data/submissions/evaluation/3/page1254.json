@@ -9,14 +9,12 @@
             "f1score": 0.08743169398907104
         },
         "correction": {
-            "correct": 7.0,
-            "incorrect": 1.0,
-            "accuracy": 0.875
-        },
-        "both": {
+            "truepos": 7.0,
+            "falseneg": 36.0,
             "recall": 0.16279069767441862,
-            "precision": 0.05,
-            "f1score": 0.07650273224043717
+            "falsepos": 132.0,
+            "precision": 0.050359712230215826,
+            "f1score": 0.07692307692307693
         }
     },
     "capitalizationerror": {
@@ -26,11 +24,8 @@
             "recall": 0.06896551724137931
         },
         "correction": {
-            "correct": 2.0,
-            "incorrect": 0.0,
-            "accuracy": 1.0
-        },
-        "both": {
+            "truepos": 2.0,
+            "falseneg": 27.0,
             "recall": 0.06896551724137931
         }
     },
@@ -41,11 +36,8 @@
             "recall": 0.0
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 0.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 2.0,
             "recall": 0.0
         }
     },
@@ -56,11 +48,8 @@
             "recall": 1.0
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 1.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 1.0,
             "recall": 0.0
         }
     },
@@ -71,11 +60,8 @@
             "recall": 0.5
         },
         "correction": {
-            "correct": 1.0,
-            "incorrect": 0.0,
-            "accuracy": 1.0
-        },
-        "both": {
+            "truepos": 1.0,
+            "falseneg": 1.0,
             "recall": 0.5
         }
     },
@@ -86,11 +72,8 @@
             "recall": 0.0
         },
         "correction": {
-            "correct": 0.0,
-            "incorrect": 0.0,
-            "accuracy": 0.0
-        },
-        "both": {
+            "truepos": 0.0,
+            "falseneg": 1.0,
             "recall": 0.0
         }
     },
@@ -101,11 +84,8 @@
             "recall": 0.5
         },
         "correction": {
-            "correct": 4.0,
-            "incorrect": 0.0,
-            "accuracy": 1.0
-        },
-        "both": {
+            "truepos": 4.0,
+            "falseneg": 4.0,
             "recall": 0.5
         }
     }

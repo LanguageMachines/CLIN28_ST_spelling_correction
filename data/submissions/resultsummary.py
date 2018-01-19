@@ -28,12 +28,12 @@ for d in glob.glob(os.path.join("evaluation","*")):
                 if corclass not in truepos: truepos[corclass] = defaultdict(float)
                 if corclass not in falsepos: falsepos[corclass] = defaultdict(float)
                 if corclass not in falseneg: falseneg[corclass] = defaultdict(float)
-                if corclass not in correct: correct[corclass] = defaultdict(float)
-                if corclass not in incorrect: incorrect[corclass] = defaultdict(float)
+                if corclass not in truepos_correction: truepos_correction[corclass] = defaultdict(float)
+                if corclass not in falseneg_correction: falseneg_correction[corclass] = defaultdict(float)
                 truepos[corclass][candidate] += data[corclass]['detection']['truepos']
                 falseneg[corclass][candidate] += data[corclass]['detection']['falseneg']
-                truepos_correction[corclass][candidate] += data[corclass]['correction']['truepos_correction']
-                falseneg_correction[corclass][candidate] += data[corclass]['correction']['falseneg_correction']
+                truepos_correction[corclass][candidate] += data[corclass]['correction']['truepos']
+                falseneg_correction[corclass][candidate] += data[corclass]['correction']['falseneg']
                 if corclass == 'all':
                     falsepos[corclass][candidate] += data[corclass]['detection']['falsepos'] #correction falsepos is the same by definiton
 
